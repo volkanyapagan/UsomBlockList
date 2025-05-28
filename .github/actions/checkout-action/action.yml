@@ -1,0 +1,6 @@
+name: Local Checkout
+runs:
+  using: "composite"
+  steps:
+    - run: git fetch --all
+    - run: git reset --hard origin/main
