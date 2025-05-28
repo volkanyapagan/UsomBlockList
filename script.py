@@ -1,33 +1,35 @@
-
 import requests
 import re
 
-URL = "https://www.usom.gov.tr/url-list.txt"
+# USOM verisini al
+url = "https://www.usom.gov.tr/url-list.txt"
+response = requests.get(url)
+data = response.text
 
-def is_ip(line):
-    return re.match(r"^\\d{1,3}(\\.\\d{1,3}){3}$", line.strip())
+# IP ve domain regex
+ip_pattern = re.compile(r'^(\d{1,3}\.){3}\d{1,3}$')
+domain_pattern = re.compile(
+    r"^(?!:\/\/)([a-zA-Z0-9-_]+\.)+[a-zA-Z]{2,11}$"  # sade domain (www.example.com gibi)
+)
 
-def main():
-    response = requests.get(URL)
-    lines = response.text.strip().splitlines()
+# Ayıklanmış listeler
+ip_list = []
+domain_list = []
 
-    ip_list = []
-    domain_list = []
+# Verileri satır satır ayıkla
+for line in data.splitlines():
+    entry = line.strip().split(";")[0].strip()  # URL kısmı
+    entry = entry.replace("http://", "").replace("https://", "").split("/")[0]  # sadece host
 
-    for line in lines:
-        clean_line = line.strip()
-        if not clean_line:
-            continue
-        if is_ip(clean_line):
-            ip_list.append(clean_line)
-        else:
-            domain_list.append(clean_line)
+    if ip_pattern.match(entry):
+        ip_list.append(entry)
+    elif domain_pattern.match(entry):
+        domain_list.append(entry)
 
-    with open("UsomIPBlockList.txt", "w") as f:
-        f.write("\n".join(ip_list))
+# IP adreslerini dosyaya yaz
+with open("UsomIPBlockList.txt", "w", encoding="utf-8") as ip_file:
+    ip_file.write("\n".join(sorted(set(ip_list))))
 
-    with open("UsomDomainBlockList.txt", "w") as f:
-        f.write("\n".join(domain_list))
-
-if __name__ == "__main__":
-    main()
+# Domainleri dosyaya yaz
+with open("UsomDomainBlockList.txt", "w", encoding="utf-8") as domain_file:
+    domain_file.write("\n".join(sorted(set(domain_list))))
