@@ -1,0 +1,30 @@
+name: Update USOM Blocklists
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kodu çek
+        uses: ./.github/actions/checkout-action
+
+      - name: Python kurulumu
+        uses: ./.github/actions/python-setup
+
+      - name: Gereksinimleri yükle
+        run: pip3 install requests
+
+      - name: USOM verilerini çek ve dosyaları güncelle
+        run: python3 script.py
+
+      - name: Dosyaları commit ve push et
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Usom*.txt
+          git commit -m "USOM blocklist updated" || echo "No changes to commit"
+          git push
