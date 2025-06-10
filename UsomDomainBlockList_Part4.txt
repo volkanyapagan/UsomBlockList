@@ -1,3 +1,16 @@
+secure0sms.duckdns.org
+secure0xboa.ddns.net
+secure0yt6verify.ddns.net
+secure1.apple.com.authorized-certified.eu
+secure10connect.hopto.org
+secure10e-chase.ddns.net
+secure113.duckdns.org
+secure11chase.hopto.org
+secure12services.ddns.net
+secure135.hopto.org
+secure17serverc1t1.hopto.org
+secure19subesi.qnbinvestments.com
+secure1c-verifyuser.hopto.org
 secure1net.ddns.net
 secure1online.zapto.org
 secure1sahibindenparamguvendev3.com
@@ -14340,6 +14353,7 @@ spectrologically.com
 spectronet.pw
 spectrum-exactly-knitting-rural.trycloudflare.com
 spectrum-resisted-helenium.glitch.me
+spectrum-ticket.net
 spectrumalignment.top
 spectrumhypothetical.top
 spectrumindefinite.top
@@ -59442,6 +59456,7 @@ websubayrntim09.xyz
 websubayrntllrmk2.xyz
 websubayrntllrmm3.xyz
 websubayrntllrmn63.xyz
+websubayrntllrms03.xyz
 websubayrntlrir09.xyz
 websubayrntlrminbz3.xyz
 websubayrntlrminl4.xyz
@@ -84895,6 +84910,7 @@ yyds2222221.top
 yyds2222226.xyz
 yyds222222best.cyou
 yydsma.com
+yydsmd.com
 yyedafx0.duckdns.org
 yyeeessshhh.xyz
 yyendnndwvergi.net
