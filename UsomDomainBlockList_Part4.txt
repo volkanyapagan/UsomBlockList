@@ -1,3 +1,21 @@
+secure04auth1nfo.hopto.org
+secure04b-verify.hopto.org
+secure04b-verifyusr.ddns.net
+secure04citizens.hopto.org
+secure04f-login.ddns.net
+secure04wellsfarg0.ddns.net
+secure05-authaa.ddns.net
+secure053b-support.ddns.net
+secure053verify053.hopto.org
+secure05a-verifyweb.ddns.net
+secure05achasebank.ddns.net
+secure05acount.ddns.net
+secure05b-useronlineid.duckdns.org
+secure05b-wells.hopto.org
+secure05bverify.ddns.net
+secure05c-auth.ddns.net
+secure05c-chase.hopto.org
+secure05c.hopto.org
 secure05chase.hopto.org
 secure05d-achase.ddns.net
 secure05d-chase.hopto.org
@@ -2209,6 +2227,7 @@ sentinel-free.site
 sentinelcheck.online
 sentinelservices.net
 sentinelw.xyz
+sentinelxdr.us
 sentineones.com
 sentipinfoo.hopto.org
 sentrex219.xyz
@@ -23143,6 +23162,7 @@ tastybuzz.net
 tastyreassure.top
 tat3.online
 tata1234.hopto.org
+tatacom.duckdns.org
 tatalosas.blogspot.com
 tatamaktarz.xyz
 tatar.istanbul
@@ -33462,6 +33482,7 @@ tradingviews-software.com
 tradingviews-software.net
 tradingviews-software.org
 tradingviewtool.com
+tradingviewtoolz.com
 tradingzoneup.biz
 tradingzoneup.click
 tradingzoneup.homes
@@ -35258,6 +35279,7 @@ trend8.online
 trend9.online
 trendasedexxxx.fit
 trendauto.buzz
+trendav.vip
 trendbasket.click
 trendbeatr.website
 trendbolster.top

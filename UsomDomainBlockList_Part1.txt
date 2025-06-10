@@ -78554,6 +78554,7 @@ bv5en7.duckdns.org
 bv97sd.duckdns.org
 bva-garente.icu
 bva-garente.shop
+bva-yaz-firsatlar.click
 bva-yaz-firsatlar.ru.com
 bvaaclmon1linece1el1l1emdens.net
 bvaadsanclmon1linece1el1l1emdens.net
@@ -87965,6 +87966,7 @@ cloud.msapp.workers.dev
 cloud.nathompsstra.com
 cloud.newsofnp.com
 cloud.sophos.one
+cloud.trendav.co
 cloud.wmiprvse.com
 cloud.yourdocument.biz
 cloud007.ddns.net
@@ -99996,5 +99998,3 @@ denizbankonlinekatilimi.com
 denizbankonlinem-com.net
 denizbankonlinemobije-com.net
 denizbankonlinemobil-com.net
-denizbankonlinemobile-com.net
-denizbankonlinesube.xyz
