@@ -26,10 +26,18 @@ for line in data.splitlines():
     elif domain_pattern.match(entry):
         domain_list.append(entry)
 
-# IP adreslerini dosyaya yaz
+# IP adreslerini dosyaya yaz (tek dosya)
 with open("UsomIPBlockList.txt", "w", encoding="utf-8") as ip_file:
     ip_file.write("\n".join(sorted(set(ip_list))))
 
-# Domainleri dosyaya yaz
-with open("UsomDomainBlockList.txt", "w", encoding="utf-8") as domain_file:
-    domain_file.write("\n".join(sorted(set(domain_list))))
+# Domainleri 4 parçaya bölerek yaz
+chunk_size = 100000
+sorted_domains = sorted(set(domain_list))
+
+for i in range(4):
+    start = i * chunk_size
+    end = start + chunk_size
+    chunk = sorted_domains[start:end]
+    filename = f"UsomDomainBlockList_Part{i + 1}.txt"
+    with open(filename, "w", encoding="utf-8") as domain_file:
+        domain_file.write("\n".join(chunk))
