@@ -1,3 +1,8 @@
+secure0.zapto.org
+secure00-chase.ddns.net
+secure00-verify.ddns.net
+secure000-connect4.ddns.net
+secure0000.duckdns.org
 secure0007bchase.zapto.org
 secure001net.ddns.net
 secure001s2nd.duckdns.org
