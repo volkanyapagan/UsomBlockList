@@ -1,3 +1,5 @@
+secure-urun.net
+secure-usaaconnec3.ddns.net
 secure-useraccount.com
 secure-users.ddns.net
 secure-userverify7.ddns.net
@@ -2217,6 +2219,7 @@ seninlebirlikteheranibiliyoruz.com
 seninlehaziran.biz.tr
 seninlehaziran.info.tr
 seninlehaziran.name.tr
+seninlehaziran.net.tr
 seninlehaziran.org.tr
 seninlehaziran.web.tr
 seninleolmak.com
