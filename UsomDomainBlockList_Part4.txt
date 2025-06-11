@@ -1,3 +1,21 @@
+secure.sahibindens-gets.com
+secure.sahibindeparamgetguvenli.com
+secure.serviupdate.bio
+secure.solutoins.click
+secure.sparam-mobil.com
+secure.systemupdatecdn.de
+secure.trend-alimin.com.tr
+secure.trendyol-app.net
+secure.urun-sahibinden.com.tr
+secure.vakifb.com
+secure.verification-account-center.apps-accountupdate.com
+secure.verification-account-center.appsid-aids.com
+secure.xn--q23rwjefjkwefwefwef-k5cd.net
+secure.xn--sahbinden-xpb.com.tr
+secure.xn--sahibnden-zpb.com.tr
+secure0-auth.ddns.net
+secure0-chase.hopto.org
+secure0-verfy.ddns.net
 secure0.zapto.org
 secure00-chase.ddns.net
 secure00-verify.ddns.net
@@ -14856,6 +14874,7 @@ sponsorlu-0489530134.com
 sponsorlu-05.sbs
 sponsorlu-06.sbs
 sponsorlu-1.online
+sponsorlu-1.ovh
 sponsorlu-10.online
 sponsorlu-10.top
 sponsorlu-11.online
@@ -14966,6 +14985,7 @@ sponsorlu-91.online
 sponsorlu-92.online
 sponsorlu-93.online
 sponsorlu-95.online
+sponsorlu-96.online
 sponsorlu-agustos.com.tr
 sponsorlu-baglanti10002.site
 sponsorlu-basvuru2.xyz
@@ -37933,6 +37953,7 @@ tskdestegim.com
 tskdestek.online
 tskdestekol.com
 tskdestekyardim.com
+tskflwd.click
 tskfotograf-paylasim.com
 tskfotografpaylasim.com
 tskicinpaylas.com
