@@ -1,3 +1,30 @@
+secure-verifyinfo02.hopto.org
+secure-verifyusaa.ddns.net
+secure-vfyinfo08.ddns.net
+secure-wellsfargo.org
+secure-wellsfargoo3.ddns.net
+secure-wellsfauth.ddns.net
+secure-wf34connect.ddns.net
+secure-yurticikargo.com.tr
+secure.a123afsdfdsdfsdfsdfs.net
+secure.babalartsklemlerz.net
+secure.cloudserv.ink
+secure.com-alisveris.com
+secure.dolap-alimin.com.tr
+secure.dolaplink.com
+secure.garantibk.com
+secure.garrantibbva.com
+secure.gdcstatic.com
+secure.getsahibindeparannguvende.com
+secure.globalultracdn.com
+secure.guvenliodeme-sahibinden.com
+secure.jagexlaucher.top
+secure.kuveyturk-tr.com
+secure.lynxbowlingservices.com
+secure.mobil-alimin.com.tr
+secure.panelicim.online
+secure.param-guvende-get.ru.com
+secure.paramguvende.ru.com
 secure.s-sahibinden-ged.shop
 secure.s-sahibinden-gets.com
 secure.sahibinden-get.com.de
@@ -2176,6 +2203,7 @@ seninle-konusuruz-hep-ileri-tasiriz-daima.com
 seninleberaberguzel-2022.com
 seninleberaberguzel2022.com
 seninlebirlikteheranibiliyoruz.com
+seninlehaziran.name.tr
 seninlehaziran.web.tr
 seninleolmak.com
 seninmarketin.xyz
@@ -8390,6 +8418,7 @@ sipariscepte.org.tr
 siparisdunyasiikraca.xyz
 siparisdunyasiocak.xyz
 siparisedin.com.tr
+siparisepetinde.click
 siparisgelsin.com.tr
 siparisgunlerim.online
 siparishizliolusturrumun.cloud
@@ -15134,6 +15163,7 @@ sponsorlular-01.online
 sponsorlular-01.xyz
 sponsorlular-03.cfd
 sponsorlular-03.xyz
+sponsorlular01.cfd
 sponsorlulumatkaphizli15.xyz
 sponsorlum-01.xyz
 sponsorlum-02.xyz
@@ -41817,6 +41847,7 @@ tuzladenizilaclamasi.site
 tuzladolaphaliyikamaci.site
 tuzpost.top
 tuzte.online
+tv-genchaberinbilgisi.online
 tv-gencikhaberbilgileri.online
 tv-netfiix.com
 tv-youtube.com
@@ -43286,6 +43317,9 @@ ucuztlyukle.tk
 ucuzun-da-ucuzu-yeniden-sizlerle-bu-ay.com
 ucuzunda-ucuzu-kalan-sure-bir-gun.com
 ucuzundanyazindrmllri.com
+ucuzundaucuzuluxmasa.xyz
+ucuzundaucuzumegafiirsat.xyz
+ucuzundaucuzumegamark.xyz
 ucuzurunalma.icu
 ucuzurunalmavakti.com
 ucuzurunkapinda.top
@@ -45253,6 +45287,7 @@ urkvi4ubw8w8q2iril3luhc.ddns.net
 url-adsview.cfd
 url-explorer.cfd
 url-extension.cfd
+url-gonderitanitim.cfd
 url-mini.com
 url-promo.club
 url-redirect0.site
@@ -83599,6 +83634,7 @@ yonlendirmeaktarimekrani.my
 yonlendirmeaktarmaekrani.site
 yonlendirmeaktarmailetisim.site
 yonlendirmefirsatiburdanci.cfd
+yonlendirmefirsatiburdanci.xyz
 yonlendirmehizmet.app
 yonlendirmekampnysi.shop
 yonlendirmekrani.cyou
@@ -84238,6 +84274,7 @@ yuemt.zzux.com
 yuerepere.xyz
 yuev.org
 yuevvakfi.org
+yuevvakifi.org
 yuf69.ddns.net
 yufanls.cn
 yufff.ddns.net

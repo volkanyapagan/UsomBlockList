@@ -5535,6 +5535,7 @@
 1o1-a-kapida.app
 1o1-a-online.app
 1o1-akapida.app
+1o1-aktuel.shop
 1o1-aliisveris-adresi1i.online
 1o1-alissveris-adresi1i.online
 1o1-alisveris-adresi1.online
@@ -14096,6 +14097,7 @@
 6159f0h4.duckdns.org
 615ys4yua.duckdns.org
 61607609.hakold.ru
+61611095.com
 6161616324.duckdns.org
 616166145456-2025.xyz
 61662542.cloud
@@ -18131,6 +18133,7 @@
 94vcba1.duckdns.org
 94x45k7.duckdns.org
 95.169.80.34.bc.googleusercontent.com
+95019015.site
 950333185.corolain.ru
 9503inf.duckdns.org
 9507c4e8.com
@@ -53101,6 +53104,8 @@ basvurspr.online
 basvurspr.xyz
 basvurspz.com.tr
 basvurspz.online
+basvursrz.com.tr
+basvursrz.cyou
 basvursu.com
 basvurtanitimgonderyssxc42wv.duckdns.org
 basvurtcr.xyz
@@ -69937,6 +69942,7 @@ blmzizo.tk
 blna-sscnaceesngse.com
 blna-sscne.online
 blnance-basvuru.com
+blnance-basvuru.info
 blnance-basvuru.store
 blnance-kampanyakatilimi.com
 blnance-kampanyakatilimi.online
@@ -94845,6 +94851,7 @@ cwczdaj.duckdns.org
 cwdfqexjvu.duckdns.org
 cwexfyog.ujxswqvf.get-ilan-guvenli-odeme-sahibinden.com
 cwexxizxzi.com
+cwfqhgaca-xqdxqxqfa-twfegece.shop
 cwfqqwqf-wffwfqwwq-wqfwqwq.shop
 cwgrighkw.duckdns.org
 cwibdufla.com
@@ -99991,10 +99998,3 @@ denizbanknbq.com
 denizbanknbr.com
 denizbanknbt.com
 denizbanknbu.com
-denizbanknbw.com
-denizbanknby.com
-denizbanknetgirisyap.com
-denizbanknisana.com
-denizbanknternetsubesi.com
-denizbankoae.com
-denizbankoaw.com
