@@ -33230,6 +33230,7 @@ akbankbasvuruonline.pages.dev
 akbankbasvuruyap.ip-ddns.com
 akbankbasvuruyap.site
 akbankbayramfirsati.com
+akbankbayramkredisi.vercel.app
 akbankbireysel-kampanyalar.com
 akbankbireysel-sube.com
 akbankbireyselgiris.com
@@ -41617,6 +41618,9 @@ app-trello.com
 app-trust-wallet-ext-cdn.webflow.io
 app-turkiye.net
 app-updaten.top
+app-updater.app
+app-updater1.app
+app-updater2.app
 app-vodafonered.com
 app-w101.com.tr
 app-wallet.hopto.org
@@ -69933,6 +69937,7 @@ blmzizo.tk
 blna-sscnaceesngse.com
 blna-sscne.online
 blnance-basvuru.com
+blnance-basvuru.store
 blnance-kampanyakatilimi.com
 blnance-kampanyakatilimi.online
 blnance-tr.com
@@ -81459,6 +81464,7 @@ carflotyup.com
 carforstanley2.xyz
 carfourindirim.shop
 carfoursa.site
+carfoussa.shop
 carfrnbzeyaptklari.com
 carfrrsdnbitmedenalblrsnz.com
 carfrsa.shop
@@ -97423,6 +97429,7 @@ deepseek-ai-soft.com
 deepseek-ai.link
 deepseek-login.com
 deepseek-pc-ai.com
+deepseek-platform.com
 deepseek-pro.cloud
 deepseek-trump.xyz
 deepseek-v3.xyz
@@ -99991,10 +99998,3 @@ denizbanknisana.com
 denizbanknternetsubesi.com
 denizbankoae.com
 denizbankoaw.com
-denizbankobideniz-test.net
-denizbankocakayi.tk
-denizbankoj.com
-denizbankoka.com
-denizbankokd.com
-denizbankoks.com
-denizbankol.com
