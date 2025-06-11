@@ -38175,6 +38175,7 @@ alnuzha.org
 alnv2mvy.duckdns.org
 alo--ptt.com
 alo-ptt.com
+alo-yoges.com
 alo1-hizli-market.com
 alo1-indirim-kapinda.com
 alo1-indirim.com
@@ -50845,6 +50846,7 @@ bafrayrdmkurumsal.com
 bafrayrdmkurumu.com
 bafybeiaywgh65gdjzi64j5qzvik3j72ii5jn7n2j37ahk74liop6usdgyi.ipfs.dweb.link
 bafybeib23s2cxhqg4fppva4g6blnxfqikic7grosrttte4mfahy2ao62qq.ipfs.flk-ipfs.xyz
+bafybeic7e4ii3ktiavsweaakqrklywixn5fwcwpnqldj6hjpsyoaemvwuu.ipfs.dweb.link
 bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io
 bafybeidz3kwvmkptljrlj6ghecimshdrcxhplhpwivxpethusdiudlitpm.ipfs.dweb.link
 bafybeidzuxviugv6pagqgkkmyvfpd7evgpdx7wpfqidkwqndj2imeetev4.ipfs.dweb.link
@@ -81055,6 +81057,7 @@ canister7.xyz
 canizizrrim.net
 canizu.com
 cankaltepid-noce.ddns.net
+canli-destek.cfd
 canli-destek2.cfd
 canli-samimisohbet.gq
 canli-show.net
@@ -99995,6 +99998,3 @@ denizbankonaylikredi.tk
 denizbankonaylikredial.tk
 denizbankonaylikredibasvur.tk
 denizbankonaylikredibasvuruacik.com
-denizbankonaylikredibasvuruacikgiris.com
-denizbankonaylikredibasvuruacikgirisv2.com
-denizbankonaylikredibasvuruacikgirisv3.com

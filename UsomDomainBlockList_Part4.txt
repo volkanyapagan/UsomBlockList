@@ -1,3 +1,8 @@
+secure001s2nd.duckdns.org
+secure002citibank.ddns.net
+secure007-acctt.hopto.org
+secure007citibank.ddns.net
+secure007wells.ddns.net
 secure00authen.ddns.net
 secure00chase-v21.ddns.net
 secure00chase.ddns.net
