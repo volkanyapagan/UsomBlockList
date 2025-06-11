@@ -1,3 +1,5 @@
+secure0007bchase.zapto.org
+secure001net.ddns.net
 secure001s2nd.duckdns.org
 secure002citibank.ddns.net
 secure007-acctt.hopto.org
