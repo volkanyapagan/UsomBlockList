@@ -1,3 +1,7 @@
+secure-truist.ddns.net
+secure-upd21-app2.com
+secure-updates74.duckdns.org
+secure-upsmaily3h3.hopto.org
 secure-urun.net
 secure-usaaconnec3.ddns.net
 secure-useraccount.com
@@ -2217,6 +2221,7 @@ seninleberaberguzel-2022.com
 seninleberaberguzel2022.com
 seninlebirlikteheranibiliyoruz.com
 seninlehaziran.biz.tr
+seninlehaziran.com.tr
 seninlehaziran.info.tr
 seninlehaziran.name.tr
 seninlehaziran.net.tr
