@@ -1,3 +1,5 @@
+secure-smtp-service.cc
+secure-smtp-service.com
 secure-snapchat.ddns.net
 secure-ssahibindeni-param-guvendeodeme-yapitemid.com
 secure-ssl-sec.com
@@ -16628,6 +16630,7 @@ stanletermosdksdmbrda.com
 stanley-firsat.com.tr
 stanley-firsat.info.tr
 stanley-firsat.org.tr
+stanley-firsat.web.tr
 stanley-firsati-101.store
 stanley-herzaman-teklif-24s.com
 stanley-indirim-kampanyasi.sa.com
