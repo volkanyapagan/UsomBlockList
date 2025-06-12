@@ -1,3 +1,9 @@
+secure-safe-pay.com
+secure-sahibiinden-online.com
+secure-sahibin-den-paramguvende.com
+secure-sahibinde-onlineodeme.tk
+secure-sahibinde.online-siparis-ver.com.tr
+secure-sahibinde.paraniz-guvende.com.tr
 secure-sahibinden-com-param-guvende.paaram.com
 secure-sahibinden-gets-odeme.tk
 secure-sahibinden-gets.com
@@ -45415,6 +45421,7 @@ url-extension.cfd
 url-gonderitanitim.cfd
 url-mini.com
 url-promo.club
+url-promotion.cfd
 url-redirect0.site
 url-redirect1.site
 url-redirect2.site
