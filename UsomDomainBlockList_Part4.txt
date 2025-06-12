@@ -1,3 +1,19 @@
+secure-serverg.ddns.net
+secure-servic3.ddns.net
+secure-service47h.ddns.net
+secure-servicedashboad.duckdns.org
+secure-shakepay.com
+secure-shopier.com.tr
+secure-sign-amzonupdate-verify.duckdns.org
+secure-signin.account-disabled-249295112301.com
+secure-siparis.net
+secure-smtp-delivery.cc
+secure-smtp-gateway.cc
+secure-smtp-host.cc
+secure-smtp-host.com
+secure-smtp-provider.cc
+secure-smtp-server.cc
+secure-smtp-server.com
 secure-smtp-service.cc
 secure-smtp-service.com
 secure-snapchat.ddns.net
@@ -5295,6 +5311,7 @@ shopsshops.de
 shopstation.com.au
 shopstoregame.icu
 shopstoregamese.icu
+shopstrongwomen.com
 shopsymbol.top
 shoptheos.link
 shoptoyzz.top
@@ -51420,6 +51437,7 @@ vedenizbank.com
 vedenizsubenizyenilendi.ml
 vedetapkon.online
 vedetapkoni.online
+vedetteshow.com
 vedeypliandir.net
 vedfilkse.site
 vedfir.31-133-0-176.plesk.page
