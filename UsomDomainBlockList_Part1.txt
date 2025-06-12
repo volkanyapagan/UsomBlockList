@@ -27534,6 +27534,7 @@ ad-ppt-tr-gov.top
 ad-ppt-tur-gov.buzz
 ad-ppt-tur.bond
 ad-ppt-tur.cyou
+ad-promotion.cfd
 ad-pttgov.top
 ad-s-s-s-sd-fdsgs-s.sbs
 ad-scope.world
@@ -52965,6 +52966,7 @@ basvuredevlet.com
 basvuredevletiade.com
 basvurerc.com.tr
 basvurerc.online
+basvurercm.cyou
 basvurevlikredin.asyanfinans.com
 basvurevlilikkredi.com
 basvurfirsatl.com
@@ -99996,5 +99998,3 @@ denizbankmobilgiris.ga
 denizbankmobilgiris.ml
 denizbankmobilgiris.tk
 denizbankmobilgirisim.shop
-denizbankmobilgirislerlebirliktebasvuru.net
-denizbankmobilguncelleme.com
