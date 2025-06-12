@@ -53115,6 +53115,7 @@ basvursnk.online
 basvursnm.com.tr
 basvursnm.xyz
 basvursorgulafastgir.com
+basvurspn.xyz
 basvurspr.online
 basvurspr.xyz
 basvurspz.com.tr
@@ -82721,6 +82722,7 @@ ceb-yapi-kredi.com
 ceb-yapikredi.com
 ceba-netbank.ddns.net
 cebamok.tk
+cebdebasvurusistemionline.click
 cebdenizbank.com
 cebdeteb.com
 cebe-kap.com
@@ -99996,5 +99998,3 @@ denizbankmobilyatirimcilik.com
 denizbankmobleisjemler-com.net
 denizbankmok.com
 denizbankmol.com
-denizbankmop-iadeformu.com
-denizbankmp.com
