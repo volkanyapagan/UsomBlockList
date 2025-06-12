@@ -69761,6 +69761,7 @@ perakendesponsorlukbu.store
 perakendetoptantekurun.com
 perakendeylulayikataloglari.com
 peramancapg.com
+peranama-yapicepaktifonay.vercel.app
 peratikdolumlarim.xyz
 perauscretsiz.dev
 perawanhot.hopto.org
@@ -76530,6 +76531,7 @@ ptt-gemu.cc
 ptt-geoz.top
 ptt-gepa.cc
 ptt-gev.rest
+ptt-ggpm.cc
 ptt-ghoe.cc
 ptt-gidf.top
 ptt-gine.cc
@@ -76846,8 +76848,10 @@ ptt-gskv.top
 ptt-gttn.cc
 ptt-guic.top
 ptt-guis.top
+ptt-guma.top
 ptt-gumv.top
 ptt-guoi.top
+ptt-guzo.top
 ptt-gvcn.cc
 ptt-gvip.cc
 ptt-gvne.cc
@@ -99994,7 +99998,3 @@ secure-sahibinden.com
 secure-sahibinden.com.pl
 secure-sahibinden.info.tr
 secure-sahibinden.kurumsalin-tr.com.tr
-secure-sahibinden.net
-secure-sahibinden.online
-secure-sahibinden.online-siparis.com.tr
-secure-sahibinden.shop
