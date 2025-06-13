@@ -1,3 +1,7 @@
+secure-id.hopto.org
+secure-ides.ddns.net
+secure-ilan-get.com.tr
+secure-ilan-odeme-tr.com
 secure-ilan.com.tr
 secure-ilanim.com.tr
 secure-ilanlar.com
@@ -37369,6 +37373,7 @@ trpttgovres.help
 trpttgovrr.ink
 trpttgovrt.ink
 trpttgovs.cc
+trpttgovtk.cc
 trpttgovtr.ink
 trpttgovv.cc
 trpttigov.top
@@ -85947,6 +85952,7 @@ zamandik.click
 zamanfelefen.com
 zamanformu.org
 zamangeciyorzaman.online
+zamangeld.shop
 zamangeldi.shop
 zamangldiyarrisiyo.com
 zamanhayatdeniz20203.com
