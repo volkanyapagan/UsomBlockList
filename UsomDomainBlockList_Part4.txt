@@ -1,3 +1,4 @@
+secure-auth000.ddns.net
 secure-auth0098.ddns.net
 secure-authdatach.ddns.net
 secure-autho2.ddns.net
