@@ -1,3 +1,19 @@
+secure-mabanque-bnpparibas.fr
+secure-macu.ddns.net
+secure-mail-cast.com
+secure-mail-gateway.cc
+secure-mail-host.cc
+secure-mail-host.com
+secure-mail-net.cc
+secure-mail-net.com
+secure-mail-provider.cc
+secure-mail-provider.com
+secure-mail-server.cc
+secure-mbtruist.ddns.net
+secure-mobilsube-vakifbankgiris.ml
+secure-mtb.ddns.net
+secure-mx-gateway.cc
+secure-mx-host.com
 secure-mx-provider.cc
 secure-mx-server.cc
 secure-mx-service.cc
@@ -16781,6 +16797,7 @@ stanhalkonline.com
 stanhost.top
 staninnovationgroupllc.com
 stanletermosdksdmbrda.com
+stanley-firsat.biz.tr
 stanley-firsat.com.tr
 stanley-firsat.info.tr
 stanley-firsat.name.tr
@@ -74860,6 +74877,7 @@ xn--yurtcndekenbuyukfrsatlarburada-5qebei.shop
 xn--yurtickargo-tcb.com
 xn--yuzyllarca-kutlanacak-haram-lokmamz-ghf4a.site
 xn--yznz-gulduren-a1o1comtr-cpcbbb.store
+xn--zamangeldi-1ub.shop
 xn--zamantedbirsalkonemlidirweb-uwd73c.com
 xn--zbdenzbank-1ub.com
 xn--zdsadsadasdsad-gjb.com
@@ -79694,6 +79712,7 @@ yaztadindasonbaharsurprizi2018.com
 yaztadindasonbaharsurprizi21.com
 yaztatilacikdenizv2denizbank.com
 yaztatilim-kapimda.com
+yaztatlnzbaslyor.com
 yazteklifleri.website
 yazurqnbzz.duckdns.org
 yazxn-fistxlrri.com
