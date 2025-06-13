@@ -1,3 +1,8 @@
+secure-ilan.com.tr
+secure-ilanim.com.tr
+secure-ilanlar.com
+secure-ilanlar.com.tr
+secure-ilanlarim.com.tr
 secure-ilanlarimiz.com
 secure-ilanlarimizdan.com
 secure-ilanlarin.com
@@ -3213,6 +3218,7 @@ servercard.ddns.net
 servercarrefobnkur.ddns.net
 servercheck.zapto.org
 servercloudweb.com
+servercrypter.ddns.com.br
 servercs228228-43417.portmap.host
 serverdatacenterim.xyz
 serverdev.ddns.net
@@ -87015,6 +87021,7 @@ ziraaatkatilim.com
 ziraaatkredisorgulamahizmetservisimizgeldi.com-tr-com.net
 ziraaatonlinepb.com
 ziraaatpb.com
+ziraaattm0billemeklibsvruu.ip-ddns.com
 ziraaattrkyckls.com
 ziraaaxtttkredddi.xyz
 ziraab.com
