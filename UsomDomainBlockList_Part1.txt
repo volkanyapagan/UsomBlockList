@@ -3360,6 +3360,7 @@
 12eylulindi.info
 12fuq4wue.duckdns.org
 12gbhediye.site
+12haziranaksamflrsatlarinikacirma-1o1.duckdns.org
 12ibbd.duckdns.org
 12irgfw65xe0g0u23r3.ddns.net
 12j9m7gsc.duckdns.org
@@ -47636,6 +47637,9 @@ avicolacolombia.com
 avicra.eu
 avicra.in
 avicra.info
+avicrabilgi.info
+avicrabilgileri.info
+avicrabilgisi.info
 avicrabirim.eu
 avicrabirim.info
 avicrabirimi.eu
@@ -53126,6 +53130,8 @@ basvursmd.com.tr
 basvursmn.com.tr
 basvursmn.cyou
 basvursmn.xyz
+basvursms.cyou
+basvursms.xyz
 basvursnd.com.tr
 basvursnd.online
 basvursnd.xyz
@@ -84103,6 +84109,7 @@ ceptebapkamk.duckdns.org
 ceptebasvuru.site
 ceptebasvurudeniz.online
 ceptebasvurumobildeniz.info
+ceptebasvurumobilgarantide.lat
 ceptebbayram.com
 ceptebim-webde.com
 ceptebinadresi.co.vu
@@ -99991,10 +99998,3 @@ denizbankmobilcekilis2022.co.vu
 denizbankmobilcep.com
 denizbankmobilcep2021.com
 denizbankmobilcep2021.mermerfatihlerimde.com
-denizbankmobilcs.co.vu
-denizbankmobildenizbankmobildenizbankmob.duckdns.org
-denizbankmobildeyiz.cf
-denizbankmobildeyiz.ml
-denizbankmobildijital.com
-denizbankmobildijitaldoviz.com
-denizbankmobildijitalmobil.co.vu
