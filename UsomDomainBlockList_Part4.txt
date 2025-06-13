@@ -1,3 +1,17 @@
+secure-b81connect.ddns.net
+secure-banaozel-sahibinden-get.com
+secure-banaozelsahibinden.com
+secure-bethpage.ddns.net
+secure-binance.merkenerji.com
+secure-binance.us
+secure-bnpparibas.duckdns.org
+secure-boot.com.tr
+secure-cama.com
+secure-chas07.ddns.net
+secure-chaseonline1.hopto.org
+secure-chaseserv.duckdns.org
+secure-chaseservices.duckdns.org
+secure-chk7942login.ddns.net
 secure-citi02.ddns.net
 secure-citi06.ddns.net
 secure-citi08.ddns.net
@@ -15485,6 +15499,7 @@ sponsorlular-01.xyz
 sponsorlular-03.cfd
 sponsorlular-03.xyz
 sponsorlular01.cfd
+sponsorlular01.xyz
 sponsorlulumatkaphizli15.xyz
 sponsorlum-01.xyz
 sponsorlum-02.xyz

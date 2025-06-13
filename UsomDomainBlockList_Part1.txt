@@ -19605,6 +19605,7 @@ a-devlet.cf
 a-dns-google.com
 a-duyuru.net
 a-findmy-icloud.com
+a-fsg-y4-4y3hre-hhfddh-faswdg-ds.net.tr
 a-gagiiriisllemmenus.com
 a-google-bcd.tk
 a-guvenli-alisveris.sa.com
@@ -43858,6 +43859,7 @@ araskargocum.com
 araskargomnerdexwzs.com
 araskargomsczx.com
 araskargomtakip.net
+araskargosorgula.online
 araskargosorgulama.net
 araskargotakibim.com
 araskargotakibin.com
@@ -77525,6 +77527,7 @@ bumudasede.click
 bumuhudufu.click
 bumuhudufus.click
 bumukemmelbayramfirsatlariaslakacmaz.xyz
+bumukemmelfirsatlarihemenalmalisin.xyz
 bumukemmelfirsatlarikacirmamalisiniz.club
 bumukemmelfirsatlarikacirmamalisiniz.net
 bumukemmelfirsatlarikacirmamalisiniz.store
@@ -99995,6 +99998,3 @@ denizbankmobil.com
 denizbankmobil.tk
 denizbankmobil2021cep.com
 denizbankmobil2021cep.mermerfatihlerimde.com
-denizbankmobil2021cepsubelericep.com
-denizbankmobil2021cepsubelericepsube.com
-denizbankmobil2021cepsubelericepten.com
