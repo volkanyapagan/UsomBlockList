@@ -1,3 +1,5 @@
+izcchqc.duckdns.org
+izcell.net
 izcimedya.com
 izckdkrk.net
 izclmirim.net
@@ -99996,5 +99998,3 @@ secure-84connect.ddns.net
 secure-a101.com.tr
 secure-a52.duckdns.org
 secure-a96connect.ddns.net
-secure-access.login-microsof0nline.com
-secure-activityaccountbankwells.duckdns.org
