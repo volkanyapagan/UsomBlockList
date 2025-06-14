@@ -1,3 +1,5 @@
+secure-06b.ddns.net
+secure-07xchase.duckdns.org
 secure-08achase.ddns.net
 secure-08bc.ddns.net
 secure-099connect.ddns.net

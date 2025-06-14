@@ -1,3 +1,5 @@
+iz7ydop.duckdns.org
+iz95sk.cyou
 iz9uyk.duckdns.org
 izamaasahotsan.net
 izambysv.net
@@ -99996,5 +99998,3 @@ secure-04redirect.ddns.net
 secure-05b.duckdns.org
 secure-05userverify.ddns.net
 secure-05userverify.duckdns.org
-secure-06b.ddns.net
-secure-07xchase.duckdns.org
