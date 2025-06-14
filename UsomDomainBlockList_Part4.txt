@@ -1,3 +1,8 @@
+secure-24verifyus3r.ddns.net
+secure-3245534user.ddns.net
+secure-33wells.ddns.net
+secure-3webverify.ddns.net
+secure-41b.ddns.net
 secure-42connect.ddns.net
 secure-5c.ddns.net
 secure-702.ddns.net
@@ -73111,6 +73116,7 @@ xn--hlkbnk-w0adc.com
 xn--hlkbnk-wta.com
 xn--hlkbnk-wta7zc.com
 xn--hlkbnk-zta0z.com
+xn--hmbl-lzac.xyz
 xn--homeplesktnghanjnfsaddasrtesdas-eweg.xyz
 xn--hostnger-wkb.com.tr
 xn--hotiayakkab-p9a38g.com
