@@ -1,3 +1,5 @@
+secure-42connect.ddns.net
+secure-5c.ddns.net
 secure-702.ddns.net
 secure-7euserverify.ddns.net
 secure-84connect.ddns.net
