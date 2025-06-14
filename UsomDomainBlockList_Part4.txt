@@ -1,3 +1,7 @@
+secure-08achase.ddns.net
+secure-08bc.ddns.net
+secure-099connect.ddns.net
+secure-09b.ddns.net
 secure-102.de
 secure-15connect.ddns.net
 secure-17b.ddns.net
@@ -12062,6 +12066,7 @@ sokmarket-kapida.site
 sokmarket-kapindalar.site
 sokmarket-online.com
 sokmarket-tr.club
+sokmarket.cfd
 sokmarket.com-cpsk.com.tr
 sokmarket.com-e-eurun.com.tr
 sokmarket.duckdns.org
@@ -16979,6 +16984,7 @@ stanhalkonline.com
 stanhost.top
 staninnovationgroupllc.com
 stanletermosdksdmbrda.com
+stanley-100.blogspot.com
 stanley-firsat.biz.tr
 stanley-firsat.com.tr
 stanley-firsat.info.tr
@@ -82719,6 +82725,7 @@ yildiziayinmatkapa.xyz
 yildiziayinmatkapasstok50.xyz
 yildizihaftaninmatkapaldinaldin.xyz
 yildizimatkapaserii.xyz
+yildizindirimler.online
 yildizinyolu.space
 yildizislemler.com
 yildizkaydi.club
