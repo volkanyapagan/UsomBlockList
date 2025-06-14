@@ -1,3 +1,7 @@
+secure-admin29ch.zapto.org
+secure-admin39c.hopto.org
+secure-advanceddata.ddns.net
+secure-aidat-odeme.com.tr
 secure-aidat.com.tr
 secure-akbank.duckdns.org
 secure-al.net
@@ -79423,6 +79427,7 @@ yasarvakifi.com
 yasarvakifi.org
 yasasin101firsati.vercel.app
 yasatalim.online
+yasayanfirsatadersim.com.tr
 yasayanfirsatadersim.xyz
 yasayanlar.name.tr
 yaseminaysubeleri.com.tr
