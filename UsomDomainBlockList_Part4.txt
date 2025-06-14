@@ -1,3 +1,5 @@
+secure-aidat.com.tr
+secure-akbank.duckdns.org
 secure-al.net
 secure-alim-servisi.com.tr
 secure-alimlar.com.tr
