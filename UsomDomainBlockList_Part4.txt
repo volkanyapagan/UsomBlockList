@@ -1,3 +1,8 @@
+secure-04achase.duckdns.org
+secure-04redirect.ddns.net
+secure-05b.duckdns.org
+secure-05userverify.ddns.net
+secure-05userverify.duckdns.org
 secure-06b.ddns.net
 secure-07xchase.duckdns.org
 secure-08achase.ddns.net
@@ -5100,6 +5105,7 @@ sharebloc.top
 shareboxs.net
 sharecold.duckdns.org
 sharecontractreview.hopto.org
+sharecore.sbs
 shared-files-access.live
 shared-files.rf.gd
 shared-rss.info
@@ -84106,6 +84112,7 @@ yonlendirmehizmet.app
 yonlendirmekampnysi.shop
 yonlendirmekrani.cyou
 yonlendirmeligi-ris.apps.dj
+yonlendirmelikfrsatlar.cfd
 yonlendirmemobilvolta.com
 yonlendirmesasdasdaa231.xyz
 yonlendirmesfsadsssfa.xyz
@@ -90239,6 +90246,7 @@ zylphia.site
 zylyxe.com
 zymyra.site
 zynds.com
+zynerra.com
 zynhostinginden.gq
 zynkbaykar.com
 zynu5yk6y7lunconh07r9.0pifi4.ru
