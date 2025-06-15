@@ -1,3 +1,8 @@
+secur0-lockapplesid.hopto.org
+secur01-main1.hopto.org
+secur01auth1nfo.hopto.org
+secur01authinfo.hopto.org
+secur02-all02.hopto.org
 secur02-all2.hopto.org
 secur02auth1nfo.hopto.org
 secur03m3tee.ddns.net
@@ -2968,6 +2973,8 @@ sepetindeki-yildizfirsatindknxkvbksiprs.shop
 sepetindesiparisvar.com
 sepetindirimfirsatlarinda.online
 sepetindirimfirsatlarsizlerle.com.tr
+sepetindirimi.cfd
+sepetindirimi.online
 sepetindirimindebuyukfirsat.online
 sepetindirimlerindebuyukfirsat.online
 sepetingunleri.com
@@ -21398,6 +21405,7 @@ svcs05.zapto.org
 svcupdate.com
 svdc81jz.duckdns.org
 svdkmglsdslors.shop
+svdlrdabgnlrdsbz.shop
 svdmq.com
 svdnrnyntenler.com
 sve-ce-da-nas-pojebe.biz
