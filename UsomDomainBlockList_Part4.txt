@@ -1,3 +1,11 @@
+secure-01.zapto.org
+secure-013902earth.ddns.net
+secure-015b.ddns.net
+secure-01me.duckdns.org
+secure-01redirect.duckdns.org
+secure-022.ddns.net
+secure-02awebverify.ddns.net
+secure-02bwebverify.ddns.net
 secure-02userverify.ddns.net
 secure-03c.duckdns.org
 secure-03cwebverify.ddns.net
