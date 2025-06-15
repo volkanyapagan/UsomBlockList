@@ -1,3 +1,10 @@
+secu04auth.ddns.net
+secu07auth.ddns.net
+secu09-mydashboard.ddns.net
+secu2eactminetyyy.hopto.org
+secu45rechas98eauth.hopto.org
+secu53ercha98se-aut.hopto.org
+secu58494.ddns.net
 secuale008dash.ddns.net
 secualert.duckdns.org
 secuauthorization.duckdns.org
@@ -5688,6 +5695,7 @@ shophoof.com
 shopiamproject.com
 shopier-asilce.com
 shopier-guvenli-odeme.com
+shopier-guvenlialisveris.com
 shopier-guvenliodeme.com
 shopier.alisveris-guvenli-pay.com
 shopier.click
