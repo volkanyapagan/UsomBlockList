@@ -1,3 +1,5 @@
+securasahibinden.com
+securauth.hopto.org
 secure---auth---cryptoapps.webflow.io
 secure--auth-cryptosapp--aauuth.webflow.io
 secure--sso--coinbasepro--h---auth.webflow.io
