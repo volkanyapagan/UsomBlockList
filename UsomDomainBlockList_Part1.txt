@@ -19612,6 +19612,7 @@ a-devlet.cf
 a-dns-google.com
 a-duyuru.net
 a-findmy-icloud.com
+a-fsg-y4-4y3hre-hhfddh-faswdg-ds.com.tr
 a-fsg-y4-4y3hre-hhfddh-faswdg-ds.net.tr
 a-gagiiriisllemmenus.com
 a-google-bcd.tk
@@ -99997,4 +99998,3 @@ denizbanklt.org
 denizbanklz.com
 denizbankmayisfirsati.co.vu
 denizbankmayiskampanya.co.vu
-denizbankmcd.com

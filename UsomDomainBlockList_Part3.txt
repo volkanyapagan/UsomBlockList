@@ -1,3 +1,4 @@
+iz-mics-docs.com
 iz-tech-sysyem.net
 iz-tfriq.com
 iz28h7.duckdns.org
@@ -76803,6 +76804,9 @@ ptt-gav.sbs
 ptt-gavaz.top
 ptt-gawe.top
 ptt-gazc.top
+ptt-gbe.hair
+ptt-gbe.icu
+ptt-gbe.sbs
 ptt-gclz.top
 ptt-gcnm.cc
 ptt-gcoz.top
@@ -99994,7 +99998,3 @@ securauth.hopto.org
 secure---auth---cryptoapps.webflow.io
 secure--auth-cryptosapp--aauuth.webflow.io
 secure--sso--coinbasepro--h---auth.webflow.io
-secure--sso--kucoien.webflow.io
-secure--suite-----trozor.webflow.io
-secure-00b.ddns.net
-secure-01-redirectme-online.duckdns.org
