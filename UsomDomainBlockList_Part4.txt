@@ -1,3 +1,14 @@
+secur02-all2.hopto.org
+secur02auth1nfo.hopto.org
+secur03m3tee.ddns.net
+secur04-all4.hopto.org
+secur04gverify.duckdns.org
+secur05.hopto.org
+secur07authinfo.hopto.org
+secur2-acc2.hopto.org
+secur2-acc20.hopto.org
+secur2-acc92.hopto.org
+secur2-iverfiy.duckdns.org
 secur3.duckdns.org
 secur3039.zapto.org
 secur32c1t1serv3r2.ddns.net

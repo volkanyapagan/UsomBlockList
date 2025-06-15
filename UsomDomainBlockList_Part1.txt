@@ -1724,6 +1724,7 @@
 101-firsatimcepte.name.tr
 101-firsatindm.com
 101-firsatinklima.xyz
+101-firsatlarburada-market.duckdns.org
 101-firsatlarcepte.name.tr
 101-firsatlari-kacirma-ozel.com
 101-firsatlari-kasimda-devam-ediyor.online
@@ -84383,6 +84384,7 @@ ceptesoklu.com
 ceptesokmarket-indirim.online
 ceptesokmarket-ramazan.online
 ceptesokmarket.biz.tr
+ceptesokmarket.cfd
 ceptesokmarket.com
 ceptesokmarket.online
 ceptesokmarket.site
@@ -99996,5 +99998,3 @@ denizbanklm.com
 denizbankln.com
 denizbanklogin-com.net
 denizbanklogin.com
-denizbanklogincc.tk
-denizbanklonaygiris.co.vu
