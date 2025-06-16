@@ -37679,6 +37679,7 @@ alisveristekifirsat.online
 alisveristetekadres.com.tr
 alisveristetekadresi.online
 alisveristetekadresi.xyz
+alisveristeyildizalri.xyz
 alisveristr.com.tr
 alisveristr.sa.com
 alisverisuygunhafta.site
@@ -86344,6 +86345,7 @@ ciftcimedestek.com.tr
 ciftcimiz.com.tr
 ciftcininbankasiziraatbankasi.com
 ciftcininziraati.com
+ciftciyedestek.com.tr
 ciftciyedestek.cyou
 ciftciyedestek.xyz
 ciftciyeozelkampanyalar.click
@@ -99996,5 +99998,3 @@ denizbankkredibasvurusu.vercel.app
 denizbankkredibasvurusuyapmaaa.com
 denizbankkredikampanyasi.tk
 denizbankkredikartiborcsorgulama.com
-denizbankkredim.ml
-denizbankkredim.tk
