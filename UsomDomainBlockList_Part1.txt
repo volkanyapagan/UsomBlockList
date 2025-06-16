@@ -1743,6 +1743,7 @@
 101-kacmazfirsatsabah.com
 101-kampanya-zamani.com.tr
 101-kampanya.online-internet-alisverisi.com.tr
+101-kampanyalar-online.duckdns.org
 101-kampanyalari.com
 101-kampanyalari.com.tr
 101-kampanyan.online-internet-alisverisi.com.tr
@@ -99997,4 +99998,3 @@ denizbankkz.com
 denizbankl.com
 denizbanklacebimde.xyz
 denizbanklacepte.xyz
-denizbanklaceptekolay.xyz
