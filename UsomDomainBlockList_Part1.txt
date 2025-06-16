@@ -34895,6 +34895,7 @@ aktarimlar-online-olarak-basladi.online
 aktarimlarimiadem.duckdns.org
 aktarimlariniz-online-olaark-basladi.site
 aktarimlariniz-online-olarak-baslamistir.online
+aktarimlarmobil.duckdns.org
 aktarimservisi.com
 aktarimveonlinesorgu.cyou
 aktarimvesorgulama.site
@@ -99997,4 +99998,3 @@ denizbankkredix.tk
 denizbankkripto.com
 denizbankkt.com
 denizbankkurumsal.com
-denizbankkweb.tk
