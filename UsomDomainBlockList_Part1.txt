@@ -34887,6 +34887,7 @@ aktarim-hizmetleri.site
 aktarim-sorgula-ve-al.site
 aktarim-sorgulama-ekrani.online
 aktarim-yapma-ekrani.site
+aktarimekrani.cfd
 aktarimeportali.duckdns.org
 aktarimhizmetlerigirispageiade.site
 aktariminionayla.duckdns.org
@@ -99997,4 +99998,3 @@ denizbankkredisorgula.tk
 denizbankkredix.tk
 denizbankkripto.com
 denizbankkt.com
-denizbankkurumsal.com
