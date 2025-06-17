@@ -1,3 +1,12 @@
+sec02updatebill.ddns.net
+sec03a-auth.duckdns.org
+sec03b-auth.duckdns.org
+sec03login.hopto.org
+sec04c.hopto.org
+sec05c.hopto.org
+sec07authchas01.hopto.org
+sec08usaa.hopto.org
+sec08userverify1.hopto.org
 sec09.duckdns.org
 sec09a.hopto.org
 sec09b.hopto.org
@@ -9130,6 +9139,7 @@ siparisnhazir.net
 siparisnhazir.store
 siparisnkapnda.net
 siparisnoktasi.online
+siparisnsepete.click
 siparisnspette.net
 siparisolusturkapiinda.online
 siparisonaylacom.online
@@ -15557,6 +15567,7 @@ sponkisn.site
 sponkolskap.com
 sponnnsorllubasvuru.com
 sponros22123.nicepage.io
+sponrssklu1o1frsattlar.com
 spons0rlu-592519529595292.online
 sponsor-0142379323.com
 sponsor-342347412.com
@@ -15606,6 +15617,7 @@ sponsorlu-11.online
 sponsorlu-12.online
 sponsorlu-1235510203.shop
 sponsorlu-127.top
+sponsorlu-129.top
 sponsorlu-13.online
 sponsorlu-14.online
 sponsorlu-15.online
@@ -54547,6 +54559,7 @@ vinyl-stars.com
 viocart.store
 viodelavergiode.tk
 vioedarlerevren.duckdns.org
+vioevofearlescanis.com
 viogonagz.duckdns.org
 violatespectator.top
 violationacnt210072.duckdns.org
@@ -59633,6 +59646,7 @@ webgecisihlal.info
 webgecislerravodesi.com
 webgecisode.info
 webgecisodeme.info
+webgecisodemesi.info
 webgecistr-webinfo.icu
 webgeiskgmhgsodemeislem.duckdns.org
 webgerenciamento.ddns.net
