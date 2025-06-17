@@ -50632,6 +50632,7 @@ vakifrioos.duckdns.org
 vakifsaldestek.gq
 vakifsaldestek.tk
 vakifsb.com
+vakifsderddcansd.duckdns.org
 vakifsenin.ip-ddns.com
 vakifseninsuben.xyz
 vakifsevginvar.cf
