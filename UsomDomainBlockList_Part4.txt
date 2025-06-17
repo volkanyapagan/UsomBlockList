@@ -1,3 +1,22 @@
+sec-connect00.ddns.net
+sec-connection00ch.ddns.net
+sec-connection01ch.ddns.net
+sec-kabulet.website
+sec-p-t-t-a-v-m.shop
+sec-pttavm.com.tr
+sec-pttavm.info.tr
+sec-redirect.zapto.org
+sec-sahibinden.com.tr
+sec-tr.website
+sec-ure01verify.zapto.org
+sec-ure05al0g.hopto.org
+sec-yomens.xyz
+sec.opsecurity1.art
+sec01bcservr03c.zapto.org
+sec01vciti001auth.duckdns.org
+sec02.zapto.org
+sec02a.hopto.org
+sec02bwells.ddns.net
 sec02updatebill.ddns.net
 sec03a-auth.duckdns.org
 sec03b-auth.duckdns.org
@@ -1409,6 +1428,7 @@ securesecutoday.ddns.net
 securesender-netsuite-safemail.com
 securesender-ntsuitesafemail.com
 securesepet.com
+securesepetimiz.com
 secureser.ddns.net
 secureserveappid.zapto.org
 secureserver.marinelectricsystems.com
@@ -13156,6 +13176,7 @@ sonfirsatlarikacirmamalisiniz.xyz
 sonfirsatlarikacirmasizlereozelurunler.online
 sonfirsatlarikacirmasizlereozelurunler.xyz
 sonfirsatlarim.shop
+sonfirsatlarimizkacirmadansatinalin.com.tr
 sonfirsatlarimizkacirmadansatinalin.online
 sonfirsatlarinikacirmadansatinalmalisin.com.tr
 sonfirsatlarinikacirmadansatinalmalisin.online
@@ -16268,6 +16289,7 @@ sqotify.com
 sqoy34.duckdns.org
 sqqdqcpobb.duckdns.org
 sqqi6ad.duckdns.org
+sqqnremor.vercel.app
 sqr020yf3.duckdns.org
 sqs.zapto.org
 sqsahawpaa.biz
@@ -28211,6 +28233,7 @@ terrorindict.top
 terroristbesiege.top
 terrormalice.top
 terrorterminate.top
+terrosotruffles.com
 terrrerrre.xyz
 terry-training-springer-engagement.trycloudflare.com
 terry.mydiscussion.net
