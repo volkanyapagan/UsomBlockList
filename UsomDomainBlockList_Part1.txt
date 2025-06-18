@@ -54292,6 +54292,7 @@ basvurum.online
 basvurum.store
 basvurum.tk
 basvurum.xyz
+basvurum0nlineyapicep.vercel.app
 basvurum2025.online
 basvurum300.com
 basvurumacikdenizbank.com
@@ -99997,4 +99998,3 @@ denizbankiphone13hediye.com
 denizbankiphone13hediyeler.com
 denizbankiphone13hediyeniz.com
 denizbankislemlerim.com
-denizbankislemlerk-tr.com
