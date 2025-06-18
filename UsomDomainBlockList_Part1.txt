@@ -11115,6 +11115,7 @@
 3t5z5n.duckdns.org
 3t8g5l.duckdns.org
 3tapsiparis21subatt.cloud
+3tapsiparis21subattlive.cloud
 3tc6f49f8.duckdns.org
 3tdx2r.com
 3teamswag.zapto.org
@@ -66765,6 +66766,7 @@ bireyselsahibindenparamgetguvende.com
 bireyselsahibindenparamguvende.com
 bireyselsahibindenurun.com
 bireyselsanalsube.com
+bireyselsatici.com.tr
 bireyselsatis.com.tr
 bireyselsiggorta.site
 bireyselsigorrta.site
@@ -99996,5 +99998,3 @@ denizbankinternetsubesi.website
 denizbankinternetsubesi2019giris.com
 denizbankinternetsubesi2019giris.net
 denizbankinternetsubesi2019giris.org
-denizbankinternetsubesigirisleriniz2019.net
-denizbankinternetsubesigirisleriniz2019.org
