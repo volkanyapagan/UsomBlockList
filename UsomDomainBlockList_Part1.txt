@@ -34868,6 +34868,7 @@ aksystem-envr-login1.cfd
 aksystem-envr-login2.cfd
 akt-ifglrlsyonlendirme.apps.dj
 akt-ue-l-uru-nle-r.com
+akt-zmn-gldi.shop
 akt.101-mayisoglens.net
 akt.101buguncarsamba-kacirma.com
 akt.101mayisaksamka.com
@@ -99997,4 +99998,3 @@ denizbankiadeniz.ga
 denizbankiadeniz.ml
 denizbankiadeniz.tk
 denizbankiadeportali.tk
-denizbankiadesi2020.com
