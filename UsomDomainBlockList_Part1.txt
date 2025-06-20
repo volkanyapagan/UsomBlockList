@@ -14452,6 +14452,7 @@
 658658776587.ddns.net
 65895466654654.cloud
 65898566654654.cloud
+6591276.cloud
 6598498654321654541654.cloud
 6598745664566688.cloud
 65b96wu5t.duckdns.org
@@ -37179,6 +37180,7 @@ alferedes.site
 alfie12.duckdns.org
 alfieleeoconnor63.xyz
 alfirsat.com
+alfirsata1o1.com
 alfonsinastorni.duckdns.org
 alforatsystem.com
 alforcargo.com
@@ -51023,6 +51025,7 @@ bafybeiffrkkiphoo3heptq3mc3bmbpx5xx7odgf2cxjh4fi2hgi5iidqme.ipfs.dweb.link
 bafybeifg6ikchjjan27635jc3igxmszvctjk6qcbboxvsdnpaqnm7bycp4.ipfs.dweb.link
 bafybeifvwp6tafcypubhqkj66oqk5r653ifvju5jdpnflcn3rkvpd2dboy.ipfs.dweb.link
 bafybeiglx2dho56pevv63hl75waepjo7wznvyyvwd3wyxli5tc4llqcdse.ipfs.dweb.link
+bafybeigzhqpl3nsdeyi6ngbfs32tcl6xoulwclc3zqr6bfrszlwjpe5uzy.ipfs.dweb.link
 bafybeihwqs623k5e3ph2iqtrs7ijkbo6umn3hsvprknt5qdgbz2xiwyhx4.ipfs.dweb.link
 bafymi.top
 bafyvoruzgjitwr.com
@@ -99995,6 +99998,3 @@ denizbankiade2021ceps.qnbfinansiadeler2021basvurusu.xyz
 denizbankiadebasvur.com
 denizbankiadebasvuru.com
 denizbankiadebasvuruform2021.com
-denizbankiadebasvurular.com
-denizbankiadebasvurulari.com
-denizbankiadebasvurum.com
