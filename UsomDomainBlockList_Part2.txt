@@ -48049,6 +48049,7 @@ garantibbva-kredi-firsati.duckdns.org
 garantibbva-kredi-firsatlari.duckdns.org
 garantibbva-kredi-karti-aidat-iade.mooo.com
 garantibbva-kredi-online.cloud
+garantibbva-kredi-online.duckdns.org
 garantibbva-kredi.cloud
 garantibbva-kredibasvuru.cloud
 garantibbva-kredifirsatlari.com
@@ -68885,6 +68886,7 @@ haziranakseninyaninda.vercel.app
 haziranaktuel.biz.tr
 haziranaktuel.com.tr
 haziranaktuel.net.tr
+haziranaktuel.org.tr
 haziranaozelcepte.com.tr
 haziranaozelfirsatlar.com.tr
 haziranaozelkampanya.com
@@ -99996,5 +99998,3 @@ ivg-vergicezaodeme.net
 ivg2k4efq87l3ls.ddns.net
 ivgborclari.b-cdn.net
 ivgdairesi-cx.com
-ivgdairesi-home.com
-ivgdairesi-hx.com
