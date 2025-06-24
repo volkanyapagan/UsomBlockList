@@ -1,3 +1,5 @@
+ivd-pdreazl.net
+ivd-uygulamavezne.blogspot.com
 ivd-vdodeyapilandirma.net
 ivd-vergiodeme.net
 ivd-vergiodemenoktasi.cf
@@ -5764,6 +5766,7 @@ justmoneykartalbddk3.duckdns.org
 justmoneykartalbddk300.duckdns.org
 justmoneykartalbddk301.duckdns.org
 justmoneykartalbddk302.duckdns.org
+justmoneykartalbddk303.duckdns.org
 justmoneykartalbddk305.duckdns.org
 justmoneykartalbddk4.duckdns.org
 justmoneykartalbddk5.duckdns.org
@@ -99995,6 +99998,3 @@ scaker.com
 scala.tartarmob.co
 scaleforfeit.top
 scaleslaughter.top
-scaletai.com
-scallopppo.xyz
-scallymilano.ddns.net
