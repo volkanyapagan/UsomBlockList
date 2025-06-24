@@ -54945,6 +54945,7 @@ basvurvks.online
 basvurvks.xyz
 basvurvkstm.com.tr
 basvurvkstm.online
+basvurvnm.com.tr
 basvurvnm.xyz
 basvurvpr.com.tr
 basvurvpr.online
@@ -55291,6 +55292,7 @@ bayiyuklemeler.xyz
 baykafunt.store
 baykar-ad.com
 baykar-b.glitch.me
+baykar-baykoin.world
 baykar-fashion.ru
 baykar-fly.digital
 baykar-invest.com
@@ -55332,6 +55334,8 @@ baykarimaging.com
 baykarinnovate.com
 baykarintr.online
 baykarintr.site
+baykarinvest.biz
+baykarinvest.club
 baykarinvest.xyz
 baykarinvesting.com
 baykarkatilim.com
@@ -55353,6 +55357,7 @@ baykarsystem.tr
 baykarsystems.com
 baykart.trbaykl.com
 baykartech.icu
+baykartech.live
 baykarter.space
 baykartr.com
 baykartur.com
@@ -99993,8 +99998,3 @@ denizbankchanel.net
 denizbankcl.com
 denizbankclicadu.tk
 denizbankcm.com
-denizbankcn.com
-denizbankcom.cf
-denizbankcom.ga
-denizbankcom.gq
-denizbankcom.ml
