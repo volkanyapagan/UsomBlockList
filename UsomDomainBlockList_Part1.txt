@@ -17116,6 +17116,7 @@
 8652543.cloud
 865433242311.cloud
 86586554632.shop
+865911566.duckdns.org
 865d128632d4.com
 865dqm8.duckdns.org
 865t7-mijnalerts21.duckdns.org
@@ -38582,6 +38583,7 @@ alsuwaidi.ddns.net
 alsuwal.com
 alsverisinizindr.click
 alsverisiniziner2.click
+alsverisiniziner3.click
 alsversmarkti.com
 alsversnadres.com
 alsversnkolayda.com
@@ -53344,6 +53346,7 @@ basvurmrkz.online
 basvurmrkz.xyz
 basvurmrx.com.tr
 basvurmrx.online
+basvurmsn.xyz
 basvurmte.online
 basvurmuz.site
 basvurmyk.com.tr
@@ -73372,6 +73375,7 @@ bntogg.com
 bntonlinedestektr.com
 bntr-3949324412412.com
 bntr-5435439513245123421.com
+bntr-5435439513245123421.xyz
 bntr.info
 bntr155213165giris.com
 bntr2025.com
@@ -99994,7 +99998,3 @@ denizbankbasvurulogin.com
 denizbankbasvurum.cf
 denizbankbasvurum.com
 denizbankbasvurum.ga
-denizbankbasvurum.gq
-denizbankbasvurum.ml
-denizbankbasvurum.tk
-denizbankbasvurum2020.com

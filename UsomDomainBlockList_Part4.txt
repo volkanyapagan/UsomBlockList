@@ -1,3 +1,14 @@
+satisim-18.site
+satisim-2.site
+satisim-20.site
+satisim-21.site
+satisim-22.site
+satisim-23.site
+satisim-3.site
+satisim-30.site
+satisim-34.site
+satisim-4.site
+satisim-42.site
 satisim-47.site
 satisim-48.site
 satisim-49.site
@@ -17,6 +28,7 @@ satisimburdan.online
 satisislem-sahibindenguvenliodeme-getodeme-com.tk
 satisislemi.com
 satisislemim.com
+satisisleminiz.com
 satisislemleri.com
 satisislemlerimiz.com
 satisislemlerin.com
@@ -10378,6 +10390,7 @@ siparis-onayin.net
 siparis-onayla.net
 siparis-onayli-115510.com
 siparis-onayli-115511.com
+siparis-onayli-115512.com
 siparis-paramguvende.com
 siparis-pttavm.com.tr
 siparis-pttavm.info.tr
