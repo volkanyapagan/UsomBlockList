@@ -54529,6 +54529,7 @@ basvurumerkezi.icu
 basvurumerkezi.ml
 basvurumerkezi.netlify.app
 basvurumerkezi.online
+basvurumerkezi.sbs
 basvurumerkezi.store
 basvurumerkezi.tech
 basvurumerkezi.tk
@@ -99997,4 +99998,3 @@ denizbankbasvuruyap.cf
 denizbankbasvuruyap.ga
 denizbankbasvuruyap.gq
 denizbankbasvuruyap.tk
-denizbankbayram-tr.com
