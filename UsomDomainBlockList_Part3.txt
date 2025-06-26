@@ -7057,6 +7057,7 @@ kacmayacak-firsatlar.com.tr
 kacmayacakalisverislerisnadresi.com.tr
 kacmayacakalisverislerisnadresi.online
 kacmayacakalisverislerisnadresi.xyz
+kacmayanfirsat.com.tr
 kacmayanfirsat.online
 kacmayanfirsat.xyz
 kacmaz-firsat.blogspot.com
@@ -19395,6 +19396,7 @@ kubarnates.sbs
 kubatayberkklavye00.com
 kubeodz2019.ddns.net
 kuberlayardilautanamz.duckdns.org
+kubertionmen.duckdns.org
 kubjexsoy.com
 kubradanis4701.vercel.app
 kubradanis4777.vercel.app
@@ -99996,5 +99998,3 @@ satislar-odeme.com.tr
 satislar-secure.com.tr
 satislar.online
 satislar.shop
-satislaraninda.online
-satislari.online
