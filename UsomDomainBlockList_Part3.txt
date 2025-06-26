@@ -1,3 +1,7 @@
+itemput.top
+itemquest.quest
+itemsatis.us
+itemsfoundguest.com
 itenerratz.xyz
 itengineering.co.za
 itensfree.ddns.net
@@ -99994,7 +99998,3 @@ satisbilgilendirme-16.com.tr
 satisbilgilendirme-17.com.tr
 satisbilgilendirme-18.com.tr
 satisbilgilendirme-19.com.tr
-satisbilgilendirme-2.com.tr
-satisbilgilendirme-20.com.tr
-satisbilgilendirme-21.com.tr
-satisbilgilendirme-22.com.tr
