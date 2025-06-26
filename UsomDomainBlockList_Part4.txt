@@ -1,3 +1,15 @@
+satisim-47.site
+satisim-48.site
+satisim-49.site
+satisim-5.site
+satisim-54.site
+satisim-6.site
+satisim-7.site
+satisim-8.site
+satisim-9.site
+satisim-92.site
+satisim-96.site
+satisim-98.site
 satisim-get.com.tr
 satisim-sahibinden.com.tr
 satisim.com.tr
@@ -43623,6 +43635,7 @@ turojgbovh.duckdns.org
 turostp.top
 turourkiaye.online
 turp.pw
+turpackage.help
 turpetrol.online
 turpetrolium.site
 turpos.top
@@ -81740,6 +81753,7 @@ yazimingunesi.xyz
 yazin-agustos-keyifli-alsvrs.com
 yazin-kacirilmaz-firsatlari.shop
 yazin-son-mutluluguu.com
+yazin-tatil-firsatlari.xyz
 yazinbasisizlereyakn.com
 yazinbasisizlereyakn.info
 yazinbasisizlrlebuluscak.shop
