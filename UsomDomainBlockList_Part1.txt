@@ -34928,6 +34928,7 @@ aksystem-envr-login.cfd
 aksystem-envr-login1.cfd
 aksystem-envr-login2.cfd
 akt-ifglrlsyonlendirme.apps.dj
+akt-smdi.shop
 akt-ue-l-uru-nle-r.com
 akt-zmn-gldi.shop
 akt.101-mayisoglens.net
@@ -99997,4 +99998,3 @@ denizbankasiadesi.com
 denizbankasic.com
 denizbankasicekilis.com
 denizbankasidestek.com
-denizbankasiesube.com
