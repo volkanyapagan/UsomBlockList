@@ -59833,6 +59833,7 @@ bilgikap.info
 bilgikapisi.online
 bilgikapisiform.blog
 bilgikapisiform.com
+bilgikaynagi.info
 bilgikontrolsaglama.com
 bilgikontrolyeri.com
 bilgikus.info
@@ -75281,6 +75282,7 @@ brandx9.digital
 brandydistil.top
 brandyhum.top
 brandystipulation.top
+branrce.com.tr
 bransfen.com
 brantasmi.ddns.net
 branter.tk
@@ -99996,5 +99998,3 @@ denizbankarabasansi.com
 denizbankas-i.com
 denizbankas.com
 denizbankasi-basvuru.com
-denizbankasi-bonus.com
-denizbankasi-cekilis.com
