@@ -1,3 +1,5 @@
+sat-ticaret.com
+sat.zapto.org
 sat1244.ddns.net
 satanicjithu.ddns.net
 satanileizmrm.net
@@ -13994,6 +13996,7 @@ sokmarketkapinda2.duckdns.org
 sokmarketkapinda3.duckdns.org
 sokmarketkapinda4.duckdns.org
 sokmarketkapinda5.duckdns.org
+sokmarketkapinda6.duckdns.org
 sokmarketler-indirim.online
 sokmarketler-kapida.com
 sokmarketler-kapinda.site
