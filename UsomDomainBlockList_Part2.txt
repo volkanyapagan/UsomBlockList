@@ -1,3 +1,4 @@
+denizbankamobil.com
 denizbankampanyasi.com
 denizbankan.com
 denizbankanindakatilim.com
@@ -43560,6 +43561,7 @@ flrsatkusaginburda.xyz
 flrsatkusaginin.xyz
 flrsatlar.ignorelist.com
 flrsatlar29haziranozelbasladi.duckdns.org
+flrsatlar29haziranpazaraksami.duckdns.org
 flrsatlar521807545847.duckdns.org
 flrsatlardaindirimlerolur.online
 flrsatlardansonsuzbirmaceralarvar.art
@@ -99996,5 +99998,3 @@ isubemobilde.ml
 isubemobilde.tk
 isubempay.cf
 isubempay.ga
-isubempay.gq
-isubempay.ml
