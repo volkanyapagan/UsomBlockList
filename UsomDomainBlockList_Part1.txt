@@ -2027,6 +2027,7 @@
 101dengeldikalmaya.biz.tr
 101dengeldikalmaya.com.tr
 101dengeldikalmaya.net.tr
+101dengeldikalmaya.org.tr
 101dmarketuygun.com
 101dx20i65440.storage.googleapis.com
 101efsanekasimindirimleri-online-alisveris-ozel-indirimler.online
@@ -99997,4 +99998,3 @@ denizbankaltinyatirim.co.vu
 denizbankam-iadesi.com
 denizbankam-otp.ml
 denizbankam.com
-denizbankam.epizy.com
