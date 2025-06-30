@@ -7817,6 +7817,7 @@
 23mayisgecesinde.cloud
 23mayisgecesindekisiparis.cloud
 23mayisgecesindeshop.cloud
+23mayistakidrinkarisler.cloud
 23mnpryn8.duckdns.org
 23n32872b273693.cfd
 23nisanfirsatlari.com.tr
@@ -59994,6 +59995,7 @@ bilgisartkontrol.com
 bilgisayarimsaybirpankx.com
 bilgisayfam.link
 bilgisayfasi.net
+bilgisayfasi.org
 bilgisayfasi.tech
 bilgisayffam.net
 bilgiselislem.xyz
@@ -99996,5 +99998,3 @@ denizbankam-iadesi.com
 denizbankam-otp.ml
 denizbankam.com
 denizbankam.epizy.com
-denizbankam.net
-denizbankam.online
