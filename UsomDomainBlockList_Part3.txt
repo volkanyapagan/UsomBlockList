@@ -1,3 +1,4 @@
+isubem--ziraatbank.ml
 isubem-enparam.ml
 isubem-garanti.com
 isubem-ingbank.cpa
@@ -99997,4 +99998,3 @@ santoqwdkqwmdklqwmdk12-qwdqwdqw.com
 santoriniugly.duckdns.org
 santorinotornado5.com
 santosan.app
-santosonlinex-fmxcn.com
