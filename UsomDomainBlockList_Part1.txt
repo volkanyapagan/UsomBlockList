@@ -5616,6 +5616,7 @@
 1o1-yilbasi-indirimi.com.tr
 1o104312.duckdns.org
 1o1agustos-frstlari.online
+1o1aldinaldin.com
 1o1aldinaldin.space
 1o1alsverslrnz.com
 1o1annelergunleri.shop
@@ -21445,6 +21446,7 @@ a101kampanyalar.com.tr
 a101kampanyalar.shop
 a101kampanyalari.com
 a101kampanyalari.shop
+a101kampanyalari.site
 a101kampanyalarim.com
 a101kampanyalarim.shop
 a101kampanyalarmerkeizi.com
@@ -99996,5 +99998,3 @@ denizbank.tech
 denizbank.tk
 denizbank.tr-form.com
 denizbank.v2mobildenizde-giris.com
-denizbank.v2mobildenizi-firsat.com
-denizbank.vip
