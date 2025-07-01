@@ -37762,6 +37762,7 @@ alisverisdunyasininadresi.xyz
 alisverisdunydamdasongun.com.tr
 alisverisdunydamdasongun.xyz
 alisverisdyson.online
+alisverisedoymagunu.com.tr
 alisverisedoymagunu.online
 alisverisedoymagunu.xyz
 alisverisegeliyoruz.com.tr
@@ -84598,6 +84599,7 @@ cepte-online101-indirimi.com.tr
 cepte-papara.com
 cepte-qnbhizmetlercomtr.duckdns.org
 cepte-seninle.name.tr
+cepte-seninle.web.tr
 cepte-sok-ilkbaharkampanyasi.online
 cepte-sok-indirim.name.tr
 cepte-sok-market.name.tr
@@ -99996,5 +99998,3 @@ denizbank.ltd
 denizbank.me
 denizbank.me.uk
 denizbank.ml
-denizbank.network
-denizbank.one
