@@ -64712,6 +64712,7 @@ binance.az
 binance.betrui.site
 binance.bnncglobal.com
 binance.coinborsanizdan-hediye.com
+binance.com-promosyon.com
 binance.denizdekampanyakatilimformu.com.tr
 binance.girissistemi.net
 binance.kampanyabasvuru.com
@@ -73540,6 +73541,7 @@ bntrbasvurugiris.com
 bntrbasvuruu.com
 bntrbasvuruu.shop
 bntrbavuru.com
+bntrbiance.com
 bntrbnbcoinsgirisleri.net
 bntrbnncr-onlinegirisi.com
 bntrbnsdnr.vercel.app
@@ -83450,6 +83452,7 @@ cebinize-uygun-indirimleeer-burada.com.tr
 cebinize-uygun-indirimler-burada.com.tr
 cebinize-uygun-indirimler-burada.xyz
 cebinizedost.com
+cebinizerenkkatacakfsatlar.com.tr
 cebinizerenkkatacakfsatlar.online
 cebinizerenkkatacakfsatlar.xyz
 cebinizeuuygunfirsatlar.online
@@ -99995,6 +99998,3 @@ denizbank.internetsube.com.tr
 denizbank.kisalink.cc
 denizbank.l8-l33-220-72.plesk.page
 denizbank.ltd
-denizbank.me
-denizbank.me.uk
-denizbank.ml
