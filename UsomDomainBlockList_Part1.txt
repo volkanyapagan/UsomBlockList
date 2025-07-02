@@ -37878,6 +37878,7 @@ alisverislerin.online
 alisverislerinizguvende14.com.tr
 alisverislerinizguvende14.xyz
 alisverislerintr.com.tr
+alisverisleruygun.com
 alisverisliuygun.com
 alisverismarketp-tt.com
 alisverismarketzi.online
@@ -41972,6 +41973,7 @@ app-updater2.app
 app-vodafonered.com
 app-w101.com.tr
 app-wallet.hopto.org
+app-yapifirsatim.click
 app-yenis.herokuapp.com
 app-yk.xyz
 app-ziraat-online.com
@@ -73783,6 +73785,7 @@ bobbelal20.ddns.net
 bobbinsconnect.freemyip.com
 bobbitopedia.com
 bobble8.xyz
+bobboyapokrodo.duckdns.org
 bobby.ziraat-helpdesk.com
 bobbyelectronics.xyz
 bobbylefleur.com
@@ -78493,6 +78496,7 @@ burda-guzel-anlari-burda-sizinle-gorecegiz.com
 burda-guzel-hatiralarinizi-bizimle-gitmeden-donmeyin.com
 burda-guzelgunlerimiz-olacak.com
 burda-guzelliginizz.net
+burda-havalar-isindi-yaniyorum-gelsene.top
 burda-hepsiindirm.com
 burda-heyecanli-insanlar-olacak.com
 burda-kalmalisinizz.net
@@ -99994,7 +99998,3 @@ denizbank.ga
 denizbank.giris.l3-69-l02-l59.plesk.page
 denizbank.girisler.4-231-237-0.plesk.page
 denizbank.gq
-denizbank.group
-denizbank.in
-denizbank.internetsube.com.tr
-denizbank.kisalink.cc
