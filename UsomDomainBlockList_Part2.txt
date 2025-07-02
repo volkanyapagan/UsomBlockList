@@ -1,3 +1,8 @@
+denizbank.4-231-235-170.plesk.page
+denizbank.4-231-237-0.plesk.page
+denizbank.42web.io
+denizbank.44-204-107-53.plesk.page
+denizbank.52-39-96-97.plesk.page
 denizbank.app
 denizbank.basvur.4-231-237-0.plesk.page
 denizbank.basvuru.40-118-23-80.plesk.page
@@ -19628,6 +19633,7 @@ ea-hizlislemoghgs.com
 ea.daemon-update.com
 ea1.duckdns.org
 ea1o1.com
+ea1o1kutu.net
 ea3ok5s0o.duckdns.org
 ea4e6ysg.duckdns.org
 ea6l48k.duckdns.org
@@ -64007,6 +64013,7 @@ hadisizdegelin.com.tr
 hadisizdegelipkatlin.com.tr
 hadisizlegeldinya.xyz
 hadisizzdegelinhhadi.com.tr
+hadisndetemmza1o1.shop
 hadisxndehgsodemeyegel.net
 hadiszdegeliniz.net
 hadiujbxlm.duckdns.org
@@ -99991,10 +99998,3 @@ isttykldollm.net
 isttyklmszxf.net
 istulasimm.net
 istulasimyukleme.net
-isturkiye.com
-isturkiye.online
-isturkiye.us
-isturkiyeonline.com
-isturkiyeonlineplc.com
-isturkiyeplc.com
-istvkart.com
