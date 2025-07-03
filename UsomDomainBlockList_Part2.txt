@@ -1,3 +1,6 @@
+denizbank-subeleri.cf
+denizbank-subeleri.ga
+denizbank-subeleri.ml
 denizbank-subeleri.tk
 denizbank-subem-com.tk
 denizbank-subem.com
@@ -35419,6 +35422,7 @@ evrakrandevu.blogspot.com
 evraksorgulama.net
 evraksorgulama.org
 evrenbursum.com
+evrendickers.click
 evrenhuzuru.space
 evrenismecis.duckdns.org
 evrenkrepal.net
@@ -48839,6 +48843,7 @@ garantibbva-online-kredi-basvur.duckdns.org
 garantibbva-online-kredi-basvuru.duckdns.org
 garantibbva-online-kredi-islem.duckdns.org
 garantibbva-online-kredi-islemi.duckdns.org
+garantibbva-online-kredi-islemleri.duckdns.org
 garantibbva-online-kredi.duckdns.org
 garantibbva-online-krediler.duckdns.org
 garantibbva-online-kredileri.duckdns.org
@@ -72502,6 +72507,7 @@ hemensiparisiniver.click
 hemensiparisiniver.vip
 hemensiparisleal.com
 hemensiparissver.com
+hemensiparisver.click
 hemensiparisver.online
 hemensiparisver.org
 hemensiparisvernt.com
@@ -99992,9 +99998,3 @@ istnnblserr.net
 istnnf.net
 istnnm.net
 istnnmz.net
-istnnnbll-ibb.net
-istnns.net
-istnnv.net
-istnnz.net
-istnr.net
-istnrw.com
