@@ -35611,6 +35611,7 @@ aktuel.aktuelmarketonline.com.tr
 aktuel.arbitixbot.com
 aktuel.bayramkampanycnxd.com
 aktuel.blocklinkexchange.com
+aktuel.carrefoursa-persembeindirim.com
 aktuel.carsambagustos786.com
 aktuel.carsambamarket90.com
 aktuel.carsambaogleni74.com
@@ -99997,4 +99998,3 @@ denizbank-subemiz.com
 denizbank-temsilci.com
 denizbank-tr-clup.com
 denizbank-tr.com
-denizbank-trbonusyukle.com
