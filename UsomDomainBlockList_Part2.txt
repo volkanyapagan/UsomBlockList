@@ -1,3 +1,6 @@
+denizbank-odenek.cf
+denizbank-onay.com
+denizbank-onayla.com
 denizbank-onayli-kredi.tk
 denizbank-onaysubesi.com
 denizbank-online-cep-tr.cf
@@ -48910,6 +48913,7 @@ garantibbva-online-kredi-basvuru.duckdns.org
 garantibbva-online-kredi-islem.duckdns.org
 garantibbva-online-kredi-islemi.duckdns.org
 garantibbva-online-kredi-islemin.duckdns.org
+garantibbva-online-kredi-islemler.duckdns.org
 garantibbva-online-kredi-islemleri.duckdns.org
 garantibbva-online-kredi.duckdns.org
 garantibbva-online-krediler.duckdns.org
@@ -58640,6 +58644,7 @@ gratomu.xyz
 gratoo.bns-vio.site
 gratsuccessfic.pro
 gratt-hemenbasvur-bannce.com
+grattbb.com
 grattis-tr.ddnsguru.com
 grattis-tr.dynuddns.com
 grattis.ddnsguru.com
@@ -64238,6 +64243,7 @@ haftadaninyildizxliurnleri.site
 haftafirrsataldin.online
 haftafirsatidenizde.com
 haftaici1o1frsatlarrr.com
+haftaicifirsatlari.online
 haftaicifirsatlari.shop
 haftaicifirsatlari.xyz
 haftaicifirsatlariburada.online
@@ -99296,6 +99302,7 @@ istanbulmerkezsube.com.tr
 istanbulmerkezsube.xyz
 istanbulmkrtcl.net
 istanbulmobile.net
+istanbulmuhendisllik.com
 istanbulmus-hehe.net
 istanbulnormalyukle.net
 istanbulodemenoktasihizmeti.net
@@ -99991,10 +99998,3 @@ istnblkxrtmgstc.net
 istnblkxrtyuklle.tech
 istnbll34w.pro
 istnbllikart.com
-istnbllkart.com
-istnbllkfirsat.net
-istnbllkrtt.net
-istnbllktt.net
-istnblllkrt.net
-istnbllm.blogspot.com
-istnbllukrtdldr.net
