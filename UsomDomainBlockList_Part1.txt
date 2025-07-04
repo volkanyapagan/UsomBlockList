@@ -53610,6 +53610,7 @@ basvursmn.com.tr
 basvursmn.cyou
 basvursmn.xyz
 basvursmr.com.tr
+basvursmr.xyz
 basvursms.com.tr
 basvursms.cyou
 basvursms.xyz
@@ -99997,4 +99998,3 @@ denizbank-musteridenizdehayat.com
 denizbank-musterihediyecekilis.com
 denizbank-nefes-kredisi.com
 denizbank-netsube.com
-denizbank-ocakayifirsati.com
