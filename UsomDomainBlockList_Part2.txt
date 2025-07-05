@@ -1,3 +1,4 @@
+denizbank-kartaidatiadesi.cf
 denizbank-kartaidatiadesi.ga
 denizbank-kartaidatiadesi.gq
 denizbank-kartaidatiadesi.ml
@@ -99997,4 +99998,3 @@ istlamnalds.sa.com
 istlanbul-kartimislem.net
 istlen.com
 istlesybasvr.com
-istllkart.net
