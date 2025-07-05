@@ -2826,6 +2826,7 @@
 111090909228818.online
 11109com.com
 1111-22222-3333-4444444-555555566546489456.cyou
+1111-22222-3333-4444444-555555566546489456.xyz
 1111.ddns.net
 111101010111.cloud
 11111-1232132.cloud
@@ -14022,6 +14023,7 @@
 5tai495r.duckdns.org
 5tb4u1m5p1tiuh2.duckdns.org
 5tc5zqw7.duckdns.org
+5temmuzadasiparislerin.cloud
 5temmuzbasvurlarindan3.cloud
 5temmuzdaziaaatten.cloud
 5temmzuakfirsatin.online
@@ -99996,5 +99998,3 @@ denizbank-kredi-islemleri.org
 denizbank-kredi.tk
 denizbank-kredi.zapto.org
 denizbank-kredibasvurusu.tk
-denizbank-login-giris.com
-denizbank-m.com
