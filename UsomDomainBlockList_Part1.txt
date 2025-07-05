@@ -3435,6 +3435,7 @@
 12v-24voltkampbuzdolabi.cfd
 12v-24voltkampbuzdolabi.click
 12voltbuzdolap.cfd
+12voltbuzdolap.sbs
 12xx.zapto.org
 12y60ko92.duckdns.org
 12yluepuz.duckdns.org
@@ -51054,6 +51055,7 @@ babarenclave.pk
 babasadasadansada.site
 babasarkiyaptiulkeyisalladi.xyz
 babaseoa.com
+babasozunututtu.duckdns.org
 babatebfirsatlar.com
 babathemes.com
 babatilifonalo.net
@@ -53561,6 +53563,7 @@ basvurnrm.cyou
 basvurnuz.site
 basvurnuzyapikredi.com
 basvurnzm.com.tr
+basvurnzm.cyou
 basvurnzm.xyz
 basvuronayonayfinansalhizmetlerin.click
 basvuronline.com
@@ -99995,6 +99998,3 @@ denizbank-mobile.com
 denizbank-mobilesube-islemleri.com
 denizbank-mobilgiris.com
 denizbank-mobill.com
-denizbank-mobilsube-subeislemleri.com
-denizbank-mobilsube.com
-denizbank-mobilsubem.com
