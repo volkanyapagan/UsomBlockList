@@ -41036,6 +41036,7 @@ anlik-kredi-basvuru.com.tr
 anlik-siparisini-ver-lndirimlerden-yararlan.com
 anlik-tl-yukle-hatta-bireysel.com
 anlik-yukleme-sistemi.online
+anlik.sbs
 anlikakbasvurusorgulamaekran.com
 anlikapida1o1.com
 anlikarackiralama.com
@@ -82475,6 +82476,7 @@ carrbatneom.com
 carrchapman583.xyz
 carreefursazamni.com
 carref0ursa.net
+carrefaursa.store
 carreforsa.shop
 carreforsadan-gelenlr.space
 carreforsadan-gelenlr.store
@@ -99996,5 +99998,3 @@ denizbank-hediyemobilweb.com
 denizbank-hediyepuan.com
 denizbank-hemenbasvur.com
 denizbank-hepsizlerle.com
-denizbank-hizli.com
-denizbank-hizlibasvur.vercel.app
