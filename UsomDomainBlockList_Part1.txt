@@ -3630,6 +3630,7 @@
 142342.com.tr
 14235250706.duckdns.org
 14251425554150.xyz
+14251425554152.xyz
 1425154255454.xyz
 1425415588560.xyz
 1425520032.online
@@ -16698,6 +16699,7 @@
 7tazbox.zapto.org
 7tb7wq.duckdns.org
 7tcldzyc.duckdns.org
+7tem-muz101.com
 7temmuzbasvuraarin.cloud
 7thcpcupdates.info
 7tjc6jgdbm.com
@@ -36141,6 +36143,7 @@ aktuelsiparis.info.tr
 aktuelsiparis.net.tr
 aktuelsiparis.org.tr
 aktuelsiparisiler.com
+aktuelsiparislerim.online
 aktuelsok.duckdns.org
 aktuelsokmarket.com.tr
 aktuelsokmarket.info.tr
@@ -99995,6 +99998,3 @@ denizbank-hemenbasvur.com
 denizbank-hepsizlerle.com
 denizbank-hizli.com
 denizbank-hizlibasvur.vercel.app
-denizbank-iade-giris.com
-denizbank-iade-girisi.com
-denizbank-iade-girisim.com
