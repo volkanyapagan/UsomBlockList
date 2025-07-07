@@ -96340,6 +96340,7 @@ d.disgogoweb.com
 d.enizbank.com
 d.filebox.moe
 d.kjlhiwee.ltd
+d.misecure.com
 d.p.formaxprime.co.uk
 d.paribuex.vip
 d.strideoflife.com
@@ -99997,4 +99998,3 @@ denizbank-iadesubem.com
 denizbank-iadesubesi.com
 denizbank-iadetr.com
 denizbank-internethediye.com
-denizbank-internethediyesi.com
