@@ -1,3 +1,4 @@
+denizbank-hediyebasvuru.com
 denizbank-hediyecekilis.com
 denizbank-hediyeinternet.com
 denizbank-hediyeler.com
@@ -75381,6 +75382,7 @@ hgsborcveznesorgulama23.com
 hgsborczf.net
 hgsborecegecisodemelerde.duckdns.org
 hgsboreceihlalodemegec.duckdns.org
+hgsborecevihlalcegic.duckdns.org
 hgsbotcislemlriniz.duckdns.org
 hgsbrosh.net
 hgsbuksistemi.com
@@ -99996,5 +99998,3 @@ isthgss.com
 isthh.com
 isthhh.com
 isthira.ml
-isthizligecis.net
-isthizliulasim.net
