@@ -1723,6 +1723,7 @@
 101-de-haftalar-indirimler-burada.com
 101-de-hemen.com
 101-efsane.shop
+101-eozel.xyz
 101-firsat.com.tr
 101-firsatimcepte.name.tr
 101-firsatindm.com
@@ -4253,6 +4254,7 @@
 168c6x3.duckdns.org
 168tcwy.com
 168wangpi.com
+1692174.cloud
 16984561689951661561.net
 169dv.dkabx0.com
 169mz.iinm3.com
@@ -22589,6 +22591,7 @@ a6534.hioa13.com
 a658cfb8724ab3774fc754a89e8e2c89.com
 a65dg01nad956gn1.net
 a65snd1fa987n.net
+a662hty1q.shop
 a6ax14wv107rcv5dkre.ddns.net
 a6dff19b9e54.net
 a6g47e.duckdns.org
@@ -53874,6 +53877,7 @@ basvuru-form-tr.com
 basvuru-formiadelerr.com
 basvuru-formu-giris-yeni.com
 basvuru-formu-giris.com
+basvuru-formu-gonderitanitimsv301.duckdns.org
 basvuru-formu.net
 basvuru-formudoldurkatil.com
 basvuru-formudoldurkatila.com
@@ -99994,7 +99998,3 @@ denizbank-hizlibasvur.vercel.app
 denizbank-iade-giris.com
 denizbank-iade-girisi.com
 denizbank-iade-girisim.com
-denizbank-iade.com
-denizbank-iade.net
-denizbank-iadeaktar.com
-denizbank-iadeal.com
