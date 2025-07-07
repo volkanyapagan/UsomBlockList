@@ -1,3 +1,4 @@
+istkartdoldurmalar.net
 istkartdolmm.com
 istkartdolum.net
 istkartdolum.online
@@ -80664,6 +80665,7 @@ pttavm.shop
 pttavm.siparis-guvende.com
 pttavm.siparis-olustur-223031.com
 pttavm.siparis-onay-guvende.com
+pttavm.siparis-onayli-115520.com
 pttavm.siparisedin.com.tr
 pttavm.siparisguvencesi.com.tr
 pttavm.siparisiim.com.tr
@@ -99996,5 +99998,3 @@ sahinden.com
 sahinhurdageridonusum.net
 sahininden.com
 sahinindenkargopsecure.com.tr
-sahinkucuk.com
-sahinn-paradisehotel.com
