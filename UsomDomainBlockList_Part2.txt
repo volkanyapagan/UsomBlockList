@@ -1,3 +1,6 @@
+denizbank-dovizyatirim.com
+denizbank-e-mobilkampanya.online
+denizbank-e.com
 denizbank-ebankacilik.com
 denizbank-edevlet.com
 denizbank-edevletim.com
@@ -89518,6 +89521,7 @@ ile-guvenleislemyap.com
 ile-guvenleodeme-yap.com
 ile-guvenli-adim.com
 ile-guvenli-adimlar.com
+ile-guvenli-al.com
 ile-guvenli-alisveris.com
 ile-guvenli-alisverisim.com
 ile-guvenli-hizmet.com
@@ -99994,7 +99998,3 @@ isteozamanwork21.net
 isteozamanwork23.net
 isteozamanwork25.net
 isteozamanwork28.net
-isteozamanwork30.net
-isteozamanwork35.net
-isteozamanwork4.net
-isteozamanwork41.net
