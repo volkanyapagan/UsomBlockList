@@ -20552,6 +20552,7 @@ a101-online-al.xyz
 a101-online-alisveris-website.com
 a101-online-alisveris-yap.rf.gd
 a101-online-alisveris.com
+a101-online-alisveris.duckdns.org
 a101-online-alisveris.oldshoping.xyz
 a101-online-alisverisim.com
 a101-online-harca.com
@@ -99997,4 +99998,3 @@ denizbank-guvenligegecis.com
 denizbank-hayatdenizdeguzel.com
 denizbank-hazirkredi.ml
 denizbank-hediye10gb.com
-denizbank-hediyeanketi.com
