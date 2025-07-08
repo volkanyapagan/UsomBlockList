@@ -1,3 +1,4 @@
+denizbank-flysaa.com
 denizbank-gbanketi.com
 denizbank-gbhediyeleri.com
 denizbank-gbhediyesi.com
@@ -38683,6 +38684,7 @@ faydalan.ml
 faydalardestekhibesi.com
 faydalidestek.com
 faydaliyardim.com
+faydavegelecek.online
 faydino.store
 faygox.duckdns.org
 faynk3qc.duckdns.org
@@ -73558,6 +73560,7 @@ heristomuk.hopto.org
 heritageflair.com
 heritagepreside.top
 heritagetravelmw.com
+heritox.com
 herjzyorr.net
 herkbilisimbirlik.com
 herkelerneme.online
@@ -99141,6 +99144,7 @@ istanbul-onlinekartyuklemeleri.com
 istanbul-soft.com.tr
 istanbul-ucuz-escort.com
 istanbul-vesnlik.xyz
+istanbul-yapiceponay.vercel.app
 istanbul.lequiva.com
 istanbul.lequiva.net
 istanbul.nativezsystem.us
@@ -99994,7 +99998,3 @@ istetamdestek.com
 istetamdestekis.online
 isteturkungucukuzi.net
 isteurunlerkarsinizda.xyz
-isteurunlerkarsinizdaburada.xyz
-istevakifbankistekampanya.com
-isteworkozaman3.net
-isteyapbilgiler.com
