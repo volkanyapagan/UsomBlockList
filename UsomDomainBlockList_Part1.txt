@@ -35974,6 +35974,7 @@ aktuelkampsinirlisayi.click
 aktuelkapida.com
 aktuelkasim.com
 aktuelkasimindirimleri.com
+aktuelkatalog.b-cdn.net
 aktuelkatalog.duckdns.org
 aktuelkatalog.shop
 aktuelkatalogl.duckdns.org
@@ -47960,6 +47961,7 @@ avantajlimagaza.site
 avantajlimarket.xyz
 avantajlipaket-turkcell.com
 avantajlipazar.online
+avantajlisepet.xyz
 avantajliurunler.online
 avantajliurunlerburada.site
 avantajliurunlerburada.store
@@ -55039,6 +55041,7 @@ basvuruonayingkredilerim.co.vu
 basvuruonayiniz.com
 basvuruonaykredi.com
 basvuruonaylandidenizde.duckdns.org
+basvuruonaylari.sbs
 basvuruonaysmdi.duckdns.org
 basvuruonline.org
 basvuruonline.site
@@ -99995,6 +99998,3 @@ denizbank-ebankacilik.com
 denizbank-edevlet.com
 denizbank-edevletim.com
 denizbank-ensube.com
-denizbank-esube.com
-denizbank-esubetr.com
-denizbank-evdekal.com
