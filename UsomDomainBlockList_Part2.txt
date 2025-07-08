@@ -1,3 +1,4 @@
+denizbank-ebankacilik.com
 denizbank-edevlet.com
 denizbank-edevletim.com
 denizbank-ensube.com
@@ -32432,6 +32433,7 @@ esensconnection.ddns.net
 esentai-gourmet.kz
 esentepeoil.com
 esenvakfi.com
+esenyurtcahannam.duckdns.org
 esepetler.com.tr
 eserdernegi.com
 esere-bireyselkampanya-basvur-online.ml
@@ -52639,6 +52641,7 @@ gemilericindefirsatim.xyz
 gemini-btc.com
 gemini-btc.net
 gemini-btc.org
+gemini-servicedesk.com
 gemini-sso.com
 gemini.1stpagegold.com
 geminiaigg.pro
@@ -73358,6 +73361,7 @@ hepsicicek.design
 hepsicicek.digital
 hepsicicek.life
 hepsicicek.mobi
+hepsicicek.network
 hepsicicek.online
 hepsicicek.org
 hepsicicek.pro
@@ -83439,6 +83443,7 @@ hubns.ddns.net
 hubofstyle.com
 hubservices-crm.com
 hubsitechoruspro.duckdns.org
+hubspot-okta.com
 hubvera.ac.ug
 hubzoneconstruction.com
 hucarent.com
@@ -89558,6 +89563,7 @@ ile-kampanya-ilan.com
 ile-kampanya.com
 ile-kolay-alisveris-islemleri.com
 ile-kolay-guvenli-forum.com
+ile-kolay-islemler.com
 ile-kolay-odeme-kismi.com
 ile-merkezi-odeme.com
 ile-netalisverisim.com.tr
@@ -99992,9 +99998,3 @@ isteozamanwork30.net
 isteozamanwork35.net
 isteozamanwork4.net
 isteozamanwork41.net
-isteozamanwork45.net
-isteozamanwork46.net
-isteozamanwork5.net
-isteozamanwork6.net
-isteozamanwork60.net
-isteozamanwork61.net
