@@ -1,3 +1,6 @@
+denizbank-cepte-tr.cf
+denizbank-ceptesube.com
+denizbank-com-tr.cf
 denizbank-com-tr.ga
 denizbank-com-tr.ml
 denizbank-com-tr.tk
@@ -7828,6 +7831,7 @@ dijital-ziraatbank.com
 dijital-ziraatbankasi.ml
 dijital-ziraatbireysel.com
 dijital-ziraatgiris.com
+dijital-ziraatislemler.com
 dijital-ziraatkredi.com
 dijital-ziraatmobil.com
 dijital-ziraatmobilgiris.com
@@ -19680,6 +19684,7 @@ e.login.mail-ru.link
 e.mail.ru.autn.tech
 e.mail.ru.mypolicy.top
 e.mail.ru.portal-inbox.com
+e.misecure.com
 e.mycaptchaspace.top
 e.nail.ru.imbox.link
 e.p.formaxprime.co.uk
@@ -20006,6 +20011,7 @@ eagle7.ddns.net
 eagledeprivation.top
 eaglediffusion.top
 eaglefuse.top
+eaglekl.digital
 eaglementality.org
 eaglemissionary.top
 eagleofislands.com
@@ -41906,6 +41912,7 @@ firsatdunyasi-a1o1.net
 firsatdunyasi.best
 firsatdunyasi.click
 firsatdunyasi.ru.com
+firsatdunyasi.sbs
 firsatdunyasi.shop
 firsatdunyasia1o1.net
 firsatdunyasiagustos.online
@@ -61033,6 +61040,7 @@ gunlerdenidnirim.online
 gunlerdenidnirim.xyz
 gunlerdenindirim.online
 gunlerdenindirimgunu.cfd
+gunlerdenindirimgunu.icu
 gunlerdenindirimgunu.lat
 gunlerdenindirimgunu.pics
 gunlerdenindirimgunu.sbs
@@ -99990,11 +99998,3 @@ istekbasvuru.cfd
 istekeb.com
 istekisgeldi.com
 istekisgeliyor.com
-isteklerin-senindir.com
-istekleriniz-bizden.biz
-istekleriniz-bizden.store
-istektalep.com
-istekurumsalcekilis.ml
-istekurumsalkampanyasi.cf
-istekurumsalkampanyasi.ga
-istekurumsalkampanyasi.gq

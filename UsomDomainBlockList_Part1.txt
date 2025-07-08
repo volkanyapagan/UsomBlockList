@@ -17887,6 +17887,7 @@
 8td6hl.duckdns.org
 8temmuzakfirsat.online
 8temmuzdasizlefirsat.online
+8temmuzfirsatlari.duckdns.org
 8tm.us
 8tmbk5z6.duckdns.org
 8tmi68o.cn
@@ -36206,6 +36207,7 @@ aktuelvakitilerin.click
 aktuelvmarket.com.tr
 aktuelvmarket.net.tr
 aktuelvmarket.org.tr
+aktuelvolta.net
 aktuelxmpyyn.click
 aktuelyilbasi.net
 aktuelzmpyyn.click
@@ -82514,6 +82516,7 @@ carref0ursa.net
 carrefaursa.online
 carrefaursa.site
 carrefaursa.store
+carreffoursa.site
 carreforsa.shop
 carreforsadan-gelenlr.space
 carreforsadan-gelenlr.store
@@ -99995,6 +99998,3 @@ denizbank-cepsubem-com.tk
 denizbank-cepsubem.com
 denizbank-cepsubem.tk
 denizbank-cepsubesi.com
-denizbank-cepte-tr.cf
-denizbank-ceptesube.com
-denizbank-com-tr.cf
