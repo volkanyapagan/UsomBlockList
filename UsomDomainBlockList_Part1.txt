@@ -1686,6 +1686,7 @@
 101-7temmuz.com
 101-7temmuzsabah.com
 101-9tem-muz.com
+101-9temmuz.com
 101-a-sinirlistok.com
 101-aktuel-firsat-urunlerim.top
 101-aktuel-kampanya.top
@@ -99997,4 +99998,3 @@ denizbank-bireysel-2018.com
 denizbank-bireysel-giris.com
 denizbank-bireysel-internetsubesi.com
 denizbank-bireysel-tr.com
-denizbank-bireysel.ga
