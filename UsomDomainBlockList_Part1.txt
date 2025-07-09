@@ -1685,6 +1685,7 @@
 101-6hazirangece.com
 101-7temmuz.com
 101-7temmuzsabah.com
+101-9tem-muz.com
 101-a-sinirlistok.com
 101-aktuel-firsat-urunlerim.top
 101-aktuel-kampanya.top
@@ -5667,6 +5668,7 @@
 1o1frsatindrmmmler.com
 1o1frsatkapida.com
 1o1frsatlargnleriniz.com
+1o1frsatlariniz.com
 1o1frsatlarkapnda.com
 1o1frsatlarniz.com
 1o1frsatlarniz.site
@@ -37888,6 +37890,7 @@ alisverisdyson.online
 alisverisedoymagunu.com.tr
 alisverisedoymagunu.online
 alisverisedoymagunu.xyz
+alisverisegeldiktemmuz.com.tr
 alisverisegeliyoruz.com.tr
 alisverisehemenbasla.com
 alisverisepet.online
@@ -82544,6 +82547,7 @@ carrefaursa.online
 carrefaursa.site
 carrefaursa.store
 carreffoursa.site
+carreffoursa.space
 carreforsa.shop
 carreforsadan-gelenlr.space
 carreforsadan-gelenlr.store
@@ -93458,6 +93462,7 @@ cqbqojy.duckdns.org
 cqcrqxidpxxylmxvm.org
 cqcwyqvsbw-cwfqhsvqjs-gwfshqvs.cfd
 cqcwyqvsbw-cwfqhsvqjs-gwfshqvs.cyou
+cqcwyqvsbw-cwfqhsvqjs-gwfshqvs.sbs
 cqdenizbank.com
 cqegnv.com
 cqf42qj.duckdns.org
@@ -99993,8 +99998,3 @@ denizbank-bireysel-tr.com
 denizbank-bireysel.ga
 denizbank-bireyselim.com
 denizbank-bireyselislemler2.com
-denizbank-bireyselsubeislemleri.com
-denizbank-bonus-com-tr.ml
-denizbank-bonus-com-tr.tk
-denizbank-bonus-islem.club
-denizbank-bonus-islem.site
