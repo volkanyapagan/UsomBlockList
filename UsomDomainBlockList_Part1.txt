@@ -1687,6 +1687,7 @@
 101-7temmuzsabah.com
 101-9tem-muz.com
 101-9temmuz.com
+101-9temmuzaksam.com
 101-a-sinirlistok.com
 101-aktuel-firsat-urunlerim.top
 101-aktuel-kampanya.top
@@ -19840,6 +19841,7 @@ a-habergov.org
 a-haberlerim.online
 a-haberleriniz.com
 a-hberim-edevlet.com
+a-hemen-kapida.duckdns.org
 a-host.co.uk
 a-i-daatiadem.store
 a-i101.com
@@ -55340,6 +55342,8 @@ basvurvnr.cyou
 basvurvpr.com.tr
 basvurvpr.online
 basvurvpr.xyz
+basvurvrm.com.tr
+basvurvrm.cyou
 basvurvry.com.tr
 basvurvrz.com.tr
 basvurvrz.cyou
@@ -65714,6 +65718,7 @@ bioderma-yazkremi.com.tr
 bioderma-yazkremi.net.tr
 biodermaguneskremi.com.tr
 biodermayaz.com.tr
+biodermayazkremi-firsat.com.tr
 biodermayazkremi.com.tr
 biodogacevre.com
 biogemex.com
@@ -71134,6 +71139,7 @@ bluesky.info
 blueskys.info
 blueskysuits.com
 bluespiredice.com
+bluespron.duckdns.org
 bluestacks-install.com
 bluestarpaymentsolutions.com
 bluetek1.com
@@ -93941,6 +93947,7 @@ crfsdnglnleriyklaozmn.com
 crfsdnolckglmcolmadn.com
 crfsdnyklydklarinz.com
 crfsdnzhizlicagldiler.com
+crfsdnzhizlicagldiler.info
 crfsdyncrfsyagldmbncrfasa.com
 crfsmhmnal.shop
 crfsmhmnaldiniz.shop
@@ -99991,10 +99998,3 @@ denizbank-basvurumerkezi.com
 denizbank-basvurun.com
 denizbank-basvuruonline.com
 denizbank-basvurupaneli.com
-denizbank-bayram-kredim.tk
-denizbank-bayram-kredisi.tk
-denizbank-bddk.com
-denizbank-bireysel-2018.com
-denizbank-bireysel-giris.com
-denizbank-bireysel-internetsubesi.com
-denizbank-bireysel-tr.com
