@@ -1,3 +1,4 @@
+denizbank-basvuru.site
 denizbank-basvuru.store
 denizbank-basvuruform.com
 denizbank-basvurukanali.com
@@ -99997,4 +99998,3 @@ istbsav.com
 istbsvnrsa.com
 istbulkartdolum.net
 istbulkrrt.net
-istbuln-krtyukle.com
