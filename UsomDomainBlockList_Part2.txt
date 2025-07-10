@@ -1,3 +1,4 @@
+denizbank-aidat-iadeleri.com
 denizbank-aidatiadele.com
 denizbank-aidatiadeleri.com
 denizbank-aidatiadelerim.com
@@ -58979,6 +58980,7 @@ gratis-mobile.dynuddns.com
 gratis-online-tr.com
 gratis-serius.duckdns.org
 gratis-tr.com
+gratis-tr.dynuddns.com
 gratis-turk.duckdns.org
 gratis.ddnsguru.com
 gratis.myvnc.com
@@ -99996,5 +99998,3 @@ istbakye34.net
 istbakyeyuklemelerim.net
 istbank.co.vu
 istbankhediye.ml
-istbas1.com
-istbasim.net
