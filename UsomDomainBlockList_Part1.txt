@@ -55364,6 +55364,7 @@ basvurvpr.online
 basvurvpr.xyz
 basvurvrm.com.tr
 basvurvrm.cyou
+basvurvrm.xyz
 basvurvry.com.tr
 basvurvrz.com.tr
 basvurvrz.cyou
@@ -99997,4 +99998,3 @@ denizbank-aflli.com
 denizbank-afllisi.com
 denizbank-aidat-basvuru.com
 denizbank-aidat-iadeleri.com
-denizbank-aidatiadele.com
