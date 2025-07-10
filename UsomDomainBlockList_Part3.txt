@@ -86445,6 +86445,7 @@ qqmailappupdate.ga
 qqnbiadm.vercel.app
 qqnbikmpny.vercel.app
 qqnbikmpnys.vercel.app
+qqnbirvtrl.vercel.app
 qqnbkampanya.vercel.app
 qqnbkampanyakatil.vercel.app
 qqnblekampan.vercel.app
@@ -99997,4 +99998,3 @@ sahibindenparamguvende.odeme.sa.com
 sahibindenparamguvende.odemeonline.net
 sahibindenparamguvende.odemeonlinetr.sa.com
 sahibindenparamguvende.odemepay.net
-sahibindenparamguvende.odemetr.net
