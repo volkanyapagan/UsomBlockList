@@ -1,3 +1,4 @@
+denizbank-baharfirsatlari.com
 denizbank-balbey.subesi.tc
 denizbank-basvur.buzz
 denizbank-basvur.cf
@@ -43110,6 +43111,7 @@ firsatsimdigeldi.biz.tr
 firsatsimdigeldi.com.tr
 firsatsimdigeldi.info.tr
 firsatsimdigeldi.name.tr
+firsatsimdigeldi.tv.tr
 firsatsimdigeldi.web.tr
 firsatsimdisepette.online
 firsatsitemi.com
@@ -64812,6 +64814,7 @@ haftanintelefonuu1001.com
 haftanintrendlerinesendebirbak.shop
 haftaninurunleri-a101.kesug.com
 haftaninurunlerii.com.tr
+haftaninurunlerionlinede.duckdns.org
 haftaninurunleris.com.tr
 haftaninyenifirsatlari.shop
 haftaninyeniyildizlariaktuel.xyz
@@ -73539,6 +73542,7 @@ hepsicicek.network
 hepsicicek.online
 hepsicicek.org
 hepsicicek.pro
+hepsicicek.rocks
 hepsicicek.services
 hepsicicek.shop
 hepsicicek.space
@@ -99994,7 +99998,3 @@ istbkyklemes.com
 istbkym.com
 istbkynse.com
 istblbakiye.net
-istblblmmbkym.net
-istbll-krt-dldur.com
-istbll.com
-istbllkrt-dolum.com

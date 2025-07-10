@@ -78063,6 +78063,7 @@ buhaftaanin-urunlerii.net
 buhaftabimde.shop
 buhaftadeliindirimlervar.cfd
 buhaftadeliindirimlervar.icu
+buhaftadeliindirimlervar.lat
 buhaftadeliindirimlervar.sbs
 buhaftahakkinizvar.net
 buhaftaindirim.hopto.org
@@ -99997,4 +99998,3 @@ denizbank-anketi.com
 denizbank-anketle.com
 denizbank-aralik.onthewifi.com
 denizbank-baharfirsati.com
-denizbank-baharfirsatlari.com
