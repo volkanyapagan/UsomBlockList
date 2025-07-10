@@ -1,3 +1,10 @@
+sahibindenparamguvende.odemetr.sa.com
+sahibindenparamguvende.online
+sahibindenparamguvende.online-alisveris-tr.sa.com
+sahibindenparamguvende.online-alisveris.ru.com
+sahibindenparamguvende.online-alisveris.sa.com
+sahibindenparamguvende.online-alisveristr.sa.com
+sahibindenparamguvende.online-odeme-tr.sa.com
 sahibindenparamguvende.online-odeme.sa.com
 sahibindenparamguvende.online-tr.sa.com
 sahibindenparamguvende.onlinealisveris-tr.sa.com
@@ -7270,6 +7277,7 @@ servicewrapgo.com
 servicewrapone.com
 servicexl.giize.com
 serviciilaser.ro
+serviciltugin.cc
 servicio-caixabannk.ddns.net
 servicioapplestore.com
 serviciocliente.ddns.net
