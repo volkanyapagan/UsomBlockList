@@ -35590,6 +35590,7 @@ aktuel-aldin-aldin.com.tr
 aktuel-altus.com.tr
 aktuel-ayuzbirmarketleri.com
 aktuel-c101.com.tr
+aktuel-cepte.b-cdn.net
 aktuel-cepte.com.tr
 aktuel-cepte.net.tr
 aktuel-cepte.org.tr
@@ -85189,6 +85190,7 @@ ceptemagazaonline.org.tr
 ceptemarket-kampanyalar.online
 ceptemarket101.online
 ceptemarketim.pages.dev
+ceptemarketimsok.com
 ceptemarketindirim.com
 ceptemarketindirimler.com
 ceptemarketkapinda.online
@@ -99996,5 +99998,3 @@ denizbank-10gbkampanya.com
 denizbank-10gbkampanyasi.com
 denizbank-10subatpromosyondenizbank.duckdns.org
 denizbank-15promosyondenizbank.duckdns.org
-denizbank-1tl10gb.com
-denizbank-2020basvuru-kampny.com
