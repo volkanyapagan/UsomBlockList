@@ -1,3 +1,4 @@
+istatat.shop
 istationmuayn.net
 istavnbullkarrt.com
 istawkdx.net
@@ -99997,4 +99998,3 @@ sahibindenparam.guvende-ilantr.sa.com
 sahibindenparam.guvende-odeme.sa.com
 sahibindenparam.guvende-online-tr.sa.com
 sahibindenparam.guvende-online.sa.com
-sahibindenparam.guvende-satin-al.com
