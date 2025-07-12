@@ -17403,6 +17403,7 @@
 887c6hes.duckdns.org
 888000888800.duckdns.org
 888005528.cloud
+8880088800088.duckdns.org
 8880335664.cloud
 88820.pro
 88821788.cloud
@@ -21361,6 +21362,7 @@ a101haftaninyilzidi.com.tr
 a101haftaninyilzidi.online
 a101haftaninyilzidi.xyz
 a101haftasezon.hopto.org
+a101haftasonuindirimleri.duckdns.org
 a101hakimda.online
 a101haktuelweb.com
 a101harcaaharcaabitmez.shop
@@ -99996,5 +99998,3 @@ denizbakislemler.xyz
 denizbakn.online
 denizbaktr.com
 denizban-k.cf
-denizban-k.com
-denizban-k.ga
