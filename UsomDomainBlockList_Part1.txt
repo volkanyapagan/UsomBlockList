@@ -16060,6 +16060,7 @@
 77-83-201-131.plesk.page
 77-83-201-133.plesk.page
 7700343235600534.cloud
+77007777007.duckdns.org
 77112hilan.ddns.net
 7711556555.cloud
 771717514-2025.xyz
@@ -99997,4 +99998,3 @@ denizban-k.ga
 denizban-k.ml
 denizban.tk
 denizban2019webs.com
-denizbanackv2ktektrgiris.cf
