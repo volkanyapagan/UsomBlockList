@@ -82648,6 +82648,7 @@ carrefaursa.store
 carreffoursa.online
 carreffoursa.site
 carreffoursa.space
+carreffourso.store
 carreforsa.shop
 carreforsadan-gelenlr.space
 carreforsadan-gelenlr.store
@@ -99997,4 +99998,3 @@ denizba-nkbasvuruu.com
 denizbaaank.ml
 denizbaank.com
 denizbaankkredi.ml
-denizbaankkredi.tk
