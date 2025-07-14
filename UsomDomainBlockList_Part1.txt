@@ -16074,6 +16074,7 @@
 77-83-201-131.plesk.page
 77-83-201-133.plesk.page
 7700343235600534.cloud
+7700777700077.duckdns.org
 77007777007.duckdns.org
 77112hilan.ddns.net
 7711556555.cloud
@@ -53734,6 +53735,7 @@ basvurmrs.xyz
 basvurmrx.com.tr
 basvurmrx.online
 basvurmrz.com.tr
+basvurmrz.xyz
 basvurmsn.com.tr
 basvurmsn.xyz
 basvurmte.online
@@ -54389,6 +54391,7 @@ basvurudestekbnctr.com
 basvurudevamedinizkontrol11.duckdns.org
 basvurudijitaldenizbank.co.vu
 basvurudilan.org
+basvurudogrulamahaziraa.duckdns.org
 basvurudogrulamahazironayla.duckdns.org
 basvurudogrulamaniz.org
 basvurudogrulamaonay.org
@@ -54572,6 +54575,7 @@ basvurugunumgiris.duckdns.org
 basvurugunumgiristim.duckdns.org
 basvurugunumm.duckdns.org
 basvuruhalkmobilsube.com
+basvuruhazironaygiris.duckdns.org
 basvuruhediyemdeday.net
 basvuruhediyenihemenal.com
 basvuruhemen.com
@@ -73955,6 +73959,7 @@ bntrgiris.xyz
 bntrgirishemen.vercel.app
 bntrgirisonline.com
 bntrintrrewardcenterreward.vercel.app
+bntriyge.vercel.app
 bntrkolaybasvuru.com
 bntrkolayerisim.com
 bntrkolaygiris.xyz
@@ -99993,8 +99998,3 @@ denizacikinternetsubesigiris2019.info
 denizacikinternetsubesigiris2019.net
 denizacikinternetsubesigiris2019.org
 denizacikkv2.tk
-denizacikmobil100yil.online
-denizacikmobildoviz.com
-denizacikonlinenetnet.com
-denizacikredibasvur.com
-denizaciksubem.com
