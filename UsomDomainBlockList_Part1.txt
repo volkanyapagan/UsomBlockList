@@ -39072,6 +39072,7 @@ altinkampanyasi.tk
 altinkampanyasikatil.com
 altinkaplamacuzdan.com
 altinkumotel.com
+altinkup.b-cdn.net
 altinlarmobilde.com
 altinogrenciler.info
 altinogrencilervakfi.com
@@ -56530,6 +56531,7 @@ bbva-incidencias.duckdns.org
 bbva-islemler.com.tr
 bbva-kredi.com.tr
 bbva-kredibasvuru.site
+bbva-mobilbasvurukanali.com
 bbva-mobile.help
 bbva-mobilsube.com
 bbva-movil-aviso.com
@@ -99996,5 +99998,3 @@ denizakillislemlerinize.duckdns.org
 denizaktif.tk
 denizaktifabuxs.62-171-160-123.plesk.page
 denizaktifbank-agustosayikampanyasibu.tk
-denizaktifbasvurun.info
-denizaktifsube.com
