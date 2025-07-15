@@ -73,6 +73,7 @@
 0001009.site
 00011-111-2-22.cloud
 00011-1111-111-2222.cloud
+00022000222002.duckdns.org
 00023323223211231.cloud
 0002911.top
 000612542g16261261512.duckdns.org
@@ -22015,6 +22016,7 @@ a101temmuz.com
 a101temmuzfirsatlariniz.com
 a101temmuzfrsatlari.online
 a101temmuzindirimleri.com
+a101temmuzkampanylari.duckdns.org
 a101tiklakapinda.online
 a101tmzindirmelr.com
 a101toshibasubatayndakampnyalaribaslar.vercel.app
@@ -99996,5 +99998,3 @@ deniz25yilsozelsupriz.com
 deniz26yilozel.com
 deniz26yilozelbmwx3.com
 deniz29yilarabacekilisi.com
-deniz75tlbonus.com
-deniz7ocakbasvurum.ip-ddns.com
