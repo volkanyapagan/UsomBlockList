@@ -3297,6 +3297,7 @@
 1255551122434.cloud
 12555988999880080.xyz
 12555988999880082.xyz
+12555988999880084.xyz
 1255649472.corolain.ru
 1256627016.corolain.ru
 1258489-009.com
@@ -59237,6 +59238,7 @@ bgn-1o1de.shop
 bgn-1o1dee.site
 bgn-akt.shop
 bgn-aktl.shop
+bgn-bn-dg-gn.shop
 bgn-br-gln.cfd
 bgn-brlr.it.com
 bgn-gel-frst.shop
@@ -64610,6 +64612,7 @@ bimservice.xyz
 bimservices.tk
 bimservsvvs.com
 bimseymenkocak.com
+bimshop.ct.ws
 bimshop.site
 bimshortsrv.tk
 bimshorztssv.tk
@@ -99995,6 +99998,3 @@ deniz9subatfirsati.online
 denizaazbankw.com
 denizacik-internet.online
 denizacik.freewebhostmost.com
-denizacik100yil.online
-denizacikbasvurnet.linkpc.net
-denizacikdenizv2tiklama.20-42-95-49.plesk.page
