@@ -1,3 +1,6 @@
+istanbulkartcim.net
+istanbulkartcimx.net
+istanbulkartciyim.net
 istanbulkartcmx.net
 istanbulkartcomtr.ml
 istanbulkartdollum.com
@@ -76649,6 +76652,7 @@ portalapp.co
 portalaraba.net
 portalaraci.net
 portalavukat.org
+portalavukatsorgu.org
 portalbalancze.com
 portalbasvur-turkeygovtr.com
 portalbasvur.com
@@ -99994,7 +99998,3 @@ sahibindencom-paranguvende.ml
 sahibindencom.com
 sahibindencom.net
 sahibindencom.tk
-sahibindencom.xyz
-sahibindencomguvenlieticaret.co.vu
-sahibindencomparaguvende.com
-sahibindencomparaguvende.net
