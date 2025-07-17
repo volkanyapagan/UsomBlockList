@@ -38151,6 +38151,7 @@ alisveristekampanyalar.online
 alisveristekampanyalar.xyz
 alisveristekifirsat.com.tr
 alisveristekifirsat.online
+alisveristepersembefirsati.cfd
 alisveristepersembefirsati.icu
 alisveristetekadres.com.tr
 alisveristetekadresburasi.baby
@@ -55517,6 +55518,7 @@ basvurymn.com.tr
 basvurymn.xyz
 basvurzmn.com.tr
 basvurzmn.xyz
+basvurzmr.com.tr
 basvurznr.com.tr
 basvurznr.cyou
 basvurzuz.site
@@ -99996,5 +99998,3 @@ deniz-subemizden.com
 deniz-subesiz-girisler-cekilis.tk
 deniz-super.ip-ddns.com
 deniz-tanim.net
-deniz-tanimlama.net
-deniz-tr-cep.com
