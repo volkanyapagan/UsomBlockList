@@ -1679,6 +1679,7 @@
 101-16mayisfirsat.com
 101-16mayisoglen.com
 101-16mayissabah.com
+101-17temmuz.com
 101-1haziranaksam.com
 101-1haziranon.com
 101-20mayisaksam.com
@@ -55860,6 +55861,7 @@ baykar.ltd
 baykar.run
 baykar.site
 baykar.ticktokers.com
+baykar.top
 baykar.uno
 baykar.website
 baykar.world
@@ -55912,7 +55914,10 @@ baykarsystem.tr
 baykarsystems.com
 baykart.trbaykl.com
 baykartech.icu
+baykartech.life
 baykartech.live
+baykartech.world
+baykarteknoloji.net
 baykarter.space
 baykartr.com
 baykartur.com
@@ -68343,6 +68348,7 @@ bitpandadrawgiveawaybest.duckdns.org
 bitpandaeventbestmai.duckdns.org
 bitranza.com
 bitrat9300.duckdns.org
+bitriova.com
 bitrobatea.xyz
 bitscrunch.ddns.net
 bitscrunch.zapto.org
@@ -77708,6 +77714,7 @@ bubushkalioua.com
 bubzmemlkaode.blogspot.com
 buc3c8.duckdns.org
 buca-islem1.22web.org
+bucalterpro.click
 bucamcennet.net
 bucasiz.net
 bucaslww.dreamhosters.com
@@ -82081,6 +82088,7 @@ canakalesubesindeler.com.tr
 canakalesubesindeler.online
 canakalesubesindeler.xyz
 canakanten.host
+canakanteni.cfd
 canakkalesubesi.com.tr
 canakkalesubesi.online
 canakkalesubesi.xyz
@@ -89066,6 +89074,7 @@ climateplus.ae
 climatesniff.top
 climaticelaborately.top
 climaticultra.top
+climatior.com
 climatologfy.top
 climbanimalyouprice.live
 climbhover.top
@@ -92516,6 +92525,7 @@ cordonmalouement.zapto.org
 core-update.com
 core.alternativeads.net
 core11111.ddns.net
+coreank.com
 coreapc.co.kr
 corebitlab.com
 corects.shop
@@ -99000,6 +99010,7 @@ deficienypothesis.top
 deficitanonymous.top
 deficitelicit.top
 deficitmanoeuvre.top
+defimetrica.com
 defimob.bar
 defineempirically.top
 definform.com
@@ -99987,14 +99998,3 @@ deniz.acik-p-basvuruinuz.com
 deniz.bank.4-231-235-170.plesk.page
 deniz.bankkredibasvurum.com
 deniz.bayaramaozel-bonuskampanyasi.cf
-deniz.bk-bg.com
-deniz.cf
-deniz.com.tr
-deniz.iade-servisi.com
-deniz.imcaimw.org
-deniz.kisalink.cc
-deniz.kisalt.cc
-deniz.mavinincizgisi.com
-deniz.mobilislemler.online
-deniz.mobilislemler.tech
-deniz.onlinemobilpuanlar.tk
