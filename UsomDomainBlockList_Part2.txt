@@ -1,3 +1,5 @@
+deniz-super.ip-ddns.com
+deniz-tanim.net
 deniz-tanimlama.net
 deniz-tr-cep.com
 deniz-tr-de.com
@@ -45948,6 +45950,7 @@ franckdeplain.zapto.org
 franco.ddns.net
 francodelinger.duckdns.org
 francoispatrik.com
+francoluxe.com
 francoo0.zapto.org
 francothesped.geek
 franginn.com
@@ -58583,6 +58586,7 @@ gothgsm.com
 gotmnw.top
 goto-informations-ss989.duckdns.org
 gotoatksdlnasndasma.blogspot.com
+gotobharat.com
 gotogo.sg-host.com
 gotois1.xyz
 gotomeet.us
@@ -61424,6 +61428,7 @@ gunceltrsikayetler-14.sbs
 gunceltrsikayetler-15.sbs
 gunceltrsikayetler-157.sbs
 gunceltrsikayetler-158.sbs
+gunceltrsikayetler-159.sbs
 gunceltrsikayetler-166.sbs
 gunceltrsikayetler-17.sbs
 gunceltrsikayetler-18.sbs
@@ -79857,6 +79862,7 @@ hizliisleminizburdabasladi.online
 hizliislemiste.com
 hizliislemler-govptt.com
 hizliislemler.com
+hizliislemler.duckdns.org
 hizliislemler.net
 hizliislemler.sg-host.com
 hizliislemler.work
@@ -99992,9 +99998,3 @@ istanbulgermany.org
 istanbulgezginiyiz.ml
 istanbulgngkartel.net
 istanbulgulum.net
-istanbulgunaydin.net
-istanbulguncel.net
-istanbulguzelim.com
-istanbulguzellik.me
-istanbulhaber.club
-istanbulhaber.online
