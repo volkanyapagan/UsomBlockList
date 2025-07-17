@@ -1,3 +1,5 @@
+sahibinden.space
+sahibinden.ss-secure-pay.com
 sahibinden.ss-securepayment.com
 sahibinden.success-app.net
 sahibinden.success-odeme.net
@@ -19848,6 +19850,7 @@ spnsrkmp86.com
 spnsrlu-295912905902590.name.tr
 spnsrlu-959812899823499291921.name.tr
 spnsrlu-vakf34.duckdns.org
+spnsrlu-vakf34.xyz
 spnsrlu-yapionline.duckdns.org
 spnsrlu-zironline.duckdns.org
 spnsrlu3-yapionline.duckdns.org

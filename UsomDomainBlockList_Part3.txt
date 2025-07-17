@@ -1,3 +1,4 @@
+istanbulhaber.site
 istanbulharikasinya.online
 istanbulharikax.net
 istanbulhepimizin.net
@@ -18528,6 +18529,7 @@ kmsorgulatr.com
 kmsorgulayalimhemen.vercel.app
 kmsorgulmachpknt.shop
 kmsorgulmachpknt.xyz
+kmsorgupttavmgov-ttr.duckdns.org
 kmsorguptthemengov.duckdns.org
 kmsorgusu.blogspot.com
 kmsorguu-gov-tr.duckdns.org
@@ -99996,5 +99998,3 @@ sahibinden.siparisin.com.tr
 sahibinden.siparisinizonline.com.tr
 sahibinden.siparislerim.net
 sahibinden.siparisveriniz.com.tr
-sahibinden.space
-sahibinden.ss-secure-pay.com
