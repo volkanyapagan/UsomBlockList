@@ -6029,6 +6029,7 @@
 1vmgkg.duckdns.org
 1voltafirsati.cfd
 1voltamfirsati.cfd
+1voltamlafirsat.cfd
 1vqkhwkz.duckdns.org
 1vrlhc8oh.duckdns.org
 1vtimcb72.duckdns.org
@@ -99997,4 +99998,3 @@ deniz-subee-kolay-giriss.com
 deniz-subekatilim-web.com
 deniz-subekatilim.online
 deniz-subem-com-tr.tk
-deniz-subem.com
