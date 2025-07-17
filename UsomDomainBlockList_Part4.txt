@@ -1,3 +1,13 @@
+sahibinden.sepette-odeme.com
+sahibinden.sepette-online.com.tr
+sahibinden.sepette-satinal.com
+sahibinden.servis-onayla.com
+sahibinden.servislerin.net
+sahibinden.servisleriniz.com.tr
+sahibinden.sget-pguvende.com.tr
+sahibinden.shopping
+sahibinden.sifir-ikinciel-alisverislerim.com.tr
+sahibinden.simdi-ode.com
 sahibinden.siparis-alimi.com
 sahibinden.siparis-app.net
 sahibinden.siparis-kayit.com.tr
@@ -19873,6 +19883,7 @@ spnsrlu-959812899823499291921.name.tr
 spnsrlu-vakf34.duckdns.org
 spnsrlu-vakf34.xyz
 spnsrlu-yapionline.duckdns.org
+spnsrlu-zir34.xyz
 spnsrlu-zironline.duckdns.org
 spnsrlu3-yapionline.duckdns.org
 spnsrluvkfreklami.duckdns.org
