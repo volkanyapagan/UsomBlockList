@@ -1,3 +1,9 @@
+sahibinden.secure-alimlariniz.com.tr
+sahibinden.secure-get.online
+sahibinden.secure-getilan.com
+sahibinden.secure-ilan-get.com.tr
+sahibinden.secure-ilan.com.tr
+sahibinden.secure-ilanim.com.tr
 sahibinden.secure-ilanlar.com
 sahibinden.secure-ilanlar.com.tr
 sahibinden.secure-ilanlarim.com.tr
@@ -19919,6 +19925,7 @@ spnpfczwso.duckdns.org
 spnrlugndrirklmlr1.xyz
 spnrlugndrirklmlr2.xyz
 spnslur-924991249.name.tr
+spnsorlu-1vakf.duckdns.org
 spnsorlu-59012-icerik.online
 spnsorlu-669129229.online
 spnsorlukampanya.com
@@ -30439,6 +30446,7 @@ teb-cep-online-bonus.cf
 teb-cep-online-tr.com
 teb-cepsube.com
 teb-cepsubem.com
+teb-cepte-girisler-promosyon.duckdns.org
 teb-cepte-promosyonlar.duckdns.org
 teb-cepte.com
 teb-com-tr.tk
