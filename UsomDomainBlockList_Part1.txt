@@ -3677,6 +3677,7 @@
 142565626656265664.xyz
 142565626656265666.xyz
 142565626656265760.xyz
+142565626656265762.xyz
 14256890.xyz
 14256892.xyz
 14256894.xyz
@@ -28932,6 +28933,7 @@ adventurous-sage-twig.glitch.me
 adventurousthigh.top
 adverbiation.com
 adversereciprocal.top
+adversite.click
 adversitesr-clousentc3.online
 adversityappal.top
 adversitymeticulous.top
@@ -99996,5 +99998,3 @@ deniz-online-webde.gq
 deniz-online.com
 deniz-onlinegirisbireysel.cf
 deniz-onlinegirisbireysel.ga
-deniz-onlinegirisbireysel.ml
-deniz-onlinesube.com
