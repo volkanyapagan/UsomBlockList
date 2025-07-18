@@ -1,3 +1,17 @@
+sahibinden.secure-paramguvende.com
+sahibinden.secure-sahibindenparamguvende.com
+sahibinden.secure-satisim.com.tr
+sahibinden.secure-siparis.net
+sahibinden.secure-urun.net
+sahibinden.secureal-tr.ru.com
+sahibinden.securealim.com
+sahibinden.securealimlar.com.tr
+sahibinden.securealimlarim.com.tr
+sahibinden.securee-pay.com.tr
+sahibinden.secureilani.com.tr
+sahibinden.secureileode.com
+sahibinden.secureileode.online
+sahibinden.securem-tr.ru.com
 sahibinden.securem.com.tr
 sahibinden.secureonlinem.com.tr
 sahibinden.send25434.online
@@ -13330,6 +13344,7 @@ siparislerin.com
 siparislerin18in.cloud
 siparislerindehizliolma.cloud
 siparislerinhizlanir9da.cloud
+siparislerinhizli17de.cloud
 siparislerinhizli5bucuk.cloud
 siparisleriniolusturanlik03.cloud
 siparislerinis.com
@@ -19906,6 +19921,7 @@ spnsrajansreklamqnq.xyz
 spnsrkmp86.com
 spnsrlu-295912905902590.name.tr
 spnsrlu-959812899823499291921.name.tr
+spnsrlu-garirklm.duckdns.org
 spnsrlu-vakf34.duckdns.org
 spnsrlu-vakf34.xyz
 spnsrlu-yapionline.duckdns.org
@@ -47006,6 +47022,7 @@ turpttgov.top
 turpttgovr.life
 turpttgovt.shop
 turpttgovtre.shop
+turpttgovtro.shop
 turpttgovtrs.shop
 turriculated.com
 tursab-acenta.org
@@ -90815,6 +90832,7 @@ yunforworld.xyz
 yungboy23.ddns.net
 yungbucksbbq.com
 yungie.net
+yungouzo.cfd
 yunqhi.com
 yunusbabanburulas.icu
 yunusbeyasm.gov.tr

@@ -3676,6 +3676,7 @@
 14256398.xyz
 142565626656265664.xyz
 142565626656265666.xyz
+142565626656265760.xyz
 14256890.xyz
 14256892.xyz
 14256894.xyz
@@ -8903,6 +8904,7 @@
 2fgo361.duckdns.org
 2fgyq9q.duckdns.org
 2fikrr.com
+2firsativolta.cfd
 2firsatvolta.cfd
 2fjcu0.duckdns.org
 2flgyr0g9.duckdns.org
@@ -65952,6 +65954,7 @@ biomcell2m.ml
 biondi.co
 biondocenere.com
 bionetcloud.com
+biopadeeka.site
 biordayizbiburda.fit
 bios-chip.co.za
 bioselect.shop
@@ -79477,6 +79480,7 @@ butikim.name.tr
 butikleyla.ga
 butiks.store
 butikselin.tech
+butiksiparis.com.tr
 butiksohbet.xyz
 butiksude.tk
 butixtpmnfbc.info
@@ -82031,6 +82035,7 @@ campanyalarsiz1erlebasliyor.net
 campanyaozel.click
 campanyasepetin.click
 campanyasepetinde.click
+campanyaset.click
 campanyfirsatlaridaysszlericinfirsatcekilisi.cloud
 campanyforgxrnsr.org
 campanyforxgrntwroxkxr.com
@@ -84785,6 +84790,7 @@ cep-teb-evdekal.com
 cep-teb-mobilsube-tr.com
 cep-teb-subesi.com
 cep-teb-web-giris-adresi-tr.com
+cep-tebde-promosyonlar.duckdns.org
 cep-tebimavantaj.com
 cep-tebimavantajimiz.com
 cep-tebonus.com
@@ -99992,9 +99998,3 @@ deniz-onlinegirisbireysel.cf
 deniz-onlinegirisbireysel.ga
 deniz-onlinegirisbireysel.ml
 deniz-onlinesube.com
-deniz-ozel-yazkampanyasi.com
-deniz-ozel-yazkampanyasi.online-mobileozel-kampanyalar.xyz
-deniz-promosyon-ikram-odemeleri.net
-deniz-ramazan-firsati.ml
-deniz-ramazan-firsati.tk
-deniz-ramazan-gunleri.com
