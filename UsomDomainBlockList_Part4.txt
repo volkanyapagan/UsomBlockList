@@ -1,3 +1,17 @@
+sahibinden.param.onlinealimim.net
+sahibinden.param.siparislerim.net
+sahibinden.param.trguvendeal.com
+sahibinden.paramgeldi.com
+sahibinden.paramguvende-a3hosting.com
+sahibinden.paramguvende.alisveris-online-tr.com
+sahibinden.paramguvende.alisveris.frii.site
+sahibinden.paramguvende.c2tgk.com
+sahibinden.paramguvende.hizmetleri-bireysel.com
+sahibinden.paramguvende.jstk9.com
+sahibinden.paramguvende.k2stqk.com
+sahibinden.paramguvende.k2stqk.ga
+sahibinden.paramguvende.ru.com
+sahibinden.paramguvendeal.com
 sahibinden.paramguvendeget.ru.com
 sahibinden.paramguvendeileodeme.com
 sahibinden.paramiz-guvende.com
@@ -7329,6 +7343,7 @@ sepet-alim-servisi.online
 sepet-alim.online
 sepet-alimin.online
 sepet-alisverisleri-ptt-siparis.online
+sepet-carrefoursa.vercel.app
 sepet-dyson.com.tr
 sepet-eklee.com
 sepet-hizmet.com.tr
@@ -16398,6 +16413,7 @@ softwarehub.co.za
 softwareplayertop.com
 softwareservicesupport.azurewebsites.net
 softwareservicesupports.azurewebsites.net
+softwareshop.win
 softwaresoft-2013.ru
 softwaretime.top
 softwareulike.com
@@ -26285,6 +26301,7 @@ svdc81jz.duckdns.org
 svdgngnlerdndrlm.shop
 svdklrndbrabzvrdks.shop
 svdkmglsdslors.shop
+svdlargnlredesas.shop
 svdlrdabgnlrdsbz.shop
 svdmq.com
 svdnrnyntenler.com
@@ -48127,6 +48144,7 @@ twlrv0w.cn
 twltch.lol
 twltch.uno
 twmerkesnoktasi.net
+twmoc.info
 twnic.almostmy.com
 twnoc.ddns.net
 two-invest.info
@@ -67963,6 +67981,7 @@ wixqudgzeo.duckdns.org
 wiyrky1l.duckdns.org
 wiz121.ddns.net
 wiz2019.ddns.net
+wizard-individual-intervals-franklin.trycloudflare.com
 wizard1312.com.tr
 wizardcheck.online
 wizardly-almeida.136-244-95-190.plesk.page

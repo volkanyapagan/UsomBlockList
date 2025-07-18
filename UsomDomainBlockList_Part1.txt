@@ -37384,6 +37384,7 @@ aldinsimdionline.icu
 aldinsimdiozel.shop
 aldinsimdiwebeozel.store
 aldintemmuzdason.com.tr
+aldintemmuzdason.name.tr
 aldintemmuzdason.net.tr
 aldintemmuzdason.org.tr
 aldintemmuzdason.web.tr
@@ -38041,6 +38042,7 @@ alisverisfirsatlari.online
 alisverisgetguvende.com.tr
 alisverisgetmobil.com.tr
 alisverisgunleri.sa.com
+alisverisgunlerin.online
 alisverisgunleriniz.sa.com
 alisverisguvende.com.tr
 alisverisguvenliislem.top
@@ -76292,6 +76294,7 @@ brikule.cz
 brilliance83.xyz
 brilliancesalon.top
 brillianceslack.top
+brilliant-bubblegum-137cfe.netlify.app
 brilliantbrisk.top
 brilliantglamour.top
 brillianthumane.top
@@ -99995,6 +99998,3 @@ deniz-mobiilbasvuru-tr.com
 deniz-mobil-comtr.tk
 deniz-mobil-firsat-basvurugiris.com
 deniz-mobil-form.com
-deniz-mobil-giris-tr.cf
-deniz-mobil-giris-tr.ga
-deniz-mobil-giris-tr.gq
