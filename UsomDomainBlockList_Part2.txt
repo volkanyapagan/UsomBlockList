@@ -1,3 +1,4 @@
+deniz-ne-kardae-guzel.dnsuser.de
 deniz-nisaneklimit.net
 deniz-ocak-gunleri.ip-ddns.com
 deniz-ocak-senin-basvurun.ip-ddns.com
@@ -99997,4 +99998,3 @@ istanbulbakiyem.ml
 istanbulbakiyem.net
 istanbulbakiyem.org
 istanbulbakiyeyuklecnnet.vercel.app
-istanbulbakyecim.com
