@@ -1,3 +1,12 @@
+sahibinden.param-tr.com
+sahibinden.param.e-onlinem.net
+sahibinden.param.elektroniksiparisim.net
+sahibinden.param.guvende-online.com
+sahibinden.param.guvende-s.com
+sahibinden.param.guvende-servis.online
+sahibinden.param.guvenli-al.com.tr
+sahibinden.param.guvenli-alimin.com.tr
+sahibinden.param.manuelalim-tr.net
 sahibinden.param.onlinealimim.net
 sahibinden.param.siparislerim.net
 sahibinden.param.trguvendeal.com
@@ -2804,6 +2813,7 @@ satinalimlaritamamlarin.cloud
 satinalimservisin.com.tr
 satinaliniz.com
 satinaliniz.com.tr
+satinall.duckdns.org
 satinalmaislemleri-sahibindenparamguvende-com.tk
 satinalparaguvende.com
 satinalparamguvende.com
@@ -22814,6 +22824,7 @@ stormanx01.com.tr
 stormanx01.online
 stormflux.store
 stormgocolocrest.xyz
+stormi1ng.com.tr
 stormlegue.com
 stormslva.net
 stormxdt007.zapto.org
