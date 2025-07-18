@@ -3676,6 +3676,7 @@
 14256398.xyz
 142565626656265664.xyz
 142565626656265666.xyz
+142565626656265668.xyz
 142565626656265760.xyz
 142565626656265762.xyz
 14256890.xyz
@@ -4542,6 +4543,7 @@
 17scdlq7q.duckdns.org
 17subastsonsiparisler.cloud
 17subatsiparislerinolus.cloud
+17temmuzbucukdasipairs.cloud
 17temmuzdasiparislerinde.cloud
 17vw3ww.duckdns.org
 17xcmwtpg.duckdns.org
@@ -99996,5 +99998,3 @@ deniz-online-ceptr.com
 deniz-online-girismerkezi.net
 deniz-online-webde.gq
 deniz-online.com
-deniz-onlinegirisbireysel.cf
-deniz-onlinegirisbireysel.ga
