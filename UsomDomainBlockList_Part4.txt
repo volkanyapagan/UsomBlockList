@@ -1,3 +1,10 @@
+sahibinden.sepetimde-aktif.com.tr
+sahibinden.sepetimde-ode.com.tr
+sahibinden.sepetimizde.com
+sahibinden.sepetin-tamamla.com.tr
+sahibinden.sepetiniz-tr.online
+sahibinden.sepetonline.com.tr
+sahibinden.sepette-ode.com
 sahibinden.sepette-odeme.com
 sahibinden.sepette-online.com.tr
 sahibinden.sepette-satinal.com
@@ -12145,6 +12152,7 @@ sikayetvarmobil-20.sbs
 sikayetvarmobil-21.sbs
 sikayetvarmobil-3.sbs
 sikayetvarmobil-5.sbs
+sikayetvarmobil-8.sbs
 sikayetvarr-destek.cf
 sikayetvarr.cf
 sikayetvarr.co
@@ -32489,6 +32497,7 @@ temmuzun-katalogu-a1a.com
 temmuzun-katalogu-c.com
 temmuzun-katolog.com
 temmuzunenguzelgunleri.com
+temmuzunfirsatlari.duckdns.org
 temmuzunfirsatlarla.duckdns.org
 temmuzunn-serinlettenfirsati.com
 temmuzunn-serinlettenfirsatii.com

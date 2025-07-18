@@ -1,3 +1,5 @@
+deniz-sube-gir-gov-tr.ml
+deniz-sube-tr.com
 deniz-sube.rf.gd
 deniz-sube.xyz
 deniz-subee-kolay-giriss.com
@@ -42175,6 +42177,9 @@ firsatalisverisleri.com.tr
 firsatalisverisleri.online
 firsatalisverissi.online
 firsatalorda.duckdns.org
+firsatalragel.cfd
+firsatalragel.my
+firsatalragel.sbs
 firsatalvrkfonlinenet.com
 firsatanadenizbasvurularin.online
 firsatanindahepsikapinda.com
@@ -61442,6 +61447,7 @@ gunceltrsikayetler-157.sbs
 gunceltrsikayetler-158.sbs
 gunceltrsikayetler-159.sbs
 gunceltrsikayetler-166.sbs
+gunceltrsikayetler-167.sbs
 gunceltrsikayetler-17.sbs
 gunceltrsikayetler-18.sbs
 gunceltrsikayetler-2.sbs
@@ -99992,9 +99998,3 @@ istanbuldijitalkart.xyz
 istanbuldiyatilarsa.xyz
 istanbuldolumnoktasi.com
 istanbuldolumodeme.com
-istanbuldolumrm.net
-istanbuldunyam.online
-istanbuleasy.net
-istanbuledu.co
-istanbulekrem.net
-istanbulekrem.org

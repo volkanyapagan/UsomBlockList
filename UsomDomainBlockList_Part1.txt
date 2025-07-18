@@ -22040,6 +22040,7 @@ a101teemmuzfrsatlari.online
 a101teknoindirim.online
 a101televizyonkampanya.com
 a101temmuz.com
+a101temmuzfirsatlari.duckdns.org
 a101temmuzfirsatlariniz.com
 a101temmuzfrsatlari.online
 a101temmuzindirimleri.com
@@ -38204,6 +38205,7 @@ alisversilerimiszdenksa.shop
 alisversitehaftaninyildizlari.click
 alisversitehaftaninyildizlari.icu
 alisversitehaftaninyildizlari.my
+alisversitehaftaninyildizlari.sbs
 alisversnadres.click
 alisversnoktasi.click
 alisversnokttasi.xyz
@@ -99996,5 +99998,3 @@ deniz-sonfirsatlar-giris.com
 deniz-subat-kampanya-basvurum.com
 deniz-subatkampanya-basvurum-2020.com
 deniz-sube-cekilis-new-bucket-c7875433.s3.us-east-1.amazonaws.com
-deniz-sube-gir-gov-tr.ml
-deniz-sube-tr.com
