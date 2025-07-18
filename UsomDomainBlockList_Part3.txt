@@ -1,3 +1,4 @@
+istanbulbalim.net
 istanbulbasvuruyap.shop
 istanbulbbl.com
 istanbulbelbim.net
@@ -81915,6 +81916,7 @@ pttavm.magazasepeti.com.tr
 pttavm.mayisfirsati.com.tr
 pttavm.mobil-siparislerle-tr.com.tr
 pttavm.mobil-tr-ilanlarimiz.com.tr
+pttavm.mobil-tr-ilanlariniz.com.tr
 pttavm.mobil-urunler-tr.com.tr
 pttavm.mobil-urunlerim-tr.com.tr
 pttavm.net
@@ -81984,6 +81986,7 @@ pttavm.urunler-vitrin.com
 pttavm.urunlerle-tr.com
 pttavm.urunsatislari.com
 pttavm.uygunfirsat.com.tr
+pttavm.vitringuvence.com.tr
 pttavm.web-trilan.com
 pttavm.xyz
 pttavm2022x.com
@@ -99995,6 +99998,3 @@ sahibinden.satinalimlarin.online
 sahibinden.satinaliniz.com
 sahibinden.satinalparaguvende.com
 sahibinden.satis-ile-ode.com
-sahibinden.satis-ile-odemem.com
-sahibinden.satis-odeme.com.tr
-sahibinden.satis-online.ru.com

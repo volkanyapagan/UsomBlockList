@@ -1,3 +1,6 @@
+sahibinden.satis-ile-odemem.com
+sahibinden.satis-odeme.com.tr
+sahibinden.satis-online.ru.com
 sahibinden.satis-secure.com.tr
 sahibinden.satis-sepetim.com.tr
 sahibinden.satis-urunler.com
@@ -13240,6 +13243,7 @@ sipajetli.host
 sipambi-projects.co.za
 sipandscoop.com
 sipapp.lat
+siparilerindehizlisin18bucuk.cloud
 siparinizolusturuldu.click
 siparinzsepetinizde.click
 siparis-0745.com
@@ -32547,6 +32551,7 @@ temmuzonlinefirsatson.com
 temmuzonlineindirimgunu.com
 temmuzortasi.info.tr
 temmuzortasi.net.tr
+temmuzortasi.web.tr
 temmuzozel-sok.com.tr
 temmuzozel-sokta.com.tr
 temmuzozelfirsatlar.com.tr
@@ -47075,7 +47080,9 @@ turptt.top
 turpttgov.top
 turpttgovr.life
 turpttgovt.shop
+turpttgovtra.shop
 turpttgovtre.shop
+turpttgovtrn.shop
 turpttgovtro.shop
 turpttgovtrs.shop
 turpttgovtrv.shop
@@ -88029,6 +88036,7 @@ yiilik-ucret-alma-basvuru-giris-yap.xyz
 yiilik-ucret-alma-basvuru-giris.xyz
 yiiowxqw.duckdns.org
 yiir5s.duckdns.org
+yije.wildhorizon.st
 yikamaaleti.shop
 yikamacihazicennet.shop
 yikamacihaziindirimleri.site

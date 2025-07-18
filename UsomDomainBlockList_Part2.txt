@@ -1,3 +1,4 @@
+deniz-nisaneklimit.net
 deniz-ocak-gunleri.ip-ddns.com
 deniz-ocak-senin-basvurun.ip-ddns.com
 deniz-ocak-superlimit.ip-ddns.com
@@ -99997,4 +99998,3 @@ istanbulbakiyem.net
 istanbulbakiyem.org
 istanbulbakiyeyuklecnnet.vercel.app
 istanbulbakyecim.com
-istanbulbalim.net

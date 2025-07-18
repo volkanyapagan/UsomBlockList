@@ -3675,6 +3675,7 @@
 14256390.xyz
 14256396.xyz
 14256398.xyz
+142565626656265660.xyz
 142565626656265664.xyz
 142565626656265666.xyz
 142565626656265668.xyz
@@ -99997,4 +99998,3 @@ deniz-mobilsubem-tr.com
 deniz-mobilsubem.com
 deniz-mobilsubemiz.com
 deniz-ne-kardae-guzel.dnsuser.de
-deniz-nisaneklimit.net
