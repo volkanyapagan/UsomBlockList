@@ -18553,6 +18553,7 @@ kmsorgulamalariis.web.app
 kmsorgulamapt.blogspot.com
 kmsorgulamaptt.shop
 kmsorgulamavm.com
+kmsorgulamayap-gov-ptt-tr.duckdns.org
 kmsorgulamayapgovptt.duckdns.org
 kmsorgulamayapo-gov-ptt.duckdns.org
 kmsorgularchp.xyz
@@ -29951,6 +29952,7 @@ m-teb-giris-tr.com
 m-teb-online-sube-tr.com
 m-tebsube-giris-tr.com
 m-temmuzkampaingiris.xyz
+m-temmuzyazfirsatkampanya.shop
 m-tensou.net
 m-tipowebadres.site
 m-tr-cumhurbaskanlik-e-devlet-iade.com
@@ -82809,6 +82811,7 @@ pttgove.top
 pttgovee-tr.top
 pttgovees-tr.cfd
 pttgovees-tr.top
+pttgover.shop
 pttgoverment.top
 pttgoverments.top
 pttgovermenttr.top
@@ -99995,6 +99998,3 @@ sahibinden.secureilani.com.tr
 sahibinden.secureileode.com
 sahibinden.secureileode.online
 sahibinden.securem-tr.ru.com
-sahibinden.securem.com.tr
-sahibinden.secureonlinem.com.tr
-sahibinden.send25434.online
