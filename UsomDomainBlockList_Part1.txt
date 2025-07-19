@@ -82890,6 +82890,7 @@ carrefaursa.online
 carrefaursa.site
 carrefaursa.store
 carreffoueor-sa.online
+carreffour-sa.online
 carreffoursa.online
 carreffoursa.site
 carreffoursa.space
@@ -99997,4 +99998,3 @@ deniz-kredim-hazir.online
 deniz-kurumsal.com
 deniz-lbasvuru.com
 deniz-limit-basvuru.ip-ddns.com
-deniz-limit.com
