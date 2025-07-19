@@ -1,3 +1,5 @@
+deniz-lkampanyam.com
+deniz-mart-gunleri.ip-ddns.com
 deniz-mart-senin.ip-ddns.com
 deniz-mart-seninle.ip-ddns.com
 deniz-martkrdi.com
@@ -12204,6 +12206,7 @@ dosyaportaluzlasma.com
 dosyas.name.tr
 dosyasorgu.com
 dosyasorgu.net
+dosyasorguekrani.online
 dosyasorgulat.com
 dosyasorgulatuyap.com
 dosyasorgulatuzlasmaa.com
@@ -99995,6 +99998,3 @@ istanbul-ibb.net
 istanbul-islemler.com
 istanbul-istakbil.vercel.app
 istanbul-istakbildesin.vercel.app
-istanbul-kart-dijital.blogspot.com
-istanbul-kart-dolum.com
-istanbul-kart-yukleme.net

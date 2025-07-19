@@ -3383,6 +3383,7 @@
 12943h2382g37329g378.fun
 12958-coinbase.com
 1296324788521.com
+129683443.cloud
 1296849332.corolain.ru
 1297951953190.com
 1298115467.corolain.ru
@@ -12751,6 +12752,7 @@
 4viral.ddns.net
 4vlo3lq.duckdns.org
 4voice.bz
+4voltafirsatlarim.cfd
 4voltafirsatlarimi.cfd
 4vp.xyz
 4vw37z.cn
@@ -99996,5 +99998,3 @@ deniz-limit.online
 deniz-limit.org
 deniz-limitim.net
 deniz-limitim.xyz
-deniz-lkampanyam.com
-deniz-mart-gunleri.ip-ddns.com
