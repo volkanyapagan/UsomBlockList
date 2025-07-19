@@ -1,3 +1,5 @@
+sahibinden.param-guvende-ilan.com
+sahibinden.param-guvende.ru.com
 sahibinden.param-guvende.sa.com
 sahibinden.param-guvenli-ilan.com
 sahibinden.param-online.com
