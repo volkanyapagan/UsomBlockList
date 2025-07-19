@@ -1,3 +1,6 @@
+istanbul-islemler.com
+istanbul-istakbil.vercel.app
+istanbul-istakbildesin.vercel.app
 istanbul-kart-dijital.blogspot.com
 istanbul-kart-dolum.com
 istanbul-kart-yukleme.net
@@ -99995,6 +99998,3 @@ sahibinden.otokoc2elkutahya.com
 sahibinden.ozel-ilanlar-paramguvende-tr.sa.com
 sahibinden.ozel-ilanlar.com
 sahibinden.ozel-ilanlarin.com
-sahibinden.ozel-ilanlariniz.com
-sahibinden.ozelilan-tr.com
-sahibinden.ozelilan.com

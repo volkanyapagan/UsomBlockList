@@ -1,3 +1,5 @@
+deniz-limitim.net
+deniz-limitim.xyz
 deniz-lkampanyam.com
 deniz-mart-gunleri.ip-ddns.com
 deniz-mart-senin.ip-ddns.com
@@ -50345,6 +50347,7 @@ garantiden-kredi-imkanlari.cloud
 garantiden-kredi-online-basvuru.cloud
 garantiden-kredi-online.cloud
 garantiden-kredi-online.duckdns.org
+garantiden-kredi-online.giize.com
 garantiden-kredi-sistem.cloud
 garantiden-kredi-sistemi.cloud
 garantiden-kredi.cloud
@@ -99995,6 +99998,3 @@ istanbul-eklmfirsatlarl.store
 istanbul-eklmflrsat.store
 istanbul-havalimani1453.net
 istanbul-ibb.net
-istanbul-islemler.com
-istanbul-istakbil.vercel.app
-istanbul-istakbildesin.vercel.app
