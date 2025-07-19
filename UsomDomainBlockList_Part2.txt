@@ -92874,6 +92874,7 @@ indirimli.online
 indirimli.org
 indirimli.store
 indirimli.xyz
+indirimli1o1sepeti.net
 indirimli20-ekpaket-turkcell.com
 indirimli20gb-internetpaketi-turkcell.com
 indirimli20gb-turkcell.com
@@ -99997,4 +99998,3 @@ istanbul-dolumu.online
 istanbul-eklmfirsatlarl.store
 istanbul-eklmflrsat.store
 istanbul-havalimani1453.net
-istanbul-ibb.net

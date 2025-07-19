@@ -1,3 +1,4 @@
+istanbul-ibb.net
 istanbul-islemler.com
 istanbul-istakbil.vercel.app
 istanbul-istakbildesin.vercel.app
@@ -11663,6 +11664,7 @@ kampanyasi.online
 kampanyasi.org
 kampanyasigortacilarhizli.com.tr
 kampanyasindanbugune.xyz
+kampanyasindangecilmiyor.xyz
 kampanyasistemi.com
 kampanyasitesi.site
 kampanyasiyazhemen.com
@@ -18673,6 +18675,7 @@ kmsorgulamapt.blogspot.com
 kmsorgulamaptt.shop
 kmsorgulamavm.com
 kmsorgulamayap-gov-ptt-tr.duckdns.org
+kmsorgulamayapburdanptt.duckdns.org
 kmsorgulamayapgovptt.duckdns.org
 kmsorgulamayapo-gov-ptt.duckdns.org
 kmsorgularchp.xyz
@@ -41089,6 +41092,7 @@ mobilfirsatenbdacikdenizv2denizbank.co.vu
 mobilfirsatindenizle2023.xyz
 mobilfirsatinizde2023.xyz
 mobilfirsatlar-ak.xyz
+mobilfirsatlar.sbs
 mobilfirsatlaraciftci.online
 mobilfirsatlaribilgilendirmeleri.xyz
 mobilfirsatlarkamapnyalariak.vercel.app
@@ -99994,7 +99998,3 @@ sahibinden.order12431.online
 sahibinden.order13245.cyou
 sahibinden.order68712.cfd
 sahibinden.ortak-hizmet.com.tr
-sahibinden.otokoc2elkutahya.com
-sahibinden.ozel-ilanlar-paramguvende-tr.sa.com
-sahibinden.ozel-ilanlar.com
-sahibinden.ozel-ilanlarin.com
