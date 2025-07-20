@@ -86096,6 +86096,7 @@ iade-aidat.netlify.app
 iade-aidatbasvuru.com
 iade-aidatedevlet.com
 iade-aidatgov.online
+iade-aidatgov.sbs
 iade-aidatgunleri.com
 iade-akbank.com
 iade-al-edevlet.site
@@ -99997,4 +99998,3 @@ istanbllkartbakiye.com
 istanbllkartbakiyee.net
 istanbllkartbakiyeemvs.net
 istanbllkd.net
-istanbllkxart.net
