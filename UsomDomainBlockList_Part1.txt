@@ -621,6 +621,7 @@
 0812453292508.duckdns.org
 0821gg.duckdns.org
 0823405-923354.com
+08249240239204.click
 0836i3.duckdns.org
 083oyfirk.duckdns.org
 08502200000ziraatbankasigiris.com
@@ -3507,6 +3508,8 @@
 1321321231231231234.space
 1323161823.goloser.ru
 13232545473.cloud
+13235265588880.xyz
+13235265588882.xyz
 1324385223723454234.com
 132454654161658468541651.com
 13247-coinbase.com
@@ -40894,6 +40897,7 @@ anindafirsatlarkacirilmadandegerlendir.com.tr
 anindafirsatlarkacirilmadandegerlendir.online
 anindafirsatlarkacirilmadandegerlendir.xyz
 anindafirsatlarsizlereelhizli.duckdns.org
+anindafirsatlarsizlerlebirlikte.xyz
 anindafirsatlarsizlerlebirliktesatinalmalisin.com.tr
 anindafirsatlarsizlerlebirliktesatinalmalisin.online
 anindafirsatlarsizlerlebirliktesatinalmalisin.xyz
@@ -99994,7 +99998,3 @@ deniz-gunleri-ocak.ip-ddns.com
 deniz-gunu-basvuru.ip-ddns.com
 deniz-gunu-limitleri.ip-ddns.com
 deniz-gunu-mart-1.ip-ddns.com
-deniz-gunu-mart-2.ip-ddns.com
-deniz-gunu-mart-4.ip-ddns.com
-deniz-hayat-sube.blogspot.com.tr
-deniz-hazir.net
