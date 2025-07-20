@@ -1,3 +1,15 @@
+sahibinden.kurumsal-get-ilanlarim.com.tr
+sahibinden.kurumsal-get.com.tr
+sahibinden.kurumsal-hizmet.com.tr
+sahibinden.kurumsal-hizmetler.com.tr
+sahibinden.kurumsal-odeme.com.tr
+sahibinden.kurumsal-satislar.com.tr
+sahibinden.kurumsal-tr.com.tr
+sahibinden.kurumsalin-tr.net.tr
+sahibinden.leguvenleode.com
+sahibinden.leguvenli.com
+sahibinden.leguvenlial.com
+sahibinden.leguvenlialis.com
 sahibinden.leguvenliode.com
 sahibinden.leguvenliodeyin.com
 sahibinden.leodeme.com
@@ -32893,6 +32905,7 @@ temmuzunenguzelgunleri.com
 temmuzunfirsatlari.duckdns.org
 temmuzunfirsatlarla.duckdns.org
 temmuzunkampanyasi.biz.tr
+temmuzunkampanyasi.info.tr
 temmuzunn-serinlettenfirsati.com
 temmuzunn-serinlettenfirsatii.com
 temmuzunruzgari.biz.tr
