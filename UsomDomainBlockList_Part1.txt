@@ -1685,6 +1685,7 @@
 101-1haziranaksam.com
 101-1haziranon.com
 101-20mayisaksam.com
+101-20temmuzcadir.com
 101-22mayisaksam.com
 101-22mayisoglen.com
 101-23mayisfirsatlar.com
@@ -12489,6 +12490,7 @@
 4k4d.duckdns.org
 4k4k4k.ddns.net
 4ka6fpd.duckdns.org
+4kampanyavolta.sbs
 4kb4119.duckdns.org
 4kbt2q.duckdns.org
 4kc81f.duckdns.org
@@ -22397,6 +22399,7 @@ a1o1firsatlar.com
 a1o1firsatlari.duckdns.org
 a1o1firsatlari.online
 a1o1firsatlarikacirma.net
+a1o1firsatlarkampanyalarsizlerle.xyz
 a1o1firsatlarkampanyali.duckdns.org
 a1o1firsatmarketi.online
 a1o1firsatshuzky.duckdns.org
@@ -37195,6 +37198,7 @@ aldinaldin.gundelikurunler.online
 aldinaldin.gunlukkampanyalar.com
 aldinaldin.indirimlerr.xyz
 aldinaldin.internet-ozel.life
+aldinaldin.my
 aldinaldin.ozelfirsatyilsonu.gen.tr
 aldinaldin.shop
 aldinaldin.ucuzluk-dunyasi.website
@@ -38141,6 +38145,7 @@ alisverisinkapinda.com.tr
 alisverisinkolaayi.com
 alisverisinkolayyolu.com
 alisverisinkolayyolu.online
+alisverisinnoktasi.duckdns.org
 alisverisinnoktasinda.com
 alisverisinortasi.com
 alisverisintr.com.tr
@@ -55584,6 +55589,7 @@ basvurvks.online
 basvurvks.xyz
 basvurvkstm.com.tr
 basvurvkstm.online
+basvurvms.com.tr
 basvurvnm.com.tr
 basvurvnm.xyz
 basvurvnr.cyou
@@ -78193,6 +78199,7 @@ bugunak-islemlerkolay.shop
 bugunal.com.tr
 bugunaldinaldinfirsat.site
 bugunaldinaldinsonfirsat.site
+bugunalisverisehazirmisin.xyz
 bugunbayramlarin.xyz
 bugunbizdehalicilar.site
 bugunbizseninleyiz.com
@@ -99991,10 +99998,3 @@ deniz-gunu-mart-2.ip-ddns.com
 deniz-gunu-mart-4.ip-ddns.com
 deniz-hayat-sube.blogspot.com.tr
 deniz-hazir.net
-deniz-haziranfirsatlari-tr.com
-deniz-hazirparam.net
-deniz-hediye-cekilisi.ml
-deniz-hediye-cekilisi.tk
-deniz-hesabimiade.com
-deniz-hesap-bildirim-onay.com
-deniz-hesap.com
