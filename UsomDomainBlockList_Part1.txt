@@ -3671,6 +3671,7 @@
 1425154255454.xyz
 1425415588560.xyz
 1425462659652960.xyz
+1425516554569880.xyz
 1425520032.online
 1425522010030.info
 1425522010030.xyz
@@ -20429,6 +20430,7 @@ a101-firsatlarda.click
 a101-firsatlari-adlin-adlin.rf.gd
 a101-firsatlari-katil.tech
 a101-firsatlari.com
+a101-firsatlari.duckdns.org
 a101-firsatlari.firsat-gunu.com
 a101-firsatlari.online
 a101-firsatlari.rf.gd
@@ -74184,6 +74186,7 @@ bntriyge.vercel.app
 bntrkolaybasvuru.com
 bntrkolayerisim.com
 bntrkolaygiris.xyz
+bntrkread.vercel.app
 bntrkripto.com
 bntrkripto.info
 bntrkripto.shop
@@ -76441,6 +76444,7 @@ brlkvakfi.com
 brlkvakfi.org
 brlnet.in
 brlr-byle-kcrm.shop
+brlr-gzl-yrlr-gl-snd.shop
 brlr-sn-ozl.shop
 brlr-yklyo.shop
 brlrd-gl-gr.shop
@@ -99994,7 +99998,3 @@ deniz-ceptenbasvurum.com
 deniz-ciftci.shop
 deniz-den-tr.com
 deniz-deniz124232432.cloud
-deniz-denizbank-e-giris.com
-deniz-denizbnk.net
-deniz-departmanlikgiris.click
-deniz-digitalpazarlama-2023.com
