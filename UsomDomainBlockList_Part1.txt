@@ -3672,6 +3672,7 @@
 1425415588560.xyz
 1425462659652960.xyz
 1425516554569880.xyz
+1425516554569882.xyz
 1425520032.online
 1425522010030.info
 1425522010030.xyz
@@ -3725,6 +3726,7 @@
 1451051634243118756.com
 14515579416.cloud
 14522880072.xyz
+145251559888090.xyz
 145251559888890.xyz
 145251559888892.xyz
 145251559888896.xyz
@@ -10155,6 +10157,7 @@
 346994346.cloud
 347134541-332378458-43541351343.com
 3475592.xyz
+34789-65748.click
 34812785784.com
 348223906340.xyz
 3482894209423490723824.cfd
@@ -21262,6 +21265,8 @@ a101benaktuelimg.com
 a101benzersizfirsatlari.com.tr
 a101bin.101frsatlararwq.click
 a101binincimark.click
+a101bir.a0001.net
+a101birucuzcuzaldinaldinki.com
 a101bklswecc.net
 a101bufirsatkacmaz.duckdns.org
 a101bufirsatkacmaz.online
@@ -46237,6 +46242,7 @@ asicallysolidarit.top
 asidehappen-cap.com
 asidogrulamasagliksistemisitesi.cf
 asidomain.com
+asigidsksakgdfshkssakhsaf.icu
 asigimsanaa.net
 asijdasldakdask.de
 asik37df.xyz
@@ -99992,9 +99998,3 @@ deniz-cekilistr.com
 deniz-cepsube-mobil-tr.com
 deniz-ceptemobil.vercel.app
 deniz-ceptemobilim.vercel.app
-deniz-ceptemobilonay.vercel.app
-deniz-ceptenbasvuru.com
-deniz-ceptenbasvurum.com
-deniz-ciftci.shop
-deniz-den-tr.com
-deniz-deniz124232432.cloud
