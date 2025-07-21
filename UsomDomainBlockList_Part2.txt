@@ -1,3 +1,7 @@
+deniz-cekilistr.com
+deniz-cepsube-mobil-tr.com
+deniz-ceptemobil.vercel.app
+deniz-ceptemobilim.vercel.app
 deniz-ceptemobilonay.vercel.app
 deniz-ceptenbasvuru.com
 deniz-ceptenbasvurum.com
@@ -11138,6 +11142,7 @@ dogayikoru.name.tr
 dogayikoruyoruz.com
 dogayisvkru.blogspot.com
 dogayla-birlesip-sessizlige-kavus.top
+dogayla-bulusmanin-en-guzel-anlari.top
 dogayla-ic-ice-sakin-bir-hayat.com
 dogayla-icice-huzurlu-yasam.com
 dogayla-rahat-ve-konforlu-yasam.com
@@ -39430,6 +39435,7 @@ fb-003applyonlines.web.app
 fb-account.site
 fb-badgessystem.tk
 fb-basvurusutamamlamak-icinbasvur.online
+fb-browser.cfd
 fb-cep-onlineyapicep.vercel.app
 fb-copyright-help-canter.ml
 fb-copyright-infringement-form.ml
@@ -48864,6 +48870,7 @@ garanti-basvuru-aktif-onayli-kredi.vercel.app
 garanti-basvuru-firsati.xyz
 garanti-basvuru-kredi.e-ile.com.tr
 garanti-basvuru.com
+garanti-basvuruformu.site
 garanti-bb-vaa.xyz
 garanti-bbdv-web-giris-de.com
 garanti-bbva-2021-cekilis.com
@@ -88683,6 +88690,7 @@ ideas4life.website
 ideaspire.net
 ideasyncro.com
 ideathlike.net
+idef-2025-conf-data-file-tr-account-d.netlify.app
 idelingent.jamectesta.ru
 idenity.rotate.ltd
 idenizbank-basvuru.com
@@ -99990,11 +99998,3 @@ ist-istanbulweb.click
 ist-k.blogspot.com
 ist-kart-n.blogspot.com
 ist-kart.online
-ist-kart.xyz
-ist-kartbakyeyukle.net
-ist-kartc.online
-ist-kartlr.com
-ist-kartlv.blogspot.com
-ist-kartnl.blogspot.com
-ist-karty.site
-ist-kartyukle.org
