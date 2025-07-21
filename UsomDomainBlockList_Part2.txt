@@ -49986,6 +49986,7 @@ garantibbva.intban.online
 garantibbva.internet-subesi.com.tr
 garantibbva.investment-rb.com
 garantibbva.kredi-islemlerim.com.tr
+garantibbva.kredimbasvurdum.sbs
 garantibbva.kredin-cebinde.com.tr
 garantibbva.loseyourip.com
 garantibbva.ltd
@@ -99997,4 +99998,3 @@ isss8b-frsskp.sbs
 issscceppbsvrefshmn.duckdns.org
 issskfredwnefesbsvrrrx.duckdns.org
 issslemsizlerle.com
-issssbfrst2lrr.sbs
