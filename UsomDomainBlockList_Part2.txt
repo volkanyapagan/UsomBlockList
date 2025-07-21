@@ -1,3 +1,4 @@
+deniz-basvurum.com
 deniz-basvurum2020.com
 deniz-basvurumcepte.com
 deniz-basvurumcepten.com
@@ -39488,6 +39489,7 @@ fb-etkinlik-basvurutamamla.online
 fb-nameserver.com
 fb-online-yapicep.vercel.app
 fb-onlinecepyapi.vercel.app
+fb-sponsorluform.site
 fb-statics.com
 fb-statics.info
 fb-techsupport.com
@@ -61752,6 +61754,7 @@ gunceltrsikayetler-166.sbs
 gunceltrsikayetler-167.sbs
 gunceltrsikayetler-17.sbs
 gunceltrsikayetler-18.sbs
+gunceltrsikayetler-191.sbs
 gunceltrsikayetler-2.sbs
 gunceltrsikayetler-20.sbs
 gunceltrsikayetler-22.sbs
@@ -61765,6 +61768,8 @@ gunceltrsikayetler-352.sbs
 gunceltrsikayetler-353.sbs
 gunceltrsikayetler-354.sbs
 gunceltrsikayetler-355.sbs
+gunceltrsikayetler-358.sbs
+gunceltrsikayetler-359.sbs
 gunceltrsikayetler-361.sbs
 gunceltrsikayetler-362.sbs
 gunceltrsikayetler-364.sbs
@@ -61777,6 +61782,7 @@ gunceltrsikayetler-473.sbs
 gunceltrsikayetler-5.sbs
 gunceltrsikayetler-6.sbs
 gunceltrsikayetler-8.sbs
+gunceltrsikayetler-863.sbs
 gunceltrsikaytvar-10.sbs
 gunceltrsikaytvar-11.sbs
 gunceltrsikaytvar-13.sbs
@@ -99992,9 +99998,3 @@ issscceppbsvrefshmn.duckdns.org
 issskfredwnefesbsvrrrx.duckdns.org
 issslemsizlerle.com
 issssbfrst2lrr.sbs
-issssssss-2ssss.sbs
-isssssssssssssssssssssssssssssssssssssss.sbs
-issstnnnbllerss.net
-issstyaannbullkrttykleme.blogspot.com
-isssungggbsvrrr.cloud
-isssyukleeeee.net
