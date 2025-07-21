@@ -3724,6 +3724,9 @@
 1451051634243118756.com
 14515579416.cloud
 14522880072.xyz
+145251559888890.xyz
+145251559888892.xyz
+145251559888896.xyz
 14526372.info
 14526372.xyz
 14528090.info
@@ -10305,6 +10308,7 @@
 360-mobil.com
 360-mobil.com.tr
 360-mobilde.com.tr
+360-online-cep.com
 360-online.com.tr
 360-plus.com.tr
 360-pro.com.tr
@@ -40904,6 +40908,7 @@ anindaenguvenilirhizlialisveris.xyz
 anindafaizsizkredi.com
 anindafirsat.xyz
 anindafirsatlar.net
+anindafirsatlarharikagunler.com.tr
 anindafirsatlarharikagunler.site
 anindafirsatlarkacirilmadandegerlendir.com.tr
 anindafirsatlarkacirilmadandegerlendir.online
@@ -59428,6 +59433,7 @@ bgn-bn-dg-gn.shop
 bgn-bnm-dgm-gn.shop
 bgn-br-gln.cfd
 bgn-brlr.it.com
+bgn-bu-is-olacak.shop
 bgn-gel-frst.shop
 bgn-ngm.shop
 bgnbansyilkampnyaewak.shop
@@ -87494,6 +87500,7 @@ chukwuonye.duckdns.org
 chumocarz.club
 chun2021.com
 chunga131.ru
+chunkcase.cyou
 chunkgrind.com
 chunkmortality.top
 chunyg21.sportsontheweb.net
@@ -99991,10 +99998,3 @@ deniz-denizbnk.net
 deniz-departmanlikgiris.click
 deniz-digitalpazarlama-2023.com
 deniz-dijital.online
-deniz-dovizislemleri.tk
-deniz-duyuru.cf
-deniz-duyuru.ga
-deniz-duyuru.gq
-deniz-duyuru.ml
-deniz-e-cepweb-tr.net
-deniz-edevlet-aidat-iadesi.tk
