@@ -15425,6 +15425,7 @@
 6vmrp7pw.duckdns.org
 6vmzb2.duckdns.org
 6vnh62d.duckdns.org
+6voltakampanyasi.cfd
 6voltakampanyasi.lat
 6vq3snc1.duckdns.org
 6vqv6ie.duckdns.org
@@ -99997,4 +99998,3 @@ deniz-basvurumcepten.com
 deniz-basvurun-kontrol.xyz
 deniz-basvurusayfam.com
 deniz-basvurusu.net
-deniz-bildirim-onay-gov-tr.ml

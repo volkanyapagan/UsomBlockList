@@ -1,3 +1,4 @@
+deniz-bildirim-onay-gov-tr.ml
 deniz-bildirim-onay.com
 deniz-bilgi.org
 deniz-bilgilendirme-sorgulama.tk
@@ -99997,4 +99998,3 @@ isstanbulldolm.net
 isstanbulldolum.net
 isstanbullkartbasvrr.org
 isstanbulxpazar.net
-isstg.net
