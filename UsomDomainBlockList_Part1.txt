@@ -3674,6 +3674,7 @@
 1425462659652960.xyz
 1425516554564480.xyz
 1425516554564482.xyz
+1425516554564486.xyz
 1425516554564488.xyz
 1425516554569880.xyz
 1425516554569882.xyz
@@ -13330,6 +13331,7 @@
 5462367865.cloud
 54635624245.cloud
 5463g554g3545g.blogspot.com
+546465465464654654654.duckdns.org
 546473452573453.com
 546481681818684864684.blogspot.com
 54653453541f534f5134f.blogspot.com
@@ -37259,6 +37261,7 @@ aldinaldin101.store
 aldinaldin101bayramlari.vercel.app
 aldinaldin101com.online
 aldinaldin101firsatlari.com.tr
+aldinaldin101firsatlari.duckdns.org
 aldinaldin101firsatlari.online
 aldinaldin101firsatlari.xyz
 aldinaldin101kamapnya.online
@@ -58553,6 +58556,7 @@ benimplanim.online
 benimprofilim.com
 benimprofillimekimbakti.net
 benimsayfam-ozel-katil-aende.ml
+benimsayfamgirisbasvur.xyz
 benimsepetim.xyz
 benimsitem.xyz
 benimsubem.com
@@ -99994,7 +99998,3 @@ deniz-bank-kartim.net
 deniz-bank-mobil-gov-tr.ml
 deniz-bank-mobilbankacilik.com
 deniz-bank-onlinegiris.com
-deniz-bank-subeler.com
-deniz-bank.at
-deniz-bank.rf.gd
-deniz-bank.tc
