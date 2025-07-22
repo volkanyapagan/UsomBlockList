@@ -1,3 +1,5 @@
+sahibinden.gets.alisveris-ilanim.com.tr
+sahibinden.getsatisim.com.tr
 sahibinden.gonderikabul.com
 sahibinden.gq
 sahibinden.guncel-alim.online
@@ -70827,6 +70829,7 @@ wwvparibumramazangiris.com
 wwvpaributoggkampanya.com
 wwvprobtcturk.com
 wwvptt-avm.com
+wwvpttavm-secure.com
 wwvpttavm.com
 wwvsubegelalaktive.com
 wwvv-bimcell-yukleme-tl.com
