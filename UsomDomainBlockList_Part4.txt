@@ -1,3 +1,6 @@
+sahibinden.guvendealim.com
+sahibinden.guvendealimservisi.com.tr
+sahibinden.guvendealisveris.com.tr
 sahibinden.guvendealisverisim.com.tr
 sahibinden.guvendeapp.com.tr
 sahibinden.guvendehizmetimiz.com.tr
@@ -33250,6 +33253,7 @@ temmuzunfirsatlarla.duckdns.org
 temmuzunkampanyasi.biz.tr
 temmuzunkampanyasi.info.tr
 temmuzunkampanyasi.name.tr
+temmuzunkampanyasi.org.tr
 temmuzunkampanyasi.web.tr
 temmuzunn-serinlettenfirsati.com
 temmuzunn-serinlettenfirsatii.com
@@ -51695,6 +51699,7 @@ ureticidenhizlitikla.shop
 ureticidenkapinagelsin.shop
 ureticidenmutfaginiza.xyz
 ureticidensepetlerinize.xyz
+ureticidentabagina.xyz
 ureticidentamzamani.xyz
 ureticidentermosal.xyz
 ureticidentuketiciye.xyz
