@@ -20338,6 +20338,7 @@ a101-cepteindrmler.com
 a101-cmtertesi.net
 a101-com-online.online
 a101-com-tr-indirim.internetozel.online
+a101-com-tr.duckdns.org
 a101-com-tr.firsat-icin-son-saatler.com
 a101-com-tr.firsat-kampanyalar-basladi.com
 a101-com-tr.firsatin-saatleri.com
@@ -99997,4 +99998,3 @@ deniz-basvuruformukampanya.com
 deniz-basvuruforum-kampanya.com
 deniz-basvuruforumkampanya.com
 deniz-basvurugiris.com
-deniz-basvurugunlukleri.com
