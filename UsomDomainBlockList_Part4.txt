@@ -1,3 +1,10 @@
+sahibinden.getguvenlialisverisim.com.tr
+sahibinden.getlinkpayment.com
+sahibinden.getmobilodeme.com.tr
+sahibinden.gets-alisverisin.com.tr
+sahibinden.gets-alisverisiniz.com.tr
+sahibinden.gets-satisim.com.tr
+sahibinden.gets-ticaretim.com.tr
 sahibinden.gets.alisveris-ilanim.com.tr
 sahibinden.getsatisim.com.tr
 sahibinden.gonderikabul.com
@@ -76718,6 +76725,7 @@ xcoct.xyz
 xcod.ddns.net
 xcodclesbwdlxoa.su
 xcode001.ddns.net
+xcoinbmn.vercel.app
 xcombimcvll.net
 xconnectit.com
 xcor3.ddns.net
