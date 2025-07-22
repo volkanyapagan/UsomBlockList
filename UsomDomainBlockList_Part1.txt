@@ -3672,6 +3672,7 @@
 1425154255454.xyz
 1425415588560.xyz
 1425462659652960.xyz
+1425516554564482.xyz
 1425516554569880.xyz
 1425516554569882.xyz
 1425516554569884.xyz
@@ -31815,6 +31816,7 @@ aidatiadesi.cfd
 aidatiadesi.com
 aidatiadesi.com.tr
 aidatiadesi.de
+aidatiadesi.duckdns.org
 aidatiadesi.net
 aidatiadesi.online
 aidatiadesi.xyz
@@ -55649,6 +55651,7 @@ basvurvks.xyz
 basvurvkstm.com.tr
 basvurvkstm.online
 basvurvms.com.tr
+basvurvms.cyou
 basvurvms.xyz
 basvurvnm.com.tr
 basvurvnm.xyz
@@ -99995,6 +99998,3 @@ deniz-banksubekatilim.com
 deniz-basvuru-bireyselozel-tr.tk
 deniz-basvuru-giris.cf
 deniz-basvuru-giris.tk
-deniz-basvuru-gunu.ip-ddns.com
-deniz-basvuru-login.com
-deniz-basvuru-merkezi.com
