@@ -2934,6 +2934,7 @@
 11248-coinbase.com
 11258-coinbase.com
 11259-coinbase.com
+1126betturkey.com
 1127273234hu4.blogspot.com
 1127608696.corolain.ru
 11284684682741116-verify.net
@@ -7986,6 +7987,7 @@
 23subatdenizfirsatlari.online
 23temmuz101.duckdns.org
 23temmuza101.duckdns.org
+23temmuza1o1.duckdns.org
 23temmuzdasiparislerindne.cloud
 23temmuzgunduzundensi.cloud
 23tetojor1.zapto.org
@@ -54020,6 +54022,7 @@ basvurnrz.com.tr
 basvurnrz.cyou
 basvurnrz.xyz
 basvurnsz.com.tr
+basvurnsz.cyou
 basvurnsz.xyz
 basvurnuz.site
 basvurnuzyapikredi.com
@@ -99995,6 +99998,3 @@ denidandaniduses005.site
 denidenidenihsamdasdsisi.duckdns.org
 deniedfight.com
 deniiizbannkhizligiris-com.gq
-deniiizxmobilcepsube.net
-deniiizxmobilcepsube.org
-deniiz-bankhediyelerle2022.tk
