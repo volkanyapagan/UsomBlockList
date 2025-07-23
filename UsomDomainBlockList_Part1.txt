@@ -37064,6 +37064,7 @@ aldi1sndf-irs1ata1s01.xyz
 aldi1sndf-irsata101.xyz
 aldia11.cfd
 aldia11.lat
+aldia11.sbs
 aldialdia1o1.com
 aldigittibenibendenfirsatlari.online
 aldigngldi.shop
@@ -38319,6 +38320,7 @@ alisveristekampanyalar.online
 alisveristekampanyalar.xyz
 alisveristekifirsat.com.tr
 alisveristekifirsat.online
+alisveristekifirsatlarburda.cfd
 alisveristepersembefirsati.cfd
 alisveristepersembefirsati.icu
 alisveristepersembefirsati.sbs
@@ -48364,6 +48366,7 @@ avastui.duckdns.org
 avatarcloud.top
 avatyguard.ddns.net
 avaver.ru
+avavetom.org
 avayacloud.com.global.prod.fastly.net
 avbildiri-ihlal.icu
 avbildiri-ihlalsorgu.com
@@ -99995,6 +99998,3 @@ dengesizler.online
 dengesonsus.site
 dengirjs.digital
 dengmiros.asia
-deni-kampya-katlm-ozel.cf
-deni-kampya-katlm-ozel.ga
-deni-kampya-katlm-ozel.gq
