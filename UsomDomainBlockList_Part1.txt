@@ -60480,6 +60480,7 @@ bilgiadresi.bns-vio.space
 bilgiadresimtr.miko-cdn.space
 bilgiaidatlari.net
 bilgiakbank.com
+bilgiakisi.shop
 bilgial.tk
 bilgialbsvr.com
 bilgialma-formu.com
@@ -99997,4 +99998,3 @@ denixmobilebireysl.com
 deniz--den-tr.com
 deniz--internet--mobil--basvuru.damat.space
 deniz--tr.com
-deniz-2019ocak.tk
