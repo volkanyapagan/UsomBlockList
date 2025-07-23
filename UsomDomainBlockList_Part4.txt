@@ -1,3 +1,9 @@
+sahibinden.g-siparis-ver.online
+sahibinden.get-aktif-ilanlarim.com.tr
+sahibinden.get-aktif.com.tr
+sahibinden.get-alisveris-sepet.com.tr
+sahibinden.get-bireysel.com.tr
+sahibinden.get-ilan-alisveris.com.tr
 sahibinden.get-ilani.com
 sahibinden.get-ilanim.com.tr
 sahibinden.get-ilanlar.com
