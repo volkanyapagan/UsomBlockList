@@ -1690,6 +1690,7 @@
 101-22mayisaksam.com
 101-22mayisoglen.com
 101-23mayisfirsatlar.com
+101-23temmuz.com
 101-25mayisaksam.com
 101-31mayisaksam.com
 101-31mayisfirsat.com
@@ -7983,6 +7984,8 @@
 23ocaktelefon.cyou
 23spt.duckdns.org
 23subatdenizfirsatlari.online
+23temmuz101.duckdns.org
+23temmuza101.duckdns.org
 23temmuzdasiparislerindne.cloud
 23temmuzgunduzundensi.cloud
 23tetojor1.zapto.org
@@ -97949,6 +97952,7 @@ dara.bireye-ozel-basvur-destek-kampanya.xyz
 darabuyauleso.xyz
 daragancindayim.net
 darakeh.me
+daralir-geceler-yuregim.shop
 daralsaadapack.com
 daranislar-hepden-iyilere-kadar-uzarayarak-gider.com
 darasgah.com
@@ -99994,7 +99998,3 @@ deniiizxmobilcepsube.net
 deniiizxmobilcepsube.org
 deniiz-bankhediyelerle2022.tk
 deniiz.net
-deniizbank.cf
-deniizbank.com
-deniizbank.tk
-deniizbankmobiil.com
