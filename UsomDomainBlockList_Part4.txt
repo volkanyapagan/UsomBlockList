@@ -1,3 +1,4 @@
+sahibinden.g-siparis-tr.click
 sahibinden.g-siparis-ver.online
 sahibinden.get-aktif-ilanlarim.com.tr
 sahibinden.get-aktif.com.tr
