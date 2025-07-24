@@ -1,3 +1,4 @@
+sahibinden.alisveris-ile.com
 sahibinden.alisveris-odeme-tr.sa.com
 sahibinden.alisveris-online.com.tr
 sahibinden.alisveris-online.sa.com
@@ -8270,6 +8271,7 @@ sepette-onayli-ilan.com
 sepette-onayli.com.tr
 sepette-urunum.com.tr
 sepette101.online
+sepette1o1indirimi.great-site.net
 sepettea101firsati.online
 sepettealisverishizmeti.com
 sepettebukadar.com
@@ -85456,6 +85458,7 @@ yapilandirma07440-b06b0cfcfc8a.herokuapp.com
 yapilandirmaislem.org
 yapilar-kampanyamiz.epizy.com
 yapilarbanlkaa.com.tr
+yapilarinkredisi.duckdns.org
 yapili-kredionayli.vercel.app
 yapiliavantajkapiisi-onlinebasvuru.vercel.app
 yapiliceptebasvurularaktifonay.vercel.app
