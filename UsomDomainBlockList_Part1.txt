@@ -69066,6 +69066,7 @@ bizdehergunkampanyavar.shop
 bizdeherseyucuz.com.tr
 bizdeherseyucuz.xyz
 bizdeherseyucuzldryr.com.tr
+bizdeindirimbitemz.my
 bizdekampanyabitmez.shop
 bizdekampanyalar-kasim-da-hic-bitmeyecek.shop
 bizdekampanyalar-kasimdahic-bitmeyecek.shop
@@ -73617,6 +73618,7 @@ bnhn.net
 bnhnacetr.net
 bnhost.ddns.net
 bnhsbasvuru-tr.com
+bnhsmtr.com
 bniadeislemi-tr.net
 bniamkba.duckdns.org
 bniduyurutr.com
@@ -99996,5 +99998,3 @@ denemeklernecebe.online
 denemelerdengec.tk
 denemelerim-simdibasvur.tk
 denemelerse.com
-denemelialisverisfirsati.com.tr
-denemelialisverisfirsati.online
