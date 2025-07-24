@@ -1,3 +1,9 @@
+sahibinden.alimservisin.sa.com
+sahibinden.alis-online.net
+sahibinden.alisveris-aktif-sepetim.com.tr
+sahibinden.alisveris-get-pay.com
+sahibinden.alisveris-ilan-pay.com
+sahibinden.alisveris-ilanlar.com.tr
 sahibinden.alisveris-ilanlarim.com
 sahibinden.alisveris-ilanode.com.tr
 sahibinden.alisveris-ile.com
@@ -26643,6 +26649,7 @@ supportpaidservice.ddns.net
 supportpaypal-fr.hopto.org
 supportportal-coinbase.com
 supportprotection.hopto.org
+supportptrl.com
 supportraka09012345.tk
 supports-softbank.com
 supports-tresor.buzz
