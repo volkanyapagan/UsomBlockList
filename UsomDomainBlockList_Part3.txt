@@ -1,3 +1,7 @@
+islemler-guvenli.shop
+islemler-halkbank.com
+islemler-halkbankasi.com
+islemler-hemen.online
 islemler-hizli-basvuru.online
 islemler-hizli-giris-qnb.life
 islemler-hizli.shop
@@ -10552,6 +10556,7 @@ kahvaltisefasi.buzz
 kahvaltjaertfd.monster
 kahve-dunyasi.myco.site
 kahve-gunu.shop
+kahveciguvercin.myshopify.com
 kahveic.ga
 kahvemakinesi.fun
 kahvemekani.com
@@ -19502,6 +19507,7 @@ kmsorgusu.blogspot.com
 kmsorguu-gov-tr.duckdns.org
 kmsorguyap-ptt-gov.duckdns.org
 kmsorguyapalimhemenaninda.duckdns.org
+kmsorguyaphemebburdangovpttavm.duckdns.org
 kmsorguyaphemengovptt-trr.duckdns.org
 kmsorguyapshuzky-gov-tr.duckdns.org
 kmsorptt-3591f3201846.herokuapp.com
@@ -34237,6 +34243,7 @@ marketp-ttalisveris.com
 marketp-ttavm.cfd
 marketp-tteavm.com
 marketpark.xyz
+marketpasaj.com
 marketplace-prj.com
 marketplace.lanheal.ru
 marketplace.servehttp.com
@@ -91608,6 +91615,7 @@ rebramarg.xyz
 rebrand.ly
 rebrandiptv.com
 rebretaci.com
+rebronzeqi.com
 rebusand.com
 rec-tec-ccr.nl
 rec.casacam.net
@@ -99990,11 +99998,3 @@ sahibinden-paramguvende.e-alisverislerin.net
 sahibinden-paramguvende.e-alisverislerintr.net
 sahibinden-paramguvende.e-alisverislertr.net
 sahibinden-paramguvende.e-alisveristr.net
-sahibinden-paramguvende.e-getalisveris.net
-sahibinden-paramguvende.e-getalisveristr.net
-sahibinden-paramguvende.e-online-tr.sa.com
-sahibinden-paramguvende.e-ticaret-alisveris.com
-sahibinden-paramguvende.e-ticaretalisveris.com
-sahibinden-paramguvende.elektronik-satin-alimlar.com.tr
-sahibinden-paramguvende.elektronik-sepetim.online
-sahibinden-paramguvende.elektronikalimlarin.online
