@@ -1693,6 +1693,7 @@
 101-22mayisoglen.com
 101-23mayisfirsatlar.com
 101-23temmuz.com
+101-23temmuz1.com
 101-25mayisaksam.com
 101-31mayisaksam.com
 101-31mayisfirsat.com
@@ -22153,6 +22154,7 @@ a101temmuzfirsatlariniz.com
 a101temmuzfrsatlari.online
 a101temmuzindirimleri.com
 a101temmuzkampanylari.duckdns.org
+a101temuzfirsati.duckdns.org
 a101tiklakapinda.online
 a101tmzindirmelr.com
 a101toshibasubatayndakampnyalaribaslar.vercel.app
@@ -99996,5 +99998,3 @@ deneme-son-bugun.dnsuser.de
 deneme-yapim.com
 deneme00366.duckdns.org
 deneme1.22web.org
-deneme113.icu
-deneme2.shop
