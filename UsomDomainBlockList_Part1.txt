@@ -1484,6 +1484,7 @@
 1-odeme.online
 1-ortakplatform.com
 1-ortaktrf.dev
+1-sfrstlmbrdao1.sbs
 1-sorgulama-adresi.blogspot.com
 1-subat-kampanyalari.com
 1-xn-www-acikdeniz.com.tr
@@ -28300,6 +28301,7 @@ adezabeseme.rocks
 adf2sv.duckdns.org
 adfadgadgjgagjfi.cfd
 adfadgiadgiadgiahia.cfd
+adfagdakgdakgdagi.cfd
 adfajhfja.click
 adffassann.net
 adffew.top
@@ -35271,6 +35273,7 @@ aksesfirsatlari.net.tr
 aksesfirsatlari.org.tr
 aksesmuhiddin.xyz
 aksessnakikit.top
+aksfdsgkshfiafwmqfdakg.cyou
 aksfdsgkshfiafwmqfdakg.icu
 aksfinans.com
 aksfsajfl1js1.xyz
@@ -54168,6 +54171,7 @@ basvursnm.xyz
 basvursnr.com.tr
 basvursnr.cyou
 basvursnr.xyz
+basvursnx.xyz
 basvursorgulafastgir.com
 basvurspn.xyz
 basvurspr.online
@@ -54365,6 +54369,7 @@ basvuru-forumu-gov-tr.com
 basvuru-garanti-bbva.com.tr
 basvuru-genelge.tk
 basvuru-gir.xyz
+basvuru-girisekrani.cfd
 basvuru-girisi.cf
 basvuru-globalfirsatkampanyasinihemenyakala.com
 basvuru-globalfirsatlardunyasi.com
@@ -99993,8 +99998,3 @@ deneme00366.duckdns.org
 deneme1.22web.org
 deneme113.icu
 deneme2.shop
-deneme23152.phpnet.us
-deneme99.zapto.org
-denemeajasdhasd.ml
-denemealbay.tk
-denemeamacli.tr-gov.com
