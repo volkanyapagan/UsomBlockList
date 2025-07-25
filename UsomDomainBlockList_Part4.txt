@@ -1,3 +1,5 @@
+sahibinden-paramguvenli.secure-alisveris-servisi.com.tr
+sahibinden-paramguvenli.secure-alisverisim.com.tr
 sahibinden-paramguvenli.sepet-hizmette.com.tr
 sahibinden-paramguvenli.sepet-servis.com.tr
 sahibinden-paramguvenli.servis-tr.com.tr
@@ -29839,6 +29841,7 @@ tatilyapisi2022.blogspot.com
 tatilzamani.net
 tatkaaltkaltata.online
 tatklatkaktaltaklta.online
+tatlidoga.pro
 tatlidusler.org
 tatlidusler.xyz
 tatliserbeti.ml
