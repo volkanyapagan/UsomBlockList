@@ -1,3 +1,6 @@
+islemiinkolayi.app
+islemim.fun
+islemim.xyz
 islemimaktif.net
 islemimaninda.net
 islemimgelmis.net
@@ -99995,6 +99998,3 @@ sahibinden-param.guvende-al.online
 sahibinden-param.guvende-alimin.com.tr
 sahibinden-param.guvende-alisveris-tr.online
 sahibinden-param.guvende-bireysel-s.com
-sahibinden-param.guvende-ilantr.sa.com
-sahibinden-param.guvende-satinal.online
-sahibinden-param.guvende-servis.xyz

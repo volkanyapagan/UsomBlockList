@@ -1,3 +1,6 @@
+sahibinden-param.guvende-ilantr.sa.com
+sahibinden-param.guvende-satinal.online
+sahibinden-param.guvende-servis.xyz
 sahibinden-param.guvende-tr.com.tr
 sahibinden-param.guvendeodeme.sa.com
 sahibinden-param.guvenli-alimin.com.tr
@@ -15080,6 +15083,7 @@ sistemselpromo.com
 sistemselrandevuveborclanma.net
 sistemselsoru.com
 sistemserviskontrolhizmetlerin.com
+sistemsizlerdebilgiler.click
 sistemsmttvv.com
 sistemsnc.xyz
 sistemsorgu.com
