@@ -69849,6 +69849,7 @@ harcaharcabitmezgibi.cfd
 harcaharcabitmezgunler.cfd
 harcaharcabitmezgunler.sbs
 harcaharcabitmezkampanya.cfd
+harcaharcabitmezler.cfd
 harcaharcabitmezler.sbs
 harcaharcabitmezonline.online
 harcaharcabitmezonlineapp.com
@@ -99997,4 +99998,3 @@ islemler-ailegenclik.pw
 islemler-ailevgenc.pw
 islemler-aillekrdbsvr.net
 islemler-aillevgenc.pw
-islemler-akbank.net
