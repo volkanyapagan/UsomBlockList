@@ -20094,6 +20094,7 @@ a-online-alisveris.sa.com
 a-onlinealisveris.sa.com
 a-onllinedijitalmobill.net
 a-plakaliborctakibi.info
+a-ptt-avm.xyz
 a-pttavm.com
 a-pttgov.top
 a-rabamuayne.org
@@ -37523,6 +37524,7 @@ aldinfirsatlarkampanya.online
 aldinfirsatsimdi.shop
 aldingeldin.biz.tr
 aldingeldin.com.tr
+aldingeldin.info.tr
 aldingeldinaldin.biz.tr
 aldingeldinaldin.info.tr
 aldingeldinaldin.org.tr
@@ -99996,5 +99998,3 @@ den-islem.online
 den-iz-mobilim.xyz
 den-izbank.cf
 den-izdaykampanysibasvuru.online
-den-izde.website
-den-izonline.xyz

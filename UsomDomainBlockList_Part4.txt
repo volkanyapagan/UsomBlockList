@@ -1,3 +1,14 @@
+sahibinden-param.guvende-tr.com.tr
+sahibinden-param.guvendeodeme.sa.com
+sahibinden-param.guvenli-alimin.com.tr
+sahibinden-param.guvenli-ileode.com
+sahibinden-param.guvenli-onlinetr.sa.com
+sahibinden-param.guvenlialimlar.com.tr
+sahibinden-param.hizmet-al.net
+sahibinden-param.hizmetlerin.com.tr
+sahibinden-param.ileguvenli-alin.com
+sahibinden-param.manuelalim.xyz
+sahibinden-param.online-hizmetlerin.com.tr
 sahibinden-param.online-tr-alimlarimiz.com.tr
 sahibinden-param.online-urun.net
 sahibinden-param.onlinealimim.net
@@ -71156,6 +71167,7 @@ wvw-isbqnk.com
 wvw-online-halkbank-tr.com
 wvw-onlineiademerkezi-tr.com
 wvw-paribucomtr.xyz
+wvw-pttavm.com
 wvw-qnbfinans.com
 wvw-qnbfinansbank-com.tk
 wvw-qnbfinansbank-hediyeler.com
@@ -92806,6 +92818,7 @@ yurticikargotakipiniz.blogspot.com
 yurticikargotakipislemin.com
 yurticikargoto.ink
 yurticikargotr.ink
+yurticikargotr.sbs
 yurticikargotr.top
 yurticikargots.ink
 yurticikargotx.ink
