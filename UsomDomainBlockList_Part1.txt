@@ -1696,6 +1696,7 @@
 101-23temmuz1.com
 101-25mayisaksam.com
 101-26temmuzcadir.com
+101-26temmuzgece.com
 101-31mayisaksam.com
 101-31mayisfirsat.com
 101-3haziranaksam.com
@@ -37526,6 +37527,7 @@ aldinfirsatsimdi.shop
 aldingeldin.biz.tr
 aldingeldin.com.tr
 aldingeldin.info.tr
+aldingeldin.org.tr
 aldingeldinaldin.biz.tr
 aldingeldinaldin.info.tr
 aldingeldinaldin.org.tr
@@ -99996,5 +99998,3 @@ demstat577d.xyz
 demur3.com
 demxylxksylneihmbtwbyxopz.net
 den-ack.xyz
-den-capitalset09.zapto.org
-den-islem.online
