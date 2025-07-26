@@ -1,3 +1,5 @@
+islemler-edevletgovtr.epizy.com
+islemler-garanti.com
 islemler-garanti.net
 islemler-get.net
 islemler-giris-portali.gleeze.com
@@ -63622,6 +63624,7 @@ onlineservis-islemi.com
 onlineservishizmeti.site
 onlineservisler.shop
 onlineservxns.ddns.net
+onlinesezonbasvuru.com
 onlinesgjris.website
 onlineshop.sellclassics.com
 onlineshoptr.cf
@@ -83093,6 +83096,7 @@ pttavm.siparisedin.com.tr
 pttavm.siparisguvencesi.com.tr
 pttavm.siparisiim.com.tr
 pttavm.sonfirsati.com.tr
+pttavm.store
 pttavm.tedarigin-guvenlisi.com
 pttavm.tedarikler-guvenli.com
 pttavm.tr-ilanlarla.com
@@ -99994,7 +99998,3 @@ sahibinden-paramguvende.alim-servisi.sa.com
 sahibinden-paramguvende.alim-servisleri.sa.com
 sahibinden-paramguvende.alisverishizmetin.com.tr
 sahibinden-paramguvende.alisverishizmetlerin.com.tr
-sahibinden-paramguvende.alisverisintr.com.tr
-sahibinden-paramguvende.bireysel-hizmetler.com
-sahibinden-paramguvende.com
-sahibinden-paramguvende.com-alisveris.shop
