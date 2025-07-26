@@ -1,3 +1,6 @@
+islemler-anindabak.app
+islemler-basvru.online
+islemler-basvurs.online
 islemler-bbva.com.tr
 islemler-cepte-hemen-hizmet.com
 islemler-e-devlet.org
@@ -99995,6 +99998,3 @@ sahibinden-paramguvende-tr.com
 sahibinden-paramguvende-urundetay.com
 sahibinden-paramguvende-user-odeme.com
 sahibinden-paramguvende.20-104-128-230.plesk.page
-sahibinden-paramguvende.22web.org
-sahibinden-paramguvende.35-158-174-245.plesk.page
-sahibinden-paramguvende.42web.io
