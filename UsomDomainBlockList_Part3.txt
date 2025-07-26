@@ -1,3 +1,7 @@
+islemler-bbva.com.tr
+islemler-cepte-hemen-hizmet.com
+islemler-e-devlet.org
+islemler-e-trafik.blogspot.com
 islemler-edevlet.com
 islemler-edevletgovtr.epizy.com
 islemler-garanti.com
@@ -99994,7 +99998,3 @@ sahibinden-paramguvende.20-104-128-230.plesk.page
 sahibinden-paramguvende.22web.org
 sahibinden-paramguvende.35-158-174-245.plesk.page
 sahibinden-paramguvende.42web.io
-sahibinden-paramguvende.aktuel-urunleri.sa.com
-sahibinden-paramguvende.alim-servisi.sa.com
-sahibinden-paramguvende.alim-servisleri.sa.com
-sahibinden-paramguvende.alisverishizmetin.com.tr

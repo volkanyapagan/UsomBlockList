@@ -1,3 +1,7 @@
+sahibinden-paramguvende.aktuel-urunleri.sa.com
+sahibinden-paramguvende.alim-servisi.sa.com
+sahibinden-paramguvende.alim-servisleri.sa.com
+sahibinden-paramguvende.alisverishizmetin.com.tr
 sahibinden-paramguvende.alisverishizmetlerin.com.tr
 sahibinden-paramguvende.alisverisintr.com.tr
 sahibinden-paramguvende.bireysel-hizmetler.com
