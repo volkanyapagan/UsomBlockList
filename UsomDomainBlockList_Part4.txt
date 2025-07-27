@@ -1,3 +1,8 @@
+sahibinden-param-guvence-get.tk
+sahibinden-param-guvence-gets.cf
+sahibinden-param-guvende-alim-satim.com
+sahibinden-param-guvende-alisverisi-online.hizmet-s.com
+sahibinden-param-guvende-app.ml
 sahibinden-param-guvende-apple-watch-7-black-1015942047-odeme.tk
 sahibinden-param-guvende-apple-watch-7-series-odeme-ekrani.ml
 sahibinden-param-guvende-bana-ozel.tk
