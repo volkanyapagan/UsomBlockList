@@ -1965,8 +1965,10 @@
 101alimlariburadan.icu
 101alimlariburadan.my
 101alimlariburadan.sbs
+101alimlariburadanyapiliyor.cfd
 101alimlariburadanyapiliyor.click
 101alimlariburadanyapiliyor.club
+101alimlariburadanyapiliyor.sbs
 101alisveris.com
 101alisverisfirsatlari.com
 101aonlinegiris.app
@@ -7812,6 +7814,7 @@
 23192199321921002.cloud
 23198498651.cloud
 23211111111.duckdns.org
+2321135673.cloud
 232223232.duckdns.org
 23222635125.cloud
 23222654654.cloud
@@ -55873,6 +55876,7 @@ basvurzmr.com.tr
 basvurzmr.xyz
 basvurznr.com.tr
 basvurznr.cyou
+basvurzns.cyou
 basvurzuz.site
 basvutrruresmibnncs.com
 basvvuru-ieademerkezi-edevlet.com
@@ -69389,6 +69393,7 @@ bizler-bayrama-geliyoruz-sizlerle-mutlu.com
 bizler-bayrami-burada-kutluyoruz-sizlerle.com
 bizler-bizi-sevenleyiz.top
 bizler-brudasn-kamp-aldin.shop
+bizler-brudasn-kamp-aldin.store
 bizler-bu-bayram-sizi-dusunuyoruz.com
 bizler-buldugunda-hizlica-sizlere-kadar-getiririz.com
 bizler-buldugunda-hizlica-sizlere-kadar.com
@@ -99993,8 +99998,3 @@ demonamon.com
 demonaracbuzdolabisayi.xyz
 demonaracsinirlisayi.xyz
 demonbreak.ddns.net
-demonbuzdolabi.vip
-demonfirsati.vip
-demonicl1.ddns.net
-demonkot.ddns.net
-demonpvp.zapto.org
