@@ -1,3 +1,4 @@
+islemgiris-onlinewebpage.cyou
 islemgiris-webpage-online.cyou
 islemgirisekrani.vercel.app
 islemgirisler-iade.com
@@ -11941,7 +11942,9 @@ kampanyalardafirsatlar.icu
 kampanyalardafirsatlarikacirmabugun.com.tr
 kampanyalardafirsatlarikacirmabugun.online
 kampanyalardafirsatlarikacirmabugun.xyz
+kampanyalardamutlugunler.baby
 kampanyalardamutlugunler.club
+kampanyalardamutlugunler.sbs
 kampanyalardanyararlankacirma.com.tr
 kampanyalardanyararlankacirma.online
 kampanyalardanyararlankacirma.xyz
@@ -84766,6 +84769,7 @@ pttkargo.sa.com
 pttkargo.site
 pttkargo.top
 pttkargo.vip
+pttkargo.world
 pttkargo24.xyz
 pttkargo3.blogspot.com
 pttkargoile.hemnsizlerinkarsisindavaariz.com
@@ -99994,7 +99998,3 @@ sahibinden-param-guvende-satin-al.com.tr
 sahibinden-param-guvende-satin-al.tr-online-s.com
 sahibinden-param-guvende-securtiy.35-158-174-245.plesk.page
 sahibinden-param-guvende-siparis.com.tr
-sahibinden-param-guvende-siparisver.com.tr
-sahibinden-param-guvende-tr.aktuel-urunleri.sa.com
-sahibinden-param-guvende.22web.org
-sahibinden-param-guvende.31-210-39-247.plesk.page
