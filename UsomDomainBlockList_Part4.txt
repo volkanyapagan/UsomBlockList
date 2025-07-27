@@ -1,3 +1,7 @@
+sahibinden-param-guvende.shop
+sahibinden-param-guvende.store
+sahibinden-param-guvende.tk
+sahibinden-param-guvende.tr-online-odemelerim.sa.com
 sahibinden-param-guvende.v-tr.sa.com
 sahibinden-param-guvende.wuaze.com
 sahibinden-param-guvende.xyz
@@ -19939,6 +19943,7 @@ sorgupanel1.name.tr
 sorgupanelciniz.com.tr
 sorgupaneli.cc
 sorgupaneli.com
+sorgupaneli.com.tr
 sorgupaneli.fun
 sorgupaneli.link
 sorgupaneli.live
@@ -84067,6 +84072,7 @@ yakinhukuk.com.tr
 yakinlardafirsatlarheransizlerle.com.tr
 yakinlardafirsatlarheransizlerle.cyou
 yakinlardafirsatlarheransizlerle.xyz
+yakinzamndahediyeligeldi.com
 yakisikli-yonlendir.com
 yakisikliguvenlik.app
 yakka.duckdns.org

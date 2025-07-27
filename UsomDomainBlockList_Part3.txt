@@ -11938,6 +11938,7 @@ kampanyalardasonanlar.online
 kampanyalardasonanlar.xyz
 kampanyalardasongun.cfd
 kampanyalardasongun.icu
+kampanyalardasongun.sbs
 kampanyalardasongunhizlial.com.tr
 kampanyalardasongunhizlial.online
 kampanyalardasongunhizlial.xyz
@@ -47348,6 +47349,8 @@ mutluolurduk.com
 mutlupatiler.xyz
 mutlusms.com.tr
 mutlusms.xyz
+mutlusonfirsatlari.cfd
+mutlusonfirsatlari.icu
 mutlusonfirsatlari.sbs
 mutlusonlukampanyalar.cfd
 mutlusonlukampanyalar.icu
@@ -73373,6 +73376,7 @@ parlayan-yildizlar-aydinlatiyor-gozleri-burada.com
 parlayan-yildizlar-gulen-yuzlari-aydinlatiyor.com
 parlayan-yildizlar-gulen-yuzler-burada.com
 parlayan-yildizlar-gulen-yuzleri-aydinlatiyor.com
+parlayanfirsatlardabugun.sbs
 parlbu-basvur-134124-25645735-12357.com
 parlbu.net
 parlbu.org
@@ -99994,7 +99998,3 @@ sahibinden-param-guvende.org
 sahibinden-param-guvende.ru.com
 sahibinden-param-guvende.secureapplication.com.tr
 sahibinden-param-guvende.secureodemebaglantisi.com.tr
-sahibinden-param-guvende.shop
-sahibinden-param-guvende.store
-sahibinden-param-guvende.tk
-sahibinden-param-guvende.tr-online-odemelerim.sa.com
