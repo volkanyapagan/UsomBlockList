@@ -1,3 +1,8 @@
+sahibinden-param-guvende.online-tr.sa.com
+sahibinden-param-guvende.org
+sahibinden-param-guvende.ru.com
+sahibinden-param-guvende.secureapplication.com.tr
+sahibinden-param-guvende.secureodemebaglantisi.com.tr
 sahibinden-param-guvende.shop
 sahibinden-param-guvende.store
 sahibinden-param-guvende.tk
@@ -15704,6 +15709,7 @@ sizlerden-gelen-talepler-yeniden-burada.com
 sizlerden-son-dilegimiz.com
 sizlerdensendenre.sbs
 sizlerdeyararlanin.site
+sizlerdodzel-burdaks-indirmelr.shop
 sizlere-burada-hizmet-ve-mutluluk-verecegiz.com
 sizlere-dogru-yolu-gosterip-durduk.com
 sizlere-geldi-bayrama-ozel-indirimler-burada.com
