@@ -69945,6 +69945,8 @@ harcaharcabitmezaralikayi.shop
 harcaharcabitmezburda.cfd
 harcaharcabitmezburda.sbs
 harcaharcabitmezdediler.sbs
+harcaharcabitmezdensilinmez.cfd
+harcaharcabitmezdensilinmez.sbs
 harcaharcabitmezfirsatlar.cfd
 harcaharcabitmezfirsatlar.icu
 harcaharcabitmezfirsatlar.sbs
@@ -99996,5 +99998,3 @@ islemaidat.app
 islemaidati.app
 islemaidatmerkezitrgovtr.com
 islemailegenclik.pw
-islemalani.xyz
-islemaninda.net
