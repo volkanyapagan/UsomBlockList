@@ -1,3 +1,23 @@
+sahibinden-param-guvende-odeme.com
+sahibinden-param-guvende-odeme.ml
+sahibinden-param-guvende-odemehizmeti-com.ml
+sahibinden-param-guvende-onay-odeme.com
+sahibinden-param-guvende-onay-odeme.xyz
+sahibinden-param-guvende-onay-sistemi.cf
+sahibinden-param-guvende-onay.cf
+sahibinden-param-guvende-onay.com
+sahibinden-param-guvende-online.com
+sahibinden-param-guvende-online.xyz
+sahibinden-param-guvende-pay.cf
+sahibinden-param-guvende-pay.ml
+sahibinden-param-guvende-philips-fritoz-premium-1017167352-ode.ml
+sahibinden-param-guvende-philips-fritoz-premium-1017167352-ode.tk
+sahibinden-param-guvende-satin-al-odeme-ekrani.tk
+sahibinden-param-guvende-satin-al-urun-com.shop
+sahibinden-param-guvende-satin-al.com.tr
+sahibinden-param-guvende-satin-al.tr-online-s.com
+sahibinden-param-guvende-securtiy.35-158-174-245.plesk.page
+sahibinden-param-guvende-siparis.com.tr
 sahibinden-param-guvende-siparisver.com.tr
 sahibinden-param-guvende-tr.aktuel-urunleri.sa.com
 sahibinden-param-guvende.22web.org
@@ -18907,6 +18927,7 @@ sonfazdestekci.com
 sonfirsat-kampanyalari.xyz
 sonfirsat-kapida.xyz
 sonfirsat.shop
+sonfirsatbizdedir.name.tr
 sonfirsatbrda.shop
 sonfirsatbugunaldinaldin.site
 sonfirsatgunleri.com
@@ -25340,6 +25361,7 @@ subem-ziraatbankasi.com
 subem.benburdaanindabasvuru.site
 subem.bndnzimfirsatlar.xyz
 subem.info
+subem.sa.com
 subemakbank.com
 subemakbankk.com
 subemakbkk.vercel.app
@@ -68191,6 +68213,7 @@ wepgirisim-turkiyyegovtr.net
 wephone.top
 weporsche.com
 weqrmearma.in
+weqsdwqesdclick.art
 weqwe-weqeq-ewq.space
 wer-d.info
 werasmiro.top
