@@ -73929,6 +73929,7 @@ pasajp-ttmobil.com
 pasajpt-tonlinecep.cfd
 pasajsanal.com
 pasajsanalmagaza.com
+pasajsanalmagazasi.com
 pasajsanalmarket.com
 pasajsite.com
 pasajticaretp-tt.com
@@ -99997,4 +99998,3 @@ sahibinden-ikinci-el-sifir-alisveris-param-guvende-get-odeme-tr.tk
 sahibinden-ikinci-el-sifir-alisveris-param-guvende-odeme.ml
 sahibinden-ikinci-el-sifir-alisveris-param-guvende-odeme.tk
 sahibinden-ikinci-el-ve-sifir-alisveris-bilgisayar-msi-gtx-1660.ml
-sahibinden-ikinci-el-ve-sifir-alisveris-get-odeme-ekrani-tr.ml
