@@ -1,3 +1,5 @@
+sahibinden-param-gets-guvende.cf
+sahibinden-param-guvence-get.cf
 sahibinden-param-guvence-get.tk
 sahibinden-param-guvence-gets.cf
 sahibinden-param-guvende-alim-satim.com
