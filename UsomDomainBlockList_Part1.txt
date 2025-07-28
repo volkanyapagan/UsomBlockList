@@ -2093,7 +2093,9 @@
 101firsati.online
 101firsatim.com
 101firsatkampanyalariniz.cfd
+101firsatkampanyalariniz.icu
 101firsatkampanyalariniz.my
+101firsatkampanyalariniz.sbs
 101firsatkampanyanbizde.vercel.app
 101firsatkapida.com
 101firsatkxpida.click
@@ -83346,6 +83348,7 @@ carreffourso.online
 carreffourso.store
 carreffuoeor-sa.online
 carreffuoeour-sa-com.online
+carreffuorsa.com
 carreforsa.shop
 carreforsadan-gelenlr.space
 carreforsadan-gelenlr.store
@@ -99995,6 +99998,3 @@ demirtasdekorasyon.com
 demirtastenceretavaa.tk
 demiryardim.org
 demiseaffair.top
-demisemass.top
-demiurgus2023.ddns.net
-demlafka.org
