@@ -2197,6 +2197,7 @@
 101kampanya.online
 101kampanyaaldinaldin.net
 101kampanyafirsatlari.xyz
+101kampanyafirsatlariicin.my
 101kampanyafirsatlariniz.cfd
 101kampanyafirsatlariniz.icu
 101kampanyafirsatlariniz.my
@@ -37479,6 +37480,7 @@ aldinaldinkampanyaa.online
 aldinaldinkampanyaburdan.gtxpioneer.za.com
 aldinaldinkampanyahaftasii.com
 aldinaldinkampanyalar.com
+aldinaldinkampanyalari.cfd
 aldinaldinkampanyasindan.com
 aldinaldinkampanyastokk100.com
 aldinaldinkampanyatr.online
@@ -41822,6 +41824,7 @@ antikor.name.tr
 antikvarium.ro
 antilaclamacisi.site
 antilag.ddns.net
+antilgurmalp.xyz
 antiliturgistzgqer.com
 antimalwarebyte.site
 antinio.mssql.somee.com
@@ -90629,6 +90632,7 @@ cofetimefl.com
 coffee-joy-usa.com
 coffee.ddns.me
 coffeeblue.xyz
+coffeegrammf.com
 coffeeonlineshop.azurewebsites.net
 coffeeonlineshoping.azurewebsites.net
 coffeeparameter.top
@@ -90718,6 +90722,7 @@ coinalwell-being.shop
 coinalwell-being.top
 coinalwidespread.top
 coinangelinvestor.top
+coinarky.com
 coinbacker.shop
 coinband.shop
 coinband.top
@@ -99993,8 +99998,3 @@ demo.scd.network
 demo.techcloudltd.com
 demo.wearemedia.us
 demo.website.com
-demo1111c.duckdns.org
-demo12.ml
-demo212.ddns.net
-demo34.ckg.hk
-demoairdragon.zapto.org
