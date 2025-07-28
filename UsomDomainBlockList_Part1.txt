@@ -37445,6 +37445,7 @@ aldinaldinfirsatlari.site
 aldinaldinfirsatlari.store
 aldinaldinfirsatlari.xyz
 aldinaldinfirsatlari30mayis.com
+aldinaldinfirsatlarikacirma.sbs
 aldinaldinfirsatlarim.shop
 aldinaldingunleri.perakendealisverisim.com
 aldinaldinhaftaindi.store
@@ -99997,4 +99998,3 @@ demo12.ml
 demo212.ddns.net
 demo34.ckg.hk
 demoairdragon.zapto.org
-demobilv.xyz

@@ -1,3 +1,4 @@
+demobilv.xyz
 demobimceliyizhepimiz-tr.com
 demobimcelll-tr.com
 demobyfamous-version.duckdns.org
@@ -25497,6 +25498,7 @@ edosyaburo.com
 edosyagoruntule.org
 edosyakontrol.net
 edosyasorgula.org
+edosyasorgulama.org
 edosyauyap.com
 edporstalsayfam.com
 edprepaidprocessing.ddns.net
@@ -69995,6 +69997,7 @@ harcaharcabitmeza101.store
 harcaharcabitmezaktuel.shop
 harcaharcabitmezaldinal.xyz
 harcaharcabitmezaralikayi.shop
+harcaharcabitmezbabani.cfd
 harcaharcabitmezbebegim.cfd
 harcaharcabitmezburda.cfd
 harcaharcabitmezburda.sbs
@@ -70017,6 +70020,8 @@ harcaharcabitmezhaftalar.cfd
 harcaharcabitmezhaftalar.sbs
 harcaharcabitmezharca.cfd
 harcaharcabitmezkampanya.cfd
+harcaharcabitmezkampanyalari.cfd
+harcaharcabitmezkampanyalari.sbs
 harcaharcabitmezler.cfd
 harcaharcabitmezler.sbs
 harcaharcabitmezmiyoksa.cfd
@@ -99993,8 +99998,3 @@ islem-ailevegenc.pw
 islem-ailevegenclik.pw
 islem-ailevegenclk.pw
 islem-ailevgenc.pw
-islem-ailevgenclk.pw
-islem-aillevgenc.pw
-islem-akcep-mobilgiris.com
-islem-akcep-mobilgiris.pro
-islem-aktif.net
