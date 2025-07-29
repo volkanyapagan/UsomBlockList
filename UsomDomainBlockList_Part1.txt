@@ -2115,6 +2115,7 @@
 101firsatlarigirisadresi.click
 101firsatlarigirisadresi.icu
 101firsatlarigirisadresi.my
+101firsatlarigirisadresi.sbs
 101firsatlarim.shop
 101firsatlarkapinda.com
 101firsatlaronline.xyz
@@ -2228,6 +2229,7 @@
 101kampanyafirsatlariniz.my
 101kampanyafirsatlariniz.sbs
 101kampanyagiris.online
+101kampanyagirisleriburasi.cfd
 101kampanyahaberleregel.app
 101kampanyahaberleregelsadeceonline.app
 101kampanyalari.com
@@ -20609,6 +20611,7 @@ a101-harcaharcabitmez1.sbs
 a101-harcaharcabitmez10.sbs
 a101-harcaharcabitmez2.sbs
 a101-harcaharcabitmez3.sbs
+a101-harcaharcabitmez4.sbs
 a101-harcaharcabitmez5.sbs
 a101-harcaharcabitmez6.sbs
 a101-harcaharcabitmez7.sbs
@@ -65903,6 +65906,7 @@ binancelogin2023dogrula.line.pm
 binanceloginacaounttr.line.pm
 binancelogins-com.ml
 binanceltr.com
+binanceltr.xyz
 binancem.link
 binancemega.net
 binancememecoin.com
@@ -67249,6 +67253,7 @@ bireysel-sube--giris.net
 bireysel-sube--tr--giris.com
 bireysel-sube-giris--tr.com
 bireysel-sube-giris--trr.com
+bireysel-sube-giris.xyz
 bireysel-sube-girisler.com
 bireysel-sube-iscep-basvuru.cf
 bireysel-sube-iscep-cekilis.ml
@@ -73842,6 +73847,7 @@ bnglobl-actn.com
 bngloobalservisim.com
 bngnlrdsnglderdg.shop
 bngris.duckdns.org
+bngtrofsl.vercel.app
 bnguvende.com
 bnguvende.online
 bngvwy-instntly.com
@@ -99992,9 +99998,3 @@ delidivanekampanyalar.sbs
 delidolu.b-cdn.net
 delight-business-online.site
 delight.mv
-delightcaf.xyz
-delightclock.top
-delightfringe.top
-delightfulelaborately.top
-delightperplex.top
-deligibifirsatlar.cfd
