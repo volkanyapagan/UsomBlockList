@@ -1,3 +1,11 @@
+sahibinden-getilan.e-guvenliurun.online
+sahibinden-getilan.e-hizmetavm.online
+sahibinden-getilan.e-ilanislem.online
+sahibinden-getilan.e-ilansepet.online
+sahibinden-getilan.e-islemler-alisveris-tr.sa.com
+sahibinden-getilan.e-islemler-siparis-tr.online
+sahibinden-getilan.e-islemler-siparis-tr.sa.com
+sahibinden-getilan.e-islemler.online
 sahibinden-getilan.e-jethizmet.com.tr
 sahibinden-getilan.e-mobilislem.online
 sahibinden-getilan.e-mobiltr.online
@@ -10096,6 +10104,7 @@ servicenavyfederalcreditunion.duckdns.org
 servicenetupdate.ddns.net
 servicenidnaver.com
 servicenow-help.com
+servicenow-victimname.com
 serviceorangeespace.duckdns.org
 serviceorg.ddns.net
 serviceoverview-updatesupport.duckdns.org
@@ -15384,6 +15393,7 @@ siparislerin.com
 siparislerin18in.cloud
 siparislerindehizli18bucuk.cloud
 siparislerindehizliolma.cloud
+siparislerinhizlandi25temmuzda.cloud
 siparislerinhizlanir20bucukda.cloud
 siparislerinhizlanir9da.cloud
 siparislerinhizli17de.cloud
@@ -23420,6 +23430,7 @@ sso-s-coinbasepro-cdn-h-auth.webflow.io
 sso-t--kraken-autb.webflow.io
 sso-trezur-web.webflow.io
 sso-us-itrustcapital-com-auth.webflow.io
+sso-victimname.com
 sso-z-coinbasepro--cdn--u--auth.webflow.io
 sso.10yilozel-btcturkkripto.com
 sso.51y5.ne-config.51y5.ne
@@ -83615,6 +83626,7 @@ xrpkhxc5m.duckdns.org
 xrplive.info
 xrpmposhqoa.wcnv20.cn
 xrpmzvsoni.duckdns.org
+xrpoyeasfa.vercel.app
 xrpparibuhediyeleribasvuru.com
 xrptoggbasvurulari.com
 xrptrbasvurular.com
