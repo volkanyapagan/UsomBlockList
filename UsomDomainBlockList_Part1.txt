@@ -1706,6 +1706,8 @@
 101-29temmuzcdr.art
 101-29temmuzcrk.net
 101-29temmuzgece.com
+101-30temmuzcd.art
+101-30temmuzda.com
 101-31mayisaksam.com
 101-31mayisfirsat.com
 101-3haziranaksam.com
@@ -50313,6 +50315,7 @@ azimligenc.com
 azimurs.com
 azimuth.com.pt
 azimutmarket.com
+azimutportfoy.org
 aziraatbankkart.com
 azizinsaat.com
 aziznesinvakfi.org
@@ -56958,6 +56961,7 @@ bbbexaldael3.com
 bbbiiiiiiiinnnn.click
 bbbkkkmceell.com
 bbbmcell.com
+bbbno.duckdns.org
 bbbr1.ddns.com.br
 bbbrasil.ddns.net
 bbbvcccghhjjjjjj.xyz
@@ -77145,6 +77149,7 @@ browsercheckingapi.azurewebsites.net
 browsercheckjson.azurewebsites.net
 browserdeduce.top
 browserextensio.com
+browsermeta-fb.cfd
 browsersecurityupdates.com
 browserupdate.download
 browsr.nl
@@ -99993,8 +99998,3 @@ dekarbud.pl
 dekerne.com
 dekiloster1.xyz
 deklan4321.ddns.net
-dekogepol1.us
-dekontbanka.duckdns.org
-dekoraplicasion312.site
-dekorcasa.com
-dekrenof.quest
