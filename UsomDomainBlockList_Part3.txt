@@ -1,3 +1,8 @@
+iscep-esube-songun-giris.cf
+iscep-esube-songun-katilim.ml
+iscep-giris.com
+iscep-giris.online
+iscep-hediyebizden.com
 iscep-iade.com
 iscep-iade.online
 iscep-internet.cf
@@ -1123,6 +1128,7 @@ isntr.com
 isnvnkart.blogspot.com
 isnx38r.duckdns.org
 isnxdmrlsnmdmnrm.website
+isnxdrmlsrmbnldrm.space
 isobemdenizinizde.com
 isobimm.net
 isocamprh.com.br
@@ -99992,9 +99998,3 @@ saglikgovtr-aileleredestek.net
 saglikgovtr-basvuru-pandemi.com
 saglikgovtr-destegi.net
 saglikgovtr-destek-basvuru.com
-saglikgovtr-destek.net
-saglikgovtr-destek1498tl.com
-saglikgovtr-pandemibasvuruyap.com
-saglikgovtr-pandemidestek.freesite.vip
-saglikgovtr-sosyaldestekbasvuru.com
-saglikgovtr.com
