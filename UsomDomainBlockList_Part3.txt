@@ -1,3 +1,7 @@
+iscep-esube-giris.cf
+iscep-esube-katilim.cf
+iscep-esube-songun-basvuru.ml
+iscep-esube-songun-cekilis.ga
 iscep-esube-songun-giris.cf
 iscep-esube-songun-katilim.ml
 iscep-giris.com
@@ -19936,6 +19940,7 @@ klojbs.com
 klometre3.shop
 klomtresznlebrda.click
 klood600.ddns.net
+klopastausv.vercel.app
 klopastsasv.vercel.app
 kloraptvergsdlks.net
 klordiktincsglour.net
@@ -76484,6 +76489,7 @@ persmbegce32.com
 persmbegece32.com
 persmbeindrimlerii.com
 persmbelndrmlersmdi.shop
+persmbemrkt325.com
 persmbemrkt346.com
 persmislem.net
 persmislemi.net
@@ -99992,9 +99998,3 @@ saglikduyurusitesibilgiformun-2021.com
 saglikduyurusitesilisteformu-2021.com
 saglikgoalapp.site
 saglikgov.online
-saglikgovtr-1498tl.net
-saglikgovtr-20gbhediye.com
-saglikgovtr-aileleredestek.net
-saglikgovtr-basvuru-pandemi.com
-saglikgovtr-destegi.net
-saglikgovtr-destek-basvuru.com
