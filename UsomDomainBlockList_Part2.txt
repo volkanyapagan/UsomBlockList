@@ -1,3 +1,4 @@
+degreeassertion.top
 degreediffuse.top
 degreeduring.top
 degreeglossary.net
@@ -99997,4 +99998,3 @@ iscep-kampanya-basvuru-giris.ml
 iscep-kampanya-basvuru.cf
 iscep-kampanya-katilim-basvuru.gq
 iscep-kampanya-katilim.ga
-iscep-kampanya.com
