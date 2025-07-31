@@ -2229,6 +2229,7 @@
 101kampanyafirsatbulusu.cfd
 101kampanyafirsatbulusu.my
 101kampanyafirsatbulusu.pics
+101kampanyafirsatbulusuburda.cfd
 101kampanyafirsatbulusuburda.my
 101kampanyafirsatbulusuburda.sbs
 101kampanyafirsatlari.xyz
@@ -2253,6 +2254,8 @@
 101kampanyalari.com
 101kampanyalari.online
 101kampanyalari.shop
+101kampanyamerkezisi.cfd
+101kampanyamerkezisi.xyz
 101kampanyasi.vercel.app
 101kampanyndabugunn.vercel.app
 101kampanynsubataozellikte.vercel.app
@@ -99995,6 +99998,3 @@ degisken-ayarlari-bizlere-ait-oldugunu-gor.com
 degismedik-sadece-bu-onerilere-acigiz.com
 degismeyen-bilinir-buradan-fazla-uzaga-gitmeyin.com
 degismeyen-tek-olanak-bu-durumdakiler.com
-degismeyenlere-birazdaha-sabit-kalinmazda-bilince.top
-degismeyip-gelistik-sende-tanik-ol-bunlara.com
-degismez-gelisiriz-sende-gorup-kazancom.com
