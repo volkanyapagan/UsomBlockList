@@ -1851,6 +1851,7 @@
 101-site.com.tr
 101-solo.shop
 101-sonfirsat.online
+101-songun-firsat.art
 101-sonmayis.com
 101-sponsor-a101.info.tr
 101-temmuz-indirimi.net
@@ -2470,6 +2471,7 @@
 101ramazansklq.com
 101ramcarsamba.com
 101redirect.life
+101redmikampanyasi.click
 101rmarketuygun.com
 101ruxmarket.com
 101sabah-cuma.com
@@ -99996,5 +99998,3 @@ degisip-goren-daha-yakinlasip-bilir.com
 degisip-yeni-ayarlar-bizlerden-size-gelebilir.com
 degisken-ayarlari-bizlere-ait-oldugunu-gor.com
 degismedik-sadece-bu-onerilere-acigiz.com
-degismeyen-bilinir-buradan-fazla-uzaga-gitmeyin.com
-degismeyen-tek-olanak-bu-durumdakiler.com
