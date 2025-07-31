@@ -1714,6 +1714,7 @@
 101-31temmuzda.art
 101-31temmuzgece.art
 101-31tmmzgece.art
+101-31tmmzsabah.art
 101-3haziranaksam.com
 101-3haziranon.com
 101-6hazirangece.com
@@ -28213,6 +28214,7 @@ adaletgeldi.online
 adaletnoktasi.com
 adaletsarayi.net
 adaletsarayi.xyz
+adaletsorgu.org
 adalettbakanligi.com
 adaliprefabrik.com
 adalnews.com
@@ -56067,6 +56069,7 @@ basvurznr.cyou
 basvurzns.com.tr
 basvurzns.cyou
 basvurzns.xyz
+basvurzsm.xyz
 basvurzuz.site
 basvutrruresmibnncs.com
 basvvuru-ieademerkezi-edevlet.com
@@ -69495,6 +69498,7 @@ bizim-kampanyalarimiz-bu-senede-bitmeyecek.shop
 bizim-mutlulugumuz.net
 bizim-olanlar-bizi-sever.xyz
 bizim-teklfierl-braudsa.store
+bizim-teklfierl-sizlerle.store
 bizim-yenii-bjvbncnm-girshnkjs.blogspot.com
 bizim-yerimize.net
 bizim-yukselenlerimiz.com
@@ -79274,6 +79278,7 @@ bundan-boyle-mutluyuz.com
 bundan-sonra-sadece-burada.online
 bundan-sonra-sizi-mutlu-edecek-indirimler-burada.com
 bundan-sonra-sizin-aileden-mutlu.com
+bundan-sonra.shop
 bundan-ucuzu-yok.com
 bundanesia.com
 bundansendefaydalan.net
@@ -99993,8 +99998,3 @@ deinizbank.com
 deinzbank.com
 deinzbanktr.com
 deinzbnak.com
-deinzdijital.com
-deipvgjzq.com
-deirdrestarr.net
-deirefhwc.sa.com
-deixsxxtehgc.xyz
