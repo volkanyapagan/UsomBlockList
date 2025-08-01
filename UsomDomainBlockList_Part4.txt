@@ -1,3 +1,10 @@
+saglik-bakanligindan-basvuran-her-aileye-5000-tl-pan-de-mi.ga
+saglik-bakanligindan-pandemi-destek-paketi-net.ml
+saglik-bakanligindan-pandemi-destek-paketi-net.tk
+saglik-bakanligindan-pandemi-destek-paketi-netim.ml
+saglik-bakanligindan-vatandasa-pand-emi-destegi.ml
+saglik-bakanligindan-vatandasa-pand-emi-destegi.tk
+saglik-bakanlik-pan-de-mi-2-faz-odemeleri-gov-tr.tk
 saglik-bakanlik-pan-de-mi-2-faz-odemeleri-net.tk
 saglik-bakanlik-pan-de-mi-2-faz-odemeleri.ga
 saglik-bakanlik-pan-de-mi-2-faz-odemeleri.tk
@@ -8741,6 +8748,7 @@ selamnabersokak.ml
 selamnabersokak.yapimkredimobil.com
 selamnaleykimsokmarket.com
 selamnbr3434.com
+selamorganize.duckdns.org
 selamsiz.app
 selamsiz.info
 selamsiz.net
