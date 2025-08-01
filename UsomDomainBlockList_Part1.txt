@@ -18617,6 +18617,7 @@
 9474859-337383747.com.tr
 948122061-coinbase.com
 94875633.cloud
+94965165165156.duckdns.org
 9498498489498498498498498.duckdns.org
 9499636546.cloud
 9499994545.cloud
@@ -54387,6 +54388,7 @@ basvurnrc.com.tr
 basvurnrm.com.tr
 basvurnrm.cyou
 basvurnrn.com.tr
+basvurnrn.xyz
 basvurnrs.com.tr
 basvurnrs.cyou
 basvurnrs.xyz
@@ -83628,6 +83630,7 @@ carref0ursa.net
 carrefaursa.online
 carrefaursa.site
 carrefaursa.store
+carreffaursa.com
 carreffoueor-sa.online
 carreffoueoursa.com
 carreffouoursa.com
@@ -99995,6 +99998,3 @@ defoffresult.com
 defolcscwescc.net
 defosbim.net
 defproresults.com
-defpush.com
-defred.ddns.net
-deftere.tk
