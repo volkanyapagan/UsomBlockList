@@ -3760,6 +3760,7 @@
 1425111112555690090.xyz
 1425111112555690091.xyz
 1425111112555690092.xyz
+1425111112555690094.xyz
 14251425554150.xyz
 14251425554152.xyz
 1425154255454.xyz
@@ -35542,6 +35543,7 @@ akt.101persembedeaksam.com
 akt.101sizlere-ozelsabah.com
 akt.cuma-onlinefirsatz.com
 akt.mayis-firsatiaksamlar.com
+akt.rcumamrkt4383.com
 akt6nc.duckdns.org
 aktalep.site
 aktanfaizsizz.cloud
@@ -37580,6 +37582,7 @@ aldinaldinfirsatlari30mayis.com
 aldinaldinfirsatlarikacirma.icu
 aldinaldinfirsatlarikacirma.sbs
 aldinaldinfirsatlarim.shop
+aldinaldingunleri.cfd
 aldinaldingunleri.my
 aldinaldingunleri.perakendealisverisim.com
 aldinaldingunleri.sbs
@@ -99995,6 +99998,3 @@ degerlendirmefirsati.xyz
 degerlendirmekampan.vercel.app
 degerlendirmeyapisi.com
 degerleri-kaybetmeden-sonlara-dogru-yetisin.com
-degerli-zamanlar-sizlericin.com
-degerlicampanya.com
-degerlikonutvergisiiade.com
