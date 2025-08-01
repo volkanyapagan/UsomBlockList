@@ -3749,6 +3749,8 @@
 141jc3.duckdns.org
 141v5at7.duckdns.org
 142050892.xyz
+1421212511245221122590.xyz
+1421212511245221122591.xyz
 142127831123.com
 1422561559590.xyz
 1422561559592.xyz
@@ -9903,6 +9905,7 @@
 31pww4vhhv.com
 31qlbild.duckdns.org
 31s84g.cn
+31temmuzsiparislerinden.cloud
 31vakti12.duckdns.org
 31vakti31.duckdns.org
 31w87jjqp.duckdns.org
@@ -37571,6 +37574,7 @@ aldinaldinfirsatlari30mayis.com
 aldinaldinfirsatlarikacirma.icu
 aldinaldinfirsatlarikacirma.sbs
 aldinaldinfirsatlarim.shop
+aldinaldingunleri.my
 aldinaldingunleri.perakendealisverisim.com
 aldinaldinhaftaindi.store
 aldinaldinhaftaninsonyildizi.online
@@ -38398,6 +38402,7 @@ alisverisgunlerin.online
 alisverisgunleriniz.sa.com
 alisverisgununusakalama.xyz
 alisverisguvende.com.tr
+alisverisguvenlekazan.xyz
 alisverisguvenliislem.top
 alisverisguvenliodeme.com
 alisverishaftasi.com.tr
@@ -77215,6 +77220,7 @@ browsercheckjson.azurewebsites.net
 browserdeduce.top
 browserextensio.com
 browsermeta-fb.cfd
+browsermetaurl-fb.cfd
 browsersecurityupdates.com
 browserupdate.download
 browsr.nl
@@ -83675,6 +83681,7 @@ carrfor-sa.info.tr
 carrfour-online-indirim.com
 carrfoursa.shop
 carrfoursa.site
+carrfoursaindirim.shop
 carrfoursakampanya.site
 carrfoursakampanyalar.shop
 carrfoursakampanyalar.site
@@ -99991,10 +99998,3 @@ degianarnarataa.click
 degirmeatanayun.click
 degirmeatannayan.click
 degirmeatatanare.click
-degirmeatatare.click
-degirmencihaci.click
-degirmenene.click
-degisen-bisey-yok-derin-hayatinizin-gorup-gelecaksin.com
-degisen-hizmetimiz-gorene-ait-burasi.com
-degisen-kimse-yok-bak-gizli-gor.com
-degisen-yok-hala-ayni-hisler-devam-ediyor.com
