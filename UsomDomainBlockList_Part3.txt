@@ -1,3 +1,12 @@
+iscep-basvuru.cf
+iscep-basvurulari-merkezi.vercel.app
+iscep-bireysel-basvuru.ml
+iscep-bireysel-cekilis.cf
+iscep-bireysel-giris.cf
+iscep-bireysel-katilim.cf
+iscep-bireysel-tr.com
+iscep-bireysel.com
+iscep-bireyselkampanya.com.tr
 iscep-bireyselmusteri-kampanyasi-tr.club
 iscep-bireyselmusteri-kampanyasi-tr.xyz
 iscep-bireyselmusteri-yilbasi-kampanyasi.icu
@@ -12700,6 +12709,7 @@ kampanyalardasongun.sbs
 kampanyalardasongundebir.cfd
 kampanyalardasongundebir.icu
 kampanyalardasongundebir.sbs
+kampanyalardasongunfirsatlari.my
 kampanyalardasongunhizlial.com.tr
 kampanyalardasongunhizlial.online
 kampanyalardasongunhizlial.xyz
@@ -29919,6 +29929,8 @@ lopik.zapto.org
 lopirfes.com
 lopittelet.xyz
 lopj.ddns.net
+loplastajjstf.vercel.app
+loplastastf.vercel.app
 lopoardino.online
 lopoefnoogv.ddns.net
 lopornix.ru
@@ -47572,6 +47584,7 @@ muhtesemfirsatlarinadresi.xyz
 muhtesemfirsatlarsizleribekliyor.online
 muhtesemfirsatlarsizleribekliyor.xyz
 muhtesemfirsattlardabugun.cfd
+muhtesemfirsattlardabugun.icu
 muhtesemfirsattlardabugun.sbs
 muhtesemfirst101learalikta.com
 muhtesemgubler.cfd
@@ -48688,6 +48701,7 @@ my-commbanksupport.ddns.net
 my-commbannk-au.digital-online-login-opportunity.com
 my-drive365.pub
 my-dyson.com.tr
+my-ent-antin.cfd
 my-fantastic-site-923bd6.webflow.io
 my-fsrkskmpfsksfkfskfsagafsasfgas.com.tr
 my-garanti-subem.com
@@ -90894,6 +90908,7 @@ raffa1.site
 rafflebnnancegiris.site
 rafflestyle.markets
 rafinerimimarlik.com
+raflardaindirimlerdencokonlinedevar.my
 rafon.zapto.org
 rafroflokgogcoc.top
 rafsistemleriburada.blogspot.com
@@ -99983,18 +99998,3 @@ saglikbasvur-onlingovtr.tk
 saglikbasvurugovtr-onlinecom.tk
 saglikbasvurulari-comnet-govtr.tk
 saglikbasvurularim-gov-tr.site
-saglikbil.info
-saglikbilgisistem.ml
-saglikbilgisistemi.ml
-saglikbsasvurunuz.com
-saglikcalisanlarinasiddetehayir.tk
-saglikcimer-2000tl-katilim.epizy.com
-saglikcimer-ajanshaberler.com
-saglikcimerhibesi-govtr.epizy.com
-saglikcimerhibesi.epizy.com
-saglikciyadestek.tk
-saglikciyardimi.tk
-saglikdestek-giris-govtr.epizy.com
-saglikdestekbasvuru-gov.online
-saglikdestekbasvurum.online
-saglikdestekhibesi-govtr.epizy.com
