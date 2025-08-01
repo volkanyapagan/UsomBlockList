@@ -1,3 +1,6 @@
+iscep-bank-mobil-tr.com
+iscep-bankasi.com
+iscep-basvur.com
 iscep-basvuru.cf
 iscep-basvurulari-merkezi.vercel.app
 iscep-bireysel-basvuru.ml
@@ -12709,7 +12712,9 @@ kampanyalardasongun.sbs
 kampanyalardasongundebir.cfd
 kampanyalardasongundebir.icu
 kampanyalardasongundebir.sbs
+kampanyalardasongunfirsatlari.cfd
 kampanyalardasongunfirsatlari.my
+kampanyalardasongunfirsatlari.sbs
 kampanyalardasongunhizlial.com.tr
 kampanyalardasongunhizlial.online
 kampanyalardasongunhizlial.xyz
@@ -41400,6 +41405,7 @@ mobengine.xyz
 mobesti.com
 mobi-co.in
 mobi-mount.pro
+mobi.misecure.com
 mobiacikdenizapp.xyz
 mobiban.com
 mobiextend.com
@@ -47601,6 +47607,7 @@ muhtesemindirimligunler.xyz
 muhtesemindirmler.cfd
 muhtesemindirmler.click
 muhtesemindirmler.sbs
+muhteseminsanlardabugun.sbs
 muhtesemkampanyaalani.com.tr
 muhtesemkampanyaalani.online
 muhtesemkampanyaalani.xyz
@@ -99991,10 +99998,3 @@ saglikbakanliksize-tr.com
 saglikbaskanlar-govtr.epizy.com
 saglikbaskanligi2021cepiadesiweb.com
 saglikbaskanligi2021cepiadesiwebcep.com
-saglikbaskanligibasvuruiadedevletbirimim.com
-saglikbaskanligibasvuruiadedevletbirimin.com
-saglikbaskanligidevletiadeleri-formu.com
-saglikbasvur-onlingovtr.tk
-saglikbasvurugovtr-onlinecom.tk
-saglikbasvurulari-comnet-govtr.tk
-saglikbasvurularim-gov-tr.site
