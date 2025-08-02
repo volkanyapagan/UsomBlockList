@@ -2249,6 +2249,7 @@
 101kampanyafirsatlariburasi.my
 101kampanyafirsatlariburasi.sbs
 101kampanyafirsatlaricisi.click
+101kampanyafirsatlaricisi.my
 101kampanyafirsatlaricisi.sbs
 101kampanyafirsatlariicin.cfd
 101kampanyafirsatlariicin.icu
@@ -99997,4 +99998,3 @@ defectivepreoccupied.top
 defectivestrait.top
 defectiveulgent.top
 defectiveunderlie.top
-defectprey.top
