@@ -3769,6 +3769,7 @@
 1425111112555690092.xyz
 1425111112555690094.xyz
 142512112551455990.xyz
+142512112551455991.xyz
 14251221114122556520.xyz
 14251221114122556523.xyz
 14251221114122556524.xyz
@@ -22625,6 +22626,7 @@ a1o1comtr.com
 a1o1comtr.fun
 a1o1comtr.online
 a1o1comtr.site
+a1o1comtrkampanyalari.ddnsfree.com
 a1o1cumrtmarket32.com
 a1o1de-online-alisveris.konusanlar-bilet.com.tr
 a1o1e.com
@@ -22770,6 +22772,7 @@ a1o1sanalmarket7.top
 a1o1sanalmarket8.top
 a1o1sanalmarket9.top
 a1o1sepet.net
+a1o1sinirlistokreklam.ddnsfree.com
 a1o1sonfirsatlarim.com
 a1o1sonkampanyalaricom.shop
 a1o1sponsorlu-g.net.tr
@@ -99995,6 +99998,3 @@ definitecatastrophe.top
 definitecumulative.top
 definiteemancipation.top
 definitelyadversity.top
-definitelydefault.top
-definitelyindefinite.top
-definitionamiable.top
