@@ -18182,6 +18182,7 @@ kgmgeeciishgmii.duckdns.org
 kgmgov-tr.bond
 kgmgov-tr.ink
 kgmgovitr.top
+kgmgovm.top
 kgmgovs.sbs
 kgmgovtr.ink
 kgmgovtr.top
@@ -60545,6 +60546,7 @@ oldassertion.top
 oldbzxvsqg.duckdns.org
 oldendroff.com
 oldfol.top
+oldguardname.click
 oldguitar.top
 oldhack.online
 oldhealthychecker.com
@@ -99996,5 +99998,3 @@ safy.zapto.org
 safya-e-geri-ucret-alma.xyz
 sag520s5.site
 sagaj.com
-sagardas.chickenkiller.com
-sage007.ddns.net
