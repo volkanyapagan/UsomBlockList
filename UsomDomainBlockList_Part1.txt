@@ -2494,6 +2494,7 @@
 101redirect.life
 101redmicinkampanya.click
 101redmicinkampanya.my
+101redmicinkampanya.sbs
 101redmikampanyasi.cfd
 101redmikampanyasi.click
 101redmikampanyasi.sbs
@@ -18081,6 +18082,7 @@
 8kk77sf.duckdns.org
 8kmjd1h.duckdns.org
 8kn45d.duckdns.org
+8kontravolta.cfd
 8kp4xu.duckdns.org
 8kqfi443.duckdns.org
 8kv13r.duckdns.org
@@ -76824,6 +76826,7 @@ brdiizmryklemrkzdlm.net
 brdizmryklemrkzdlm.net
 brdizmryklemrkzdlmmm.net
 brdle.duckdns.org
+brdnalnbzbrdnalyrz.com
 brdoge--treozio.webflow.io
 brdrkydumtekydilabu.xyz
 brdsfrstlrrs.duckdns.org
@@ -99995,6 +99998,3 @@ deereebee.info
 deerelement.top
 deerfragrance.top
 deersharpfork.info
-deerzipper.top
-deesharitouristhub.com
-deevlettdestekbasvurusu.com.tr
