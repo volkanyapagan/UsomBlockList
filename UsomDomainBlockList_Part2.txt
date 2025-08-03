@@ -1,3 +1,5 @@
+defaultrigorous.top
+defaultsearch.link
 defaultversatility.top
 defcatcher.ddns.net
 defcongo.ddns.net
@@ -99996,5 +99998,3 @@ isbanksizinle.net
 isbanksorgu.com
 isbanksorgulama.com
 isbanksrioderlers.duckdns.org
-isbanksube.com
-isbanksube.net
