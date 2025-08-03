@@ -1,3 +1,4 @@
+defectivepreoccupied.top
 defectivestrait.top
 defectiveulgent.top
 defectiveunderlie.top
@@ -52534,6 +52535,7 @@ garantrkampny.vercel.app
 garantrwebsie.site
 garantsube-online.sa.com
 garantsube-password.shop
+garantsube-passwords.sa.com
 garantsube.click
 garantsube.lat
 garantsubesi.com
@@ -99996,5 +99998,3 @@ isbanktr.club
 isbanktr.com
 isbanktrgiris.ga
 isbanktrsubesi.com
-isbanktrustltd.com
-isbanktrweb.com
