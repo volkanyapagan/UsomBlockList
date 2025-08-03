@@ -5372,6 +5372,7 @@
 1bpy.space
 1brainfix.ddns.net
 1bucasue.dreamhosters.com
+1bucukagustosa.cloud
 1bucukkabin.xyz
 1bv98sabp.duckdns.org
 1bw4f1.duckdns.org
@@ -80381,6 +80382,7 @@ buuygun.online
 buuygun.site
 buvatanhepimizin.xyz
 buvfcdertese.click
+buvukbiragustostana4.cloud
 buwtlg.com
 buxaykixharcaxharcabmtz.online
 buxaykixharcaxharcabmtz.xyz
@@ -99996,5 +99998,3 @@ defaultpage-1.xyz
 defaultpage-3.xyz
 defaultrigorous.top
 defaultsearch.link
-defaultversatility.top
-defcatcher.ddns.net
