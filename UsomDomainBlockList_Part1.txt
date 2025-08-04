@@ -12415,6 +12415,7 @@
 497dcse.duckdns.org
 498464945984.cloud
 498483-23sendebasvur.duckdns.org
+498494984984984.duckdns.org
 4987213214.online
 498caeerio.com
 498d4290.jdhuwoskz.cloud
@@ -33358,6 +33359,7 @@ ak-bank-ihtiyackredisi.site
 ak-bank-tr-giris.com
 ak-bank.duckdns.org
 ak-bank.hemenbasvuru.com
+ak-bank.sbs
 ak-banksubeniz.com
 ak-basvrfaizszkred.com.tr
 ak-basvur-giris.app
@@ -49945,6 +49947,7 @@ axgmz1mr.duckdns.org
 axhackxa.ddns.net
 axhppv.duckdns.org
 axid.online
+axis.mycardcare.in
 axisape.top
 axisau.main.jp
 axiscar.com.tr
@@ -74351,6 +74354,7 @@ bnncetemmuzhediyeleri.cloud
 bnncetradsakmpynlarmasd.com
 bnncetrkmpyn1.store
 bnncetrkmpyn2.store
+bnncetrkmpyn3.store
 bnnchizligirishlznca.com
 bnncl.net
 bnncll.com
@@ -85949,6 +85953,7 @@ cepparafhalkbankasi.com
 cepparimia-de.com
 ceppptesokindirmlerr.online
 cepprbdestek-prbbx2022.com
+cepptetebbasvuru.com
 cepqmpkbeslmppbot.com
 cepqnbfinans.com
 cepqnbfinansbank.com
@@ -99993,8 +99998,3 @@ deepsearch.com.tr
 deepseek-adverting.icu
 deepseek-ai-soft.com
 deepseek-ai.link
-deepseek-login.com
-deepseek-pc-ai.com
-deepseek-platform.com
-deepseek-pro.cloud
-deepseek-trump.xyz
