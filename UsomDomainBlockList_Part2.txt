@@ -43212,6 +43212,7 @@ firsaltar.sg-host.com
 firsaltar1.sg-host.com
 firsaltrtlarhepbizimle.net
 firsalvolta.net
+firsasainews.com
 firsat--tr--bbav.xyz
 firsat-1-0-1.com.tr
 firsat-100yilgirishemenhizlideniz.online
@@ -64445,6 +64446,7 @@ guvenlilanticaretim.com.tr
 guvenlim.com.tr
 guvenlimaximum.com
 guvenlimobilodeme.com
+guvenlin.xyz
 guvenliode-al.com.tr
 guvenliode-param-guvende.com
 guvenliode-paramguvende-sahibinden.com
@@ -82623,6 +82625,7 @@ hizmetler-e-basvuru-kart-ucreti-katilim-sartlari.xyz
 hizmetler-egirisler-turkeygovt.com
 hizmetler-eturkiyegovtr.com
 hizmetler-genel.hizmet-destekler-panel.tk
+hizmetler-giris-kampanyambilgi.duckdns.org
 hizmetler-giris-trkiyegovtr.com
 hizmetler-giris-turkeygovtr.com
 hizmetler-girisgovtr.duckdns.org
@@ -99995,6 +99998,3 @@ isbankgiristr.com
 isbankgirisyap.net
 isbankgold.com
 isbankhediyeci.com
-isbankhediyefirsatlari.com
-isbankhediyekampanyalarimm.com
-isbankhediyelerle.tk
