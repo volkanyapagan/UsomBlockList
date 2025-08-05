@@ -49254,6 +49254,7 @@ aviskiraoto.online
 aviskurumsalfiiokiralama.com
 aviskurumsalfilokiralama.com
 avisle-kirala.com
+avisle.icu
 avislearackirala.ml
 avislearackiralama.ml
 avislehizlakirala.cf
@@ -74648,6 +74649,7 @@ bnsbasvurtr.com
 bnsbasvurugiris.com
 bnsbasvurular.com
 bnsbasvurutr.com
+bnsbbvs.com
 bnsc-giris-sayfasi.com
 bnsc.2dnserver.com
 bnsc.x-tokens.online
@@ -99996,5 +99998,3 @@ deennzzdeacikonay.site
 deenshort4.xyz
 deep-seek.bar
 deep-seek.rest
-deep235.xyz
-deepallergic.top
