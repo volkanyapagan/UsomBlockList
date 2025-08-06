@@ -1688,6 +1688,7 @@
 101-03agustosdax.art
 101-03agustosoglen.art
 101-05agustosd.art
+101-06agustossbh.art
 101-10temmuzaksm.com
 101-10temmuzaozel.com
 101-14mayssepet.com
@@ -2010,6 +2011,8 @@
 101alimlariburadanyapiliyor.sbs
 101alisveris.com
 101alisverisfirsatlari.com
+101alisverisredmiburasi.cfd
+101alisverisredmiburasi.sbs
 101aonlinegiris.app
 101aonlinesatinal-shop.preview-domain.com
 101aonlinesepet.com.tr
@@ -8555,6 +8558,7 @@
 2691ef8ac711h.net
 26925aa97254.net
 26932.cloud
+26937106.cloud
 269444bimcel4444gbyagmrkampanya.net
 2698139875134.com
 269zs.panade.ru
@@ -28228,6 +28232,7 @@ acualerte.tk
 acucon.net
 acudususucu.site
 acukxteru.bdkhxlbbu.ru
+acun.store
 acunilicali-212.xyz
 acunilicali.cfd
 acunt-securityalert.ddns.net
@@ -71577,6 +71582,7 @@ blknoiz.com
 blkrtmdlm.net
 blksehirr.com
 blkv23.click
+blkviewz.com
 blkvkmkinj.duckdns.org
 blkwav.com
 bllcemlll.com
@@ -71914,6 +71920,7 @@ blockchaintransparency.instute
 blockchainvekisiselveriyonetim.xyz
 blockchainvekriptoparayonetimi.xyz
 blockfi.loans
+blockhatchr.com
 blockholer.com
 blockingmanhattan.com
 blocklinkexchange.com
@@ -99991,10 +99998,3 @@ dederforumu-bireysel-basvur-online.ml
 dedeyumurtaciftligi.net
 dedicatealternation.top
 dedicateconfide.top
-dedicatedabandon.top
-dedicatedislamicaid.com
-dedicatedlambo9.ddns.net
-dedicatedserver.duckdns.org
-dedicateirritating.top
-dedicatematch.top
-dedicationesteem.top
