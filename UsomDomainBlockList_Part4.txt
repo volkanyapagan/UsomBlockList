@@ -15453,6 +15453,7 @@ sikayetin-var-7.sbs
 sikayetin-var-var.tk
 sikayetin-var.click
 sikayetin-var.co
+sikayetinmerkezi-13.sbs
 sikayetinmerkezi-14.sbs
 sikayetinmerkezi-16.sbs
 sikayetinmerkezi-2.sbs
@@ -47885,6 +47886,7 @@ tubitakorg.typeform.com
 tubitakorgtr.typeform.com
 tubitakresmi.typeform.com
 tubitakresmiorg.typeform.com
+tublodeajero.duckdns.org
 tubpariang.com
 tubuz3ubhz222.top
 tuc0f4.duckdns.org
@@ -99996,5 +99998,3 @@ zt76vs.duckdns.org
 zt7zpqv.duckdns.org
 ztb-news.com
 ztbestonline.xyz
-ztbimnoscc.duckdns.org
-ztborcogren.com
