@@ -2014,6 +2014,7 @@
 101alisverisfirsatlari.com
 101alisverisredmiburasi.cfd
 101alisverisredmiburasi.sbs
+101alisverisredmiburasidir.sbs
 101aonlinegiris.app
 101aonlinesatinal-shop.preview-domain.com
 101aonlinesepet.com.tr
@@ -43624,6 +43625,7 @@ aqszsddfcvgbnbvffcc.duckdns.org
 aqtfscnk9.duckdns.org
 aqu1l3ds.duckdns.org
 aquabsafe.com
+aquafina.sbs
 aqualityailem.dev
 aqualityailemkk.blogspot.com
 aqualogicwc.co.uk
@@ -86661,6 +86663,7 @@ ceptesokmarketsanal.online
 ceptesokmarkettim.online
 ceptesokmarkettr.com
 ceptesoknisan.com
+ceptesokonline.duckdns.org
 ceptesokonlinefirsatlarrr.online
 ceptesokramazan.online
 ceptesokta.com
@@ -91495,6 +91498,7 @@ cokdahaguclu2-8fdb54e9ccae.herokuapp.com
 cokdegistimbenkizim.net
 cokepramehot.duckdns.org
 cokgezenti.name.tr
+cokgucluyuz.sbs
 cokguzel-firsat-1o1-kampanya.com
 cokguzelgunleraslakacirma.com.tr
 cokguzelgunleraslakacirma.xyz
@@ -99994,7 +99998,3 @@ decurret.site
 decustlk.com
 decyly.com
 decyzja-29079.portmap.host
-dedecom.ga
-dedededera1.s3.eu-central-1.amazonaws.com
-dedeinizssuuacikbasvuru.site
-dedelerindedsi.xyz
