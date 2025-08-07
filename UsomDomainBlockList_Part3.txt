@@ -1,3 +1,4 @@
+isbank.digital
 isbank.epizy.com
 isbank.eu5.org
 isbank.finance
@@ -61837,6 +61838,7 @@ onayli-market.com.tr
 onayli-market.online
 onayli-odemem.com.tr
 onayli-sahibinden.com.tr
+onayli-satici.com.tr
 onayli-sepette.com.tr
 onayli-siparis-417814.com
 onayli-siparis-417819.com
@@ -99996,5 +99998,3 @@ s1479xx8.duckdns.org
 s14rhu5uu.duckdns.org
 s15odogn5.duckdns.org
 s16krem.shop
-s179.turbobit.net
-s18p3x76.duckdns.org
