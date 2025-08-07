@@ -1,3 +1,4 @@
+isbank.cf
 isbank.co.nl
 isbank.com.tr.firsatdetay.com
 isbank.comtrr.com
@@ -99997,4 +99998,3 @@ s10157.xyz
 s11-11232323.cloud
 s1112topwar.com
 s13krem.club
-s1479xx8.duckdns.org
