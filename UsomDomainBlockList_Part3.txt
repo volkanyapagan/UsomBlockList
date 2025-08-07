@@ -1,3 +1,6 @@
+isbank-borc-sorgulama.com
+isbank-cep.com
+isbank-cepde.com
 isbank-ceponline.com
 isbank-cepsube.com
 isbank-cepte-sube-tr.com
@@ -15273,6 +15276,7 @@ karaca-kasim-gunleri.xyz
 karaca-market.com.tr
 karaca-market.net.tr
 karaca-market.org.tr
+karaca-mutfak-setleri-com-tr.sbs
 karaca-mutfak.com
 karaca-mutfak.online
 karaca-mutfakt-com-tr.sbs
@@ -24888,6 +24892,7 @@ kurutses6.com
 kurutses7.com
 kurutses8.com
 kurutses9.com
+kuruttum.proxydns.com
 kuruumsalsigorta.site
 kuruvaslindol.online
 kurveytiturk.com
@@ -99993,8 +99998,3 @@ s-sahibinden.cmguvende.com
 s-sahibinden.com
 s-sahibinden.com.tr
 s-sahibinden.foguvende.online
-s-sahibinden.net
-s-sahibinden.psguvende.online
-s-sahibinden.sffguvende.online
-s-sahibinden.sfmguvende.online
-s-sahibinden.smguvende.online
