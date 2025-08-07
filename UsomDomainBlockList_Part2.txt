@@ -1,3 +1,6 @@
+debvesos.site
+debynode.dankdns.xyz
+deca1.s3.eu-north-1.amazonaws.com
 deca3.s3.eu-north-1.amazonaws.com
 decadechat.top
 decadeweird.top
@@ -9584,6 +9587,7 @@ dijital-ziraatmobil.com
 dijital-ziraatmobilgiris.com
 dijital-ziraatmobilweb.com
 dijital-ziraatonay.com
+dijital-ziraatonayweb.site
 dijital-ziraatweb.com
 dijital.detaylari.site
 dijital.emlakasdqwe.com
@@ -55383,6 +55387,7 @@ geranntibankasi.com
 gerantakirala.shop
 gerantebvba.com
 geranticep.online
+geranticep.shop
 gerantim-suben.shop
 gerantimsube.shop
 gerantinlsetil.ddns.net
@@ -71213,6 +71218,7 @@ harcaharcabitmezsonfirsatlar.online
 harcaharcabitmeztr.online
 harcaharcabitmeztr.shop
 harcaharcabitmezturkiye.icu
+harcaharcabitmezurunleri.cfd
 harcaharcabitmezurunleri.sbs
 harcaharcabitmezx.com
 harcaharcabitmezz.com.tr
@@ -99992,9 +99998,3 @@ isbank-maximum.com
 isbank-maximummobilgiris-com-tr.tk
 isbank-maxipuan-yilbasi.com
 isbank-mobil-sube.com
-isbank-mobilgiris.com
-isbank-mobilim.com
-isbank-mobilkampanya.com
-isbank-mobilonline.com
-isbank-mobilsube-com-tr.tk
-isbank-mobilsube.com
