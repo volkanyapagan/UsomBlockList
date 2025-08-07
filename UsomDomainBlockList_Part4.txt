@@ -1,3 +1,5 @@
+s14rhu5uu.duckdns.org
+s15odogn5.duckdns.org
 s16krem.shop
 s179.turbobit.net
 s18p3x76.duckdns.org
@@ -20817,6 +20819,7 @@ solscan.live
 solscan.one
 solscan.online
 solscan.store
+solsjskjaer.sa.com
 solsticegocolohaven.xyz
 solsticehaven.shop
 solsticewave.store
@@ -99995,6 +99998,3 @@ zptlhf.duckdns.org
 zpttgov.top
 zpuyghmyc.duckdns.org
 zpvs9xn.xdk8ax.cn
-zpw8krg9e.duckdns.org
-zpwohsmc.com
-zpx336-32536.portmap.host
