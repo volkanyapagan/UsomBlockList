@@ -3436,6 +3436,7 @@
 12536154250.xyz
 12545215.cloud
 125532415324324.com
+1255415551255655880.xyz
 1255551122434.cloud
 12555988999880080.xyz
 12555988999880082.xyz
@@ -33156,6 +33157,7 @@ air-dyson.com.tr
 air-mag.ro
 air-wrap.com.tr
 air01.zapto.org
+airarticlegenerate.com
 airbnb-payverification.com
 airbnb-reservation.cloud
 airbseeker.com
@@ -37386,6 +37388,7 @@ albktr422.app
 albl.org
 alblaraka.com
 albmenkuldegerler.com
+albmenkuldegerler.net
 albnaak.com
 albnk24.site
 alboilehizli.com
@@ -38441,6 +38444,7 @@ alimlarinizgeldisimdi.online
 alimmerkeztr.com.tr
 alimohor.zapto.org
 alimokwlak.ddns.net
+alimora.xyz
 alimpetrol-tr.com
 alimsatimtpao.com
 alimsecure.com.tr
@@ -48870,6 +48874,7 @@ avantajbkle.com
 avantajburada.digital
 avantajburada.xyz
 avantajcadde.com
+avantajcebinde.digital
 avantajcepsun.biz
 avantajcepte.page
 avantajdolum.xyz
@@ -56265,6 +56270,7 @@ basvurutrbnnrgiris.online
 basvurutrformlar.org
 basvurutrmbnca.com
 basvurutse.com
+basvurutse.org
 basvuruturkiye.com
 basvuruturkiyeaidat.org
 basvuruturkiyede.com
@@ -78054,6 +78060,7 @@ bsvruemekliiziraattbnkkkmmbl.duckdns.org
 bsvruemekliveciftcii.duckdns.org
 bsvrugirsleri-dvvltlogin.org
 bsvrugrs.bns-vio.site
+bsvrumblyppkrrefssbe.duckdns.org
 bsvrumonlineisubemkuveytturk.net
 bsvrutarihh.net
 bsvrutrx1.com.tr
@@ -99991,10 +99998,3 @@ debizbankv7acikdenizcom.ml
 debizbankv7acikdenizcom.tk
 debloyms12.herokuapp.com
 debloyms13.herokuapp.com
-debloyms23.herokuapp.com
-debnizlininyariniyiz.duckdns.org
-debnoch.com
-deboydeboy.ddns.net
-debr64.duckdns.org
-debralittleart.com
-debservers.pw
