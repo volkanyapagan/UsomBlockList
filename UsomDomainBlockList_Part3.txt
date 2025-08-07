@@ -1,3 +1,5 @@
+isbank-ceponline.com
+isbank-cepsube.com
 isbank-cepte-sube-tr.com
 isbank-cepte.com
 isbank-com-tr.cf
@@ -99996,5 +99998,3 @@ s-sahibinden.psguvende.online
 s-sahibinden.sffguvende.online
 s-sahibinden.sfmguvende.online
 s-sahibinden.smguvende.online
-s-sahibinden.snguvende.online
-s-sahibinden.snsguvende.online
