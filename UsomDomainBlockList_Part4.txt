@@ -1,3 +1,7 @@
+s-paramguvende.tr-guvenliodeme.sa.com
+s-paramguvende.tr-ilanlar.sa.com
+s-paramguvende.tr-jethizmet.com.tr
+s-paramguvende.tr-jetsiparisler.com.tr
 s-paramguvende.tr-jetsiparislerin.com.tr
 s-paramguvende.tr-online-odemelerim.sa.com
 s-paramguvende.u-guvenlialisveris.sa.com
@@ -94733,6 +94737,7 @@ yonlendiremezsinbeni.com
 yonlendirici.click
 yonlendirici.shop
 yonlendirici.site
+yonlendiricinimiz.cloud
 yonlendiriliyorsunuz.duckdns.org
 yonlendiriliyorsunuz.shop
 yonlendirilmekicintiklayin.shop
@@ -99993,8 +99998,3 @@ zm3afvcb.duckdns.org
 zm45nuyus.duckdns.org
 zm6eykx45.erbenteak.ru
 zmail.broadmediacloud.com
-zmalkd.tk
-zmandagdgeldizmn.duckdns.org
-zmbcczpmrc.duckdns.org
-zmbgecc.sg-host.com
-zmbrbbdrnfjg.net
