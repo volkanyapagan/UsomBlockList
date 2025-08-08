@@ -41585,6 +41585,7 @@ tr-a101.online
 tr-a101.xyz
 tr-a1dat1.xyz
 tr-account-kampanyabasuvurusu-1.cloud
+tr-acik-beva.click
 tr-acik-deniz-online.com
 tr-acik.site
 tr-acik.website
@@ -99997,4 +99998,3 @@ zonealarm.bit
 zoneanchor.com
 zonecrack.zapto.org
 zonedx.ddns.net
-zonellar.xyz

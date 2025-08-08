@@ -12566,7 +12566,6 @@ dogusyolyardim.com
 doguvakfi.com
 dohavevictem2024.duckdns.org
 dohigu.com
-doiap.com
 doijj.in
 doil.hopto.org
 doingz23.ddns.net
@@ -63659,6 +63658,7 @@ gunlukfirsatlarsizlerlehemensatinal.online
 gunlukfirsatlarsizlerlehemensatinal.xyz
 gunlukgunes.com.tr
 gunlukguzelkampanyalar.com.tr
+gunlukhaberler.vercel.app
 gunlukharikaalisveris.online
 gunlukharikaalisveris.xyz
 gunlukharikafirsatlar.com.tr
