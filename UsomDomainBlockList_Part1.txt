@@ -38010,6 +38010,7 @@ aldintemmuzdason.net.tr
 aldintemmuzdason.org.tr
 aldintemmuzdason.web.tr
 aldinua1o1.cfd
+aldinua1o1.sbs
 aldinvealdinkmpnya.hopto.org
 aldinverdin-kapidesepetin-1-0-1.com
 aldinvolta.net
@@ -99108,6 +99109,7 @@ darksqlrat.duckdns.org
 darkstar.linkpc.net
 darkstorm275991.ddns.net
 darktakipci.com
+darktr.cc
 darkvader.xyz
 darkvader.zapto.org
 darkvane.xyz
@@ -99996,5 +99998,3 @@ deal-gift.xyz
 deal-load.site
 deal-online.space
 deal-secure.online
-dealbationsites.com
-dealc.me
