@@ -2519,6 +2519,7 @@
 101redmialimyeriburasi.sbs
 101redmialimyeriburasidir.cfd
 101redmialimyeriburasidir.sbs
+101redmicifirsatalimlari.cfd
 101redmicinkampanya.click
 101redmicinkampanya.my
 101redmicinkampanya.sbs
@@ -3219,6 +3220,7 @@
 12-ocak-ozelfirsatlar.shop
 12-ocakfirsatlari.shop
 12-ocakozelfirsatlar.shop
+12-rds-afg12-fwsa-12sasfagt12.sbs
 12-temmuz-kampanyalari.com
 12.olfaso.net
 12010101111.cloud
@@ -3447,6 +3449,7 @@
 12545215.cloud
 125532415324324.com
 1255415551255655880.xyz
+1255415551255655881.xyz
 1255551122434.cloud
 12555988999880080.xyz
 12555988999880082.xyz
@@ -80072,6 +80075,7 @@ buradayiz.shop
 buradayizbiz.net
 buradayizteb.online
 buradsa-aldin-aldintekfler.store
+buradsa-aldiniz-eklfiler-herzmn.store
 buradsa-aldint-aldisn-teklifler.com
 buraforalogsa.vercel.app
 burak3d.xyz
@@ -97222,6 +97226,7 @@ cuncileel.top
 cunerier.com
 cuneytugur.com.tr
 cunironi182.ddns.net
+cunkuelimdebaskasikyoktu.sbs
 cunnymgir.pw
 cunobavexiho.com
 cuofco.duckdns.org
@@ -99993,8 +99998,3 @@ deafmasculinity.top
 deafmonopolise.top
 deafobsess.top
 deagss.duckdns.org
-deaj51.duckdns.org
-deal-gift.xyz
-deal-load.site
-deal-online.space
-deal-secure.online
