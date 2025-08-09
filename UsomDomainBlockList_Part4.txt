@@ -1,3 +1,8 @@
+s-paramguvende.jet-servisler.online
+s-paramguvende.jet-urun.com.tr
+s-paramguvende.ml
+s-paramguvende.mobil-hizmet.com.tr
+s-paramguvende.mobile-tr.com.tr
 s-paramguvende.net
 s-paramguvende.odeme-ilanlarim.sa.com
 s-paramguvende.online
@@ -99993,8 +99998,3 @@ zlmt1u0sr.duckdns.org
 zlmyyylkxx.duckdns.org
 zlobniy4ever71.work
 zlodnsxgo.com
-zlojr2b3.duckdns.org
-zlosjsada.ddns.net
-zlow11214.ddns.net
-zloy13.hopto.org
-zlpfno8j.duckdns.org
