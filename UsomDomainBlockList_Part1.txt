@@ -3843,6 +3843,7 @@
 14251425554152.xyz
 1425154255454.xyz
 142515541122545556990.xyz
+142515541122545556991.xyz
 1425415588560.xyz
 1425462659652960.xyz
 1425516554564480.xyz
@@ -38807,6 +38808,8 @@ alisverisler.com.tr
 alisverisler.net
 alisverisler.org
 alisverisleranindakapinda.online
+alisverislerdekiindirimligunler.cfd
+alisverislerdekiindirimligunler.sbs
 alisverislerguvenilir.space
 alisverislerguvenilir.store
 alisverislerhizliveguvenilir.com.tr
@@ -57656,6 +57659,7 @@ bbva-sponsorlureklam.site
 bbva-tdbsmr.com
 bbva-tr-garanti.com
 bbva-tr-garanti.org
+bbva-tr-za.click
 bbva-trgaranti.com
 bbva-verifica.it
 bbva-verifica.xyz
@@ -71774,6 +71778,7 @@ blkv23.click
 blkviewz.com
 blkvkmkinj.duckdns.org
 blkwav.com
+blkwinz.com
 bllcemlll.com
 bllcllhizmet.com
 bllcmellodele.com
@@ -99993,8 +99998,3 @@ de-acikdnizzxxx.net
 de-apphl.ddns.net
 de-bi-paktblgspttt.blogspot.com
 de-dihkportaldirect.duckdns.org
-de-edevlet.com
-de-giyim.online
-de-ihkkammerportal.duckdns.org
-de-kammer-logme.duckdns.org
-de-kammer-nowww.duckdns.org
