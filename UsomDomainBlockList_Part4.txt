@@ -1,3 +1,6 @@
+s-param-guvende-siparis-onay.com
+s-param-guvende.com
+s-param-guvende.odeme-ilanlarim.sa.com
 s-param-guvende.online
 s-param-guvende.site
 s-param-guvende.tr-online-odemelerim.sa.com
@@ -98487,6 +98490,7 @@ ziraat.kim
 ziraat.kromozom.id
 ziraat.ml
 ziraat.mobil-giris-tr.com
+ziraat.mobilbasvuru.sbs
 ziraat.mobilonlineozelkampanyalar.cf
 ziraat.mobilonlineozelkampanyalar.gq
 ziraat.obidatticampaign.us
@@ -99994,7 +99998,3 @@ zj31ptwl6.duckdns.org
 zj4.us
 zjaip.com
 zjav.us
-zjaywxe.com
-zjbpaao.biz
-zjdlulwgfq.duckdns.org
-zjhtgypvvjlv.net

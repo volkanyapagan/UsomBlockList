@@ -1,3 +1,4 @@
+de-dihkportaldirect.duckdns.org
 de-edevlet.com
 de-giyim.online
 de-ihkkammerportal.duckdns.org
@@ -99997,4 +99998,3 @@ is-subem-ekimcekilisbasvuru.com
 is-subem-ekimcekiliskatilim.com
 is-subem-kampanyakatilimgiris-basvuru.com
 is-subem-kampanyakatilimgiris-tr.com
-is-subem-katilimmbasvurumtrgiris.com
