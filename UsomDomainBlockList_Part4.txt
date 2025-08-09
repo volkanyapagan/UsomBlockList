@@ -1,3 +1,9 @@
+s-paramguvende-ilanlarim-com.ml
+s-paramguvende-ilanlarim.ml
+s-paramguvende-mobi.com
+s-paramguvende-mobil.com
+s-paramguvende-mobile-odeme.com
+s-paramguvende-mobilode.com
 s-paramguvende-mobilodeme.com
 s-paramguvende-n.com
 s-paramguvende-odeme.com
@@ -99992,9 +99998,3 @@ zkpgfk27w.duckdns.org
 zkq7fyqej.duckdns.org
 zkqi76.duckdns.org
 zkqzz.com
-zkr-paypal.zapto.org
-zkr5fc8b3.duckdns.org
-zkrbma.store
-zkredibasvuru6.myaddr.io
-zkredibasvuru7.myaddr.io
-zkservice.cloud
