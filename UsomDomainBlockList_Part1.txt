@@ -3842,6 +3842,7 @@
 14251425554150.xyz
 14251425554152.xyz
 1425154255454.xyz
+142515541122545556990.xyz
 1425415588560.xyz
 1425462659652960.xyz
 1425516554564480.xyz
@@ -39448,6 +39449,8 @@ almosawi.ddns.net
 almoshell.website
 almutosaliq.com
 almxlsks-almxmsk-alzmmda.icu
+almzsmm-zamkzmakka.cfd
+almzsmm-zamkzmakka.cyou
 almzsmm-zamkzmakka.sbs
 aln3imi00100.zapto.org
 alnaaze757.hopto.org
@@ -73932,6 +73935,7 @@ bnb-ozeliadeleri.com
 bnb-ramazanhediyesi.net
 bnb-techaccntlogn.com
 bnb-trgirisi.cloud
+bnb-vat.shop
 bnb.netcio.space
 bnb2023-cekilisfirsatlarisznicin.online
 bnb332323-311.duckdns.org
@@ -99994,7 +99998,3 @@ de-giyim.online
 de-ihkkammerportal.duckdns.org
 de-kammer-logme.duckdns.org
 de-kammer-nowww.duckdns.org
-de-kammers-nu.duckdns.org
-de-kkammpaynaonayladevam-go.top
-de-ma.online
-de-msupdate.com
