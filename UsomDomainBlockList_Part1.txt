@@ -3828,6 +3828,8 @@
 1425111112555690091.xyz
 1425111112555690092.xyz
 1425111112555690094.xyz
+142511554555599991.xyz
+142511554555599992.xyz
 142512112551455990.xyz
 142512112551455991.xyz
 14251221114122556520.xyz
@@ -79480,6 +79482,8 @@ buhaftanin-sonkampanyasi.shop
 buhaftanindirimi.hopto.org
 buhaftanineniyiurnlerinisenalbunukacrma.shop
 buhaftaninenleri101.online
+buhaftaninindirimlerinde.cfd
+buhaftaninindirimlerinde.sbs
 buhaftaninindxrimi.hopto.org
 buhaftaninkacmaz-firsatlaria101.kesug.com
 buhaftaninkasimfirsatlarialdinaldin.online
@@ -80068,6 +80072,7 @@ buradanhizmet.app
 buradaniadenial.duckdns.org
 buradanistanbulluolun.com
 buradankatilin.com
+buradanlstanbullu.click
 buradanodemehizmetlerin.net
 buradanyonlen.site
 buradanyonlendir.my
@@ -99993,8 +99998,3 @@ de-ziadenisorgula.site
 de.bitcoin-now.tracklight21.com
 de.cryptosystem.vip.ibcoptions.com
 de.gengine.com.de
-de.gsearch.com.de
-de.hgsyuklemeyerii.net
-de.ztec.store
-de007.net
-de1.hanzy.space
