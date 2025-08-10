@@ -1,3 +1,10 @@
+is-cep-turkiye-basvuru-cekilis.gq
+is-cep-turkiye-basvuru-giris.cf
+is-cep-turkiye-basvuru-kampanya.cf
+is-cep-turkiye-basvuru-katilim.cf
+is-cep-turkiye-basvuru-maxi.ml
+is-cep-turkiye-basvuru-mobil.cf
+is-cep-turkiye-cekilis-basvuru.gq
 is-cep-turkiye-cekilis-giris.cf
 is-cep-turkiye-cekilis-katilim.cf
 is-cep-turkiye-cekilis-maxi.gq
@@ -19756,6 +19763,7 @@ kilometsgorulari.xyz
 kilommetreshemnnpttgovavm.duckdns.org
 kilommetreshemnnpttgovavvm.duckdns.org
 kilommetreshemnpttgovavm.duckdns.org
+kilomrslkfkl.duckdns.org
 kilomtrehizlisorguchp.xyz
 kilomtremonlinesorglma.web.app
 kilomtreniogrenchp.xyz
@@ -49715,6 +49723,7 @@ mutualequate.top
 mutualmonopolise.top
 mutualshort.top
 mutulumusterilerinyeri.cfd
+mutulumusterilerinyeri.sbs
 mutzjwge.com
 muugkvteut.duckdns.org
 muuhhtesemcuma.com.tr
@@ -99989,12 +99998,3 @@ s-guvende-para-hizmetler.com.tr
 s-guvende-sahibinden.com
 s-guvende.alimlarin-tr-online.com.tr
 s-guvende.alimlarin-tr.com.tr
-s-guvende.com.tr
-s-guvende.e-alim-tr.com.tr
-s-guvende.elektronik-portal.com.tr
-s-guvende.get-online.ru.com
-s-guvende.gq
-s-guvende.kurumsal-alim.com.tr
-s-guvendemparam.cf
-s-guvendemparam.gq
-s-guvendemparam.ml
