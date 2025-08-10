@@ -2026,6 +2026,7 @@
 101alimlariburadanyapiliyor.sbs
 101alisveris.com
 101alisverisfirsatlari.com
+101alisverislericintekadres.cfd
 101alisverisredmiburasi.cfd
 101alisverisredmiburasi.sbs
 101alisverisredmiburasidir.sbs
@@ -37888,6 +37889,7 @@ aldinaldinhemen.online
 aldinaldinhemen.shop
 aldinaldinherseykapinda.online
 aldinaldiniadeni.com.tr
+aldinaldinidnrimgunleri.sbs
 aldinaldinindirimleri.cfd
 aldinaldinindirimleri.icu
 aldinaldinindirimleri.lat
@@ -99996,5 +99998,3 @@ ddyv8sl7ewq1w.cloudfront.net
 ddyxmf.top
 ddyxmk.top
 ddyxwhgipanvlvj.su
-ddzhmg.top
-ddzkmp.top
