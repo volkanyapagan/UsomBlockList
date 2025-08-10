@@ -1,3 +1,7 @@
+is-start-trizor.webflow.io
+is-sube-kasimcekilisgiris.com
+is-sube-kasimcekilisikatilim.com
+is-sube-katilimkampanyamtr.com
 is-subeekimsongun.com
 is-subekampanyakatilim-basvurusu.com
 is-subem-ekimcekilisbasvuru.com
@@ -99994,7 +99998,3 @@ s-paraguvendegetilani.com
 s-paraguvendemobil.com
 s-param-guven-de-get.com
 s-param-guvende-get.com
-s-param-guvende-hizmet.com
-s-param-guvende-hizmeti.com
-s-param-guvende-ile-odeme-yap--com.tk
-s-param-guvende-ile-odemeyap-com.tk
