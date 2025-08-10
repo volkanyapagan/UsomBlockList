@@ -1,3 +1,6 @@
+is-cep-maximum-pandemi-katilim.cf
+is-cep-maximum-turkiye-basvur.ga
+is-cep-maximum-turkiye-basvuru.ga
 is-cep-maximum-turkiye-giris.ga
 is-cep-maximum-turkiye-katilim.ga
 is-cep-maximum-turkiye.ml
@@ -42600,6 +42603,7 @@ mngchpyerakip.com
 mngersrv.com
 mngfvm5.duckdns.org
 mngilegez.net
+mngisimkanlari.space
 mngjet-bilgi-destek.com
 mngjet-bilgi-destek.xyz
 mngkargcunqwa.net
@@ -42607,6 +42611,7 @@ mngkargo-ilekapilarinizagetirelim.com
 mngkargo-kapilarinizagetirsin.com
 mngkargo.best
 mngkargo.org
+mngkargoisimkanlari.space
 mngkargolari.com
 mngkargom.net
 mngkargom.ru.com
@@ -99993,8 +99998,3 @@ s-getsahibinden.net
 s-getsahibinden.shop
 s-getsahibindenlink.website
 s-getsahibnden-ilanparamguvende-com.ml
-s-getsahibnden-paramguvende-com.ml
-s-getsatis.site
-s-getsatisalhemen.cf
-s-getsodeme.online
-s-gettsahbinden-ilansats-com.ml

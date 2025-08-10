@@ -79893,6 +79893,7 @@ bunkman.duckdns.org
 bunlakonusuncaiyiolur.xyz
 bunlar-boyle-oluyo.shop
 bunlar-boyle-oluyor.shop
+bunlar-elimden-gelen.duckdns.org
 bunlar-geldi-kacmadana.com
 bunlar-gorup-alacaklrin.com
 bunlar-isinize-cok-yarayacak.com
@@ -99997,4 +99998,3 @@ ddosataack5.ddns.net
 ddoser.org
 ddosnoodle.ddns.net
 ddosvps.cc
-ddoxeriscoming.hopto.org
