@@ -1,3 +1,6 @@
+is-mi-secure.vercel.app
+is-mobilkampanyalari.com
+is-mobilsube-cekiliskatilim.com
 is-mobilsubegirisim-kampanya.com
 is-mobilsubem-kampanyakaatilimbasvurusu.com
 is-nt.blogspot.com
@@ -26265,6 +26268,7 @@ kwytkpaneon.com
 kwytyorl.duckdns.org
 kwyzabsrwa.duckdns.org
 kwz6hacu.duckdns.org
+kwzlnptmrqsx.sa.com
 kx0wpy.duckdns.org
 kx1358.com
 kx1ida-a1o1-firsat.net
@@ -30617,6 +30621,7 @@ login-turkiyegovtr.org
 login-users-account.site
 login-verify-i.cloud
 login-verify.online
+login-web-bbva-tr.click
 login-xero.ddns.net
 login-yamato.duckdns.org
 login-yapikredi.com
@@ -78111,6 +78116,7 @@ petrolleriplatformu.me
 petrolleumteam.com
 petrollgas.com
 petrollprofit.com
+petrollsupport.com
 petrolmce.top
 petrolme-way.com
 petrolofis.com
@@ -91109,6 +91115,7 @@ qpurrybeatmecamtest.ddns.net
 qpw8ifydo2mr30c.ddns.net
 qpweouplmmojdaiq.com
 qpwepqwpep21.com
+qpwo-alskdk-alsls.cfd
 qpwo-alskdk-alsls.cyou
 qpwo-alskdk-alsls.icu
 qpxyv.com
@@ -99991,10 +99998,3 @@ s-online.elektronik-portal.com.tr
 s-online.satis-guvende.ru.com
 s-online.servislerimiz.com.tr
 s-onlineguvenlisatis.tk
-s-onlineodeme.com
-s-onlineodeme.net
-s-onlineparamguvende-islemleri.ml
-s-ozel-paramguvende.com
-s-ozel-paramguvende.net
-s-ozel-sahibinden.com
-s-ozelilan.com

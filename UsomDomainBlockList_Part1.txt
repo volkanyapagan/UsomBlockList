@@ -2026,6 +2026,7 @@
 101alimlariburadanyapiliyor.sbs
 101alisveris.com
 101alisverisfirsatlari.com
+101alisverislericintekadres.baby
 101alisverislericintekadres.cfd
 101alisverisredmiburasi.cfd
 101alisverisredmiburasi.sbs
@@ -2529,6 +2530,7 @@
 101redmialimyeriburasidir.sbs
 101redmicifirsatalimlari.cfd
 101redmicifirsatalimlari.sbs
+101redmicinburadan.cfd
 101redmicinkampanya.click
 101redmicinkampanya.my
 101redmicinkampanya.sbs
@@ -35985,6 +35987,7 @@ aktier.101persembedeaksam.com
 aktier.101persembefirsatse.com
 aktier.101sali-aksams.shop
 aktier.10agostos-pazar.art
+aktier.10agostos-pazarda.art
 aktier.online-temmuzfirsatlari.com
 aktier.persembe-macvarhayirli.com
 aktier.temmuz-a-1o1.com
@@ -99995,6 +99998,3 @@ ddxtggbvup.duckdns.org
 ddyatirim.com
 ddykmw.top
 ddyson.com.tr
-ddytmb.top
-ddyv8sl7ewq1w.cloudfront.net
-ddyxmf.top
