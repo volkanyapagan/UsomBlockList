@@ -1,3 +1,8 @@
+s-param-guvende-odeme-mobil.com
+s-param-guvende-odeme.com.tr
+s-param-guvende-online.epizy.com
+s-param-guvende-sahibinden-org.cf
+s-param-guvende-sahibinden.com
 s-param-guvende-sahibinden.epizy.com
 s-param-guvende-secure.com
 s-param-guvende-siparis-onay.com
@@ -42504,6 +42509,7 @@ tr-girisleriniz.click
 tr-girismobilziraat.ml
 tr-girisparimdestek.com
 tr-giristrbnb.cloud
+tr-girs-my.sa.com
 tr-gitiris.online
 tr-gjris.website
 tr-glbal-etkinlikler.net
@@ -99992,9 +99998,3 @@ zixzanwe.xyz
 ziyateri.loveslife.biz
 ziyemy.shop
 ziyurfxe.com
-zizaxper.com
-zizfox.com
-zizitok.shop
-zizoozake.zapto.org
-zizria33243.xyz
-zj-composties.com
