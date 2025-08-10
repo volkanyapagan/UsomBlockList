@@ -38609,6 +38609,7 @@ alisveris-al-sat.com.tr
 alisveris-banaozel.com
 alisveris-banaozel.com.tr
 alisveris-bilgi.com
+alisveris-carrefoursa.vercel.app
 alisveris-cepte.net
 alisveris-dunyam.com
 alisveris-dunyasi.com
@@ -99997,4 +99998,3 @@ ddtrmn.top
 ddtrmy.top
 ddupcjjksy.duckdns.org
 ddv1cwxjx.duckdns.org
-ddvtrgolans.duckdns.org
