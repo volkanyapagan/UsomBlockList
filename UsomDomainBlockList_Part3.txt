@@ -1,3 +1,8 @@
+is-cep-maximum-turkiye-giris.ga
+is-cep-maximum-turkiye-katilim.ga
+is-cep-maximum-turkiye.ml
+is-cep-maxkampanya.ml
+is-cep-mobil-giris.net
 is-cep-online.cf
 is-cep-songun-basvuru-com.ga
 is-cep-songun-firsat-com.ml
@@ -99993,8 +99998,3 @@ s-getsatis.site
 s-getsatisalhemen.cf
 s-getsodeme.online
 s-gettsahbinden-ilansats-com.ml
-s-gettssahbinden-pramguvende-com.ml
-s-gkprim.net
-s-guveende.com
-s-guvende-alisveris.online
-s-guvende-odeme-hizli.com.tr

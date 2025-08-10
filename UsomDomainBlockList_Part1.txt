@@ -1698,6 +1698,7 @@
 101-07agustosd.art
 101-07agustosmrt.art
 101-08agustosda-sizlere.art
+101-10agostosaksm.com
 101-10temmuzaksm.com
 101-10temmuzaozel.com
 101-14mayssepet.com
@@ -37857,6 +37858,7 @@ aldinaldinboschyikama.store
 aldinaldinbufirsatiii101.com
 aldinaldinbuhafta.shop
 aldinaldinburdansonfirsat.cfd
+aldinaldinburdansonfirsat.sbs
 aldinaldincaydanlik.com.tr
 aldinaldincepte.biz.tr
 aldinaldincepte.com.tr
@@ -99919,6 +99921,7 @@ ddec.blob.core.windows.net
 ddedelik.com
 ddenizlbank.com
 ddenizlehediyeler.com
+ddenzlepromsynn.vercel.app
 ddeocyowmeaygbk.com
 ddestekoll.cf
 ddev33elopgap.top
@@ -99995,6 +99998,3 @@ ddoser.org
 ddosnoodle.ddns.net
 ddosvps.cc
 ddoxeriscoming.hopto.org
-ddpdmp.top
-ddpwqw.duckdns.org
-ddqcmf.top
