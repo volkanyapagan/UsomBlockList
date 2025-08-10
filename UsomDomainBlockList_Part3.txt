@@ -1,3 +1,11 @@
+is-cep-turkiye-cekilis-giris.cf
+is-cep-turkiye-cekilis-katilim.cf
+is-cep-turkiye-cekilis-maxi.gq
+is-cep-turkiye-cekilis-maximum.ga
+is-cep-turkiye-cekilis-mobil.cf
+is-cep-turkiye-mobil-basvuru.ml
+is-cep.net
+is-cep.online
 is-cepanahtar.com
 is-cepbasvuru.com
 is-cepgiris.net
@@ -13370,6 +13378,7 @@ kampanyabasvurusubuguneozelbance.tech
 kampanyabasvurusuorthenighteight.net
 kampanyabasvuruv2deniz.tk
 kampanyabende.online
+kampanyabildirimi.com
 kampanyabildirimi.xyz
 kampanyabilgilendirmetr-giris.com
 kampanyabilgilendirmetr-giris.net
@@ -20389,6 +20398,7 @@ kisaozelindirimler.xyz
 kisaparlament.net
 kisasuredeindirima1o1.duckdns.org
 kisasurelia1o1indirmleri.duckdns.org
+kisasurelietkinlikyayinda.com
 kisasurelifirsatlara101.duckdns.org
 kisasurelifirsatlarda1o1.duckdns.org
 kisasurelikampyafirsatlari.duckdns.org
@@ -21662,6 +21672,7 @@ kmsorgulamayapgovptt.duckdns.org
 kmsorgulamayaphemegovptteuge.web.app
 kmsorgulamayapo-gov-ptt.duckdns.org
 kmsorgulamayappburdanptt.duckdns.org
+kmsorgulamayovgovhemenpttasdww.com
 kmsorgulamaz.com
 kmsorgulamzsazniyogovptt.duckdns.org
 kmsorgularchp.xyz
@@ -24112,6 +24123,7 @@ kredionlinev2denizbank.co.vu
 krediozelfirsat.com
 krediparam.com
 kredipromosyon.cyou
+kredipromosyon.site
 kredipuanisorgusu.com
 krediqnbgiriskampanya.com
 kredired.com
@@ -49702,6 +49714,7 @@ mutretserte.click
 mutualequate.top
 mutualmonopolise.top
 mutualshort.top
+mutulumusterilerinyeri.cfd
 mutzjwge.com
 muugkvteut.duckdns.org
 muuhhtesemcuma.com.tr
@@ -99985,16 +99998,3 @@ s-guvende.kurumsal-alim.com.tr
 s-guvendemparam.cf
 s-guvendemparam.gq
 s-guvendemparam.ml
-s-guvenden.com
-s-guvendeparam-com.tk
-s-guvendeparam.gq
-s-guvendes.online
-s-guveniliralisveris.com
-s-guvenilirodeme.com
-s-guvenli-alisveris-tr.shop
-s-guvenli-alisveris.com
-s-guvenli-alisveris.com.tr
-s-guvenli-alisveris.online
-s-guvenli-alisvers.com.tr
-s-guvenli-alisvers.site
-s-guvenli-odeme-yap.com.tr

@@ -3919,6 +3919,7 @@
 14515579416.cloud
 1452155544558890.xyz
 1452155544558891.xyz
+1452155544558892.xyz
 14522880072.xyz
 145251559888090.xyz
 145251559888890.xyz
@@ -35838,6 +35839,7 @@ akt.10agostos-pazar.art
 akt.10agostos-pazarda.art
 akt.3agustos-indrm.com
 akt.cuma-onlinefirsatz.com
+akt.cumamrkt-3213.com
 akt.cumartesi-agustsindrm.net
 akt.indirim-31temmuzx.art
 akt.mayis-firsatiaksamlar.com
@@ -75957,6 +75959,7 @@ bonusfirsatta.tk
 bonusflas-garant.icu
 bonusflash-garantimcon.com
 bonusflash-kampanya.vercel.app
+bonusflash.digital
 bonusflash1946.com
 bonusflashiadebasvuru.com
 bonusflashizliformlar.com
@@ -79637,6 +79640,7 @@ bujubanton.ddns.net
 bujuzdanbaskajuzdan.com
 bujuzdankazandiriyor.com
 bujxmcellcuma.net
+bukadar-olursan-hakkinda-sozlere-aktarir.com
 bukadarartikiki.top
 bukadarda-kalmayiz-sizlede-birisi-bulunur.top
 bukadarda-olursa-ilkinden-oncesine-burdayiz.top
@@ -81182,6 +81186,7 @@ bvssmclli.com
 bvstigveriapp.online
 bvsucurisda20000.tech
 bvtkxleblicukfu.ru
+bvtr-web-login.za.com
 bvuguamjtf.duckdns.org
 bvuzdvvxhq.duckdns.org
 bvvbve4.duckdns.org
@@ -99993,8 +99998,3 @@ ddrnmy.top
 ddrpmn.top
 ddrtot.shop
 ddrxmf.top
-dds.walshdavis.com
-ddsbmr.top
-ddsqqq.hopto.org
-ddsvr.itsaol.com
-ddt-tickets.ru
