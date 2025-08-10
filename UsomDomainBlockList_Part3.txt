@@ -1,3 +1,8 @@
+is-cep-online.cf
+is-cep-songun-basvuru-com.ga
+is-cep-songun-firsat-com.ml
+is-cep-songun-giris-com.cf
+is-cep-songun-katilim-com.cf
 is-cep-turkiye-basvuru-cekilis.gq
 is-cep-turkiye-basvuru-giris.cf
 is-cep-turkiye-basvuru-kampanya.cf
@@ -99993,8 +99998,3 @@ s-gkprim.net
 s-guveende.com
 s-guvende-alisveris.online
 s-guvende-odeme-hizli.com.tr
-s-guvende-odemeler.com.tr
-s-guvende-para-hizmetler.com.tr
-s-guvende-sahibinden.com
-s-guvende.alimlarin-tr-online.com.tr
-s-guvende.alimlarin-tr.com.tr

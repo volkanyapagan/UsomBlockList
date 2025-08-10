@@ -1,3 +1,8 @@
+s-guvende-odemeler.com.tr
+s-guvende-para-hizmetler.com.tr
+s-guvende-sahibinden.com
+s-guvende.alimlarin-tr-online.com.tr
+s-guvende.alimlarin-tr.com.tr
 s-guvende.com.tr
 s-guvende.e-alim-tr.com.tr
 s-guvende.elektronik-portal.com.tr
@@ -18422,6 +18427,7 @@ sizinbizsizmiz.online
 sizindebizimlegelesinizvar.net
 sizindegelin.net
 sizindeisinizolsun.com
+sizindeniziniz.duckdns.org
 sizindirdenizlerimiz.com
 sizindunyanizahosgeldiniz.blogspot.com
 sizine-devletiniz.com
@@ -99992,9 +99998,3 @@ ziratbanconline.com
 ziratbank-esube.com
 ziratbank-isube.com
 ziratbank-sube.com
-ziratbank.2512spot.online
-ziratbank.ztr-finance.com
-ziratbanka-isube.com
-ziratbankamizim.com
-ziratbankan.anindabasvuru.cfd
-ziratbankasi-insube.com
