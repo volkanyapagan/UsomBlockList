@@ -3924,6 +3924,7 @@
 1452155544558891.xyz
 1452155544558892.xyz
 1452155544558893.xyz
+1452155544558894.xyz
 1452155544558896.xyz
 1452155544558897.xyz
 1452155544558898.xyz
@@ -28456,6 +28457,7 @@ adaletagaogluvakfi.com
 adaletagaogluvakfi.org
 adaletariyoruz.net
 adaletbakanligi-sikayetvar.epizy.com
+adaletbakanligigov.xyz
 adaletbizim.net
 adaletbumula.com
 adaletgeldi.online
@@ -30421,6 +30423,7 @@ agstsbasndayararln.online
 agstsindrmfh.com
 agstsktlgmtttr.com
 agststacrfsa.com
+agststacrfsa.online
 agsuendkdbskdbd.xyz
 agt-hq.com
 agt.net
@@ -80380,6 +80383,7 @@ burdayiz.app
 burdayizsizler.shop
 burdayuzbirs.duckdns.org
 burdayzhepsiznleyiz.site
+burdbulduklarinizdnsize.com
 burdbyrmfrstlr.click
 burdchoureserdoc.com
 burdengainhave.top
@@ -99994,7 +99998,3 @@ ddhhhaakkss.net
 ddhislmpetpiset.site
 ddhislmpetpiset.tech
 ddhlmh.top
-ddhlserver.ddns.net
-ddhndaipzm.duckdns.org
-ddhpcy.org
-ddhuheueh.top
