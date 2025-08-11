@@ -86706,6 +86706,7 @@ ceptefirsat-onlinebasvurumiscep.vercel.app
 ceptefirsat-teb.com
 ceptefirsat-tebhaftasi.com
 ceptefirsat.net.tr
+ceptefirsat.org.tr
 ceptefirsatim-teb.com
 ceptefirsatimiz-teb.com
 ceptefirsatlar.b-cdn.net
@@ -99997,4 +99998,3 @@ ddoood.com
 ddos-cc.org
 ddosataack5.ddns.net
 ddoser.org
-ddosnoodle.ddns.net

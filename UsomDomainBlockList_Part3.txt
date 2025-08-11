@@ -1,3 +1,6 @@
+is-cep-maxi-turkiye-pandemi-katilim.cf
+is-cep-maxi-turkiye-pandemi.cf
+is-cep-maximum-pandemi-basvuru.ga
 is-cep-maximum-pandemi-destek.ml
 is-cep-maximum-pandemi-giris.ml
 is-cep-maximum-pandemi-katilim.cf
@@ -68928,6 +68931,7 @@ otoyollusokum.online
 otoyollusokum.site
 otoyollusokum.store
 otoyollusokum.xyz
+otoyolmobilhgs.com
 otoyolode.ml
 otoyolodehgskgwebc.com
 otoyolodeme.net
@@ -99994,7 +99998,3 @@ s-gets.com
 s-getsahbinden-ilan.com.tr
 s-getsahbinden-ilannsats-com.ml
 s-getsahbinden-ilansatss-com.ml
-s-getsahbinden-paramguvende-com.ml
-s-getsahbinden-pramguvende-com.ml
-s-getsahbindenpram-guvndeilannsats-com.ml
-s-getsahbindenpram-guvndeilansats-com.ml

@@ -1,3 +1,7 @@
+s-getsahbinden-paramguvende-com.ml
+s-getsahbinden-pramguvende-com.ml
+s-getsahbindenpram-guvndeilannsats-com.ml
+s-getsahbindenpram-guvndeilansats-com.ml
 s-getsahibinden.com
 s-getsahibinden.net
 s-getsahibinden.shop
@@ -99994,7 +99998,3 @@ zirasd.shop
 zirasd.store
 zirasds.fun
 zirasds.store
-zirasdss.fun
-zirasdssa.fun
-zirasdssa.shop
-ziraseker.top
