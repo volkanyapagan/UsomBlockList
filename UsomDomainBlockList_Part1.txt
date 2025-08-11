@@ -3924,6 +3924,9 @@
 1452155544558891.xyz
 1452155544558892.xyz
 1452155544558896.xyz
+1452155544558897.xyz
+1452155544558898.xyz
+1452155544558899.xyz
 14522880072.xyz
 145251559888090.xyz
 145251559888890.xyz
@@ -4007,7 +4010,12 @@
 14537291820356482060.com.tr
 14537291820356482060.xyz
 14537291820356482070.com.tr
+14537291820356482070.online
 14537291820356482080.com.tr
+14537291820356482090.online
+14537291820356483010.com.tr
+14537291820356483010.online
+14537291820356483030.online
 1453739412166010.com.tr
 1453739412166020.com.tr
 1453739412166070.xyz
@@ -15267,6 +15275,7 @@
 6adiletasarim.com
 6agustos.duckdns.org
 6agustossiparislerinden.cloud
+6agustossiparislerindencl.cloud
 6agustosssiprailerinden.cloud
 6agustss.duckdns.org
 6ahlemlove2y.hopto.org
@@ -22044,6 +22053,7 @@ a101kampanyakapi.xyz
 a101kampanyalar.com
 a101kampanyalar.com.tr
 a101kampanyalar.shop
+a101kampanyalardabugun.ct.ws
 a101kampanyalari.com
 a101kampanyalari.shop
 a101kampanyalari.site
@@ -30692,6 +30702,7 @@ agustostafirsat.gleeze.com
 agustostes.shop
 agustosumarket.com
 agustosun-siparisleri-buradan-verildi.com
+agustosun-yildizlari.cfd
 agustosun8iburda.duckdns.org
 agustosunsonfirsati.com
 agustosusomilemucadelesinedevam.online
@@ -74356,6 +74367,7 @@ bnd-destektr.com
 bnd3m.is-best.net
 bndagitimbasvurusu.com
 bndbrj.top
+bndce2-ssea1.space
 bndcedekcmzlrgldnald.shop
 bndduftnfteu.com
 bndegpis.duckdns.org
@@ -86713,6 +86725,7 @@ ceptefamilia.org.tr
 ceptefirsat-onlinebasvurumiscep.vercel.app
 ceptefirsat-teb.com
 ceptefirsat-tebhaftasi.com
+ceptefirsat.info.tr
 ceptefirsat.net.tr
 ceptefirsat.org.tr
 ceptefirsatim-teb.com
@@ -99985,16 +99998,3 @@ ddkcmb.top
 ddkn.cc
 ddknet.biz
 ddktmk.top
-ddkturkiyeaidatiadebirimigovtr.com
-ddkxmq.top
-ddl7.data.hu
-ddlvlvldlvldtll.com
-ddlyukleme.22web.org
-ddm513dc7.duckdns.org
-ddm8fj.duckdns.org
-ddmd.pw
-ddme.ddns.net
-ddmmml.top
-ddmsxooh.duckdns.org
-ddndsdnezckecliss2023.net
-ddnizbankcekilisleri.com
