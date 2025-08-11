@@ -1,3 +1,9 @@
+is-cep-destek-giris-com.ml
+is-cep-destek-kampanya-com.ml
+is-cep-destek-katilim-com.ml
+is-cep-hizli-basvur.ip-ddns.com
+is-cep-hizli-basvuru.ip-ddns.com
+is-cep-hizli-basvurum.ip-ddns.com
 is-cep-kampanya-basvuru-com.cf
 is-cep-kampanya-destek-com.ml
 is-cep-kampanya-giris-com.cf
@@ -88731,6 +88737,7 @@ pzrtsigece32.com
 pzrtsmarktr93.com
 pzrtsmarkxet32.com
 pzrtsmkrt88.com
+pzrtsmrktrsy-875.com
 pzrtsoglenr76.com
 pzrvergsahzmt.net
 pzrvhztsa.net
@@ -99991,10 +99998,3 @@ s-emlak360-kirala-emlak-kirala.com.tr
 s-emlak360-kirala-konut.com.tr
 s-generaleparticuliers.duckdns.org
 s-get-alisveris.com.tc
-s-get-alisveris.online
-s-get-alisveris.shop
-s-get-alisveris.store
-s-get-alisveris.website
-s-get-alisveris.xyz
-s-get-guvende.uk
-s-get-guvenli-odeme.shop
