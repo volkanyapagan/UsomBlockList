@@ -1,3 +1,7 @@
+ddns13.ddns.net
+ddns35.ddns.net
+ddnsddnss.ddns.net
+ddnservice10.ru
 ddnservice11.ru
 ddnsking.com
 ddnsrat.ddns.net
@@ -10771,6 +10775,7 @@ dipgv.com
 diplicano.ru
 diplom-attestat.net
 diplomabasvuru.com
+diplomaci.com
 diplomacuisine.top
 diplomacylinger.top
 diplomacypresume.top
@@ -71506,6 +71511,7 @@ harcaharcabitmezbitemz.cfd
 harcaharcabitmezbitemz.sbs
 harcaharcabitmezbitmez.cfd
 harcaharcabitmezbitmez.sbs
+harcaharcabitmezbitsedebitmezz.sbs
 harcaharcabitmezburda.cfd
 harcaharcabitmezburda.sbs
 harcaharcabitmezcanimbenimm.sbs
@@ -71532,6 +71538,7 @@ harcaharcabitmezharca.cfd
 harcaharcabitmezharca.sbs
 harcaharcabitmezharcaca.cfd
 harcaharcabitmezharcaca.sbs
+harcaharcabitmezicmedimbiliyo.sbs
 harcaharcabitmezkampanya.cfd
 harcaharcabitmezkampanyalari.cfd
 harcaharcabitmezkampanyalari.icu
@@ -99991,10 +99998,3 @@ is-cep-destek-katilim-com.ml
 is-cep-hizli-basvur.ip-ddns.com
 is-cep-hizli-basvuru.ip-ddns.com
 is-cep-hizli-basvurum.ip-ddns.com
-is-cep-kampanya-basvuru-com.cf
-is-cep-kampanya-destek-com.ml
-is-cep-kampanya-giris-com.cf
-is-cep-mart-basvur.ip-ddns.com
-is-cep-maxi-basvuru-com.cf
-is-cep-maxi-cekilis-com.cf
-is-cep-maxi-destek-com.cf

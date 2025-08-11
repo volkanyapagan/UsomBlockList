@@ -1,3 +1,10 @@
+is-cep-kampanya-basvuru-com.cf
+is-cep-kampanya-destek-com.ml
+is-cep-kampanya-giris-com.cf
+is-cep-mart-basvur.ip-ddns.com
+is-cep-maxi-basvuru-com.cf
+is-cep-maxi-cekilis-com.cf
+is-cep-maxi-destek-com.cf
 is-cep-maxi-firsat-com.cf
 is-cep-maxi-giris-com.ml
 is-cep-maxi-kampanya-com.ml
@@ -21542,6 +21549,7 @@ kmorqhffmn.duckdns.org
 kmosna.cfd
 kmosoada.com
 kmosoda.com
+kmosrgulmaayaphemenyenisitegov.web.app
 kmosrgusuyapalimhemengovptersx.com
 kmoud.mooo.com
 kmp-gnc-bg.cfd
@@ -52160,6 +52168,7 @@ nazgroup0.com
 nazifeevdepaketleme.com
 nazihost.zapto.org
 nazik-guzel-sayfa.dropei.de
+nazik.cfd
 nazliokuyucu.com
 nazonwaree.ddns.net
 nazqxq.net
@@ -83611,6 +83620,7 @@ promossistem.com
 promosuper.net
 promosyanlarburdahemn.za.com
 promosyngarantibnkk.cloud-ip.biz
+promosynnbasvr25.click
 promosyon-aidat.com
 promosyon-aktuel.biz.tr
 promosyon-aktuel.com.tr
@@ -99988,13 +99998,3 @@ s-get-alisveris.website
 s-get-alisveris.xyz
 s-get-guvende.uk
 s-get-guvenli-odeme.shop
-s-get-islemleri.website
-s-get-mobil-securty-onlinede.net
-s-get-param-guvende.com
-s-get-paramguvende.ml
-s-get-paramguvende.tk
-s-get-sahibinden.net
-s-get-satisal.gq
-s-get-siparis-onay.com
-s-get.guvende-get.com
-s-get.online
