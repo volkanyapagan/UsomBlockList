@@ -1,3 +1,5 @@
+dde.hopto.org
+ddec.blob.core.windows.net
 ddedelik.com
 ddenizlbank.com
 ddenizlehediyeler.com
@@ -71590,6 +71592,7 @@ harcaharcabitmeza1001.store
 harcaharcabitmeza101.online
 harcaharcabitmeza101.rf.gd
 harcaharcabitmeza101.store
+harcaharcabitmezadonunablasiorospum.sbs
 harcaharcabitmezadonunannesikasarim.sbs
 harcaharcabitmezadonunannesinebastim.sbs
 harcaharcabitmezaktuel.shop
@@ -99995,6 +99998,3 @@ irsform.top
 irsforms.top
 irsgov.top
 irsgov.zapto.org
-irshadfoundation.co.za
-irsinformationcase.hopto.org
-irsmqd.com
