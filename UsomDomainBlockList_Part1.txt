@@ -2544,6 +2544,8 @@
 101redmicinkampanya.sbs
 101redmifirsaticinburadangirin.cfd
 101redmifirsaticinburadangirin.click
+101redmifirsaticinburadangirindir.cfd
+101redmifirsaticinburadangirindir.sbs
 101redmikampanyasi.cfd
 101redmikampanyasi.click
 101redmikampanyasi.sbs
@@ -3159,6 +3161,7 @@
 11adg1ad06f2ad16fa1.net
 11ae849ea047.com
 11agustosfirsat.online
+11agustostasiparis.net
 11aralikfirsat.com.tr
 11aralikfirsat.online
 11aralikfirsat.xyz
@@ -36064,6 +36067,7 @@ aktier.online-temmuzfirsatlari.com
 aktier.pazarmartkc.art
 aktier.persembe-macvarhayirli.com
 aktier.temmuz-a-1o1.com
+aktier.walaugust12.art
 aktif-20gb-internet-turkcell.com
 aktif-aidat.com
 aktif-basvuru-yapiceplionay.vercel.app
@@ -99994,7 +99998,3 @@ dcuupdate.ddns.net
 dcwihhnc.duckdns.org
 dcwllu.duckdns.org
 dcwnhbk.duckdns.org
-dcxbj.icu
-dcxwq1.duckdns.org
-dcyapsfutu.duckdns.org
-dcyjiir.duckdns.org
