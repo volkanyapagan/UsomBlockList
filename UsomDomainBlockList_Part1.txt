@@ -4022,6 +4022,8 @@
 14537291820356483010.com.tr
 14537291820356483010.online
 14537291820356483020.com.tr
+14537291820356483020.online
+14537291820356483030.com.tr
 14537291820356483030.online
 1453739412166010.com.tr
 1453739412166020.com.tr
@@ -50893,6 +50895,7 @@ b-a-s-v-u-r-u-o-n-l-i-n-e.net.tr
 b-a-s-v-u-r-u-onlinehaber.com
 b-always-free.org
 b-asvurudeste-khizmet.com
+b-b-v-a.online
 b-b-vtr-ekran-web.za.com
 b-bconsult.com
 b-bmn.blogspot.com
@@ -99995,6 +99998,3 @@ ddf.digital
 ddf0eyyi.duckdns.org
 ddfahss.ddns.net
 ddfcvowptn.duckdns.org
-ddfmmr.top
-ddfou.enconfhz.com
-ddfpmm.top
