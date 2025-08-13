@@ -36678,6 +36678,7 @@ aktuelfirsatis.club
 aktuelfirsatis.vip
 aktuelfirsatlar.com.tr
 aktuelfirsatlar.net.tr
+aktuelfirsatlar.org.tr
 aktuelfirsatlardunyasi.com.tr
 aktuelfirsatlardunyasi.online
 aktuelfirsatlardunyasi.xyz
@@ -99997,4 +99998,3 @@ dcu1.zapto.org
 dcuaccount-auth.ddns.net
 dcude.download-sponsor.de
 dcukdqgtpgumuoe.cn
-dcusmsalerts.hopto.org
