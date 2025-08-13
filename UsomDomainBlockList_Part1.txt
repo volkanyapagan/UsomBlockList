@@ -17380,6 +17380,7 @@
 809445995.dfgqdsd.ru
 80ciyilimiz.com
 80d767kw.duckdns.org
+80faizsizislemtamamla.duckdns.org
 80fkxud.cn
 80fldi9j.duckdns.org
 80hediyeleri.com
@@ -30515,6 +30516,7 @@ agustos-ig-katalog.com
 agustos-indirim-vakti.com
 agustos-indirimler-burda.com
 agustos-indirimler.com
+agustos-indirimleri.duckdns.org
 agustos-indirimlerin.com
 agustos-insta-katalog.com
 agustos-kampanya-katalog.com
@@ -99996,5 +99998,3 @@ dcuaccount-auth.ddns.net
 dcude.download-sponsor.de
 dcukdqgtpgumuoe.cn
 dcusmsalerts.hopto.org
-dcuu.duckdns.org
-dcuupdate.ddns.net
