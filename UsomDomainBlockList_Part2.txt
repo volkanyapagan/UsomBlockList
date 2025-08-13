@@ -1,3 +1,8 @@
+dcu-mobile.ddns.net
+dcu-verification.com
+dcu.digital
+dcu1.zapto.org
+dcuaccount-auth.ddns.net
 dcude.download-sponsor.de
 dcukdqgtpgumuoe.cn
 dcusmsalerts.hopto.org
@@ -10435,6 +10440,7 @@ dijitalmobilvarlik-ziraatweb.com
 dijitalmobilweb-ziraat.com
 dijitalmobilweb-ziraatbireysel.com
 dijitalmobilweb-ziraatbireyselgiris.com
+dijitalmobilweb-ziraatbireyselgiris.site
 dijitalmobilweb-ziraatgiris.com
 dijitalmobilweb-ziraatkampanya.com
 dijitalmusterihizmetleri.cf
@@ -93230,6 +93236,7 @@ ile-sistem-tamamla.com
 ile-sistemi-tamamla.com
 ile-sistemler.com
 ile-tamamladin-simdi.com
+ile-tamamlaman.com
 ile-tedarik-odeme.com
 ile-tedarik-odemeler.com
 ile-teslimat.com.tr
@@ -99991,10 +99998,3 @@ iremcicek.com.tr
 iremkurumu.com
 ireopsmrert.info
 iresolved-reccovery.hopto.org
-ireviewwells1.zapto.org
-irexvpn.site
-ireyaw.top
-ireysele-ozel-basvur-online-com.ml
-irezfa.com
-irfade.ddns.me
-irfade1.ddns.me
