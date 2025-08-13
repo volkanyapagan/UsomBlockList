@@ -89,6 +89,7 @@
 000xxdffffirsatas-dunasi-burasi-firsatx.me
 000yazfirsatlaribbvada.online
 001000430-333.cloud
+00101020102010.duckdns.org
 00103n32237g238239.duckdns.org
 00103n329237g238239.mooo.com
 00111000111.duckdns.org
@@ -87034,6 +87035,7 @@ ceptesokbayramin.online
 ceptesokcaydanlikiindirimdee.com
 ceptesokfamilia.net.tr
 ceptesokfamilia.org.tr
+ceptesokfirsat.com
 ceptesokfirsat.xyz
 ceptesokfirsatlar.com
 ceptesokfirsatlar.online
@@ -99996,5 +99998,3 @@ dcmxz.duckdns.org
 dcnar.icu
 dcobgea.com
 dcodon.com
-dcoici.duckdns.org
-dcojstqvuton.info
