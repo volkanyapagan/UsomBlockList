@@ -1,3 +1,4 @@
+rufleks.no-ip.org
 rufxoa.xyz
 rugar.duckdns.org
 rugby-francais.com
@@ -71351,6 +71352,7 @@ webserver-schaeuflovic.ddns.net
 webserver-yaduytwb-reallverbal.4everland.app
 webshfdsahfjkasdjh2.com
 webshmnfgkslrtre.cloud
+webshopy.shop
 websis-avbilgi.info
 websis-bilgihlal.icu
 websis-gecisihlal.icu
@@ -82276,6 +82278,7 @@ xinsta.org
 xinteraktifgov.lat
 xioamiking.top
 xiogsm5k.duckdns.org
+xiominfirsatlariburada.cfd
 xiomininsurepfirsatlari.cfd
 xiomininsurepfirsatlari.sbs
 xiomininyazfirsatlari.cfd
@@ -99995,6 +99998,3 @@ ziraatbn.com
 ziraatbnk-basvuruhemen.duckdns.org
 ziraatbnk-mobil.com
 ziraatbnk.app
-ziraatbnk.com
-ziraatbnk.ga
-ziraatbnk.live
