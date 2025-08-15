@@ -13785,6 +13785,7 @@
 55564782566.cloud
 555777444.hopto.org
 5562241561-85521565874.shop
+556234.vercel.app
 5562e8hy.duckdns.org
 556322111-111.cloud
 5563345486384.com
@@ -36586,6 +36587,7 @@ aktuel.carsambasabahi22.com
 aktuel.carsambasiparisre.com
 aktuel.cma1o1dnrm.net
 aktuel.cmrtsicnasl.net
+aktuel.cuma-aksamibizdonus.com
 aktuel.cuma-mayisonline.shop
 aktuel.cuma-mayisonlinebm.com
 aktuel.cumagustos97.com
@@ -99996,5 +99998,3 @@ dbavafa-aldin-aldin.sbs
 dbaxsgauuq.duckdns.org
 dbb18dec.ieybfs7j447b.org.cn
 dbbdgtblfm.duckdns.org
-dbbdva.click
-dbcache.fun
