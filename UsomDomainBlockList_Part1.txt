@@ -55122,6 +55122,7 @@ basvuru-aralik-7.duckdns.org
 basvuru-aralik-8.duckdns.org
 basvuru-aralik.shop
 basvuru-bfcturk.com
+basvuru-binancetr.com
 basvuru-bireysel-aidat-geri-iade.com
 basvuru-bireysel-aidat-geri.xyz
 basvuru-bireysel-aidat-iadesi.com
@@ -99997,4 +99998,3 @@ dbconnectionbase.hopto.org
 dbdenizimkatlllm.tk
 dbdiijiitallkatlllm.tk
 dbdijital-katilim.gq
-dbdijital-katilim.ml
