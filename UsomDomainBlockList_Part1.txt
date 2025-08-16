@@ -13493,6 +13493,7 @@
 52365365243544.com
 523657457836.duckdns.org
 523748659230583902865092354378598342.com
+523748659230583902865092354378598342.xyz
 523852385235235.xyz
 5238543961305130539436425743.com
 5238543961305130539436425743.xyz
@@ -41289,6 +41290,7 @@ anasayfa-kampanya.com
 anasayfa-kampanyalarim.com
 anasayfa-tr.com
 anasayfa-tr.online
+anasayfa-urunler-kampanyali-urunler.duckdns.org
 anasayfa-urunler.com
 anasayfa-urunler.space
 anasayfa.duckdns.org
@@ -57574,6 +57576,7 @@ bb-va.online
 bb-va.site
 bb-va.website
 bb-vtrweb.shop
+bb.gettrials.com
 bb.wordpressau.com
 bb14cdc38bd26237.com
 bb1pzjdesv.ru
@@ -87175,6 +87178,7 @@ ceptesok-marketler.online
 ceptesok-online.com
 ceptesok.buguneozel.cfd
 ceptesok.com.tr
+ceptesok.ct.ws
 ceptesok.gt.tc
 ceptesok.net.tr
 ceptesok.yazaozel.cfd
@@ -99994,7 +99998,3 @@ dayskwtcoldaysssq.net
 dayspirit.at
 dayspiselec.quest
 dayspringdesk.xyz
-daysyoukwtheasbur.net
-daytemperament.top
-dayuse-ppc.com
-dayuse-seo.com
