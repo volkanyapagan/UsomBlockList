@@ -1,3 +1,5 @@
+db-sorgulama-bilgilendirme.tk
+db.anindaislemmerkezi.com
 db.jpro-llc.com
 db.sistemonlinehizmet.com
 db2017417b23.zapto.org
@@ -21236,6 +21238,7 @@ e-para-ekira-gov-tr.tk
 e-para-eservis-gov-tr.online
 e-para-puan.com
 e-parabank.com
+e-param-guvende-tr.online
 e-param-guvende.online
 e-paramguvemde.com
 e-paramguvende-sahibinden.com
@@ -99995,6 +99998,3 @@ iphone-bonus.site
 iphone-bonus.website
 iphone-hediyeleri-teb.net
 iphone-skzp.top
-iphone-tr.com
-iphone11acces.com
-iphone11cekilisvar.ml
