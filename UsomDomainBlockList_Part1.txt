@@ -14047,6 +14047,7 @@
 59010210341.cloud
 5901209295105285.com.tr
 59120560.store
+5917515.net
 591819515.com
 591919222241.cloud
 5927350225.cloud
@@ -72328,6 +72329,8 @@ blnancetr.info
 blnancetr.xyz
 blnancetr3.xyz
 blnancetr4.xyz
+blnancetrbasvurtool.com
+blnancetrbasvurtool.xyz
 blnanceturkiye.com
 blnanceturkiye.ml
 blnanceturkiye.tk
@@ -80104,6 +80107,7 @@ bundansonraagustsindirimleri.duckdns.org
 bundansonradevamediniz.net
 bundansonrakiflrsat.duckdns.org
 bundansonrasiagustos.shop
+bundansonrasiwsynxglax.shop
 bundansonratop.top
 bundearsyusd.store
 bundesbank-verifikation.com
@@ -99994,7 +99998,3 @@ daylightflank.top
 daynghesuachuamaymay.xyz
 dayoverride.top
 daypro.space
-daysfreecampmee.net
-daysgertinewyearsfriday.net
-daysgoodkswsa.net
-daysgoodswtskf.net
