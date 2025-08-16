@@ -1,3 +1,8 @@
+ip-check-server.vercel.app
+ip-dynamic.org
+ip-identification.com
+ip-kapiida-firsat-1-0-1.shop
+ip.3322.net
 ip.monerov10.com
 ip032.es
 ip0j7y.duckdns.org
@@ -99993,8 +99998,3 @@ rpdermacare.com
 rpdhpk.duckdns.org
 rpdqrqqvuh.duckdns.org
 rpesqrqewn.org
-rpfxuz.com
-rpgdy6d2u.duckdns.org
-rph4xtdib.duckdns.org
-rphdm.aintsona.ru
-rphecyxukg.duckdns.org
