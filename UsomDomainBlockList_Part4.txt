@@ -1,3 +1,4 @@
+roxvm.com
 royainteriors.com
 royal-instantcheck.com
 royal0001.hopto.org
@@ -17424,6 +17425,7 @@ sikayetin-var-21.sbs
 sikayetin-var-23.sbs
 sikayetin-var-5.sbs
 sikayetin-var-7.sbs
+sikayetin-var-8.sbs
 sikayetin-var-var.tk
 sikayetin-var.click
 sikayetin-var.co
@@ -99996,5 +99998,3 @@ ziraat-subem.com
 ziraat-subem.net
 ziraat-subesi.gq
 ziraat-suprizleri-onay.tk
-ziraat-tarim--x0s20.duckdns.org
-ziraat-ticari.com
