@@ -1,3 +1,5 @@
+royale.icu
+royale.lat
 royale.ltd
 royale.myapicik.tk
 royalecik.club
@@ -17397,7 +17399,9 @@ sikayetimvartr.info
 sikayetimvartr.ml
 sikayetimvartt.ga
 sikayetin-var-1.sbs
+sikayetin-var-12.sbs
 sikayetin-var-15.sbs
+sikayetin-var-17.sbs
 sikayetin-var-18.sbs
 sikayetin-var-2.sbs
 sikayetin-var-21.sbs
@@ -99994,7 +99998,3 @@ ziraat-web-mobil-giris.dynu.net
 ziraat-web-mobil.cf
 ziraat-web-mobil.ga
 ziraat-web-tr-bireysel.com
-ziraat-web.com
-ziraat-webgiris.com
-ziraat-weld.vercel.app
-ziraat-yapgiris-kazan50tl.com

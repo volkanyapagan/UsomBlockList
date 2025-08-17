@@ -2635,6 +2635,7 @@
 101temmzufrsatlari.duckdns.org
 101tentkampanyafirsatlariburada.cfd
 101tentkampanyafirsatlariburada.sbs
+101tentkampanyalariburadad.cfd
 101tentkampanyasifirsat.cfd
 101tentkampanyasifirsat.pics
 101tentkampanyasifirsat.sbs
@@ -99997,4 +99998,3 @@ dax1edops.duckdns.org
 daxasendehay.com
 daxia123.cn
 daxlahemenode.net
-daxljyxbqv.duckdns.org
