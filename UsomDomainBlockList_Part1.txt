@@ -37109,6 +37109,7 @@ aktuelsefirsatda.net
 aktuelsepetim.biz.tr
 aktuelsepetim.com.tr
 aktuelsepetim.info.tr
+aktuelsepetim.net.tr
 aktuelsepetim.org.tr
 aktuelshops101.online
 aktuelsindirimssepeti.online
@@ -99997,4 +99998,3 @@ davutogutunc.xyz
 davutogutunkalesxi.online
 davutogutunv.xyz
 dawasab.com
-dawciuhacker.duckdns.org
