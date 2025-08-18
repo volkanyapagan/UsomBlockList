@@ -1792,6 +1792,7 @@
 101-alisveris.name.tr
 101-altusgunleri.com.tr
 101-altuskampanyasi.com
+101-altuskampanyasi.xyz
 101-altusklimalar.com.tr
 101-aninda-kapinda.online
 101-aninda-kapinda.xyz
@@ -76287,6 +76288,7 @@ bonushepyaninda.ga
 bonushepyaninda.gq
 bonushepyaninda.ml
 bonushepyaninda.tk
+bonusheryerde.digital
 bonushizlibasvuru2024.com
 bonushizlibasvuru2024.online
 bonushusrani.com
@@ -87943,6 +87945,7 @@ cfsslayenseax.xyz
 cfsurelikampanya.com
 cft43f.duckdns.org
 cftanfydlmsgfvonk.net
+cftciemeklikrdbsvr.fixip.org
 cftdmqpdbtfywou.cn
 cfteihvu.com
 cftgv7x.duckdns.org
@@ -99995,6 +99998,3 @@ dawezene.com
 dawidjasper.ddns.net
 dawkc5.duckdns.org
 dawkinsfitness.com
-dawn97853.xyz
-dawnmitton.com
-dawnnews.workers.dev
