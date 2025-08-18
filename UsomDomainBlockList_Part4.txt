@@ -1,3 +1,9 @@
+rootberke.xyz
+rootcap2008.ddns.net
+rootgatestorage.com
+rootgatewayshome.com
+rootgatewaystorage.com
+rootinformationgateway.com
 rootkaneko.ddns.net
 rootkit.zapto.org
 rootkitsys.duckdns.org
@@ -36846,6 +36852,7 @@ tebkampanyam.com
 tebkampanyatr.co
 tebkampanyatr.com
 tebkinet.com
+tebklamansateb.duckdns.org
 tebkurumsalhizmetler.com
 teblebayramdahediyeceki.ml
 teblebayramlarr.com
@@ -48241,6 +48248,7 @@ trmagazabimcell.com
 trmagazacepte.com.tr
 trmagazacepte.net.tr
 trmagazacepte.org.tr
+trmaliye.org
 trmaliyeceza.org
 trmalmiadmx1.net
 trmamksamas.net
@@ -99990,11 +99998,3 @@ ziraat-195yil.com
 ziraat-2018maximum.com
 ziraat-2018mobilinternetsubem.com
 ziraat-240bank.com
-ziraat-aidat-iade.com
-ziraat-aidatiadefirsati.com
-ziraat-altinsube.com
-ziraat-avantaj101.xyz
-ziraat-avantaj107.xyz
-ziraat-avantaj108.xyz
-ziraat-avantajserisi12.fun
-ziraat-avantajserisi14.fun
