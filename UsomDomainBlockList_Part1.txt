@@ -3334,6 +3334,7 @@
 121529371556310ar.duckdns.org
 1215412254112554490.xyz
 1215412254112554491.xyz
+1215412254112554492.xyz
 121637121.duckdns.org
 121991dec.ddns.net
 121milkyway.xyz
@@ -3896,6 +3897,7 @@
 1414142255599996.xyz
 1414142255599997.xyz
 1414142255599998.xyz
+1414142255599999.xyz
 1414743445.dfgqdsd.ru
 1415252514555280.xyz
 1415252514555282.xyz
@@ -78507,6 +78509,7 @@ bsvrumblyppkrrefssbe.duckdns.org
 bsvrumonlineisubemkuveytturk.net
 bsvrutarihh.net
 bsvrutrx1.com.tr
+bsvrutrziraatbnkredi.fixip.org
 bsvryrm.site
 bsvs.fun
 bsvuraa.site
@@ -84550,6 +84553,8 @@ carrefoursaizmit.org
 carrefoursam.com
 carrefoursamarketzinciri.com
 carrefoursamobil.com
+carrefoursatr.b-cdn.net
+carrefoursaturkiye.online
 carrefoursayazfirsati.it.com
 carrefoursayazfirsatlari.online
 carrefoursiteonlinee.com
@@ -99993,8 +99998,3 @@ davutogutunkalesxi.online
 davutogutunv.xyz
 dawasab.com
 dawciuhacker.duckdns.org
-dawdwad.ddns.net
-dawezene.com
-dawidjasper.ddns.net
-dawkc5.duckdns.org
-dawkinsfitness.com
