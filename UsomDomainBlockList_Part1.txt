@@ -112,6 +112,7 @@
 0030930029930.cloud
 0030yia.duckdns.org
 0032932h23723623g237.icu
+00333212325230.duckdns.org
 00340835.com
 00399239932883.shop
 00456335-567340001.com.tr
@@ -12214,6 +12215,7 @@
 44255.online
 442hj92z.duckdns.org
 443123131123.cloud
+443221444444.duckdns.org
 4432323233.cloud
 443234-432432.duckdns.org
 443543252362435435.com
@@ -22790,6 +22792,7 @@ a1b2c3f53.xyz
 a1b2c3f54.xyz
 a1b2c3f55.xyz
 a1b40e25.ns-u629df.shop
+a1capital.info
 a1dat1adehizmedi.ddns.net
 a1datkapinizda.com
 a1djaw2ma.click
@@ -58035,6 +58038,7 @@ bbvabasvurukanali.site
 bbvabasvurukanalicepte.site
 bbvabasvurular.vercel.app
 bbvabasvuurucepte.site
+bbvabav.vercel.app
 bbvabe-bbva.com
 bbvabizdensinizxcxz.net
 bbvacasfadqw.sa.com
@@ -75933,6 +75937,7 @@ bofaservicegg.ddns.net
 bofaservicekc.ddns.net
 bofaservicepp.ddns.net
 bofasupportedd.ddns.net
+bofaturkiye.co
 bofaunlockeddtech.ddns.net
 bofaverylogin.hopto.org
 bofegarantiliyaz.buzz
@@ -79022,6 +79027,7 @@ btqmiecynk.duckdns.org
 btqunmytui.duckdns.org
 btr-sorgulama.blogspot.com
 btr.omentra.site
+btrader.info
 btrcnfrstaktifgiris.com
 btrfr7crkktlm.com
 btrkycnkosl.com
@@ -79945,6 +79951,7 @@ buhftsnucrfsnzdn.com
 buhgasfgaa.vercel.app
 buhgsmarketleri.club
 buhgsyi.rf.gd
+buhgufasde.site
 buhizmetinertcu.tk
 buhlebayoacademy.com
 buhuchetooo.ru
@@ -87338,6 +87345,7 @@ ceptesokfirsatlarin.net
 ceptesokfirsatlariyakala.com
 ceptesokfirsatlarlageldi.com
 ceptesokfirsatlindirimler.com
+ceptesokfirsatyakala.com
 ceptesokilealisveris.com
 ceptesokilkbahargunleri.online
 ceptesokindirim.b-cdn.net
@@ -87543,6 +87551,7 @@ ceptetebyfirsatlar.com
 ceptetebymusterihizmetleri.com
 ceptetebyukle.com
 ceptetebyukleme.com
+ceptetecfsirsat.com
 cepteteeb.com
 ceptetelefon.com
 ceptetelefonun.site
@@ -99989,12 +99998,3 @@ dava-sorgula.com
 davabilgi.org
 davabilgilendirme.site
 davaceza.com
-davacezalari.com
-davadosya.com
-davadosyasi.com
-davaesorgu.org
-davalidosyam.com
-davamaliyem.com
-davamiz-burada-kazananlarla-yuruyup-buyumek.com
-davamiz-hep-iyilere-farkli-gitmemize-gore.org
-davanizvarmi.com
