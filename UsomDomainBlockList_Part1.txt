@@ -21669,6 +21669,7 @@ a101.trsepet.com.tr
 a101.two2344.dev
 a101.ucuzmarket.store
 a101.urun-satin-al.com.tr
+a101.urunlerim.com.tr
 a101.urunodeme.com
 a101.uygunmart.com
 a101.vergisiz-islemler.com
@@ -84637,6 +84638,7 @@ carrefoursaturkiye.online
 carrefoursayazfirsati.it.com
 carrefoursayazfirsatlari.online
 carrefoursiteonlinee.com
+carrefourssa.com
 carrefourtr.shop
 carrefouursa.shop
 carreirapowerbi.com
@@ -99919,6 +99921,7 @@ datasatinal.com.tr
 datasatinal.info
 datasatinal.net.tr
 datasatinall.com
+datasatinall.org
 datasatis.org
 datasatis.tr
 datasavedfiles.hopto.org
@@ -99995,6 +99998,3 @@ daum.unikortv.com
 daurn.pe.hu
 daurt.acalaman.com
 dauspouexoc.xyz
-dauswopqclz.xyz
-dav12221.duckdns.org
-dava-sorgula.com
