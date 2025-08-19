@@ -4120,6 +4120,7 @@
 14537291820356482070.online
 14537291820356482080.com.tr
 14537291820356482090.online
+14537291820356482090.xyz
 14537291820356483010.com.tr
 14537291820356483010.online
 14537291820356483020.com.tr
@@ -66471,6 +66472,7 @@ binance-listigns.com
 binance-login.org
 binance-mayis-etkinlikleri.net
 binance-member.xyz
+binance-meta-b8e5f407.com
 binance-meta-d1a7c3f9.com
 binance-meta.com
 binance-mo.com
@@ -99996,5 +99998,3 @@ daughterectify.top
 daughterinfringement.top
 daughtertoilet.top
 daum.net.pl
-daum.unikortv.com
-daurn.pe.hu
