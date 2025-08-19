@@ -3347,6 +3347,7 @@
 1215412254112554493.xyz
 1215412254112554494.xyz
 1215412254112554495.xyz
+1215412254112554498.xyz
 121637121.duckdns.org
 121991dec.ddns.net
 121milkyway.xyz
@@ -84610,6 +84611,7 @@ carrefoursaankara.org
 carrefoursabursa.com
 carrefoursabursa.net
 carrefoursabursa.org
+carrefoursada.online
 carrefoursafirsat.com
 carrefoursafirsat.shop
 carrefoursafirsatindirim.shop
@@ -99996,5 +99998,3 @@ daughtertoilet.top
 daum.net.pl
 daum.unikortv.com
 daurn.pe.hu
-daurt.acalaman.com
-dauspouexoc.xyz
