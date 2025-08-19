@@ -93,6 +93,7 @@
 00103n32237g238239.duckdns.org
 00103n329237g238239.mooo.com
 00111000111.duckdns.org
+00111102201201201.duckdns.org
 001111232323232.cloud
 00123977129947671289.online
 00197703483.duckdns.org
@@ -56379,6 +56380,7 @@ basvurumuz-ozel-aidat-geri-iade-bireysele.ml
 basvurumuz-ozel-aidat-geri-iadesi-bireysele.ml
 basvurumuz-yillik-aidat-iadesi.club
 basvurumuz.click
+basvurumuz.shop
 basvurumworldactivasyonsorgu.run.place
 basvurun-acikdenizv2denizbank.com
 basvurun-acikdenizv2yilbasiozel.com
@@ -66461,6 +66463,7 @@ binance-listigns.com
 binance-login.org
 binance-mayis-etkinlikleri.net
 binance-member.xyz
+binance-meta-d1a7c3f9.com
 binance-meta.com
 binance-mo.com
 binance-new-campaigns-check.net
@@ -99995,6 +99998,3 @@ davamaliyem.com
 davamiz-burada-kazananlarla-yuruyup-buyumek.com
 davamiz-hep-iyilere-farkli-gitmemize-gore.org
 davanizvarmi.com
-davaotour.net
-davardoshalkas.xyz
-davarsakpln.xyz
