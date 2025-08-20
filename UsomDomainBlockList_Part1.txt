@@ -79700,6 +79700,7 @@ bugcheck.xigncodeservice.com
 bugdunalisverme.world
 bugdunalisverme.xyz
 bugecebiryildiz1.shop
+bugecekifirsatlarikacirma.duckdns.org
 bugecepartideyalnizsin.online
 bugecicikampnyafirsatisizeozel.space
 bugevacuate.top
@@ -99997,4 +99998,3 @@ datasatinall.org
 datasatis.org
 datasatis.tr
 datasavedfiles.hopto.org
-datasavedfileshost.ddns.net
