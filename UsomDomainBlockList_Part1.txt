@@ -29241,6 +29241,7 @@ adobe-module.download
 adobe-pending-sign-7834892393293.pages.dev
 adobe-up-mdl.download
 adobe-up-ver.download
+adobe-updater.net
 adobe-upgrades.com
 adobe-us-updatefiles.digital
 adobe.cloudcreative.digital
@@ -99997,4 +99998,3 @@ datasharefile.ddns.net
 datasheet.fun
 datashieldsecure.com
 datasirinstream.xyz
-datasoft-sa.com
