@@ -15136,6 +15136,7 @@
 654644321.duckdns.org
 65464646333.cloud
 6546546.cloud
+654654645465465465.duckdns.org
 654654655654564smsmobilg.cloud
 65465466.site
 6546549875466533.duckdns.org
@@ -78305,6 +78306,7 @@ bsdfsdtrcsd.com
 bsdk-islemler.com
 bsdrin.top
 bseafun.com
+bseaguy.com
 bseasea.com
 bsebjimzkp.duckdns.org
 bsec.nconfhz.com
@@ -99996,5 +99998,3 @@ datasatinal.info
 datasatinal.net.tr
 datasatinall.com
 datasatinall.org
-datasatis.org
-datasatis.tr

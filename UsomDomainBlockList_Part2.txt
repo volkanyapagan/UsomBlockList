@@ -1,3 +1,5 @@
+datasatis.org
+datasatis.tr
 datasavedfiles.hopto.org
 datasavedfileshost.ddns.net
 dataseek.com.br
@@ -30447,6 +30449,7 @@ elliepanel.online
 elliepanel.pro
 elliepanel.store
 ellininadresi.com
+ellininrenkleri.com
 elliot.gulpminderdrink.com
 ellipatitqan.webflow.io
 ellisonellery.com
@@ -99995,6 +99998,3 @@ invalidhood.com
 invaluableprop.top
 invaork.top
 invariablyhand.top
-invariablystatute.top
-invariancy.com
-invasion-prisoners-inns-aging.trycloudflare.com
