@@ -1,3 +1,4 @@
+datagen.shop
 datagroup.ddns.net
 datagrove.store
 datahog.su
@@ -32582,6 +32583,7 @@ enguzelfisat.online
 enguzelgunlertebde.ml
 enguzelhediyeli.com
 enguzelinenfirsatlarburda.cfd
+enguzelinenfirsatlarburda.sbs
 enguzeliyilklerindrmlebaslar.shop
 enguzelksko.xyz
 enguzeller.cf
@@ -74004,6 +74006,7 @@ haydistanbul.net
 hayditrmrrr.net
 hayditurkiye.xyz
 hayditurkiyei.xyz
+haydiuygulamasitom.cfd
 haydiuygulamasitom.pics
 haydiuygulamasitom.sbs
 haydiyenikampanyalarimiza.store
@@ -99995,6 +99998,3 @@ inttorseratis.online
 inttransiverant.online
 inttransmitteretque.online
 intuindicaveramusque.online
-intuit-browsersecurity.com
-intuit-security.com
-intuitionrigorous.top
