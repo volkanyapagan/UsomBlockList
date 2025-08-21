@@ -2648,6 +2648,7 @@
 101tentkampanyafirsatlariburada.sbs
 101tentkampanyafirsatlariburadadir.cfd
 101tentkampanyalariburadad.cfd
+101tentkampanyasialimadresi.icu
 101tentkampanyasifirsat.cfd
 101tentkampanyasifirsat.pics
 101tentkampanyasifirsat.sbs
@@ -29403,6 +29404,7 @@ adresreq.netlify.app
 adresseteslimedilenaraclar.online
 adressetesslimaarackiralamaavis.com
 adressetesslimarackiralamaavis.com
+adrestrendyol.com
 adriaanandryan.com
 adriaanvorster.co.za
 adrian20031424.hopto.org
@@ -84741,6 +84743,7 @@ carrefoursayazfirsati.it.com
 carrefoursayazfirsatlari.online
 carrefoursiteonlinee.com
 carrefourssa.com
+carrefourssa.online
 carrefourtr.shop
 carrefouursa.shop
 carreirapowerbi.com
@@ -99995,6 +99998,3 @@ datadog-cloud.com
 datadog-graph.com
 datadropbox76566.hopto.org
 datadrv1.com
-dataencryptietechniek.duckdns.org
-datafoxz.click
-datagatellc.com
