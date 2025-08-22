@@ -2647,9 +2647,11 @@
 101tentkampanyafirsatlariburada.pics
 101tentkampanyafirsatlariburada.sbs
 101tentkampanyafirsatlariburadadir.cfd
+101tentkampanyagirisleriburadan.cfd
 101tentkampanyalariburadad.cfd
 101tentkampanyasialimadresi.cfd
 101tentkampanyasialimadresi.icu
+101tentkampanyasialimadresinegir.cfd
 101tentkampanyasifirsat.cfd
 101tentkampanyasifirsat.pics
 101tentkampanyasifirsat.sbs
@@ -4197,6 +4199,7 @@
 1455558899992.xyz
 1455558899993.xyz
 1455558899994.xyz
+1455558899996.xyz
 14556380.xyz
 14556388.xyz
 145746738746829537842934.online
@@ -10451,6 +10454,7 @@
 33poqbmb.duckdns.org
 33tkco.duckdns.org
 33vys57j.duckdns.org
+33yhfvvy.com
 33z4j2qzu.duckdns.org
 34-tramer.org
 34.kosdage.asia
@@ -38206,6 +38210,7 @@ aldinaldinfirsatlari.site
 aldinaldinfirsatlari.store
 aldinaldinfirsatlari.xyz
 aldinaldinfirsatlari30mayis.com
+aldinaldinfirsatlarialdinaldin.online
 aldinaldinfirsatlarikacirma.icu
 aldinaldinfirsatlarikacirma.sbs
 aldinaldinfirsatlarim.shop
@@ -84718,6 +84723,7 @@ carrefoureban.ddns.net
 carrefourlugnler.shop
 carrefourmayisflrsatlari.duckdns.org
 carrefourmisr.com
+carrefours.b-cdn.net
 carrefoursa-alisveris.ct.ws
 carrefoursa-com.duckdns.org
 carrefoursa-firsatlari.b8adspd-xyzads-dcxk.us
@@ -99992,9 +99998,3 @@ data-portal-eiadelerbasvuru.com
 data-ps.org
 data-service-de.info
 data-sob-gov-bd.live-co.org
-data-sound-click.com
-data-tr.com
-data.applockkeep.xyz
-data.bluefallsafrica.com
-data.cnappbox.com
-data.dropboxbeta.com
