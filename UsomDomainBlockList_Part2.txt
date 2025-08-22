@@ -1,3 +1,4 @@
+data.horoscopedaily.xyz
 data.kroncins.ru
 data.lovequintet.com
 data.michaelorth.eu
@@ -1802,6 +1803,7 @@ deneyimifirsatlarintadinabkasen.icu
 deneyimifirsatlarintadinabkasen.sbs
 deneyimle.name.tr
 deneyimlerim.online
+deneyimlikamoanyalarhaftasibugun.xyz
 deneyimlikamoaynalar.online
 deneyimlikamoaynalar.xyz
 deneyimlikisiler.com
@@ -46015,6 +46017,7 @@ firsatlarkacmazki.com.tr
 firsatlarkacmazki.net.tr
 firsatlarkacmazki.org.tr
 firsatlarkacmazki.site
+firsatlarkampanyada.duckdns.org
 firsatlarkampanyasi-onlineozel-kampanya.com
 firsatlarkapida-online.shop
 firsatlarkapida2025.site
@@ -99995,6 +99998,3 @@ introductoryscrutiny.top
 introfuturemodern.online
 intronter-vernolet.cky.cl
 introsalementres.zapto.org
-introworld.zapto.org
-introy.toh.info
-intrpol333.ddns.net
