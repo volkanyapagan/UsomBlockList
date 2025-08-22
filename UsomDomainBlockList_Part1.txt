@@ -2648,6 +2648,7 @@
 101tentkampanyafirsatlariburada.sbs
 101tentkampanyafirsatlariburadadir.cfd
 101tentkampanyalariburadad.cfd
+101tentkampanyasialimadresi.cfd
 101tentkampanyasialimadresi.icu
 101tentkampanyasifirsat.cfd
 101tentkampanyasifirsat.pics
@@ -8734,6 +8735,7 @@
 264354786534436.com
 2645altinpuan.com
 2645altinpuansizlerle.com
+264826.net
 2650898.xyz
 265332425243324.com
 26564687.com
@@ -99996,5 +99998,3 @@ datadigm.co.za
 datadocsview.com
 datadog-cloud.com
 datadog-graph.com
-datadropbox76566.hopto.org
-datadrv1.com
