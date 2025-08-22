@@ -4195,6 +4195,7 @@
 1454545466990.xyz
 1455558899990.xyz
 1455558899992.xyz
+1455558899994.xyz
 14556380.xyz
 14556388.xyz
 145746738746829537842934.online
@@ -34900,6 +34901,7 @@ akbireyselesel.xyz
 akbireyselhizmetler.com
 akbireyselmobil50yilozel.online
 akbiryslkmpnya.com
+akbizmezbitemez.com
 akbjavtowg.duckdns.org
 akbkatilimtalebleriniz.com
 akbkonline.com
@@ -41474,6 +41476,7 @@ anborgad.web.app
 anbskr.info
 anc-bd.com
 anc-caixabank.ddns.net
+ancaizlersiniz.sbs
 ancaksa432.com
 ancaksks23232.com
 ancaksksdone52.com
@@ -84724,6 +84727,7 @@ carrefoursabursa.com
 carrefoursabursa.net
 carrefoursabursa.org
 carrefoursada.online
+carrefoursadan.online
 carrefoursafirsat.com
 carrefoursafirsat.shop
 carrefoursafirsatindirim.shop
@@ -91053,6 +91057,7 @@ clicksentaccound.me
 clicktobtc.com
 clicktogethers.info
 clicmaislopla.zapto.org
+cliczor.com
 cliencustomerserv.duckdns.org
 cliensevpaylibtsgt.duckdns.org
 client-00cserivice.ddns.net
@@ -99541,6 +99546,7 @@ danakagetthrramadhan.duckdns.org
 danalogs.ru.xsph.ru
 danandbanana.ddns.net
 danas.bid
+danbntrs.click
 dance-kubok-mira.com
 dance-open.com
 danceclasses.pro
@@ -99992,9 +99998,3 @@ databasereproach.top
 databasetrust.com
 databit.today
 datacache.cloudservicesdevc.tk
-datacatch.xyz
-datacenterclient.ddns.net
-datacentreonline.com
-datacheck.cc
-datacikerim.duckdns.org
-datacontrol.ddns.net
