@@ -2648,6 +2648,8 @@
 101tentkampanyafirsatlariburada.sbs
 101tentkampanyafirsatlariburadadir.cfd
 101tentkampanyagirisleriburadan.cfd
+101tentkampanyagirisleriburadan.icu
+101tentkampanyagirisleriburadan.sbs
 101tentkampanyalariburadad.cfd
 101tentkampanyasialimadresi.cfd
 101tentkampanyasialimadresi.icu
@@ -4200,6 +4202,9 @@
 1455558899993.xyz
 1455558899994.xyz
 1455558899996.xyz
+1455558899997.xyz
+1455558899998.xyz
+1455558899999.xyz
 14556380.xyz
 14556388.xyz
 145746738746829537842934.online
@@ -18839,6 +18844,7 @@
 919826739ed4.com
 91994286.cloud
 9199923456.cloud
+91999454994449.duckdns.org
 919xy.com
 91aaugfd.duckdns.org
 91acacbj5.duckdns.org
@@ -29403,6 +29409,7 @@ adresi.b-cdn.net
 adresi.net
 adresimatkapplar.xyz
 adresimne.net
+adresimtrendyol.com
 adresindeoto.online
 adresinegelir.online
 adresinegelsin.online
@@ -99991,10 +99998,3 @@ dasms.xyz
 dasrer.online
 dass33istwidth.top
 dassh009securee.ddns.net
-dasterton.com
-dasu9idhas.duckdns.org
-dasvwrqgcn.duckdns.org
-data-covery.com
-data-dv.live
-data-microsoft.services
-data-portal-eiadelerbasvuru.com
