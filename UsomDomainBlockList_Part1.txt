@@ -2655,6 +2655,7 @@
 101tentkampanyasialimadresi.icu
 101tentkampanyasialimadresinegir.cfd
 101tentkampanyasiburasidirhemen.cfd
+101tentkampanyasiburasidirhemen.sbs
 101tentkampanyasifirsat.cfd
 101tentkampanyasifirsat.pics
 101tentkampanyasifirsat.sbs
@@ -3956,6 +3957,8 @@
 1425111112555690092.xyz
 1425111112555690094.xyz
 1425112555999890.xyz
+1425112555999891.xyz
+1425112555999895.xyz
 142511554555599991.xyz
 142511554555599992.xyz
 142511554555599994.xyz
@@ -23021,6 +23024,7 @@ a1o1comtrkampanyalari.ddnsfree.com
 a1o1cumrtmarket32.com
 a1o1de-online-alisveris.konusanlar-bilet.com.tr
 a1o1debuyukkampanyalar.duckdns.org
+a1o1dekazandiriyoruzredmifirsati.blogspot.com
 a1o1destanleydefirsatlar.duckdns.org
 a1o1e.com
 a1o1e.net
@@ -99994,7 +99998,3 @@ dashing4.xyz
 dashmarket.top
 dashtranquility.top
 dashtree.zapto.org
-dasifosafjasfhasf.com
-dasimm.com
-dask-gov-tr-99855690450.com
-daskd.me
