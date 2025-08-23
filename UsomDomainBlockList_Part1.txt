@@ -2660,6 +2660,8 @@
 101tentkampanyasialimadresii.cfd
 101tentkampanyasialimadresii.click
 101tentkampanyasialimadresii.icu
+101tentkampanyasialimadresii.lat
+101tentkampanyasialimadresii.sbs
 101tentkampanyasialimadresinegir.cfd
 101tentkampanyasiburasidirhemen.cfd
 101tentkampanyasiburasidirhemen.icu
@@ -84757,6 +84759,7 @@ carrefour-arg.online
 carrefour-argentina.com
 carrefour-market.online
 carrefour-saa-com.duckdns.org
+carrefourdan.online
 carrefoureban.ddns.net
 carrefourlugnler.shop
 carrefourmayisflrsatlari.duckdns.org
@@ -99995,6 +99998,3 @@ dashboard-accountbanking-wellsfargoupdat.duckdns.org
 dashboard-chasebank.ddns.net
 dashboard-secure4ub.ddns.net
 dashboard.nzlifecoaching.com
-dashboard.xn--bnance-cdn-tr-pjb.ml
-dashboard005.duckdns.org
-dashboard02.ddns.net
