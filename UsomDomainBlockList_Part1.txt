@@ -2654,6 +2654,7 @@
 101tentkampanyasialimadresi.cfd
 101tentkampanyasialimadresi.icu
 101tentkampanyasialimadresinegir.cfd
+101tentkampanyasiburasidirhemen.cfd
 101tentkampanyasifirsat.cfd
 101tentkampanyasifirsat.pics
 101tentkampanyasifirsat.sbs
@@ -99997,4 +99998,3 @@ dasifosafjasfhasf.com
 dasimm.com
 dask-gov-tr-99855690450.com
 daskd.me
-daskkaaknddcca454.digital
