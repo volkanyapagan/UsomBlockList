@@ -2658,6 +2658,8 @@
 101tentkampanyasialimadresi.cfd
 101tentkampanyasialimadresi.icu
 101tentkampanyasialimadresii.cfd
+101tentkampanyasialimadresii.click
+101tentkampanyasialimadresii.icu
 101tentkampanyasialimadresinegir.cfd
 101tentkampanyasiburasidirhemen.cfd
 101tentkampanyasiburasidirhemen.icu
@@ -99996,5 +99998,3 @@ dashboard.nzlifecoaching.com
 dashboard.xn--bnance-cdn-tr-pjb.ml
 dashboard005.duckdns.org
 dashboard02.ddns.net
-dashboard04c.hopto.org
-dashboard3us-login.ddns.net
