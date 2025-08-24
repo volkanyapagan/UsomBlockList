@@ -18508,10 +18508,12 @@ sikaytmerkezleri-1.sbs
 sikaytmerkezleri-10.sbs
 sikaytmerkezleri-11.sbs
 sikaytmerkezleri-12.sbs
+sikaytmerkezleri-13.sbs
 sikaytmerkezleri-15.sbs
 sikaytmerkezleri-16.sbs
 sikaytmerkezleri-24.sbs
 sikaytmerkezleri-25.sbs
+sikaytmerkezleri-29.sbs
 sikaytmerkezleri-3.sbs
 sikaytmerkezleri-32.sbs
 sikaytmerkezleri-4.sbs
@@ -99996,5 +99998,3 @@ zbiryag.site
 zbiryagg.site
 zbixnl2.duckdns.org
 zbjeoaanhk.duckdns.org
-zbk1wb.duckdns.org
-zbkzudouyn.duckdns.org
