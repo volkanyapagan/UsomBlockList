@@ -3999,6 +3999,7 @@
 1425155559998890.xyz
 1425155559998891.xyz
 1425155559998892.xyz
+1425155559998893.xyz
 1425415588560.xyz
 1425462659652960.xyz
 1425516554564480.xyz
@@ -30804,6 +30805,7 @@ agustos01.net
 agustos02.net
 agustos101aktuel.online
 agustos101aktuell.online
+agustos101firsatlari.com
 agustos101ozel.online
 agustos101ozel.site
 agustos2000.net
@@ -47851,6 +47853,7 @@ assortmentmobilise.top
 assortmentrepute.top
 asspuykjtt.duckdns.org
 assra.ddns.net
+asssur5limatkap.vip
 asssurmatkapssindrime.xyz
 assuaneinvesion.top
 assumaladie-fr.ddns.net
@@ -99174,6 +99177,7 @@ d3g1sp3kd33.xyz
 d3goboxon32grk2l.tk
 d3hqfoe.duckdns.org
 d3i1asoswufp5k.cloudfront.net
+d3k9m2p3r4t8.info
 d3k9m2p7r4t8.xyz
 d3l4qa0kmel7is.cloudfront.net
 d3mpd.fe.uns.ac.id
@@ -99994,7 +99998,3 @@ darkstorm275991.ddns.net
 darktakipci.com
 darktr.cc
 darkvader.xyz
-darkvader.zapto.org
-darkvane.xyz
-darkvizion.ddns.net
-darkwebkiler.duckdns.org
