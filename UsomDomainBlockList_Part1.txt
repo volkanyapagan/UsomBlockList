@@ -3996,6 +3996,7 @@
 142515541122545556991.xyz
 142515541122545556992.xyz
 142515541122545556993.xyz
+1425155559998891.xyz
 1425415588560.xyz
 1425462659652960.xyz
 1425516554564480.xyz
@@ -49458,6 +49459,7 @@ avantajmerkezleriniz.xyz
 avantajnoktasi.xyz
 avantajpazar.com.tr
 avantajsarayi.xyz
+avantajsenin.click
 avantajsitelerim.site
 avantajvefirsatzamanisimdi.com
 avantajykle.info
@@ -99996,5 +99998,3 @@ darsigorta.site
 darsigortam.site
 darskadamkarta.org
 dart.ddns.net
-dart23.ddns.net
-dartalienate.top
