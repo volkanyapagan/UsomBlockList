@@ -1,3 +1,4 @@
+darkpanel.services
 darkpython.ddns.net
 darkrbx.duckdns.org
 darksaif.zapto.org
@@ -8512,6 +8513,8 @@ devext.info
 devfazemrx.hopto.org
 devfin.top
 devfirsat.net
+devfirsatlarburadakacirma.cfd
+devfirsatlarburadakacirma.sbs
 devfirsatlarhaftasindakal.com
 devgirishizmeti.tk
 devguardmap.org
@@ -11383,6 +11386,7 @@ dijitlhgsyukle.net
 dijitlistanblkrt.net
 dijitlizmrrykleme.net
 dijjitallink.site
+dijonlane.com
 dijorxcchk.duckdns.org
 dijtal-kampanya.net
 dijtal-kampanya.org
@@ -99994,7 +99998,3 @@ internetsubeyapikreydi.com
 internetsubeyapiworld.com
 internetsubeziraat.com
 internetsubeziraatbankasi.com
-internetsubsidie.tk
-internetsubtlety.top
-internett-ozel.com.tr
-internettan.top
