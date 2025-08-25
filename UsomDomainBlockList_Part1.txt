@@ -2567,6 +2567,7 @@
 101redmialimyeriburasi.sbs
 101redmialimyeriburasidir.cfd
 101redmialimyeriburasidir.sbs
+101redmialisverisinternetmagazasi.click
 101redmicifirsatalimlari.cfd
 101redmicifirsatalimlari.sbs
 101redmicinburadan.cfd
@@ -3137,6 +3138,7 @@
 112121113857-64573810102020.com.tr
 112121113857-64573810102020.online
 112121113857-64573810102020.xyz
+112121554545445.duckdns.org
 112165.com
 112220022.cloud
 11223.url.9xiazaiqi.com
@@ -4002,6 +4004,7 @@
 1425155559998892.xyz
 1425155559998893.xyz
 1425155559998895.xyz
+1425155559998896.xyz
 1425415588560.xyz
 1425462659652960.xyz
 1425516554564480.xyz
@@ -82815,6 +82818,7 @@ byservicesmm.xyz
 bysgrf74gfi486tguyk.com
 bysho.html-5.me
 bysoftware.services
+bysunucum.com
 bytbbvahemenislem.hopto.org
 byte-tech.sbs
 byte.inteleksys.com
@@ -99994,7 +99998,3 @@ darkpanel.services
 darkpython.ddns.net
 darkrbx.duckdns.org
 darksaif.zapto.org
-darksea.ddns.net
-darkservice.zapto.org
-darksidestrength.com
-darkskulls.duckdns.org
