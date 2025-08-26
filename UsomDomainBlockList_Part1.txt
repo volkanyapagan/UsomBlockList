@@ -2157,6 +2157,7 @@
 101decumaindirimibasladi.duckdns.org
 101dee.com
 101dee.org
+101defirsatyakala.com
 101degeldikampanyada.app
 101deki.com
 101deki.icu
@@ -4008,6 +4009,7 @@
 1425155559998896.xyz
 1425155559998897.xyz
 1425155559998898.xyz
+1425155559998899.xyz
 1425415588560.xyz
 1425462659652960.xyz
 1425516554564480.xyz
@@ -16199,6 +16201,7 @@
 7177465465464.site
 717765465.cloud
 717773554654.cloud
+717774455777.duckdns.org
 71777546.cloud
 717777.cloud
 7177787875445.cloud
@@ -38314,6 +38317,7 @@ aldinaldinizkampanyalar.online
 aldinaldinizkampanyalar.org
 aldinaldinizkampanyalar.site
 aldinaldinkacirma.net
+aldinaldinkacmazbunlar.sbs
 aldinaldinkampanya.com.tr
 aldinaldinkampanya.online
 aldinaldinkampanya.shop
@@ -75735,6 +75739,7 @@ bntr2025bntr2025bntr2025bntr2025bntr2025.shop
 bntr549434235423215.tech
 bntr6yil.com
 bntr6yil.xyz
+bntrabbn.click
 bntrapp.com
 bntrappk.vercel.app
 bntrbasvuru.com
@@ -99774,6 +99779,7 @@ danismankaydim.online
 danismankayit.online
 danismankayitlarimiz.online
 danismanlikodemesistemi.com
+danismaofisi.com
 danito.rs
 danizabank.xyz
 danizbanlk.com
@@ -99992,9 +99998,3 @@ darkhack.ddns.net
 darkhacker33.no-ip.org
 darkhellco.zapto.org
 darkiademerkezi.com
-darkin.ddns.net
-darkiscomet.zapto.org
-darkking.kozow.com
-darkkomet.zapto.org
-darklight.surf
-darkmatterdimension7xq9.click
