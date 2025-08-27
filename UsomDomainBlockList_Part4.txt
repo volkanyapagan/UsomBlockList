@@ -90793,6 +90793,7 @@ yapi-danhediyelerim.com
 yapi-destek-websubesi.com
 yapi-dijital-islemler.com
 yapi-ekredi-online.com
+yapi-firsatlar-tr.duckdns.org
 yapi-haziranfirsati.com
 yapi-hazirankampanyasi.com
 yapi-internetsubefirsatlari.com
@@ -99997,4 +99998,3 @@ z0qjsmhxn.duckdns.org
 z0yoy3.duckdns.org
 z1.xiaowu.pw
 z1.zapto.org
-z123459z1.hopto.org
