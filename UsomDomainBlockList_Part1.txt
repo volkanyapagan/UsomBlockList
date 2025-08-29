@@ -3992,6 +3992,7 @@
 1421212511245221122591.xyz
 142127831123.com
 1421541551555455690.xyz
+1421541551555455691.xyz
 1421554555889998890.xyz
 1421554555889998892.xyz
 1421554555889998893.xyz
@@ -10465,6 +10466,7 @@
 333001223.cloud
 333003com.com
 3330111233003.duckdns.org
+3330253330255.duckdns.org
 3331111333.cloud
 33323332533.cloud
 333252633.cloud
@@ -21640,6 +21642,7 @@ a101.hziranindrm.com
 a101.hzraninr.com
 a101.icu
 a101.ilan-alisverislerin.com
+a101.ilan-m.com.tr
 a101.ilanimsiparisguvenli.com.tr
 a101.ilsp.xyz
 a101.indirim-gunu-tr.com
@@ -47204,6 +47207,7 @@ asdhjhjdasfhj.net
 asdhjqaw.tk
 asdhqqgasdh.net
 asdik-ero.hopto.org
+asdjaasfasfa.cloud
 asdjajshqwe.xyz
 asdjasdaaghae.click
 asdjasdasd.ml
@@ -70086,6 +70090,7 @@ bitmeyecek-kampanyalar-yeni.com.tr
 bitmeyecek-yilsonu-firsati.shop
 bitmeyecekidnirimlerinyeri.cfd
 bitmeyemhgs.sg-host.com
+bitmeyen-firsatlar.cfd
 bitmeyen-kasim-kampanyalari.shop
 bitmeyen-mutluluk-cebinize-yakisiyor-burada.com
 bitmeyen-sevda-geliyor-hemen-hizmete.com
@@ -87586,6 +87591,7 @@ ceptedenizparacom.tk
 ceptedenzfirsatlari.net
 ceptedevlet.com
 ceptedevletim.com
+ceptedijital.click
 ceptedir-dilediginfirsaat.xyz
 ceptedirbumutluluk-kacirma.xyz
 ceptedirmutluluk-kacirma.xyz
@@ -99992,9 +99998,3 @@ danismanhastane.online
 danismaniletisim.com
 danismankaydim.online
 danismankayit.online
-danismankayitlarimiz.online
-danismanlikodemesistemi.com
-danismaofisi.com
-danito.rs
-danizabank.xyz
-danizbanlk.com
