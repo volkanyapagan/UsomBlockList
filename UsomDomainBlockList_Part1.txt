@@ -2217,6 +2217,7 @@
 101firsatlarigirisadresi.icu
 101firsatlarigirisadresi.my
 101firsatlarigirisadresi.sbs
+101firsatlarikapinda.duckdns.org
 101firsatlarim.shop
 101firsatlarinzburda.psee.io
 101firsatlarisizinle.duckdns.org
@@ -4106,6 +4107,7 @@
 145155445588998896.xyz
 145155445588998897.xyz
 145155445588998898.xyz
+145155445588998899.xyz
 14515579416.cloud
 1452155544558890.xyz
 1452155544558891.online
@@ -69787,6 +69789,7 @@ biryagg.xyz
 biryaggg.site
 biryaggs.site
 biryagindirimadresiburasi.cfd
+biryagindirimadresiburasi.sbs
 biryagl.com
 biryagss101.site
 biryagsss.site
@@ -85036,6 +85039,7 @@ carrefoursa-indirimgunux.com
 carrefoursa-kampanya.com
 carrefoursa-mobile.com
 carrefoursa-online.vercel.app
+carrefoursa-termos.vercel.app
 carrefoursa-tr.com
 carrefoursa-tr.vercel.app
 carrefoursa-turkiye.com
@@ -99994,7 +99998,3 @@ danizimekinnetgiris.bar
 danizlbank.com
 danjfavpnf.duckdns.org
 dank33leradio.top
-dankedir.zapto.org
-dankersss.ddns.net
-danngh.ddns.net
-dannna44peeerrbbaikkka44nnn.duckdns.org
