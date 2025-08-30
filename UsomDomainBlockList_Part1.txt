@@ -3996,6 +3996,7 @@
 1421541551555455690.xyz
 1421541551555455691.xyz
 1421541551555455692.xyz
+1421541551555455693.xyz
 1421554555889998890.xyz
 1421554555889998892.xyz
 1421554555889998893.xyz
@@ -4108,6 +4109,7 @@
 1451225115525555994.xyz
 1451551222515555990.xyz
 1451551222515555991.xyz
+1451551222515555992.xyz
 145155445588998891.xyz
 145155445588998892.xyz
 145155445588998895.xyz
@@ -37208,6 +37210,7 @@ aktuelkampsinirli.click
 aktuelkampsinirlisayi.click
 aktuelkapida.com
 aktuelkapinateslimat.bond
+aktuelkapinateslimat.cfd
 aktuelkapinateslimat.lat
 aktuelkasim.com
 aktuelkasimindirimleri.com
@@ -50288,6 +50291,7 @@ avnjjahfyd.duckdns.org
 avnlasrch.com
 avntjbsvur1s.com
 avntsbsa.com
+avnuozphlia1.sbs
 avocadoo.blob.core.windows.net
 avodemsahisgecis.xyz
 avoid635.xyz
@@ -77953,6 +77957,7 @@ brdizmryklemrkzdlm.net
 brdizmryklemrkzdlmmm.net
 brdle.duckdns.org
 brdnalnbzbrdnalyrz.com
+brdnbsfrynlandas.bond
 brdnoryaglyrdkbr.icu
 brdnsnkzbrdoplr.icu
 brdnsnkzbryaybnl.icu
@@ -99993,8 +99998,3 @@ danfrem.com
 dangaesegfre.site
 danganhduy.ddns.net
 dangecon.site
-dangenosdes.site
-dangercredibility.top
-dangerimmersion.top
-dangerous.ddns.net
-dangerous.hopto.org
