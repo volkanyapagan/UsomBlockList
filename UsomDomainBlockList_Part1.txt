@@ -3999,6 +3999,7 @@
 1421541551555455692.xyz
 1421541551555455693.xyz
 1421541551555455694.xyz
+1421541551555455696.xyz
 1421554555889998890.xyz
 1421554555889998892.xyz
 1421554555889998893.xyz
@@ -37223,6 +37224,7 @@ aktuelkapida.com
 aktuelkapinateslimat.bond
 aktuelkapinateslimat.cfd
 aktuelkapinateslimat.lat
+aktuelkapinateslimat.sbs
 aktuelkasim.com
 aktuelkasimindirimleri.com
 aktuelkatalog.b-cdn.net
@@ -78616,6 +78618,7 @@ bryaynlrdksnzburdabzvrd.shop
 bryaynlyrsnzbrdansn.icu
 brymndrlerigldi.com
 bryndnglmdn.xyz
+brynlnrdwvrasd.bond
 brynlyrzbrdnasndrs.icu
 brysel-garanti.com
 brysel-ziraatbanksuprizleri.ml
@@ -99995,6 +99998,3 @@ danaid213.fbzsa.com
 danakagetthrramadhan.duckdns.org
 danalogs.ru.xsph.ru
 danandbanana.ddns.net
-danas.bid
-danbntrs.click
-dance-kubok-mira.com
