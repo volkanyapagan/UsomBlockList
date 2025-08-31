@@ -4002,6 +4002,7 @@
 1421541551555455693.xyz
 1421541551555455694.xyz
 1421541551555455696.xyz
+1421541551555455698.xyz
 1421554555889998890.xyz
 1421554555889998892.xyz
 1421554555889998893.xyz
@@ -10234,6 +10235,7 @@
 314534564136712.xyz
 314537291820356484010.online
 314537291820356484010.xyz
+314537291820356484020.xyz
 31456870346.online
 314f9i47e.duckdns.org
 314jx8w.duckdns.org
@@ -18096,6 +18098,7 @@
 8775.site
 877533213123.cloud
 877878777.duckdns.org
+877887877777777788-4555555551-8777888778787-95566.cyou
 87855-78784-45-455-5122-221-8845.com.tr
 87855-78784-45-455-5122-221-8845.xyz
 8787.hopto.org
@@ -55440,6 +55443,7 @@ basvurnrz.xyz
 basvurnsm.com.tr
 basvurnsm.cyou
 basvurnsm.xyz
+basvurnsx.com.tr
 basvurnsz.com.tr
 basvurnsz.cyou
 basvurnsz.xyz
@@ -55555,6 +55559,7 @@ basvurtmgz.online
 basvurtny.com.tr
 basvurtny.xyz
 basvurtrbinance.com
+basvurtrbinance.xyz
 basvurtrblnance.com
 basvurtrblnance.xyz
 basvurtrbnca.com
@@ -99993,8 +99998,3 @@ daltonlarsehireindi.com
 dalypz.zapto.org
 damade.fit
 damagedskull.xyz
-damagefantasypeasantenvelope.click
-damageprey.top
-damagepull.top
-damar.hopto.org
-damardamar.ddns.net
