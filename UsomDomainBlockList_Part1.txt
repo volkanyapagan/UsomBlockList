@@ -321,6 +321,7 @@
 021cz4.duckdns.org
 021oiyzis.ml
 0220120231202.duckdns.org
+02211225211252.online
 022123210212.duckdns.org
 022202120212021.mywire.org
 02220333teamaccount.com
@@ -3989,6 +3990,8 @@
 14211512255445591.xyz
 14211512255445596.xyz
 14211512255445597.xyz
+142115411554455590.xyz
+142115411554455592.xyz
 142115541155590.xyz
 142115541155592.xyz
 142115541155594.xyz
@@ -85216,6 +85219,7 @@ carrefoursa-indirimgunux.com
 carrefoursa-kampanya.com
 carrefoursa-mobile.com
 carrefoursa-online.vercel.app
+carrefoursa-sepet.vercel.app
 carrefoursa-sepette.vercel.app
 carrefoursa-termos.vercel.app
 carrefoursa-tr.com
@@ -99994,7 +99998,3 @@ dairefkcdf.net
 daireislem.net
 dairesivrg.net
 dairevrgg.net
-dairevrglerode.net
-dairyhypothesis.top
-dais7nsa.pics
-dais7nsa.shop
