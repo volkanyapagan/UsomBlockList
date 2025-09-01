@@ -1,3 +1,9 @@
+resultbox0147logs.ddns.net
+resultcustom.top
+results.gdn
+resultsonly.hopto.org
+resultspaghetti.top
+resume0cltlm.ddns.net
 resumedistortion.top
 resumefury.top
 resumerejoicing.top
@@ -27833,6 +27839,7 @@ sponsorlu-icerik.com
 sponsorlu-icerik.name.tr
 sponsorlu-kampanya.name.tr
 sponsorlu-kampanyalar-101.site
+sponsorlu-kampanyalar-102.site
 sponsorlu-kampanyalar-104.site
 sponsorlu-kampanyalar-105.site
 sponsorlu-kampanyalar-106.site
@@ -99991,10 +99998,3 @@ yurtici-kargo.ilanlar-secure.com
 yurtici-kargotra.com
 yurtici-kibris.com
 yurtici.guwenli-takp-islemleri.online
-yurtici.kargonline.net
-yurtici.kargonumara.com.tr
-yurticibelediye.rest
-yurticiburada.online
-yurticickargo.ink
-yurticiexpresskargotakip.com.tr
-yurticiikargo.com
