@@ -4002,7 +4002,9 @@
 1421541551555455693.xyz
 1421541551555455694.xyz
 1421541551555455696.xyz
+1421541551555455697.xyz
 1421541551555455698.xyz
+1421541551555455699.xyz
 1421554555889998890.xyz
 1421554555889998892.xyz
 1421554555889998893.xyz
@@ -4483,6 +4485,9 @@
 154-yil.com
 1540953694.online
 154184863.istanbul
+15422655569990.xyz
+15422655569991.xyz
+15422655569994.xyz
 154342321315323.xyz
 15438.xyz
 1545-4432511.net
@@ -10236,6 +10241,7 @@
 314537291820356484010.online
 314537291820356484010.xyz
 314537291820356484020.xyz
+314537291820356484030.online
 31456870346.online
 314f9i47e.duckdns.org
 314jx8w.duckdns.org
@@ -21444,6 +21450,7 @@ a101-online.satisim-42.site
 a101-online.satisim-43.site
 a101-online.satisim-50.site
 a101-online.shop
+a101-online.shop.xn--101-hla.shop
 a101-online.site
 a101-online.top
 a101-online.xyz
@@ -55428,6 +55435,7 @@ basvurnms.com.tr
 basvurnms.cyou
 basvurnms.xyz
 basvurnmz.com.tr
+basvurnmz.cyou
 basvurnmz.xyz
 basvurnrc.com.tr
 basvurnrm.com.tr
@@ -55444,6 +55452,8 @@ basvurnsm.com.tr
 basvurnsm.cyou
 basvurnsm.xyz
 basvurnsx.com.tr
+basvurnsx.cyou
+basvurnsx.xyz
 basvurnsz.com.tr
 basvurnsz.cyou
 basvurnsz.xyz
@@ -55559,6 +55569,10 @@ basvurtmgz.online
 basvurtny.com.tr
 basvurtny.xyz
 basvurtrbinance.com
+basvurtrbinance.info
+basvurtrbinance.shop
+basvurtrbinance.store
+basvurtrbinance.tech
 basvurtrbinance.xyz
 basvurtrblnance.com
 basvurtrblnance.xyz
@@ -80061,6 +80075,7 @@ bufirsatlariherzamanseviyorum.xyz
 bufirsatlarikaciramadanalmalisinurunlersepette.com.tr
 bufirsatlarikaciramadanalmalisinurunlersepette.online
 bufirsatlarikaciramadanalmalisinurunlersepette.xyz
+bufirsatlarikacirmaal.cfd
 bufirsatlarikacirmadanalmalisiniz.com.tr
 bufirsatlarikacirmadanalmalisiniz.online
 bufirsatlarikacirmadanalmalisiniz.xyz
@@ -80827,6 +80842,7 @@ bunlarinhepsidegelenir.com
 bunlarinhepsizlericin.com
 bunlarisepetinekle.com
 bunlarkacmaz-birer.com
+bunlarkacmazfirsatlar.cfd
 bunlarkacmazfirsatlar.sbs
 bunlarkacmazfirsatlaral.cfd
 bunlarkacmazfirsatlaral.sbs
@@ -80885,6 +80901,7 @@ buopaxx1cell.com
 buoyundaseniyeniyorum.cfd
 buparihediyenoktalari.com
 buparikampanyazamani.com
+bupazarfirsatlarikacmaz.cfd
 bupazarfirsatlarikacmaz.sbs
 buphkahapsa.net
 bupjdpkedd.duckdns.org
@@ -99981,20 +99998,3 @@ dalinchecks.com
 dalinchecks.net
 dalindan.duckdns.org
 dalindangeldi.xyz
-dalindankapina.xyz
-dalinle.66ghz.com
-dalinn.cc
-dalinumsdeli42.com
-daliverypackage.ddns.net
-dall-e.click
-dallynk.com
-dalpzy.ddns.net
-dalselfergb.org
-daltonchecker.com.tr
-daltonhizmetleri.shop
-daltonkm.shop
-daltonlarsehirde.space
-daltonlarsehireindi.com
-dalypz.zapto.org
-damade.fit
-damagedskull.xyz
