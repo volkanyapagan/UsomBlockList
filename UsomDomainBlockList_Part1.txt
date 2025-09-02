@@ -37411,6 +37411,7 @@ aktuelmarketing.bond
 aktuelmarketing.cfd
 aktuelmarketing.click
 aktuelmarketing.sbs
+aktuelmarketlerseri.click
 aktuelmarketlerseri.lat
 aktuelmarketonline.com.tr
 aktuelmarkt101.online
@@ -54793,6 +54794,7 @@ bassm.ddns.net
 basspeak134.ddns.net
 basssvuruuuudnzzmooobillllonnyy.com
 basstlo.click
+bassvalo.click
 bassvuru-iademerkezii.com
 bassvuru.site
 bassvurularimtrpromosyonlarim.net
@@ -99996,5 +99998,3 @@ daimayuklemelerim.sg-host.com
 daimayuklerim.sg-host.com
 daimghoul.hopto.org
 daimoom3.zapto.org
-daincolourchem.com
-dainenikolasweb.site
