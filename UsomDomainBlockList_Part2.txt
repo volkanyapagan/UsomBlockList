@@ -1,3 +1,4 @@
+daimaalirim.sg-host.com
 daimaguvenli.name.tr
 daimahepalirim.sg-host.com
 daimahepalirim1.sg-host.com
@@ -16727,6 +16728,7 @@ duvalitatli.com
 duvarprojem.com.tr.ht
 duverta.pro
 duvida.duckdns.org
+duvilo.click
 duyan-bisey-yok-der-alip-yasayip-hisset.com
 duydugunnu-biliyoruz.online
 duydugunu-biliyoruz.online
@@ -56966,6 +56968,7 @@ gelsendekatilbizek.net
 gelsendetklakatlkvvtrk.net
 gelsendetklakatlkwtrk.net
 gelsendevkampanyia.online
+gelsenecaneee.click
 gelsenesendeaktuel.click
 gelseninlekazanalim.vercel.app
 gelsenizehizlicaburaya.com
@@ -59299,6 +59302,7 @@ giris-edevleturkiye-gov-tr.com
 giris-edvlet-i-ade.com
 giris-efsanemayisayifirsatlari.com
 giris-ekrani.xyz
+giris-ekransistem-try.space
 giris-eportal.com
 giris-etalepmerkezimiz.com
 giris-eturkiye-devlet-kapiniz.com
@@ -63655,6 +63659,7 @@ grglnibliburadancmtt.com
 grgngnrisponsorlurklamtwit.com
 grgnnbvsvur.com
 grgntibasvurulardangelenleronayi.duckdns.org
+grgntibasvurulardangelsende.duckdns.org
 grgtibilgiguncellesendehamsna.duckdns.org
 grgtihmansaisisvzdlkjishmanas.duckdns.org
 grh4fwz.duckdns.org
@@ -78915,6 +78920,7 @@ herzamsnd-burdans-alden-aldn.com
 herzmaanheryerde.net
 herzmasndas-aldinz-alaind-teklfiebr.com
 herzmnbenburdsenibklyrolcm.online
+herzmnburda.cfd
 herzmnbutrndlersizleresunulur.shop
 herzmnbzmleszdebsvrnz.com.tr
 herzmnds-sizlercisn-burds-aldn-aldn.shop
@@ -99992,9 +99998,3 @@ internetbankacilik--ziraatbank.ml
 internetbankacilik-akbank.com
 internetbankacilik-ziraatbank.com
 internetbankacilk.com
-internetbasvur-qnbfinans.com
-internetbasvur-yapikredi.com
-internetbasvur.info
-internetbasvurgovtr.net
-internetbasvurgovtr.org
-internetbasvurma-yapikredi.com
