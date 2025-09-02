@@ -18940,6 +18940,7 @@
 905342.cloud
 905342.online
 90546.cloud
+90559999009999.duckdns.org
 9061896891.xyz
 906456788-678-456012.com.tr
 906456788-678-456012.online
@@ -45259,6 +45260,7 @@ aracmuayenemiz.com
 aracmuayenemnezaman.com
 aracmuayenemym.net
 aracmuayenen.xyz
+aracmuayenenhizli.xyz
 aracmuayenenktt.net
 aracmuayenent.net
 aracmuayeneqxxxc.net
@@ -99996,5 +99998,3 @@ daily-sport.news
 daily.alltop.asia
 dailyaddiction.top
 dailycontemplation.top
-dailyemploy.com
-dailyhouse-bpn.com
