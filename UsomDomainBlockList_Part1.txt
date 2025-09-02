@@ -3359,6 +3359,7 @@
 1211.hopto.org
 12111237721231234.cloud
 1212121455598909990.xyz
+1212121455598909992.xyz
 12122223366555990.xyz
 12122223366555994.xyz
 12122223366555995.xyz
@@ -67825,6 +67826,7 @@ biomcell2m.ml
 biondi.co
 biondocenere.com
 bionetcloud.com
+bioo.lat
 biopadeeka.site
 biordayizbiburda.fit
 bios-chip.co.za
@@ -90008,7 +90010,9 @@ ciceksaatim.net
 ciceksaatim.shop
 ciceksaatim.site
 ciceksaatim.store
+cicekse.info
 cicekse.shop
+cicekse.xyz
 ciceksepeti.hicaku.com
 ciceksepeti.ml
 ciceksepetim.de
@@ -99994,7 +99998,3 @@ daimghoul.hopto.org
 daimoom3.zapto.org
 daincolourchem.com
 dainenikolasweb.site
-dainikalokitosomoy24.com
-dairatwsl.com
-daire-baskanligi.com
-daire-cumhurbaskanligi-resmi.com
