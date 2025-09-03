@@ -10275,6 +10275,7 @@
 314537291820356484010.online
 314537291820356484010.xyz
 314537291820356484020.xyz
+314537291820356484030.com.tr
 314537291820356484030.online
 314537291820356484030.xyz
 31456870346.online
@@ -75378,6 +75379,7 @@ bnilucky.com
 bnimcelltlyuklemerkez.com
 bninincer.org
 bnintce.org
+bniredirekt.com
 bniuoqyt.com
 bnjdsjdjnmbwn.net
 bnjhmkesx.net
@@ -99996,5 +99998,3 @@ dagrtaniyenibas.duckdns.org
 dags123hned2542.site
 dagsadatds.click
 dagsigorta.site
-dagununsanlicekilisi.com
-dagwile.org
