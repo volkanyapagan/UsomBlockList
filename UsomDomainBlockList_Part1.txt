@@ -4146,6 +4146,7 @@
 145215554455887795.xyz
 145215554455887796.xyz
 145215554455887797.xyz
+145215554455887798.xyz
 1452155544558890.xyz
 1452155544558891.online
 1452155544558891.xyz
@@ -8112,6 +8113,7 @@
 222-1-198-1-2.com
 222-444-333-7.com
 222-444-666-2.com
+2220212548220.duckdns.org
 222135434.cloud
 2221545225622.duckdns.org
 22221220223.cloud
@@ -37236,6 +37238,7 @@ aktuelhaftaicikampanya.online
 aktuelhaftaicikampanya.xyz
 aktuelhaftaindirim.site
 aktuelhaftaninurunleri.com.tr
+aktuelhaftaninyildizi.bond
 aktuelhaftasonufiirsat.com.tr
 aktuelhaftasonufiirsat.online
 aktuelhaftasonufiirsat.xyz
@@ -38489,7 +38492,9 @@ aldinaldinfirsatlarialdinaldin.xyz
 aldinaldinfirsatlarikacirma.icu
 aldinaldinfirsatlarikacirma.sbs
 aldinaldinfirsatlarim.shop
+aldinaldinfirsatlariredmi.cfd
 aldinaldinfirsatlariredmi.click
+aldinaldinfirsatlariredmi.cyou
 aldinaldinfrsatgitttigdiyorrr.online
 aldinaldingunleri.cfd
 aldinaldingunleri.my
@@ -45279,6 +45284,7 @@ aracmuayenemym.net
 aracmuayenen.xyz
 aracmuayenenhizli.xyz
 aracmuayenenktt.net
+aracmuayenenonline.xyz
 aracmuayenent.net
 aracmuayeneqxxxc.net
 aracmuayenerandevu-al.com
@@ -55955,6 +55961,7 @@ basvuru-saglikgovtr.tk
 basvuru-sayfaniz.org
 basvuru-sayfasitrgiris.xyz
 basvuru-sende.online
+basvuru-simdi-tr-com.cfd
 basvuru-sistem.com
 basvuru-sistemi.online
 basvuru-sistemim-odeme.net
@@ -99991,10 +99998,3 @@ dahaberler.site
 dahadabuisebendenbeskuruscikmaz.tk
 dahaetkili.name.tr
 dahaguclu.name.tr
-dahaguzel7.b-cdn.net
-dahahizlibilgi.com
-dahahizlidevam.duckdns.org
-dahahizlidevamet.com
-dahahizlilerle.com
-dahahizlilerle.pro
-dahaiyigunler.xyz
