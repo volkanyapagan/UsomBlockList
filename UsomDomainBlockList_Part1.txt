@@ -38498,6 +38498,7 @@ aldinaldinfirsatlarim.shop
 aldinaldinfirsatlariredmi.cfd
 aldinaldinfirsatlariredmi.click
 aldinaldinfirsatlariredmi.cyou
+aldinaldinfirsatlariredmiyeri.sbs
 aldinaldinfrsatgitttigdiyorrr.online
 aldinaldingunleri.cfd
 aldinaldingunleri.my
@@ -85241,6 +85242,7 @@ carrefaylikindirim.online
 carreffaursa.com
 carreffeursa.com
 carreffoauersa.com
+carreffoueoarsa.com
 carreffoueor-sa.online
 carreffoueoursa.com
 carreffouoursa.com
@@ -99996,5 +99998,3 @@ daha-yeni-baslayanlara-biz-coktan-bitirdik.com
 daha-yeni-gorduk-alacaklari-olan-bir-adim-one.com
 daha-yeniler-basladi-onceden-de-burdayiz.com
 daha-zamdan-etkilenmeyen-bir-biziz.com
-dahabakimli.name.tr
-dahaberler.site
