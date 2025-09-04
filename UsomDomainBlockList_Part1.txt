@@ -4017,6 +4017,8 @@
 1421541551555455697.xyz
 1421541551555455698.xyz
 1421541551555455699.xyz
+14215421125415590.xyz
+14215421125415591.xyz
 1421554555889998890.xyz
 1421554555889998892.xyz
 1421554555889998893.xyz
@@ -12577,6 +12579,7 @@
 454d71ry.duckdns.org
 454q79.duckdns.org
 455008532.corolain.ru
+4554165489742314.store
 4554354354323.cloud
 455543312323.cloud
 455686.c1.biz
@@ -25993,6 +25996,7 @@ acikdeniz-onaylibasvurugiris.com
 acikdeniz-onaysubegirisibasvuru.com
 acikdeniz-online.buzz
 acikdeniz-online.com
+acikdeniz-online.sa.com
 acikdeniz-online.top
 acikdeniz-onlinebasvurum.com
 acikdeniz-onlinebasvurum.tk
@@ -27328,6 +27332,7 @@ acikdenizonaylikrediemeklilik.com
 acikdenizonaylikredim.co
 acikdenizonaylikredimm.co
 acikdenizonayliv2kredimguncel.com
+acikdenizonline.click
 acikdenizonline.com
 acikdenizonlineacikdeniz.cf
 acikdenizonlineacikdeniz.ga
@@ -38750,6 +38755,7 @@ aldnaldnkcirma.com
 aldnaldnmayisfirsati.online
 aldnaldnnfirssxtllri-szllerleyni.net
 aldnaldnpzrts.store
+aldnfrlsatlariyaa1o1.duckdns.org
 aldngeliadi.art
 aldnn-aldnnxmrktindrmlleryle.xyz
 aldnnindrmll-firsttlrszllerle.net
@@ -57324,6 +57330,7 @@ basvuryenisi.com
 basvuryhl.online
 basvurymn.com.tr
 basvurymn.xyz
+basvuryu-tamamla.free.site.pro
 basvurzmn.com.tr
 basvurzmn.xyz
 basvurzmr.com.tr
@@ -92079,6 +92086,7 @@ cloudlflares.com
 cloudlive.pub
 cloudly.live
 cloudmane.online
+cloudmatrixsf.cfd
 cloudmediaportal.com
 cloudmetric-analytics.com
 cloudmgrtracker.com
@@ -99990,11 +99998,3 @@ daferun.pro
 daff.faybilodeau.com
 dafhahsdhasdhasdh.hopto.org
 dafirsatdunyasi.com
-dafirsatzamani.com
-dafnefonseca.com
-dafolent.ddns.net
-dafom.dev
-dagdelen.bid
-dagdelen.win
-dagevleri18.zapto.org
-dagfdyer.site
