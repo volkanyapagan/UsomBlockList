@@ -4138,6 +4138,9 @@
 145155445588998898.xyz
 145155445588998899.xyz
 14515579416.cloud
+145215554455887770.xyz
+145215554455887771.xyz
+145215554455887772.xyz
 145215554455887790.xyz
 145215554455887791.xyz
 145215554455887792.xyz
@@ -38498,6 +38501,8 @@ aldinaldinfirsatlarialdinaldin.online
 aldinaldinfirsatlarialdinaldin.xyz
 aldinaldinfirsatlaricingirisyeri.lat
 aldinaldinfirsatlaricingirisyeri.sbs
+aldinaldinfirsatlaricingirisyeriburasi.cfd
+aldinaldinfirsatlaricingirisyeriburasi.sbs
 aldinaldinfirsatlarikacirma.icu
 aldinaldinfirsatlarikacirma.sbs
 aldinaldinfirsatlarim.shop
@@ -38723,6 +38728,7 @@ aldn-asdldnnxfirsstllariyla.gb.net
 aldn-zaldnnxfirstllariyla.net.tr
 aldnaldn-kmpnya.xyz
 aldnaldn101frsatlar.hopto.org
+aldnaldna1o1deredm.duckdns.org
 aldnaldncmrtbuarda.tech
 aldnaldnfrsatlarnz.com
 aldnaldnfrstbrdadgrli.tech
@@ -70789,6 +70795,7 @@ bizden-firsatdegerlendirmesiburda.com
 bizden-web-bbav.pro
 bizdenal.club
 bizdenalbonus.b-cdn.net
+bizdenaldngittinaldin191.com
 bizdenalicaksinmutluolucaksin.sbs
 bizdenalmadangitme.cfd
 bizdenalmadangitme.icu
@@ -85296,6 +85303,7 @@ carrefoursa-alisveris.ct.ws
 carrefoursa-com.duckdns.org
 carrefoursa-firsatlari.b8adspd-xyzads-dcxk.us
 carrefoursa-indirimgunux.com
+carrefoursa-indirmleri.vercel.app
 carrefoursa-kampanya.com
 carrefoursa-mobile.com
 carrefoursa-online.vercel.app
@@ -96962,6 +96970,7 @@ crfsafrstlarkmpnya.xyz
 crfsahaftnsnu.com
 crfsalrdnglaln.shop
 crfsanisnbasi.com
+crfsaykkmpan.sbs
 crfsbnzbm.store
 crfsdacfrsyagldnsncrfsa.com
 crfsdnalcknrzolncagln.com
@@ -99989,12 +99998,3 @@ dagitimgunu-besyilciyilaozel-com.tk
 dagitimgunuhediyebasvurulariparibucom-tr.tk
 dagitimhediyedurumsorgulaparibu-tr.tk
 dagitimhediyekampanyagirisi-com.tk
-dagitimhediyeleri2022teknoloji-paribucom.tk
-dagitimkampanyabasvurulari-paribucom-tr.tk
-dagitimkampanyasi6yilozeldunyasibu-tr.tk
-dagitimlarparidenteknolojihediyeleri-tr.tk
-dagitimmerkezin.com
-dagitimpaketleme.com
-dagitimpaketleme.xyz
-dagnhmfg.tk
-dagnick.ddns.net
