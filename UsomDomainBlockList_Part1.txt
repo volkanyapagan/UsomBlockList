@@ -4144,6 +4144,7 @@
 145215554455887773.xyz
 145215554455887774.xyz
 145215554455887776.xyz
+145215554455887777.xyz
 145215554455887790.xyz
 145215554455887791.xyz
 145215554455887792.xyz
@@ -43283,6 +43284,7 @@ apacheactivemq.ddns.net
 apacheactivemqfr.ddns.net
 apacheactivemqus.ddns.net
 apacheexecu.com
+apaebujdujmsc.com
 apahak.zapto.org
 apahk.zapto.org
 apairibxairxdropal.com
@@ -85837,6 +85839,7 @@ catmore88.com
 catmos99.com
 cato.fingusti.club
 catorcednsremc.duckdns.org
+catpatkmsorgu.sbs
 catrinpower84.xyz
 catrle.is-best.net
 catrofecud.xyz
@@ -99995,6 +99998,3 @@ dagitimbasvuru-bn.com
 dagitimbasvuru-temmuz-parafly-com.tk
 dagitimbasvuruportaliprb.click
 dagitimgunleri-sorgulabasvuru-prb-tr.tk
-dagitimgunleri-yarinindunyasi-basvuru-tr.tk
-dagitimgunleribasladi-prb.homes
-dagitimgunlerindebasvuruyap-paribu-tr.tk
