@@ -4021,6 +4021,7 @@
 14215421125415590.xyz
 14215421125415591.xyz
 14215421125415592.xyz
+14215421125415593.xyz
 1421554555889998890.xyz
 1421554555889998892.xyz
 1421554555889998893.xyz
@@ -26000,6 +26001,7 @@ acikdeniz-ocak-kampanya.top
 acikdeniz-onaylibasvurugiris.com
 acikdeniz-onaysubegirisibasvuru.com
 acikdeniz-online.buzz
+acikdeniz-online.click
 acikdeniz-online.com
 acikdeniz-online.ru.com
 acikdeniz-online.sa.com
@@ -38578,6 +38580,7 @@ aldinaldinkampanyalar.com
 aldinaldinkampanyalari.cfd
 aldinaldinkampanyalari.icu
 aldinaldinkampanyalari.sbs
+aldinaldinkampanyaliredmifirsatlari.sbs
 aldinaldinkampanyasindan.com
 aldinaldinkampanyastokk100.com
 aldinaldinkampanyatr.online
@@ -57294,6 +57297,7 @@ basvuruyolu.site
 basvuruyonetimhizmetleri.online
 basvuruyonetimi.com
 basvuruyonetimi.pro
+basvuruyonlendiricisi.wuaze.com
 basvuruyonlendirmedeniz.com.tr
 basvuruyu-yap-islemi-tamamla.com
 basvuruyusorguladagitimgunleri-prb.click
@@ -99994,7 +99998,3 @@ dadux.xyz
 dadypop.no-ip.org
 dadypopjava.no-ip.org
 dadyxd.zapto.org
-dadzkiler.ddns.net
-dadzxdasdw.pw
-daehoshipinc.tk
-daemon-mailer.co
