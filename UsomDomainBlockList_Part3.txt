@@ -1,3 +1,4 @@
+internet-bank.ml
 internet-banka-yapi-kredi-tr.cf
 internet-banka-yapikredi.com
 internet-bankaci-yapikredi.com
@@ -56380,6 +56381,7 @@ net-goal.com
 net-gsm.org
 net-guvenliodeme.cf
 net-guvenliodeme.tk
+net-int.click
 net-int.za.com
 net-kampanya.website
 net-kampanyam.website
@@ -99996,5 +99998,3 @@ rentwestq.com
 rentyazkampaanyalarigerantam.com.tr
 rentyazkampanyallarigerantam.com.tr
 rentyazkkampanyalarigerantam.com.tr
-rentymonopol.icu
-rentyolcu360.com
