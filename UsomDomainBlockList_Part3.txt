@@ -1,3 +1,4 @@
+internet-banka-yapi-kredi-tr.cf
 internet-banka-yapikredi.com
 internet-bankaci-yapikredi.com
 internet-bankaciligi-giris-yapikredi.com
@@ -99997,4 +99998,3 @@ rentyazkampanyallarigerantam.com.tr
 rentyazkkampanyalarigerantam.com.tr
 rentymonopol.icu
 rentyolcu360.com
-renvdmun.b-cdn.net
