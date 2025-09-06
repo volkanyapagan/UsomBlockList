@@ -227,6 +227,7 @@
 0120301201.ddns.net
 0120340120.online
 012120212540.duckdns.org
+0121945104615g2ned.duckdns.org
 01230-03210.com
 01230-03210.live
 01230796125348888.cloud
@@ -37245,6 +37246,7 @@ aktuelfirsatlar.com.tr
 aktuelfirsatlar.info.tr
 aktuelfirsatlar.net.tr
 aktuelfirsatlar.org.tr
+aktuelfirsatlaralisverisredmi7.sbs
 aktuelfirsatlardunyasi.com.tr
 aktuelfirsatlardunyasi.online
 aktuelfirsatlardunyasi.xyz
@@ -38520,6 +38522,7 @@ aldinaldinalisverisleriaktuelyeri.cfd
 aldinaldinalisverisleriaktuelyeri.sbs
 aldinaldinalisverislerialimyeri.cfd
 aldinaldinalisverislerialimyeri.sbs
+aldinaldinalisverisleriredmialimyeri.sbs
 aldinaldinarefedevam.xyz
 aldinaldinbayramdayiz.xyz
 aldinaldinbayramfirsati.com.tr
@@ -56564,6 +56567,7 @@ basvuruislemlerigratis.net
 basvuruislemleriniz.com
 basvuruistanbul.com
 basvuruistihdam.com.tr
+basvuruistkart.xyz
 basvurujzdn.cfd
 basvurukabulekrani.com
 basvurukabulekrani.linkpc.net
@@ -75385,6 +75389,7 @@ bncttcrrservet.vercel.app
 bncturkiye-kampanya.vercel.app
 bncusertr.com
 bncwtzylzs.duckdns.org
+bncxsdcslergrstrcom.click
 bncxtr.com
 bncyduyurutr.com
 bncyeniyil.com
@@ -81381,6 +81386,7 @@ buralardafirsatlarbitmez.com.tr
 buralardafirsatlarbitmez.online
 buralardafirsatlarbitmez.xyz
 buralardahomestler.click
+buralardayim.click
 buralardayiz.com.tr
 buralardinrimlerbitemdi.online
 buralardndbnsjdjfuoksnm.website
@@ -99992,9 +99998,3 @@ d7mizd0.duckdns.org
 d7oohtoo.ddns.net
 d7rvlm.duckdns.org
 d7ssnz5i.duckdns.org
-d7w0ltgk5.duckdns.org
-d7x0wyyxnjp.com
-d7xtsrp.duckdns.org
-d7zubav.duckdns.org
-d81yrvr.duckdns.org
-d82bbw.duckdns.org
