@@ -22801,6 +22801,7 @@ e-sikayetvatandas.rest
 e-simdibasvur.com
 e-sinav.net
 e-sinavim.com.tr
+e-sinavimgirisadresi.com
 e-siparis-get-ode-fastpay.com
 e-siparis-guvenli.com
 e-siparis-tr.online
@@ -99997,4 +99998,3 @@ interaktifbireysel.com
 interaktifbireyselsube.com
 interaktifbireyselsubelerim.com
 interaktifbireyselsubeyapikredi.com
-interaktifblogsitesi.blogspot.com
