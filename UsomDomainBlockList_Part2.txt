@@ -66708,6 +66708,7 @@ guvenli-basvurum-e-aidat-iade-2021.xyz
 guvenli-bildirim-sayfasi.xyz
 guvenli-cihazonay-islem.xyz
 guvenli-cozumler.com.tr
+guvenli-cuzdan.com
 guvenli-e-aidat.com
 guvenli-e-basvuru-formu-kart-ucretleri.xyz
 guvenli-e-devlet-basvurusu-kart-aidat-iadesi-2021.xyz
@@ -99997,4 +99998,3 @@ interaktifftahsilat.com
 interaktiffweb.com
 interaktifgelisim.com
 interaktifgib.net
-interaktifgib.site
