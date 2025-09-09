@@ -1,3 +1,5 @@
+integratedblognews.azurewebsites.net
+integratedblognewsapi.azurewebsites.com
 integratedblognewsapi.azurewebsites.net
 integratedmwqo.shop
 integration-previous-brilliant-true.trycloudflare.com
@@ -26189,6 +26191,7 @@ kosar.ac.ir
 kosava.xyz
 koscgbdevlet.net
 kosel.com.tr
+kosendeagla.cfd
 kosfzv.com
 kosgebiskur.com
 kosgep-halkbank.com
@@ -82220,6 +82223,7 @@ pettross.com
 petturk.info
 pettyheave.top
 pettyintercourse.top
+petunyabodrum.com
 peturnwss.ddns.net
 petwoofs.com
 petyx228.hopto.org
@@ -99994,7 +99998,3 @@ remsoftman.com
 remsoftretrieving.ru
 remvalissent.top
 remzclot.ga
-remziergan.duckdns.org
-ren01i.duckdns.org
-ren7oaks.co.uk
-renabic.com
