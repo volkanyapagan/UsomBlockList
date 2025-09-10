@@ -47052,6 +47052,7 @@ tr-bilgi.ink
 tr-bilgisistem.com
 tr-billgi.com
 tr-bilnance.click
+tr-bilnnance.click
 tr-bimceel.com
 tr-bimceel.info
 tr-bimcel.de
@@ -47085,6 +47086,7 @@ tr-binancedestek.com
 tr-binancefirsat.net
 tr-binancekampanyalar.net
 tr-binancem.com
+tr-binances.click
 tr-binancesizeozel-hemenbasvur.cloud
 tr-bireysel-acikdenizv2denizbank.com
 tr-bireysel-cepsube-isbank.com
@@ -66609,6 +66611,7 @@ vatandas-uyap.b-cdn.net
 vatandas-uyap.cfd
 vatandas-uyap.com
 vatandas-uyapgiris.com.tr
+vatandas-uyapgov.online
 vatandas-uyappgov.cloud
 vatandas-uyapsorusturma.com
 vatandas-websorgu.b-cdn.net
@@ -99995,6 +99998,3 @@ yogeshmehra.org
 yoggecvrspwicbqmk.com
 yoghurtcomonalth.top
 yoghurtdenounce.top
-yoghurtunprecedented.top
-yogiyo19.com
-yoglsdels.net
