@@ -1,3 +1,4 @@
+d36rrippt2k8a8.cloudfront.net
 d3726xtvl3uhpt.cloudfront.net
 d37ajee9.duckdns.org
 d3913pfe.duckdns.org
@@ -51775,6 +51776,7 @@ g-hizmetler-tr.online
 g-hizmetler.com.tr
 g-ikarcahome.shop
 g-irisimgaris1emlerim.online
+g-isllemobillgirisleribwa.online
 g-karcahome.shop
 g-kuveytturk.com
 g-merkezbankasi.com
@@ -85405,6 +85407,7 @@ hizlisiparisleinden20bucuk.cloud
 hizlisiparisler.link
 hizlisiparisler1001.online
 hizlisiparisler1agustossta.cloud
+hizlisiparisler9eylulde.cloud
 hizlisiparisleri21agustosta.net
 hizlisiparislerimde.com.tr
 hizlisiparislerin10temmuzda.cloud
@@ -99995,6 +99998,3 @@ int-sube-garanti.com
 int-subeiadebasvurum.com
 int-vergdaire.net
 int-vergi-odeme-merkezi.com
-int-vergidairesi.net
-int-vergiodeme.net
-int-vibihizlisubeislemleri.com
