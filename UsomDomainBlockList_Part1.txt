@@ -1541,6 +1541,7 @@
 1-odeme.online
 1-ortakplatform.com
 1-ortaktrf.dev
+1-s-b4ck-x4sh.online
 1-sfrstlmbrdao1.sbs
 1-sorgulama-adresi.blogspot.com
 1-subat-kampanyalari.com
@@ -86842,6 +86843,7 @@ cebinde-sokbavul.com.tr
 cebinde.app
 cebinde.basvurular-burada.in
 cebinde.sok-serinleten-yaz.com
+cebindeeylul.info.tr
 cebindeeylul.net.tr
 cebindeeylul.org.tr
 cebindeeylul.tv.tr
@@ -97233,6 +97235,7 @@ crfozelurunler.online
 crfozelurunler.xyz
 crfr-sa.com.tr
 crfr-sa.net.tr
+crfrbrdasnndlrerdasd.bond
 crfrikibinyirmibes.shop
 crfrm.it.com
 crfrs-com.shop
@@ -99995,6 +99998,3 @@ d2emk7ploynotice.top
 d2evk7olveforget.top
 d2ewt7w.duckdns.org
 d2gew1.duckdns.org
-d2gqf2.duckdns.org
-d2huk7ndredenough.top
-d2ink7teresthour.top
