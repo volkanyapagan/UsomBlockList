@@ -1854,7 +1854,9 @@
 101-efsane.shop
 101-eozel.xyz
 101-eylulgecesi13.com
+101-eylulgecesi13.net
 101-eylulgecesii13.net
+101-eylulgecesii13.store
 101-firsat.com.tr
 101-firsatimcepte.name.tr
 101-firsatindm.com
@@ -39576,6 +39578,7 @@ alisverisegeliyoruz.com.tr
 alisverisehemenbasla.com
 alisveriseozelfirsatlar.xyz
 alisverisepet.online
+alisverisfirsatlaredmialimiburadan.sbs
 alisverisfirsatlari.online
 alisverisgetguvende.com.tr
 alisverisgetmobil.com.tr
@@ -99995,6 +99998,3 @@ d1oqavvax2zvf2h.com
 d1r73fq7q.duckdns.org
 d1rv.social
 d1swy39l7q.top
-d1ua6y.duckdns.org
-d1vh0xkmncek4z.cloudfront.net
-d1vmattjoqcdm3a6td80af6zw4tb4yaw3.it.h4.vc
