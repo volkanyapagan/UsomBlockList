@@ -1858,6 +1858,7 @@
 101-eylulgecesii13.net
 101-eylulgecesii13.store
 101-eylulurunleri.info
+101-eylulurunleri.shop
 101-firsat.com.tr
 101-firsatimcepte.name.tr
 101-firsatindm.com
@@ -20938,6 +20939,7 @@ a-yar2s-ml.cdn.ampproject.org
 a-zcati.com
 a.101-cumartesialdin.com
 a.101-ekstra.com
+a.101-eylulurunleri.net
 a.101-pazaronlne.com
 a.101-yag.online
 a.101agustosmarket.com
@@ -38704,6 +38706,7 @@ aldinaldinhemen.shop
 aldinaldinherseykapinda.online
 aldinaldiniadeni.com.tr
 aldinaldinidnrimgunleri.sbs
+aldinaldinind.xyz
 aldinaldinindiirmlerrindebuay.sbs
 aldinaldinindirimlerburda.com.tr
 aldinaldinindirimleri.cfd
@@ -39694,6 +39697,7 @@ alisverislerdekiindirimligunler.sbs
 alisverislerderedmialdinaldinyeri.cfd
 alisverislerderedmialdinaldinyeri.sbs
 alisverislerdesonguneylul.sbs
+alisverislerfirsatlaredmialimiburadan.cfd
 alisverislerguvenilir.space
 alisverislerguvenilir.store
 alisverislerhizliveguvenilir.com.tr
@@ -99994,7 +99998,3 @@ d1lxhc4jvstzrp.cloudfront.net
 d1mw.rqap.ru
 d1mxvenloqrqmu.cloudfront.net
 d1n1m1s1.tk
-d1n5yoi.duckdns.org
-d1nznkmobil.net
-d1oip51v.duckdns.org
-d1oqavvax2zvf2h.com
