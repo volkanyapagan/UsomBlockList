@@ -1940,6 +1940,7 @@
 101-ozlineozell.com
 101-pazar-zamani.com
 101-pazaronlne.com
+101-pazartesieylul.site
 101-persembeaksami.com
 101-persembebugun.com
 101-sabah-kacirmacuma.com
@@ -2102,6 +2103,7 @@
 101alisverisredmiburasi.cfd
 101alisverisredmiburasi.sbs
 101alisverisredmiburasidir.sbs
+101anindakapinda-com.cfd
 101aonlinegiris.app
 101aonlinesatinal-shop.preview-domain.com
 101aonlinesepet.com.tr
@@ -4115,6 +4117,9 @@
 1425155559998897.xyz
 1425155559998898.xyz
 1425155559998899.xyz
+1425165546698999889993443433340.xyz
+1425165546698999889993443433341.xyz
+1425165546698999889993443433342.xyz
 1425415588560.xyz
 1425462659652960.xyz
 1425516554564480.xyz
@@ -33454,6 +33459,7 @@ aidatvatandasportalda.com
 aidatvergi-iade.com
 aidatvergi-odeme.com
 aidatvergidestek.com
+aidatvergidrss.duckdns.org
 aidatvergikapisi.com
 aidatveservislers.online
 aidatvodemelerinixzbizden.cf
@@ -38737,6 +38743,7 @@ aldinaldinhemen.shop
 aldinaldinherseykapinda.online
 aldinaldiniadeni.com.tr
 aldinaldinidnrimgunleri.sbs
+aldinaldinind.online
 aldinaldinind.xyz
 aldinaldinindiirmlerrindebuay.sbs
 aldinaldinindirimlerburda.com.tr
@@ -38813,6 +38820,8 @@ aldinaldinredmialimiburadan.sbs
 aldinaldinredmialimlariburada.sbs
 aldinaldinredmialisverisleryeri.cfd
 aldinaldinredmialisverisleryeri.sbs
+aldinaldinredmifirsatlariburada.cfd
+aldinaldinredmifirsatlariburada.sbs
 aldinaldinredmigirdekleriburada.cfd
 aldinaldinredmigirdekleriburada.sbs
 aldinaldinsalitestere.shop
@@ -61683,6 +61692,7 @@ bhsoequtlhgrjpe.ru
 bhspwvxkg.com
 bhst5e.duckdns.org
 bhsyd.com
+bhsyf.life
 bhsyouanc.com
 bhtapmbtgcait.duckdns.org
 bhtfcqpazn.duckdns.org
@@ -99988,13 +99998,3 @@ d-enizwebkredi.xyz
 d-estekbasvuruform-u.com
 d-evletduyurulari.com
 d-evletodeme.b-cdn.net
-d-evletsorgu.app
-d-evletsorgu.dev
-d-guven.com
-d-karcahome.shop
-d-links.net
-d-marisbayhotel.com
-d-mart.buzz
-d-mobil-v.site
-d-nisankarcahome.shop
-d-o-m-i-no34.site
