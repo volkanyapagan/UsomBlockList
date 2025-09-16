@@ -33462,6 +33462,7 @@ aidatvatandasportalda.com
 aidatvergi-iade.com
 aidatvergi-odeme.com
 aidatvergidestek.com
+aidatvergidress.duckdns.org
 aidatvergidrss.duckdns.org
 aidatvergikapisi.com
 aidatveservislers.online
@@ -99997,4 +99998,3 @@ d-69b.pages.dev
 d-bosse.com
 d-denizbank.com
 d-dyson.com.tr
-d-e-n-i-z-b-a-n-k.com
