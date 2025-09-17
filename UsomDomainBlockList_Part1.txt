@@ -51900,6 +51900,7 @@ azurehosting.ddns.net
 azureonlinecloud.com
 azureonlinestorage.com
 azurewebsites.tech
+azurythm.com
 azvdhvnjvo.duckdns.org
 azvjudwr.info
 azwebview.com
@@ -58170,6 +58171,7 @@ bayode123limited.myddns.me
 bayqor.com
 bayraaamdaa-firrsttlrm.com
 bayraammsonnuu.com
+bayrakfins.com
 bayrakligez.net
 bayraktar.life
 bayraktar.top
@@ -99996,5 +99998,3 @@ czkug.duckdns.org
 czlnrr.org
 czlsjn.com
 czmadsimkrz.com
-czmadsrsimrkrzi.com
-czmsrui.com
