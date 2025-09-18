@@ -12050,6 +12050,7 @@ dijitalgiristrweb-denizacik.com
 dijitalgirisweb-denizacik.com
 dijitalgirisweb-ziraat.com
 dijitalgirisweb-ziraatkampanya.com
+dijitalgirisweb-ziraatkampanyamobil.com
 dijitalgirisweb-ziraatmobil.com
 dijitalgiriswebmobil-ziraatbireysel.com
 dijitalgiriswebtr-denizacik.com
@@ -99997,4 +99998,3 @@ inncome.xyz
 inndirrmmaktuells.com
 inner-way.ru
 innerambiguity.top
-innerhandicraft.top
