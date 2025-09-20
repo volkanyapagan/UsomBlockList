@@ -1,3 +1,5 @@
+inidirimgunlerinde.online
+inidirimgunuizel.xyz
 inidiriminkolayadresii101.online
 inidirimkapindalar.online
 inidirimzamani101.online
@@ -99996,5 +99998,3 @@ recovery-options.site
 recovery-session-service.site
 recovery-session-verify.site
 recovery-session.site
-recovery-update-statement.duckdns.org
-recovery.siphealth.cc
