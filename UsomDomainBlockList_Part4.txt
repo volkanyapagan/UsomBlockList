@@ -1,3 +1,5 @@
+recovery-session-verify.site
+recovery-session.site
 recovery-update-statement.duckdns.org
 recovery.siphealth.cc
 recovery05bauth.ddns.net
@@ -99996,5 +99998,3 @@ yftxlwndzr.duckdns.org
 yfuevqiph.com
 yfv7hui9.duckdns.org
 yfvjkh.duckdns.org
-yfvkaidfcg.duckdns.org
-yfwjibrwnf.duckdns.org
