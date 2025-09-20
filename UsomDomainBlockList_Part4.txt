@@ -49878,6 +49878,7 @@ tr155polisia155.online
 tr155polisia155tr.online
 tr155polisil.online
 tr155trpolis.online
+tr19-guncelsikaytler.com
 tr1919010912090910.cloud
 tr1carkestr1sp.cloud
 tr1familia.biz.tr
@@ -99997,4 +99998,3 @@ yftjuil.hopto.org
 yftxlwndzr.duckdns.org
 yfuevqiph.com
 yfv7hui9.duckdns.org
-yfvjkh.duckdns.org
