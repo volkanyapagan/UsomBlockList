@@ -39912,6 +39912,8 @@ alisveristetekadresburasi.icu
 alisveristetekadresburasi.sbs
 alisveristetekadresi.online
 alisveristetekadresi.xyz
+alisveristeyazsonugfirsatlari.online
+alisveristeyazsonugfirsatlari.xyz
 alisveristeyildizalri.xyz
 alisveristezirveadres.com.tr
 alisveristezirveadres.online
@@ -99996,5 +99998,3 @@ cyraxonfire.ddns.net
 cyrc.duckdns.org
 cyrexx.pw
 cyroonline.com
-cyrptomaker.info
-cyrt.amoltran.com
