@@ -8173,6 +8173,7 @@
 21ekimakfirsatlarisizlerle.com.tr
 21ekimkatalog.com
 21ene.ip-ddns.com
+21eylulbucuksipariler.cloud
 21eyluldesiparislerin.cloud
 21eyluldesiparislerindenbuc.cloud
 21eyluldesiparislerneden.cloud
@@ -21276,6 +21277,8 @@ a101-app-firsatlar.name.tr
 a101-app.com.tr
 a101-app.online
 a101-aralik-firsatlari.wuaze.com
+a101-bahar-firsatlari.duckdns.org
+a101-bahar-kampanyasi.duckdns.org
 a101-bayram-firsatlari-online.com
 a101-bayramhaftasiozel.com
 a101-bayramozel.com
@@ -39735,6 +39738,7 @@ alisverisehemenbasla.com
 alisveriseozelfirsatlar.xyz
 alisverisepet.online
 alisverisfirsatlaredmialimiburadan.sbs
+alisverisfirsatlari.duckdns.org
 alisverisfirsatlari.online
 alisverisgetguvende.com.tr
 alisverisgetmobil.com.tr
@@ -47601,6 +47605,7 @@ asdasdasdasdqwsdas.com
 asdasdasdasfasfasfasf.pl
 asdasdasdasquez.net
 asdasdasdasxuex.com
+asdasdasdc.duckdns.org
 asdasdasddquez.net
 asdasdasdgree312sad.com
 asdasdasdlk.click
@@ -56532,6 +56537,7 @@ basvuru.sorgula.site
 basvuru.talep.yardimlarinizicin-geldik2.org
 basvuru.tk
 basvuru.ucuzevinterneti.com
+basvuru.yapi-kredi.tr
 basvuru.yardiminizicingeldikk.org
 basvuru.ypk-22.click
 basvuru.ytbase1.p.azurewebsites.net
@@ -99992,9 +99998,3 @@ cynax22.hopto.org
 cynergydigital.ddns.net
 cynhernes.com
 cynicalmalicious.top
-cynicismunfold.top
-cynoedrabpcp.wcnv20.cn
-cynqms.com
-cynthialemos1225.ddns.net
-cynthiaravosa.com
-cynvdiznim.duckdns.org
