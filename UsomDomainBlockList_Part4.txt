@@ -1,3 +1,9 @@
+recaptcha-verify-1t.pages.dev
+recaptcha-verify-2e.pages.dev
+recaptcha-verify-4h.pro
+recaptcha-verify-7z.pages.dev
+recaptcha-verify-9m.pages.dev
+recaptha-verify-5q.pages.dev
 recarga-nequi.duckdns.org
 recaswine.ro
 recbntrg.vercel.app
@@ -36040,6 +36046,7 @@ supermarioprohozhdenie.ru
 supermarket-eptt-alisverismerkezleri.online
 supermarketcomic.top
 supermarketeylul.click
+supermarketfirsatlari.click
 supermarketindirimleri.click
 supermarketindulgence.top
 supermarketrecur.top
@@ -53918,6 +53925,7 @@ trpttgovka.cc
 trpttgovkx.cc
 trpttgovl.cc
 trpttgovlc.cc
+trpttgovle.cc
 trpttgovmv.cc
 trpttgovo.cc
 trpttgovot.cc
@@ -76277,6 +76285,7 @@ webden-aidat-odemeleri.org
 webden-basvuru-3000tl-sosyaldestek.com
 webden-basvurun.online
 webden-bsvr.site
+webden-bsvrlar.site
 webden-edevlet-iadesi-govtr.com
 webden-giris-devlet-aidatt-iadesi-gov-tr.com
 webden-girisim-devlet-aidatt-iadesi-gov-tr.com
@@ -79535,6 +79544,7 @@ winerywork.top
 winfeedback.net
 winflighttickets.co
 wingaffordnasty.com
+wingbankcomb.wixsite.com
 wingcherry.top
 wings-akbankredibasvur.online
 wings2fly4life.website
@@ -99988,13 +99998,3 @@ yesildomainjuzdan.com
 yesildomodomcuzdan.com
 yesilfirsat.xyz
 yesilgelecek.site
-yesilgelecekvakfi.com.tr
-yesilgirisfirsatisize.com
-yesilhaber.site
-yesilin-kalbinde-bir-yolculuk.top
-yesilingucuteb.com
-yesilinhazinesi.com
-yesilinpazarfirsati.com
-yesilinsenligi.com
-yesiliz.pro
-yesilkagit.org
