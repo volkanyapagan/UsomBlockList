@@ -40334,6 +40334,7 @@ allusionobstruct.top
 allusionshowcase.top
 allusiontexture.top
 allusredirect.ddns.net
+allvuesystems-okta.com
 allwpworld.com
 allx.ddns.net
 allxldnn-x-alldannmrkktszlerlle.net.tr
@@ -57064,6 +57065,7 @@ basvurukayitlarim-gov-tr.com
 basvurukazandirir.info
 basvurukiirmizi.xyz
 basvurukontrol.com
+basvurukonut.com
 basvurukonutsosyalprojesi.net
 basvurukordan.com
 basvurukosullarimiz.com
@@ -73228,6 +73230,7 @@ blendrhetoric.top
 bleoxaelcaell.com
 bleres.com
 blesblochem.com
+bless-invite.com
 blessdowngrade.top
 blessed147.ddns.net
 blesseddaxyman.hopto.org
@@ -74728,6 +74731,7 @@ bmcmkinasiyon.net
 bmcmsdkdlmcm.net
 bmcnellamcasmahalle.tk
 bmcofa.net
+bmcorpuser.internal-okta.com
 bmcqllturk1ye.com
 bmcsdmsdlkm.net
 bmcsellpazartesiodemeleriniz.com
@@ -96550,6 +96554,8 @@ corpfastindustries.com
 corpnox-technologie.fr
 corpoleve.duckdns.org
 corporaltrickle.top
+corporate-microsoft.com
+corporate-okta.com
 corporatebusinesssolution.net
 corporatecelebrity.top
 corporatecomf.online
@@ -99992,9 +99998,3 @@ customerservicamzs.duckdns.org
 customerservice-coinbase.com
 customerservicesbn.duckdns.org
 customerservich.hopto.org
-customersupportsvcs.ddns.net
-customeservic-amzinformations.duckdns.org
-customgiftshouston.company.site
-customize-identity.info
-customjvupdate.live
-customlongitudinal.top
