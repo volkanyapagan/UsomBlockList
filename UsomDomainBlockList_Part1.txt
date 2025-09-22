@@ -21300,6 +21300,7 @@ a101-bugunbul.com
 a101-bugundef.com
 a101-bugune-ozel-indirimleri.securitysystem.org.tr
 a101-bugune-ozel.sahaneindirimleriniz.com.tr
+a101-buguneozelfirstlar.com
 a101-buguneozelindirim.online
 a101-buguneozelindirimler.com
 a101-buguneozelindirimleriweb.com
@@ -57120,6 +57121,7 @@ basvurular-giris-hizli.life
 basvurular-gov-tr.com
 basvurular-isnet.com
 basvurular-odemem.online
+basvurular-online.ftp.sh
 basvurular-pari.com
 basvurular-qnbfiinans.com
 basvurular-qnbfinans.com
@@ -82012,6 +82014,7 @@ burda-bu-anlari-burda-hepberaber-gorecegiz-sizinle.com
 burda-buguzel-anlari-hepbirlikte-hergun-gorecegiz.com
 burda-buldugunu-tutt.com
 burda-cesitler-hic-bitmez.online
+burda-ekrandan-ogren-sorgu.cyou
 burda-enguzel-anlari-burda-hergun-gorecegiz.com
 burda-gercekmutluluk.com
 burda-guzel-anlari-burda-hepberaber-gorecegiz.com
@@ -82060,6 +82063,7 @@ burdan-gelenleri-gorup-takip-sevilir.com
 burdan-gelsin.net
 burdan-kontrol-et-aktr.cyou
 burdan-mutluluk.com
+burdan-sorgulamani-yap.cyou
 burdan-yeni-sayfa-baglan-yeni-girisler.xyz
 burdan-yukle.22web.org
 burdanal-indirimlial.com.tr
@@ -99994,7 +99998,3 @@ customers-recovery.site
 customers-service.ddns.net
 customers0services.hopto.org
 customersecure.hopto.org
-customerservicamzs.duckdns.org
-customerservice-coinbase.com
-customerservicesbn.duckdns.org
-customerservich.hopto.org
