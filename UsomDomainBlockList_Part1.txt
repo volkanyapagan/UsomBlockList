@@ -2110,6 +2110,7 @@
 101anindakapinda-com-tr.cfd
 101anindakapinda-com-tr.sbs
 101anindakapinda-com.cfd
+101anindakargola-tr-com.cfd
 101aonlinegiris.app
 101aonlinesatinal-shop.preview-domain.com
 101aonlinesepet.com.tr
@@ -38877,6 +38878,7 @@ aldinaldinkampanya.website
 aldinaldinkampanya101.online
 aldinaldinkampanyaa.online
 aldinaldinkampanyaburdan.gtxpioneer.za.com
+aldinaldinkampanyaciredmilergeldi.cfd
 aldinaldinkampanyaciredmilergeldi.sbs
 aldinaldinkampanyahaftasii.com
 aldinaldinkampanyalar.com
@@ -99996,5 +99998,3 @@ cyhesnohers.com
 cyhire.cechire.com
 cyhqlayswljeyplrjnqwnbhkr.info
 cyhumue.info
-cyi6dx.duckdns.org
-cyihenryqd.city
