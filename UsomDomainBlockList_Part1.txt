@@ -85804,6 +85804,7 @@ carefaoursa.com.tr
 careffouerrsa.com
 careffour.sa.com
 careffourr.sa.com
+careffoursa.care
 carefour-arg.com
 carefour.jiahs.xyz
 carefourlufirlar.shop
@@ -87017,6 +87018,7 @@ cdn-06564.dl-icloud.com
 cdn-74908.dl-icloud.com
 cdn-ampproject.com
 cdn-analytics.co
+cdn-casper.com
 cdn-chrome.com
 cdn-code-jquery.info
 cdn-connect.docusigner.info
@@ -99996,5 +99998,3 @@ customerhospitality.ddns.net
 customerilliteracy.top
 customerlogin.net
 customerlogins.net
-customermgmt.net
-customernoble.com
