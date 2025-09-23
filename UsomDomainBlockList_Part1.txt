@@ -34055,6 +34055,7 @@ airarticlegenerate.com
 airbnb-payverification.com
 airbnb-reservation.cloud
 airbseeker.com
+airbus.careersworld.org
 airbusco.net
 airci.net
 airconditionersontop.com
@@ -45154,6 +45155,8 @@ arabeuropeancenter.com
 arabianbrother.com
 arabianos.ru
 arabica.podzone.net
+arabiccountriestalent.azurewebsites.net
+arabiccountriestalenthr.azurewebsites.net
 arabilgileri.sa.com
 arablarnzmuaynesorglma.xyz
 arablinker.com
@@ -68497,6 +68500,7 @@ bioinbox.ro
 bioinsight.icu
 biojvbhbeblsqgtm1o.com
 biokom.hu
+biolinksystems.azurewebsites.net
 biologicalbarge.top
 biologicalcomplement.top
 biologicalstumble.top
@@ -90161,6 +90165,8 @@ check-app-con.duckdns.org
 check-app-safty.duckdns.org
 check-app-standars.duckdns.org
 check-app-wrng.duckdns.org
+check-backup-service-179.azurewebsites.net
+check-backup-service-736.azurewebsites.net
 check-basvurucheck.net
 check-basvuruhemencheck.net
 check-browser.ddns.net
@@ -97890,6 +97896,7 @@ create-domain-mpiistore.duckdns.org
 create111.ddns.net
 createacarepack.com
 createch.solutions
+createformquestionshelper.com
 creategc.hopto.org
 createid.hopto.org
 createidiot.top
@@ -99991,10 +99998,3 @@ customer-tt56tj.duckdns.org
 customer.aaddigitalstrategies.com
 customer.com-3654623478192.site
 customer.competeorder.com
-customer.thewayofmoney.us
-customer.verification.com-3654623478192.site
-customer.xrent.store
-customeramaz0ns.ddns.net
-customerappserve.hopto.org
-customercarearvest.ddns.net
-customercareservice.azurewebsites.net
