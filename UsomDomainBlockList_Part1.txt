@@ -82546,6 +82546,7 @@ butunherkesalmali.online
 butunherkesalmali.xyz
 butunhizmetler.app
 butunhizmetler.com
+butunindirimlerburada.click
 buugunburadan.shop
 buuncanlidersvarmi11.com
 buunun-icin-variz.shop
@@ -99997,4 +99998,3 @@ customercareserviceapi.azurewebsites.net
 customerhospitality.ddns.net
 customerilliteracy.top
 customerlogin.net
-customerlogins.net
