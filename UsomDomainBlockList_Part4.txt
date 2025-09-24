@@ -1,3 +1,10 @@
+randevu-muayene.net
+randevu-nvi.online
+randevu-nvlkyty.net
+randevu-olusturma.net
+randevu-online.net
+randevu-servislerimiz.net
+randevu-tapu.net
 randevu-tkgm-gov-tr.blogspot.com
 randevu-tuvturk.net
 randevu.al-hizmetler.com
@@ -7962,6 +7969,7 @@ sadcasda.net
 sadcconalna1.duckdns.org
 sadceozlonlnxfirsarxlar.com.tr
 sadceozlonlnxfirsarxlar.xyz
+sadceyolnyeozalrfrrstlar.blogdns.org
 sadceyonlnyeozlfrsatlar.blogsite.org
 sadchaira.top
 sadckampsd.duckdns.org
@@ -60141,6 +60149,7 @@ tuvturkaracmuaynehzmetlri.net
 tuvturkaracmuaynehzmtlra.web.app
 tuvturkaracmuaynehzmtlre.web.app
 tuvturkaracmuaynehzmtlrg.web.app
+tuvturkaracmuayneleri.web.app
 tuvturkaracmuaynelermb.web.app
 tuvturkaracmuaynelermh.web.app
 tuvturkaracmuaynelermj.web.app
@@ -99989,12 +99998,3 @@ yazozelgunleri.com.tr
 yazozelgunleri.xyz
 yazpet.com
 yazsckalrndafrsburallmernageld.com
-yazsckalrndafrstkarayagnageld.com
-yazsenlikleritr.xyz
-yazsicaklariyapidayasanir.com
-yazsogugunukap.xyz
-yazsonkampanyalari.com
-yazsonlari.online
-yazsonu-altus.com.tr
-yazsonu-baymak.com.tr
-yazsonubaymak-kapida.com
