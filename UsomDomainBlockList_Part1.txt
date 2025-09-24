@@ -14327,6 +14327,7 @@
 5645780.c1.biz
 5646150000.cloud
 564625246.cloud
+564654654654654654654654.xyz
 564788722164562.shop
 564898664.com
 5649655666.cloud
@@ -36709,6 +36710,7 @@ akt.10agostos-pazar.art
 akt.10agostos-pazarda.art
 akt.1eylul-firsatlarburada.site
 akt.20eylul-sabah.art
+akt.24eylulcom.art
 akt.3agustos-indrm.com
 akt.5eylul-deonline.site
 akt.6deylul-com.site
@@ -79431,6 +79433,7 @@ browser-geology.at.ply.gg
 browser-metafb.cfd
 browser-urlbonus.cfd
 browser-urlbonusstr.cfd
+browser-urlwadatr.cfd
 browser.anaiytics.org
 browser.internalfiles.sbs
 browser.tr-form.com
@@ -99995,6 +99998,3 @@ curcuminn.site
 curcuna.club
 curcuna.name.tr
 curcuna.online
-curcuna.site
-cure-me12.zapto.org
-cure090.hopto.org
