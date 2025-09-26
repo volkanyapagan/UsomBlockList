@@ -1802,6 +1802,7 @@ dap-beraber.bounceme.net
 dap-kywebb.duckdns.org
 dap-ylplsmrs.duckdns.org
 dap-ypklmss.gleeze.com
+dap-ypm.linkpc.net
 dap-ypmahlan.bounceme.net
 daparian.top
 dapdz-pttavm.is-best.net
@@ -99997,4 +99998,3 @@ indirimlerinkataloga10.com
 indirimlerintekadresi.xyz
 indirimleriurunlerihemensepeteekle.online
 indirimleriurunlerihemensepeteekle.xyz
-indirimleriyakala.com
