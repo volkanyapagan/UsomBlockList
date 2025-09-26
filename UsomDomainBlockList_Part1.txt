@@ -56300,6 +56300,7 @@ basvursnr.cyou
 basvursnr.xyz
 basvursnx.com.tr
 basvursnx.xyz
+basvursnz.com.tr
 basvursnz.xyz
 basvursorgulafastgir.com
 basvurspn.xyz
@@ -75405,6 +75406,7 @@ bn-globaleventsorgumramazan.net
 bn-globalhub.sbs
 bn-globalnet.sbs
 bn-globalramazankampanyasi.net
+bn-globalservices.sbs
 bn-globalsorgulamakampanya.net
 bn-globaltrdesteksorgulamalarikampanyayonet.net
 bn-guncelkampanya.net
@@ -76972,6 +76974,8 @@ bntrsosyalmddfedya.vercel.app
 bntrsosyalmedyabntr.vercel.app
 bntrsosyalmedyassvx.vercel.app
 bntrsponsorlu.com
+bntrsponsorlu.in
+bntrsponsorlu.site
 bntrstoraefgegift.vercel.app
 bntrstorageegift.vercel.app
 bntrtogg.com
@@ -99994,7 +99998,3 @@ cumhuruygulamasitr8.com
 cumhuruygulamatccbmtr11.com
 cumhuruygulamatccbmtr13.com
 cumhuruygulamatccbmtr18.com
-cumhuruygulamatccbmtr8.com
-cumhuryardim.online
-cumin.truckxscan.com
-cuminme.duckdns.org
