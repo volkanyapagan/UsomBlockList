@@ -18598,6 +18598,7 @@
 89889687989.cloud
 8989237878129090343.cloud
 898932990-1279840.cloud
+898989898989898.duckdns.org
 8989978444.cloud
 898fg1gl.duckdns.org
 898ozelsayfatr.cloud
@@ -92380,6 +92381,7 @@ claim-mlbb47.hopto.org
 claim-phntm.com
 claim-serv.me
 claim-skinnew.new4claim.com
+claim-your-reward.cfd
 claim346.xyz
 claimdome.top
 claimeventff2024.ddns.net
@@ -98870,6 +98872,7 @@ csbevraksorgulama.com
 csbevraksorgum.org
 csbsorgu.info
 csbtokibasvuru.com
+csbtokibasvurusu.com
 csc-server.ru
 cscare-accountverification.com
 cscbsf.duckdns.org
@@ -99995,6 +99998,3 @@ cumhuruygulamamtr2.com
 cumhuruygulamamtr6.com
 cumhuruygulamamtr628.com
 cumhuruygulamamtr62852.com
-cumhuruygulamamtr68.com
-cumhuruygulamasi-tr06.com
-cumhuruygulamasi-tr07.com
