@@ -43928,7 +43928,6 @@ api.flushcdn.com
 api.fuyflash.om
 api.fxsdk.com
 api.googleapps.top
-api.hexnox.pro
 api.hostupoeui.com
 api.hujkr.com
 api.illegalarsiv.net
@@ -75408,6 +75407,7 @@ bn-globalnet.sbs
 bn-globalramazankampanyasi.net
 bn-globalservices.sbs
 bn-globalsorgulamakampanya.net
+bn-globaltech.sbs
 bn-globaltrdesteksorgulamalarikampanyayonet.net
 bn-guncelkampanya.net
 bn-haziranda-kampanya.net
