@@ -67744,6 +67744,7 @@ gunceltrsikayetler-463.sbs
 gunceltrsikayetler-464.sbs
 gunceltrsikayetler-473.sbs
 gunceltrsikayetler-863.sbs
+gunceltrsikaytvar-17.sbs
 guncelvakfbankmobilleri.tk
 guncelvakif2022hediyeleri.com
 guncelvakif2022hediyelerim.com
@@ -99997,4 +99998,3 @@ indirimler-firsatlar-bu-hafta-sadeceburada.com.tr
 indirimler-firsatlari-bu-hafta-sadeceburada.com.tr
 indirimler-hemen.sbs
 indirimler-sokta.top
-indirimler-sponsorlu.com
