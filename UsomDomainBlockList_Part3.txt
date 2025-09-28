@@ -1,3 +1,4 @@
+indirimkapindalar.sbs
 indirimkapindatr.icu
 indirimkatal0g.duckdns.org
 indirimkazanin.com
@@ -51037,6 +51038,7 @@ mobilsepet.online
 mobilsepetim-tr.online
 mobilservisler.online
 mobilservisler.xyz
+mobilservisleri.online
 mobilservisyukle.com
 mobilsiadeplatformalgiris-oneminute.cloud
 mobilsifrebaz.com
@@ -92452,6 +92454,7 @@ ptt.kargolariniz-kapinizdaolsun.com
 ptt.kargotakipp.com
 ptt.kialerc.top
 ptt.kxwl.qpon
+ptt.mobilservisleri.online
 ptt.postahanedir.com
 ptt.pttankarasubesi.com
 ptt.qzpe.top
@@ -94477,6 +94480,7 @@ pttkargotakip.com.tr
 pttkargotakip.duckdns.org
 pttkargotakipnosorgula.com
 pttkargotakipsorgulama.blogspot.com
+pttkargotakipsorgulamaaaaa.duckdns.org
 pttkargso.net
 pttkargsrgulahemen.megabilisim.app
 pttkariyer.com
@@ -99994,7 +99998,3 @@ ramazanda-deniz.com
 ramazanda-denizim.com
 ramazanda-evdekaldiye10gb.com
 ramazanda-indirimm.com
-ramazanda-sizinlebirlikte.martta-sizlerleyiz.shop
-ramazanda-yardim.com
-ramazanda-yuzun-gulsun-burada-kacirma.com
-ramazanda20.site
