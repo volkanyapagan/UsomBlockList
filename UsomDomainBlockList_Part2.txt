@@ -19577,6 +19577,7 @@ e-basvuru-vakiflar.site
 e-basvuru-vatandas.com
 e-basvuru.builder-preview.com
 e-basvuru.co
+e-basvuru.hopto.org
 e-basvuru.icu
 e-basvuru.online
 e-basvuru.org
@@ -77847,6 +77848,7 @@ hazirsepette.info.tr
 hazirservis.xyz
 hazirservisim.xyz
 hazirset.online
+hazirsiparis.sbs
 hazirsistem.xyz
 hazirsistemim.xyz
 hazirsistemler.xyz
@@ -99996,5 +99998,3 @@ indirimin-pazzar-haftasin-101de.com
 indirimin101i.com.tr
 indirimin101i.online
 indirimin101i.xyz
-indiriminakacirmsa.shop
-indirimindirimerdekalmazsande.cfd
