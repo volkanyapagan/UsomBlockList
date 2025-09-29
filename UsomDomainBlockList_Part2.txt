@@ -61831,7 +61831,6 @@ giris.e-devlet-turkiyegiris-kapisi.com
 giris.e-onlinebirim.com
 giris.edevlet.109-207-172-103.plesk.page
 giris.edevlet.45-138-27-40.plesk.page
-giris.edevlet.gov.ct.tr
 giris.edvlt.tk
 giris.en-pra-islem.online
 giris.fiba-hizmetler.online
@@ -99998,3 +99997,4 @@ indirimikacirma.xyz
 indirimikacirmaharikaurunlerim.com
 indirimikacirmamabi.shop
 indirimikacirmasa.shop
+indirimikacirmasaendeonline.store
