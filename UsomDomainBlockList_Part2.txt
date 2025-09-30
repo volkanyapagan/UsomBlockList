@@ -53013,6 +53013,7 @@ functionalsubsidize.top
 functiondiscovery.net
 functionelectoral.top
 functionpasser-by.top
+functions.cfd
 fund-boost.info
 fund-flow.online
 fund-premier.info
@@ -98319,6 +98320,7 @@ imageliners.com
 imagemacrocamcorder.com
 imagemicarai.ddns.net
 images-11d.workers.dev
+images-searcher.com
 images.emldn.com
 images.kiidcloud.com
 images.markplay.net
@@ -99996,5 +99998,3 @@ indirimfirsatlarimdan.com
 indirimfirsatlariniz.com
 indirimfirsatonline.com
 indirimfirsatseyahat.com.tr
-indirimfirsatt.click
-indirimfirsatt.com
