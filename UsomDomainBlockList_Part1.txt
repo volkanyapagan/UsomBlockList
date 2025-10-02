@@ -22342,6 +22342,7 @@ a101alisveris.duckdns.org
 a101alisveris.kampanya-gunlerii.com.tr
 a101alisveris.mersanajans.com.tr
 a101alisveris.shop
+a101alisverise.shop
 a101alisverisepeti.com
 a101alisverisi.yazindirimleri.org
 a101alisverisim.com.tr
@@ -99997,4 +99998,3 @@ cumhurbasskani.com
 cumhurbasskanligi.com
 cumhurbbaskanligi.com
 cumhurbskaciklamasi.com
-cumhurbskanligi-tr.com
