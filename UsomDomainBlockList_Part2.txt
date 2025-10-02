@@ -32079,6 +32079,7 @@ ekim-katalog.shop
 ekim-krdi-firsat.site
 ekim-market.online
 ekim-ozel-basvuru.gryk-osti.click
+ekim-ozelsabahcabuk.com
 ekim-pandemibasvurusonuclari.com
 ekim-pandemisorgulama-tc.com
 ekim-pandemisorgulama-tr.net
@@ -42464,6 +42465,7 @@ eylul-arti-para.lol
 eylul-ayi-bizim-ayimiz.cyou
 eylul-ayi-destek-basladi.online
 eylul-ayi-icin-gecerli-sorgulama.sbs
+eylul-ayinin-en-guzel-kampanyalari.world
 eylul-basvurusu-3000tl.com
 eylul-bitti-bitiyor-katalog.site
 eylul-bizbilmedikkimsebilemez.com
@@ -65847,6 +65849,7 @@ gratis-turk.duckdns.org
 gratis.ddnsguru.com
 gratis.hookextender.com
 gratis.myvnc.com
+gratis.servebeer.com
 gratis.servehumour.com
 gratis.sundby.com
 gratis.v6.army
@@ -99995,6 +99998,3 @@ indirim101songun.com.tr
 indirim101songun.xyz
 indirim1100.shop
 indirim20gb-turkcell.com
-indirim2323-firsati.click
-indirim45satis.xyz
-indirima101.com
