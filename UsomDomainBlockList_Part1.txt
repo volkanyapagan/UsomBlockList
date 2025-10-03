@@ -8890,6 +8890,7 @@
 25080058462103025-verification-acount.duckdns.org
 250888com.com
 250binbasvurutokiekrani.com
+250binevkonutbasvurusu.com
 250binkonutbasvur.com
 250binkonutbasvuruislemi.com
 250binkonutbasvurusu.com
@@ -8898,6 +8899,7 @@
 250bintokiprojebasvuruekrani.com
 250ekpromosyon.ml
 250garantibbva-com-tr.tk
+250konutprojebasvuruekrani.com
 250tlekpromosyon.ml
 2512.seenjaneax.live
 2516545515545.com
@@ -56056,6 +56058,7 @@ basvur.edev-bireysel-aidat-geri-iadeleri.tk
 basvur.fun
 basvur.girisiniyap.online
 basvur.github.io
+basvur.ilkevimprojesidanismanlik.com
 basvur.isbank.com.tr.firsatdetay.com
 basvur.isbank.com.tr.internetsubesi-islemmerkezi.com
 basvur.iscep-ozel.com
@@ -99995,6 +99998,3 @@ cumhurbaskanliresmigazetelerbirli.com
 cumhurbaskanliresmigazetelerbirlity.com
 cumhurbaskanliresmigazetesi.com
 cumhurbaskanliresmigazetetrt.com
-cumhurbaskanliresmigov.com
-cumhurbaskanliresmisayfas.com
-cumhurbaskanliresmisayfasi.com
