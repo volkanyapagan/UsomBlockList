@@ -95036,6 +95036,7 @@ pttkargo.ml
 pttkargo.net
 pttkargo.org
 pttkargo.sa.com
+pttkargo.shop
 pttkargo.site
 pttkargo.top
 pttkargo.vip
@@ -99997,4 +99998,3 @@ r4ezbaos.duckdns.org
 r4fyqogc.duckdns.org
 r4kdgb.duckdns.org
 r4n54v.duckdns.org
-r4nd3vu-nv1.net
