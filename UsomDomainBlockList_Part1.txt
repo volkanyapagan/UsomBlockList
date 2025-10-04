@@ -222,6 +222,7 @@
 01110000111100.duckdns.org
 01111121551154.duckdns.org
 011112021215210.duckdns.org
+011122211011.duckdns.org
 0116254-teaxmacc.com
 0116254team-acc.com
 0116254teamacc.com
@@ -339,6 +340,7 @@
 022202120212021.mywire.org
 02220333teamaccount.com
 02222120212021.online
+0222212522202.duckdns.org
 022222155222.duckdns.org
 02252-20244.net
 02348721340905821435.cloud
@@ -1988,6 +1990,7 @@
 101-yilbasi-kampanya-islemleri.com
 101-zaferbayramda.art
 101.20eylul-comtr.art
+101.3ekim-telefon.art
 101.agustosapec.com
 101.agustosapec.tech
 101.agustosdaapec.com
@@ -8531,6 +8534,7 @@
 2345345423412312.cloud
 2345441321312.cloud
 23456234685432.com
+234565432.shop
 234567823456.com
 234623423252.com
 23462358587242.com
@@ -8875,6 +8879,7 @@
 25-subat-firsatlar.shop
 25-subatfirsatlar.shop
 25-yil-acik-deniz.cf
+250-bintoplukonut.com
 2500-onlinegeriodemenizkartislemlerigovtr.com
 2500edevletaidat.com
 2500internetgeriodemenizkartislemlerigovtr.com
@@ -11724,6 +11729,7 @@
 3ek35.com
 3ekim-comtr.art
 3ekim-robofirst.art
+3ekim-telefon.art
 3ekz7b2.cn
 3elysone.com
 3enbah0st.ddns.net
@@ -99992,9 +99998,3 @@ cumhurbaskanlikgov.b-cdn.net
 cumhurbaskanlikgov1.b-cdn.net
 cumhurbaskanlikgov50.com
 cumhurbaskanlikgov51.com
-cumhurbaskanlikgov54.com
-cumhurbaskanlikgov70.com
-cumhurbaskanlikgovtr10001.com
-cumhurbaskanlikgovtr1001.com
-cumhurbaskanlikgovtr86.com
-cumhurbaskanlikgovtrd1.com
