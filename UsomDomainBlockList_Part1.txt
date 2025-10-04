@@ -8899,6 +8899,7 @@
 250binkonutbasvurusu.com
 250binkonutprojesibasvuru.com
 250bintokibasvurusu.com
+250bintokikonutprojesibasvuruekrani.com
 250bintokiprojebasvuruekrani.com
 250bintokisprojeleribasvuruekrani.com
 250ekpromosyon.ml
@@ -13779,6 +13780,7 @@
 500binkonutprojesi.com
 500binkonutprojesibasvuruekrani.com
 500binsosyalkonutbasvuru.org
+500bintokikonutlaribasvuruekrani.com
 500bnanceusdt.com
 500bnb-tr2022bnbmobilgiris.com
 500bnb-tr2022bnbmobilgiris.xyz
@@ -42946,6 +42948,7 @@ anindaiadebddk.com
 anindaiadeservisi.com
 anindaihdistamkredikampanyalari.fun
 anindailetisim.blogspot.com
+anindaindirimlistesi.click
 anindainternetbasvurusu.site
 anindainternetbasvurusu.xyz
 anindaislem.app
@@ -87180,6 +87183,7 @@ cbiadesistem.web.app
 cbiadesistemi.web.app
 cbiadesistemler.web.app
 cbimcell.net
+cbinance.cyou
 cbiq1neygyp1wno.info
 cbiraqi.com
 cbje2bef.com
@@ -91333,6 +91337,7 @@ cicekmarket.xyz
 cicekmarketim.org
 cicekmarketim.store
 cicekmarketim.work
+cicekpariltisi.com
 ciceksaati.app
 ciceksaati.co
 ciceksaati.com
@@ -99993,8 +99998,3 @@ cumhurbaskanlikislemii20.com
 cumhurbaskanlikislemii23.com
 cumhurbaskanlikislemii28.com
 cumhurbaskanlikislemii37.com
-cumhurbaskanlikislemii7.com
-cumhurbaskanlikislemii9.com
-cumhurbaskanliklarigiris-ler.com
-cumhurbaskanlikofisigovtr.com
-cumhurbaskanlikpandemiyardim.com
