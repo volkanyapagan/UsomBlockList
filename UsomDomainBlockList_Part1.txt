@@ -492,6 +492,7 @@
 0429502-220607.com
 0439593459823940492.cloud
 044004400444.duckdns.org
+044411212400.duckdns.org
 04441235044204.duckdns.org
 04442121004444.duckdns.org
 044421422024.duckdns.org
@@ -52130,6 +52131,7 @@ ayuzbirim1.com
 ayuzbirklimasiparis.com
 ayuzbirmarketapp.com
 ayuzbirndrm.net
+ayuzbironlinekampanyalari.online
 ayuzbirperakende.com
 ayuzbirramazan101.shop
 ayuzbirxdvlfirsat.za.com
@@ -76358,6 +76360,7 @@ bnglobal-basvuru.com
 bnglobal.xyz
 bnglobalfirsat.net
 bnglobaling.sbs
+bnglobalprime.sbs
 bnglobalprotech.sbs
 bnglobalsolutions.sbs
 bnglobalventures.sbs
@@ -86525,6 +86528,7 @@ carrefoursa-indirimgunux.com
 carrefoursa-indirmleri.vercel.app
 carrefoursa-kampanya.com
 carrefoursa-mobile.com
+carrefoursa-online-ozel.vercel.app
 carrefoursa-online.vercel.app
 carrefoursa-sepet.vercel.app
 carrefoursa-sepette.vercel.app
@@ -99994,7 +99998,3 @@ cumhurbaskanlikap5.com
 cumhurbaskanlikdanduyurutr.com
 cumhurbaskanlikdanduyurutr1.com
 cumhurbaskanlikdepartmani.com
-cumhurbaskanlikdestekpaket.xyz
-cumhurbaskanlikduyuru.net
-cumhurbaskanlikduyurutr45.com
-cumhurbaskanlikduyurutr50.com
