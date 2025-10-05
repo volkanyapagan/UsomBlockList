@@ -2130,6 +2130,7 @@
 101alisverisredmiburasi.cfd
 101alisverisredmiburasi.sbs
 101alisverisredmiburasidir.sbs
+101alisverissepeti.cfd
 101anindakapinda-com-tr.cfd
 101anindakapinda-com-tr.sbs
 101anindakapinda-com.cfd
@@ -23373,6 +23374,7 @@ a110.innovatecloud.sbs
 a1101a1-ldd-inxyzfdirsat.xyz
 a1101a1ldd-inxyzfdirsat.xyz
 a1101f1ir-satdxyzalddin.xyz
+a110marketkampanya.online
 a1111swpwpwwweoqsd.xyz
 a1112334.zhcdn.ddosjq.xyz
 a112.brightvista.cfd
@@ -52402,6 +52404,7 @@ b-b-vtr-ekran-web.za.com
 b-bconsult.com
 b-bmn.blogspot.com
 b-bnn.blogspot.com
+b-bwamenugirisllemonliinen.com
 b-cell-hizmetleriniz.gq
 b-cell-kampanyalar.gq
 b-cell-yukleyici.gq
@@ -99995,6 +99998,3 @@ cumhurbaskanlik875.com
 cumhurbaskanlik878.com
 cumhurbaskanlik879.com
 cumhurbaskanlik887.com
-cumhurbaskanlik88787.com
-cumhurbaskanlik9636.com
-cumhurbaskanlikalkinma.com
