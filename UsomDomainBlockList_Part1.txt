@@ -1867,6 +1867,7 @@
 101-com-tr.shop
 101-com-trs.com
 101-com-trs1.com
+101-comdsl.art
 101-cumafirsat.com
 101-cumaksami.com
 101-cumartesiaksamx.com
@@ -37442,6 +37443,7 @@ aktuel-web.com
 aktuel-yuzbirmagaza.com.tr
 aktuel-yuzbirmagazalari.com.tr
 aktuel.101-15mayisaksam.com
+aktuel.101-comdsl.art
 aktuel.101-cumaksami.com
 aktuel.101-eylulurunleri.net
 aktuel.101-mayis25aksam.com
@@ -39351,8 +39353,10 @@ aldnaldnpzrts.store
 aldnaldnsadecesabahaozei.dyndns.org
 aldnbuseferkazan.blogdns.org
 aldnfirsatindadahaiyisi.blogdns.org
+aldnfirsatipos.blogdns.org
 aldnfrlsatlariyaa1o1.duckdns.org
 aldngeliadi.art
+aldnkacrmafirsatlari.blogdns.org
 aldnkazanhepkazan.duckdns.org
 aldnkialdnikazan.blogdns.org
 aldnkiyapcaza1o1de.ddnsgeek.com
@@ -83196,6 +83200,7 @@ buyukbankasi.com
 buyukcampanya.click
 buyukcekilis-enpara.com
 buyukcekmece.online
+buyukeylulindirimi.click
 buyukfirsataylarim.com.tr
 buyukfirsataylarim.online
 buyukfirsataylarim.xyz
@@ -85511,6 +85516,7 @@ callconverse.top
 callcumhe.hopto.org
 calldeprivation.top
 called-myweb-gir-in.sa.com
+called-sayfalar-info1.sa.com
 callejas2013.publicvm.com
 callh3re3181212.tk
 callhere31712123456789.tk
@@ -99992,9 +99998,3 @@ cumhurbaskanlik-aktarim-ve-dagitim-tr.com
 cumhurbaskanlik-dagitim-tr.com
 cumhurbaskanlik-resmi-baskanlik-sayfasi.com
 cumhurbaskanlik-resmidaire-baskanlik-sayfasi.com
-cumhurbaskanlik-tc-resmisayfa.com
-cumhurbaskanlik-tccbmtr45.com
-cumhurbaskanlik-tccbmtr48.com
-cumhurbaskanlik-tccbmtr49.com
-cumhurbaskanlik-tccbmtr52.com
-cumhurbaskanlik-tccbmtr54.com
