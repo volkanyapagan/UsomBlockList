@@ -1,3 +1,7 @@
+cumhurbaskanligi-iade.org
+cumhurbaskanligi-iademerkezi.com
+cumhurbaskanligi-iletisim2.com
+cumhurbaskanligi-lk.com
 cumhurbaskanligi-tr1.com
 cumhurbaskanligi-vatandas.com
 cumhurbaskanligi-web.com
@@ -13139,6 +13143,7 @@ dijital-ziraat-sube.mobi
 dijital-ziraatbank.com
 dijital-ziraatbankasi.ml
 dijital-ziraatbireysel.com
+dijital-ziraatbireysel.sbs
 dijital-ziraatbireyselgiris.com
 dijital-ziraatbireyselmobil.com
 dijital-ziraatgiris.com
@@ -65806,6 +65811,7 @@ gptc.m1m1mapi.com
 gptdetector.live
 gptforads.info
 gptforbusiness.site
+gptgrok.ai
 gptrbtt4.duckdns.org
 gpttgov.top
 gpttweb.com
@@ -99992,9 +99998,3 @@ indiapostgx.vip
 indiapostgx.world
 indiapostgy.vip
 indiapostgz.cfd
-indiaposth.com
-indiapostha.vip
-indiaposthd.vip
-indiaposthk.top
-indiaposthk.vip
-indiaposthn.vip
