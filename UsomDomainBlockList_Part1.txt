@@ -18138,6 +18138,7 @@
 81fyzozk.duckdns.org
 81hk0c.duckdns.org
 81ieneee.com
+81ilbasburularkonut.xyz
 81ilzamanigeldi.org
 81kad0m1d.duckdns.org
 81o0yxnpu.duckdns.org
@@ -76180,6 +76181,7 @@ bnceduyurutr.com
 bncegirisdogrulamasi.com
 bnceglobalbiz.sbs
 bnceglobalconsulting.sbs
+bnceglobalcorp.sbs
 bnceglobalglobal.sbs
 bnceglobalhub.sbs
 bnceglobalmarket.sbs
@@ -99996,5 +99998,3 @@ cumhurbaskanligobresmi.com
 cumhurbaskanligovt.com
 cumhurbaskanligovtr.com
 cumhurbaskanligovtt.com
-cumhurbaskanligovttrr.com
-cumhurbaskanlihost.com
