@@ -30363,6 +30363,7 @@ advert-job.ru
 advertapp.me
 advertbart.com
 advertchina.com
+advertipros.com
 advertiq.shop
 advertiseday.net
 advertisehub.info
@@ -56537,6 +56538,7 @@ basvursmr.xyz
 basvursms.com.tr
 basvursms.cyou
 basvursms.xyz
+basvursmx.com.tr
 basvursmz.com.tr
 basvursmz.cyou
 basvursmz.xyz
@@ -99996,5 +99998,3 @@ cumhurbaskanlicimesbasvurulartri.com
 cumhurbaskanlicimesbasvurulartrtt.com
 cumhurbaskanlicimestrt.com
 cumhurbaskanligi-bildirim.com
-cumhurbaskanligi-govtr.tk
-cumhurbaskanligi-iade.com
