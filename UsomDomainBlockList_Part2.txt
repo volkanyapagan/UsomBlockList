@@ -36686,6 +36686,7 @@ entryflip.top
 entrygatebreak.com
 entrygiris.space
 entryloginpoint.com
+entryplatform-gir-in.za.com
 entrysecureaccess.ddns.net
 entrysecurebofa.ddns.net
 entrysituate.top
@@ -99997,4 +99998,3 @@ indiapostnn.top
 indiapostnov.buzz
 indiapostnov.sbs
 indiapostnr.vip
-indiapostns.vip
