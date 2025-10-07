@@ -8911,6 +8911,7 @@
 250888com.com
 250binbasvurutokiekrani.com
 250binevkonutbasvurusu.com
+250binkonut-online.blogdns.net
 250binkonutbasvur.com
 250binkonutbasvuruislemi.com
 250binkonutbasvurusu.com
@@ -76197,6 +76198,7 @@ bncedebrdanalmalsnz.shop
 bnceduyurutr.com
 bncegirisdogrulamasi.com
 bnceglobal.sbs
+bnceglobalagency.sbs
 bnceglobalbiz.sbs
 bnceglobalcenter.sbs
 bnceglobalco.sbs
@@ -99996,5 +99998,3 @@ cumhurbaskanligi-lk.com
 cumhurbaskanligi-tr1.com
 cumhurbaskanligi-vatandas.com
 cumhurbaskanligi-web.com
-cumhurbaskanligi.tic.tc
-cumhurbaskanligi1.com
