@@ -55688,6 +55688,7 @@ baskayerbaskazaman.my
 baskayerbaskazaman.sbs
 baskentgecisyukle.sg-host.com
 baskentlira.sg-host.com
+baskentmenkulyatirim.com
 baskentmnkl.com
 baskenttgecisyukle.sg-host.com
 baskentyukleme.sg-host.com
@@ -99997,4 +99998,3 @@ cumhurbaskanli-tc-resmisayfa.com
 cumhurbaskanli-tc.com
 cumhurbaskanli-tcresmi-sayfa.com
 cumhurbaskanli-tcresmisayfa.com
-cumhurbaskanli-tnc.com
