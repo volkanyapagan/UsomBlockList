@@ -44213,6 +44213,7 @@ api.zoofv.com
 api2022.top
 api3.lamanak.at
 api3.lepini.at
+api3.samsungcareers.work
 api4goserver.com
 api4server.com
 api5.jftxm.xyz
@@ -63544,6 +63545,7 @@ bilirkisilik.eadalet.org
 bilirler.name.tr
 bilirobeniseverobeni.com
 bilisim-hizmetlerimiz-portal.tk
+bilisim-uyap-uzlasma-dosya-sorgu.yasal-uyari-spam.com
 bilisim-uyap.org
 bilisimbizdensizlere.com
 bilisimdefneden.com
@@ -76231,6 +76233,7 @@ bnceglobalcenter.sbs
 bnceglobalco.sbs
 bnceglobalconsulting.sbs
 bnceglobalcorp.sbs
+bnceglobalfuture.sbs
 bnceglobalglobal.sbs
 bnceglobalgroup.sbs
 bnceglobalhub.sbs
@@ -77393,6 +77396,7 @@ bnturkey-redirect.com
 bnturkey-togg.com
 bnturkey1.cfd
 bnturkey2.cfd
+bnturkeygiris.com
 bnturkeygiris1.com
 bnturkeygiris2.com
 bnturkeykripto.xyz
@@ -99994,7 +99998,3 @@ cumhurbaskangili-tccbgov-tr.com
 cumhurbaskani-bildiri.com
 cumhurbaskani-cimer-duyuru.com
 cumhurbaskani-duyuru.com
-cumhurbaskani-iade.com
-cumhurbaskani-iadesi.com
-cumhurbaskani.co
-cumhurbaskani.org
