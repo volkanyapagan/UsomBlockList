@@ -1,3 +1,4 @@
+qttgav.sbs
 qttgov.sbs
 qttgov.site
 qttgov.top
@@ -25595,6 +25596,7 @@ sikayetvarmobil-10.sbs
 sikayetvarmobil-14.sbs
 sikayetvarmobil-19.sbs
 sikayetvarmobil-24.sbs
+sikayetvarmobil-26.sbs
 sikayetvarmobil-27.sbs
 sikayetvarmobil-30.sbs
 sikayetvarr-destek.cf
@@ -99996,5 +99998,3 @@ yapikredi-esubemiz.com
 yapikredi-firsat.com
 yapikredi-firsatlarim.com
 yapikredi-form.shor.tn
-yapikredi-giris.com
-yapikredi-giris.online
