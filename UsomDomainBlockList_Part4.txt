@@ -1,3 +1,12 @@
+qr-onlinebankacilik.com
+qr-s1.com
+qr-s2.com
+qr-s3.com
+qr-s4.com
+qr-yapikredi.com
+qr-yapikredi.website
+qr19u5pl.duckdns.org
+qr202754.pw
 qr3ucti.duckdns.org
 qr4tay17g.duckdns.org
 qr5ghx0i.duckdns.org
@@ -11970,6 +11979,7 @@ sahibinden-paramguvende.tk
 sahibinden-paramguvende.tr-alisveris.net
 sahibinden-paramguvende.tr-alisverisler.net
 sahibinden-paramguvende.tr-alisverislerin.net
+sahibinden-paramguvende.tr-get-siparis.online
 sahibinden-paramguvende.tr-guvenliodeme.sa.com
 sahibinden-paramguvende.tr-hizmet.com.tr
 sahibinden-paramguvende.tr-onlineodeme.sa.com
@@ -12507,6 +12517,7 @@ sahibinden.getlinkpayment.com
 sahibinden.getmobilodeme.com.tr
 sahibinden.gets-alisverisin.com.tr
 sahibinden.gets-alisverisiniz.com.tr
+sahibinden.gets-islemler-siparis-tr.online
 sahibinden.gets-satisim.com.tr
 sahibinden.gets-ticaretim.com.tr
 sahibinden.gets.alisveris-ilanim.com.tr
@@ -52787,6 +52798,7 @@ tr-gateio.com
 tr-get-ilanlar.com
 tr-get-ilanlarim.com
 tr-get-secure.online
+tr-get-siparis.online
 tr-get.net
 tr-get.online
 tr-gets.online
@@ -99986,15 +99998,3 @@ yapikedibankasi.com
 yapikediworld.com
 yapikeradi.com
 yapikerdi.com
-yapikerdibank.com
-yapikerebi.com
-yapikeredi.com
-yapikerib.com
-yapikirebi.com
-yapikiredi-kampanya.win
-yapikiredi-mobil.com
-yapikiredibireyselsubem.com
-yapikirediinternetsubesi.cf
-yapikirediinternetsubesi.ml
-yapikirediinternetsubesi.tk
-yapikkredi.com
