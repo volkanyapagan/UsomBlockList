@@ -1,3 +1,5 @@
+indexrangco.duckdns.org
+indexregioa.duckdns.org
 indexsgautanti.duckdns.org
 indexsgsgemsps.duckdns.org
 indextechno.com
@@ -25077,6 +25079,7 @@ kendim-icin-dijital.org
 kendim-icin-sayfalartr-in.sa.com
 kendime-ozel-sunucu-kulanimi.ml
 kendimicin-gunes-tr-in.za.com
+kendimicintr.sa.com
 kendimincuzdani.com
 kendimiz-fedakarlik-yaptik-gelen-gorer.com
 kendimizdenmigecelimdayi.com
@@ -57363,6 +57366,7 @@ mutluedecekkampanyalar.my
 mutluedecekkampanyalar.pics
 mutluedecekkampanyalar.sbs
 mutluedecekyarinlarburada.online
+mutluedecekyarinlarburada.xyz
 mutlugelecek.xyz
 mutlugonuller.com
 mutlugonulluler.com
@@ -81034,6 +81038,7 @@ parakral.com
 parakrediborc.com
 paralaparayardim.com
 paralarimguvende.com
+paralas.click
 paralelboyutlarvedijitalruhtasarimi.xyz
 paralelgezegenlerveyapaysavaslar.xyz
 paraligez.net
@@ -99993,8 +99998,3 @@ qqnbiadm.vercel.app
 qqnbikmpny.vercel.app
 qqnbikmpnys.vercel.app
 qqnbirvtrl.vercel.app
-qqnbkampanya.vercel.app
-qqnbkampanyakatil.vercel.app
-qqnblekampan.vercel.app
-qqnbvb.space
-qqnibvrys.vercel.app
