@@ -1,3 +1,5 @@
+qttgov.sbs
+qttgov.site
 qttgov.top
 qttgovonline.sbs
 qttgovonline.top
@@ -99996,5 +99998,3 @@ yapikredi-firsatlarim.com
 yapikredi-form.shor.tn
 yapikredi-giris.com
 yapikredi-giris.online
-yapikredi-girisler.com
-yapikredi-girismobilweb.com
