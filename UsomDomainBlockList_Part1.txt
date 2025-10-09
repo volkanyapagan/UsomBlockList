@@ -710,6 +710,7 @@
 0872628.duckdns.org
 087unpo7.duckdns.org
 08823200880.duckdns.org
+0888213215220.duckdns.org
 08913bhi0.duckdns.org
 08952321800560725.online
 08952321800560725.xyz
@@ -76273,6 +76274,7 @@ bnceglobalagency.sbs
 bnceglobalbase.sbs
 bnceglobalbiz.sbs
 bnceglobalcenter.sbs
+bnceglobalcloud.sbs
 bnceglobalco.sbs
 bnceglobalconsulting.sbs
 bnceglobalcorp.sbs
@@ -99996,5 +99998,3 @@ cumassaatleri.online
 cumauygun383.com
 cumavaktindirimi.duckdns.org
 cumavrg.net
-cumayahizlibasla.online
-cumayaozelindirim.com
