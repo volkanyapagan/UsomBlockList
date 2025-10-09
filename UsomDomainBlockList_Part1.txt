@@ -10894,6 +10894,7 @@
 342423321111.cloud
 3424320101.cloud
 342432521213111.de
+34253.vercel.app
 34254361231264243.com
 3425663.cloud
 342599834882399.cloud
@@ -37102,6 +37103,7 @@ aktier.1eylul-barisgunu.site
 aktier.30agustosdabugun.art
 aktier.4ekim-aksm.art
 aktier.5ekim-aksamda.art
+aktier.9ekim-guncel.art
 aktier.carsamba-onlinefrstimd.com
 aktier.ekim-cumafrsti.com
 aktier.ekim-firstlarikacmaz.com
@@ -51745,6 +51747,7 @@ axesfirsat.org.tr
 axesfirsatlari.com.tr
 axesfirsatlari.net.tr
 axesfirsatlari.org.tr
+axeshep.click
 axesleee-sizi-bekliyoruzzz.top
 axesliol.click
 axesliyoruz.top
@@ -76278,6 +76281,7 @@ bnceglobalcloud.sbs
 bnceglobalco.sbs
 bnceglobalconsulting.sbs
 bnceglobalcorp.sbs
+bnceglobaledge.sbs
 bnceglobalflow.sbs
 bnceglobalfuture.sbs
 bnceglobalglobal.sbs
@@ -99994,7 +99998,3 @@ cumasiparisaksamm.com
 cumasiparishemen.com
 cumasiparishizmetleri.com
 cumasiparisonline.com
-cumassaatleri.online
-cumauygun383.com
-cumavaktindirimi.duckdns.org
-cumavrg.net
