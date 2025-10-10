@@ -1932,6 +1932,7 @@
 101-magaza.com.tr
 101-magaza.net
 101-magazalari.com.tr
+101-mamocdolar.com
 101-market-online.com
 101-marketim-haftasonukampanyalari.vercel.app
 101-marketleri-haftasonukampanyalari.vercel.app
@@ -30573,6 +30574,7 @@ aerospire.site
 aerosunelectric.com
 aerotecisag.com
 aerotransfer.cl
+aerovater.com
 aersix.ddns.net
 aerusfirs.xyz
 aesbimcell.com
@@ -40487,6 +40489,7 @@ alldataservice.com
 allday.gr
 alldin-alldin-online-ozel.com
 alldnnnaldnnnfrstkpindasmdifrslrkpimda.store
+alldnnnaldnnnkpimdabcmatslmate.store
 alldnnnaldnnnkpimdabcmatslmt.store
 alldnnnaldnnnkpimdabcmfleng.tech
 alldnnxaldnnhftnn-yldzlliurnllri.net
@@ -76578,6 +76581,7 @@ bngliadeler.net
 bnglo2024systemxcdm.com
 bnglobal-basvuru.com
 bnglobal.xyz
+bnglobalcapital.sbs
 bnglobalcenter.sbs
 bnglobaledge.sbs
 bnglobalfirsat.net
@@ -94710,6 +94714,7 @@ cokdegistimbenkizim.net
 cokepramehot.duckdns.org
 cokeziksiniz.cfd
 cokgezenti.name.tr
+cokgucluyuz.cfd
 cokgucluyuz.sbs
 cokguzel-firsat-1o1-kampanya.com
 cokguzelgunleraslakacirma.com.tr
@@ -99993,8 +99998,3 @@ cumartesi-agustsindrm.net
 cumartesi-firsat-kapina-geldi.xyz
 cumartesi-firsatlari-1o1.shop
 cumartesi-indirim.com
-cumartesi-indirimleri.com
-cumartesi-ozel.com
-cumartesi-ramazan.com
-cumartesi-siparis101.com
-cumartesi-temmuzindirimgunu.com
