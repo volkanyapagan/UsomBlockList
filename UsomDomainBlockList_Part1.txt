@@ -13821,6 +13821,7 @@
 50087254931.duckdns.org
 5009a51a0347.com
 500bin-konutbasvuru.cfd
+500bin.konutbasvurulari.cloud
 500binkonutbasvuru.blogdns.net
 500binkonutbasvuruekrani.com
 500binkonutprojesi.com
@@ -76331,6 +76332,7 @@ bnceglobalhub.sbs
 bncegloballink.sbs
 bnceglobalmarket.sbs
 bnceglobalmax.sbs
+bnceglobalmedia.sbs
 bnceglobalnet.sbs
 bnceglobalnetwork.sbs
 bnceglobalone.sbs
@@ -99989,12 +99991,10 @@ cumansedas.site
 cumaodemem.net
 cumaoglen30.com
 cumaonlineozel6.com
+cumaonlnefrstmz.com
 cumaramazanaksam.com
 cumarteifirsataddresi.com.tr
 cumarteifirsataddresi.online
 cumarteifirsataddresi.xyz
 cumartes-marketgncl.com
 cumartesi-agustsindrm.net
-cumartesi-firsat-kapina-geldi.xyz
-cumartesi-firsatlari-1o1.shop
-cumartesi-indirim.com
