@@ -18595,6 +18595,7 @@
 888230902377409012.cloud
 8882ybcdzjwi1.ru
 88833434343.duckdns.org
+8884548880888.duckdns.org
 88845566005.cloud
 88865485.cloud
 8887-787854-78879-87897.cyou
@@ -56798,6 +56799,7 @@ basvuru-bn-campaign.net
 basvuru-bn-campaignday.net
 basvuru-bn-campaigndays.net
 basvuru-bn-kampanyadays.net
+basvuru-bnc-girisler.vercel.app
 basvuru-bncastr.com
 basvuru-btc-turk.com
 basvuru-btcfurkpro-trx.com
@@ -99996,5 +99998,3 @@ cumagustos97.com
 cumahizlionline56.com
 cumahizmetleri.com
 cumahizmetlerisiparis.com
-cumaindirim.com
-cumaindirimitestereicin.xyz
