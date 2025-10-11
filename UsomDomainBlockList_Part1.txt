@@ -76201,6 +76201,7 @@ bnc-iadesistemi.com
 bnc-kampany-4783921.com
 bnc-kampanya-basvuru.cloud
 bnc-kampanyabasvuru.cloud
+bnc-online-girisler.vercel.app
 bnc-tr-basvru-ekrni-girsler.com.tr
 bnc-tr-event.net
 bnc-verification.com
@@ -99997,4 +99998,3 @@ cumahizmetleri.com
 cumahizmetlerisiparis.com
 cumaindirim.com
 cumaindirimitestereicin.xyz
-cumaindirimitestereicinfirsat.xyz
