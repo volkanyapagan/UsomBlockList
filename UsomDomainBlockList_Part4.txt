@@ -1,3 +1,10 @@
+qnbqnbres.vercel.app
+qnbramazan.com
+qnbramazanbasvuru-tr.com
+qnbrdkampanyalarim.vercel.app
+qnbreskamp.vercel.app
+qnbresko.vercel.app
+qnbreskor.vercel.app
 qnbreskqnb.vercel.app
 qnbrkampany.vercel.app
 qnbs-finansbankasienpara.com
@@ -10344,6 +10351,7 @@ sadcnonlinkmo.duckdns.org
 sadconlna1o1kamp.duckdns.org
 sadconlndekmp.duckdns.org
 sadcta-client.co.za
+sadcttgffirstlomlin.duckdns.org
 sadcuisine.top
 saddaddasdsadsabbbmmmmcelll.org
 saddasadssdasdadsadapaketykle.net
@@ -51479,6 +51487,7 @@ tokievim.com.tr
 tokigarantigiris.com
 tokiggbasvurularisf.blogspot.com
 tokigncelbasvuru.mooo.com
+tokigncelbavsv.mooo.com
 tokigovbasvurulari.com
 tokigovtr.b-cdn.net
 tokigovtr.com
@@ -51926,6 +51935,7 @@ toplukonutbasvurusu.com
 toplukonutidaresi.com
 toplukonutidaresibaskanligi.com
 toplukonutiidaresibaskanligi.com
+toplukonutlarbasvuru.com
 toplukonutlaridaresi.com
 toplukonutlsmler.org
 toplukonutprojesi.com
@@ -99988,13 +99998,3 @@ yapi-kredi-sendekazan.com
 yapi-kredi-tr-digitalbanka.com
 yapi-kredi-tr-web-bireysel.com
 yapi-kredi-tr-web-giris.com
-yapi-kredi-tr.cf
-yapi-kredi-tr.com
-yapi-kredi-web-basvur.com
-yapi-kredi-web-cekilis.com
-yapi-kredi-web-giris.com
-yapi-kredi-web-girsd-mobil.com
-yapi-kredi-web-katilim.com
-yapi-kredi-web-online-sube.com
-yapi-kredi-web-tr-giris.com
-yapi-kredi-web-tr-giris.net
