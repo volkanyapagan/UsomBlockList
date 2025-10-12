@@ -58309,6 +58309,7 @@ basvuruyap-turkiyegovtr.com
 basvuruyap.com.tr
 basvuruyap.mefound.com
 basvuruyap.mooo.com
+basvuruyap.net
 basvuruyap.online
 basvuruyap.org
 basvuruyap.rest
@@ -86669,6 +86670,7 @@ carfurefsaneindirimler.duckdns.org
 carfursa-com.fixip.org
 carfursa-market.site
 carfursa-online.site
+carfursa.mooo.com
 carfursa47ndrm.com
 carfursea1.com
 carfurssa.shop
@@ -99996,5 +99998,3 @@ cumaadres-32d3a0cf0aa1.herokuapp.com
 cumaadres1-c91d6eeb363c.herokuapp.com
 cumaadresi-055bcad6b088.herokuapp.com
 cumaadresi1-a9bf5b700af0.herokuapp.com
-cumaadresi11-ca7d9935c1ae.herokuapp.com
-cumaadresi12-7fd3d00a504f.herokuapp.com
