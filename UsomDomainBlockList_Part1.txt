@@ -19506,6 +19506,7 @@
 92929-11-111.cloud
 9299954564.cloud
 92999564654.cloud
+92b29893g2920hg387.duckdns.org
 92cwz9.duckdns.org
 92g938uextmgvb7rllv8wcad.biz
 92gbhs.duckdns.org
@@ -78821,6 +78822,7 @@ borsalivehaber.online
 borsalsan.com
 borsanabzi.com
 borsapetrolturk.com
+borsaportali.org
 borsaptrl.com
 borsara-tr.com
 borsarapor.online
@@ -99996,5 +99998,3 @@ cuhvivq6.duckdns.org
 cuhxusxgsxj.net
 cuileodels.net
 cuinbbsewltxtsn.webflow.io
-cuisine-enligne.com
-cuisinecapsule.top
