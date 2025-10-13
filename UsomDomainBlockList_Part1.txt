@@ -8335,6 +8335,7 @@
 222321313.cloud
 222322332.cloud
 2223232323153.cloud
+22232522500212.duckdns.org
 22234111.duckdns.org
 2228876238-6774344.com.tr
 2228876238-6774344.xyz
@@ -91711,6 +91712,8 @@ cicekbahcesi.co
 cicekbahcesi.info
 cicekbahcesi.pro
 cicekbahcesi.site
+cicekbuketim.info
+cicekbuketim.vip
 cicekcidukkani.b-cdn.net
 cicekcigledx.com.tr
 cicekdiyari.co
@@ -99995,6 +99998,3 @@ culturestraight.top
 cultureusual.top
 culverineer.com
 culxs6.duckdns.org
-cum9ti.duckdns.org
-cuma-aksamf.com
-cuma-ekimimd.com
