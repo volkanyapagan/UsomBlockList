@@ -44658,6 +44658,7 @@ app.95560.cc
 app.a101kurbanbayrami.com
 app.a101kurbanbayrami.xyz
 app.beefylswap.top
+app.blance.workers.dev
 app.btcturk-crypto.com
 app.btcturk-nft.com
 app.centralgoogle.com
@@ -88058,6 +88059,7 @@ cdn.googlstaticontent.com
 cdn.iconstaff.top
 cdn.inspectdlet.net
 cdn.jguery.org
+cdn.kindylib.info
 cdn.labzires.info
 cdn.laokpl.com
 cdn.lgaircon.xyz
@@ -99996,5 +99998,3 @@ ctoken.info
 ctos666.ddns.net
 ctowud.com
 ctp1.xyz
-ctp3.xyz
-ctp94q3mr.duckdns.org
