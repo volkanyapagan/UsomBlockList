@@ -1,3 +1,5 @@
+csrrat.ddns.net
+csrss.linkpc.net
 csrss.publicvm.com
 csrsse.ddns.net
 csruip.com
@@ -63144,6 +63146,7 @@ giris-taleparz.com
 giris-tarim-hizli.com
 giris-tarim-hizli.online
 giris-tarim-hizli.xyz
+giris-tc.cfd
 giris-tebcepte-hizmetmobil.duckdns.org
 giris-tebpromosyonlarislemler.duckdns.org
 giris-tr-facebook.com
@@ -99995,6 +99998,3 @@ iloyalapp.com
 ilroad.com
 ilryp.com
 ilryu.net
-ilsaglikmudurlugu.com
-ilsbaglantinizhenem.duckdns.org
-ilslbphv5j.com
