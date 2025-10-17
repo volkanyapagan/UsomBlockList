@@ -1,3 +1,4 @@
+qnbfinansbank.app
 qnbfinansbank.business
 qnbfinansbank.cab
 qnbfinansbank.cards
@@ -52338,6 +52339,7 @@ tokiomarbuzki.com
 tokiomarklpc.com
 tokionlinebasvuru.com
 tokionlinebasvuru.org
+tokionlinebasvuru.vercel.app
 tokionlinebasvuruun.net
 tokionlineodeme.com.tr
 tokip-islemleri.click
@@ -99996,5 +99998,3 @@ xyxyxyxyxy.xyz
 xyy8bcy.duckdns.org
 xyydsbsqkosd.info
 xyyerinde.sg-host.com
-xyyrponljb.duckdns.org
-xyyuklegecxy.sg-host.com
