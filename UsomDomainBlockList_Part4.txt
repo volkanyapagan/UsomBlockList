@@ -1,3 +1,8 @@
+qnbfinansbank.business
+qnbfinansbank.cab
+qnbfinansbank.cards
+qnbfinansbank.club
+qnbfinansbank.co.in
 qnbfinansbank.credit
 qnbfinansbank.eu
 qnbfinansbank.ga
@@ -99993,8 +99998,3 @@ xyydsbsqkosd.info
 xyyerinde.sg-host.com
 xyyrponljb.duckdns.org
 xyyuklegecxy.sg-host.com
-xyz.hxarasxg.xyz
-xyz.vegascheck.net.tr
-xyz1.ddns.net
-xyz123abc.ddns.net
-xyz2.ddns.net
