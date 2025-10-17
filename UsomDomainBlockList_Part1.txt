@@ -13884,6 +13884,7 @@
 500binkonutprojembasvuruekrani.com
 500binkonutprojesi.com
 500binkonutprojesibasvuruekrani.com
+500binkonutum.sbs
 500binsosyalkonutbasvuru.org
 500bintokikonutlaribasvuruekrani.com
 500bintoplukonut.com
@@ -53736,6 +53737,7 @@ b6y2o2nuz.duckdns.org
 b6z.net
 b6zsumm.duckdns.org
 b7044875-43ce-4640-975a-e96c240b0060-00-37nlup93tlwtt.picard.replit.dev
+b714ha3gmn356819yae.com.tr
 b732860186po4863.store
 b74328732487.online
 b77f2w.duckdns.org
@@ -57734,6 +57736,7 @@ basvurular-aile-com-resmibakanlikgovtr.tc
 basvurular-aile-com-resmibakanlikgovtr.tk
 basvurular-aile150.com
 basvurular-ailevesaglik-bakanlikgovtr.tk
+basvurular-basladi.com
 basvurular-basladi2025.blogdns.net
 basvurular-bddk.com
 basvurular-bilgilendirmesistemi.com
@@ -99995,6 +99998,3 @@ ctguvende.online
 cthi.nconfhz.com
 cthree.msoftupdates.com
 ctiadesistemi.com
-ctiauth00sup.zapto.org
-cticmourn.top
-ctintelligible.top
