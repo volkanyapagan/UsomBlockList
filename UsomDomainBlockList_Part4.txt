@@ -1,3 +1,6 @@
+qnbbank.vercel.app
+qnbbankonline.com
+qnbbankqnb.vercel.app
 qnbbasvuru.online
 qnbbasvuruaidat-tr.com
 qnbbasvuruaidat.com
@@ -68396,6 +68399,7 @@ url-redirect3.site
 url-redirect4.site
 url-redirect5.site
 url-redirect7.site
+url-redirect99.cfd
 url-redirect999.cfd
 url-redirectam.sbs
 url-redirectfb.online
@@ -99994,7 +99998,3 @@ xs-paramguvende-ticaretlerim.shop
 xs109466.xsrv.jp
 xs1920.xyz
 xs2221123.cloud
-xs2mit4b5.ru
-xs3w5t.duckdns.org
-xs4dc70e.duckdns.org
-xs5o476y.duckdns.org
