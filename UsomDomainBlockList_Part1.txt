@@ -76706,6 +76706,8 @@ bncresmduyurutr.com
 bncresmibasvurutr.com
 bncresmiduyurutr.com
 bncresmigirstr.com
+bncrtr.xyz
+bncrtr1.xyz
 bncs.1dnserver.com
 bncs2024-roll-20241252-202412.com
 bncs2024-roll-3523582-202421.com
@@ -99996,5 +99998,3 @@ csijgwdmuf.com
 csint.online
 csiro.au
 csjmvh.duckdns.org
-csjumytnng.duckdns.org
-csk-bip-lubelskie.pl
