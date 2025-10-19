@@ -242,6 +242,7 @@
 0120301201.ddns.net
 0120340120.online
 012120212540.duckdns.org
+0121945102d.duckdns.org
 0121945102ned.duckdns.org
 0121945104615g2ned.duckdns.org
 0122120212202.duckdns.org
@@ -15400,6 +15401,7 @@
 60431.club
 604418589.xyz
 60486ccom.com
+605262184.cloud
 605988365.dfgqdsd.ru
 605nseu.cn
 6060606000001.cloud
@@ -42688,6 +42690,7 @@ anasayfa-ilanlarim.com
 anasayfa-kampanya.com
 anasayfa-kampanyalarim.com
 anasayfa-katalog-urunler.duckdns.org
+anasayfa-page-tr.digital
 anasayfa-tr.com
 anasayfa-tr.online
 anasayfa-tr.today
@@ -57886,6 +57889,7 @@ basvurularbnntrgiris.online
 basvurularburadan.me
 basvurularburadan.sbs
 basvurularburadan.xyz
+basvurularebasvuru-resmi-gov-tr.info
 basvurularfnansmerkezi.vercel.app
 basvurularhediyesayfasipaributeknoloji-com.tk
 basvurularhemen.vercel.app
@@ -77800,6 +77804,7 @@ bnturkeygiris1.com
 bnturkeygiris2.com
 bnturkeygiris4.com
 bnturkeygiris4.site
+bnturkeykolaygiristr.xyz
 bnturkeykripto.xyz
 bnturkeykriptoparaaalimsatimplatformuanonimsirketi.com
 bnturkeykriptovarlikalimsatimplatformuanonimsirketi.com
@@ -99993,8 +99998,3 @@ csecureinfo09-53rd.hopto.org
 csecureinfo09verifb.zapto.org
 csecureinfo09verifm.hopto.org
 csed.aefrant.com
-csemag.com
-csembach.hopto.org
-csetlk.store
-cseujhlpf.com
-cseureinfo07verifb.hopto.org
