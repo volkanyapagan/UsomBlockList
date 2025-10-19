@@ -1,3 +1,4 @@
+csecureinfo09-53rd.hopto.org
 csecureinfo09verifb.zapto.org
 csecureinfo09verifm.hopto.org
 csed.aefrant.com
@@ -17878,6 +17879,7 @@ doswamp.top
 dosya-ceza.com
 dosya-ceza.sorgulama-turkiye.site
 dosya-no-sorgu.com
+dosya-sayfalar-try.digital
 dosya-sorgu.tr.za.com
 dosya-sorgula.net
 dosya-sorgula.net.dosya-sorgula.org
@@ -99996,5 +99998,3 @@ ilksiparstekampya.click
 ilksubbbeocddosatma.dev
 ilksube.dev
 ilksubeacikdenizv2denizbank.co.vu
-ilksuvakfi.com
-ilkuveytturk.com
