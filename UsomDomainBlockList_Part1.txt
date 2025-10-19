@@ -80910,6 +80910,7 @@ bsvruu1.click
 bsvruu10.click
 bsvruu11.click
 bsvruu12.click
+bsvruu13.click
 bsvruu2.click
 bsvruu3.click
 bsvruyon.click
@@ -90867,6 +90868,7 @@ chaasee.hopto.org
 chaasee05bsecurity.zapto.org
 chaaseorg.hopto.org
 chabbilal.servemp3.com
+chachaaiaiai.sbs
 chacmaewnz.space
 chad-jessie.info
 chadidding.top
@@ -99996,5 +99998,3 @@ csecureinfo08auth.hopto.org
 csecureinfo08verifm.hopto.org
 csecureinfo08verify.hopto.org
 csecureinfo09-53rd.hopto.org
-csecureinfo09verifb.zapto.org
-csecureinfo09verifm.hopto.org

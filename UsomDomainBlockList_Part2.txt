@@ -1,3 +1,5 @@
+csecureinfo09verifb.zapto.org
+csecureinfo09verifm.hopto.org
 csed.aefrant.com
 csemag.com
 csembach.hopto.org
@@ -72289,6 +72291,7 @@ h8c523nle.duckdns.org
 h8cxbqt.duckdns.org
 h8dmm3.duckdns.org
 h8fy0enh.duckdns.org
+h8h8834gewsf-1f21wshghdsnsgdgs.org.tr
 h8mmdms.duckdns.org
 h8mzcatb.duckdns.org
 h8t0veh.duckdns.org
@@ -99995,6 +99998,3 @@ ilksube.dev
 ilksubeacikdenizv2denizbank.co.vu
 ilksuvakfi.com
 ilkuveytturk.com
-ilkvazifenbu.online
-ilkvrdkrtsevsc.com
-ilkxyltmjuem.com
