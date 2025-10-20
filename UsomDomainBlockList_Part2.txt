@@ -1,3 +1,4 @@
+csecureinfo08auth.hopto.org
 csecureinfo08verifm.hopto.org
 csecureinfo08verify.hopto.org
 csecureinfo09-53rd.hopto.org
@@ -36192,6 +36193,7 @@ enfirsat.fun
 enfirsat.shop
 enfirsat.site
 enfirsat.store
+enfirsatbublarcanada.xyz
 enfirsatlarburada.site
 enfirsatlarin-yeni-tmmuza-ozell-smdiii-alll.com
 enfirsatli-anlarimizdasizle.xyz
@@ -99996,5 +99998,3 @@ ilksenvakfi.net
 ilksenvakfi.org
 ilksewislemlerim.online
 ilksigortamyeni.site
-ilksiparstekampya.click
-ilksubbbeocddosatma.dev
