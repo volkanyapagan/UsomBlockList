@@ -567,6 +567,7 @@
 0536d340.hwqwwrh.com.cn
 054bhu3.cn
 055212505555.duckdns.org
+0555012021202.duckdns.org
 0555054412505.duckdns.org
 055512585505.duckdns.org
 055hd.com
@@ -12878,6 +12879,7 @@
 44vh61.duckdns.org
 44ylwc7i.duckdns.org
 45-77-60-160.plesk.page
+45-85-85-96.cfd
 45-91-169-60.plesk.page
 45-hgs.glitch.me
 45.vaktindirim.com
@@ -57266,6 +57268,7 @@ basvuru-subat-giris.ip-ddns.com
 basvuru-talepadresi.com
 basvuru-tamamla-com-tr.cfd
 basvuru-tamamla-com-tr.shop
+basvuru-tbt.com
 basvuru-techbance.tech
 basvuru-togg.online
 basvuru-toki.com
@@ -83645,6 +83648,7 @@ butunherkesalmali.xyz
 butunhizmetler.app
 butunhizmetler.com
 butunindirimlerburada.click
+butunmarketlerdekiaktifindirimler-burada.cfd
 butunurunlerdekikampanyafirsati.cfd
 buugunburadan.shop
 buuncanlidersvarmi11.com
@@ -99994,7 +99998,3 @@ csec-03citizenverif.hopto.org
 csecure-02infverify.hopto.org
 csecure-04infverifp.hopto.org
 csecure-05infoverip.hopto.org
-csecure-06infoverif.hopto.org
-csecure-08mtbinfo.hopto.org
-csecure-53rd06verif.hopto.org
-csecure-c1infoverif.hopto.org
