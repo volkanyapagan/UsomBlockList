@@ -1,3 +1,4 @@
+ilkevim-portal-giris.com
 ilkevim-portal-giris.org
 ilkevim-t-0-k-i-basvuru.cfd
 ilkevim-t-0-k-i-basvuru.click
@@ -9698,6 +9699,7 @@ istanbu1l.click
 istanbu2l.click
 istanbu3l.click
 istanbu4l.click
+istanbu5l.click
 istanbu6l.click
 istanbudlaeglen.com.tr
 istanbuikart.com
@@ -44755,6 +44757,7 @@ manuelpredrosolora09.duckdns.org
 manuelyiyin.net
 manufacturec.top
 manufacturercardinal.top
+manukyanagency.info
 manulasimkrt.net
 manulaskrt.net
 manumission.cloudnestde.com.de
@@ -99995,6 +99998,3 @@ qnb-finans-mobil-com-tr.tk
 qnb-finans-mobil.com
 qnb-finans-pandemi-destek.com
 qnb-finans-parapuan.com
-qnb-finans-sube.com
-qnb-finans-subem.com
-qnb-finans-web-tr.com
