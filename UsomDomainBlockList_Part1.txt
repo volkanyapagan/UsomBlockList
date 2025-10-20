@@ -76720,6 +76720,7 @@ bncresmiduyurutr.com
 bncresmigirstr.com
 bncrtr.xyz
 bncrtr1.xyz
+bncrtr2.xyz
 bncs.1dnserver.com
 bncs2024-roll-20241252-202412.com
 bncs2024-roll-3523582-202421.com
@@ -99997,4 +99998,3 @@ csecureinfo07verifm.hopto.org
 csecureinfo07verifp.zapto.org
 csecureinfo08auth.hopto.org
 csecureinfo08verifm.hopto.org
-csecureinfo08verify.hopto.org
