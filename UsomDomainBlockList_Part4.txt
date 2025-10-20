@@ -1,3 +1,5 @@
+qnb-mayisfirsatlari-com.tk
+qnb-mobilfinans-islemleri.com
 qnb-mobilfirsatlar.com
 qnb-mobilgiris.com
 qnb-mobilinternet.com
@@ -74154,6 +74156,7 @@ vatandas-uyap-gov.eu
 vatandas-uyap.b-cdn.net
 vatandas-uyap.cfd
 vatandas-uyap.com
+vatandas-uyap.net
 vatandas-uyapgiris.com.tr
 vatandas-uyapgov.online
 vatandas-uyappgov.cloud
@@ -99995,6 +99998,3 @@ xrd1.net
 xreaktorlisance78.duckdns.org
 xred.mooo.com
 xred.site50.net
-xredirectservices.com
-xrent.store
-xrepositoryx.name
