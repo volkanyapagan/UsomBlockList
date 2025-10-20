@@ -1,3 +1,5 @@
+csecureinfo06auth.hopto.org
+csecureinfo06verifp.hopto.org
 csecureinfo07auth.hopto.org
 csecureinfo07verifb.zapto.org
 csecureinfo07verifm.hopto.org
@@ -64207,6 +64209,7 @@ girisyapkatilsubesizislemler.click
 girisyapkazan-kampanyasi.com
 girisyapkazan.com
 girisyapmasi.online
+girisyapmobil.mefound.com
 girisyapmobildenbnb.net
 girisyapsorgulabasvuru.online
 girisyapsponsorlu.com
@@ -82640,6 +82643,7 @@ hepsiburadaak.com
 hepsiburadaan.com
 hepsiburadaanindakapinda.com.tr
 hepsiburadaap.com
+hepsiburadaapp.shop
 hepsiburadaat.com
 hepsiburadabasics.com
 hepsiburadabasvuruformu.com
@@ -99954,6 +99958,7 @@ ilkevim.com.pl
 ilkevim.konutbasvurulari.cloud
 ilkevim.yenikonutbasvurusu.cloud
 ilkevim250binbasvurusu.com
+ilkevimbasvuru.click
 ilkevimbasvuru.com
 ilkevimbasvuru.online
 ilkevimbasvuruekrani.com
@@ -99993,8 +99998,3 @@ ilkim-ev.com
 ilkimsendegilsinbunubil.com
 ilkini-bukadarda-uzaklarda-durdurmadik-bizler.top
 ilkkayvakfi.com
-ilkkayvakfi.org
-ilknur.pro
-ilknuracokasigim.co
-ilknuracokasigim.com
-ilkonce-hatirina-buradaysa-sonrada-olamaz.top

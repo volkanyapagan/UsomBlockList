@@ -3399,6 +3399,7 @@
 11d92tko.duckdns.org
 11ekim-cumartesimm.com
 11ekimdekiindirimlerimiz.win
+11ekimdesiparislerinden.cloud
 11ekimkatalog.org
 11ekimselxxvlxcsdlsdinxixclmerimiz.com
 11es1tfk.duckdns.org
@@ -76724,6 +76725,7 @@ bncrtr.xyz
 bncrtr1.xyz
 bncrtr2.xyz
 bncrtr3.xyz
+bncrtr4.xyz
 bncs.1dnserver.com
 bncs2024-roll-20241252-202412.com
 bncs2024-roll-3523582-202421.com
@@ -99996,5 +99998,3 @@ csecureinfo03verifb.hopto.org
 csecureinfo03verifj.hopto.org
 csecureinfo03verifp.hopto.org
 csecureinfo05verifb.zapto.org
-csecureinfo06auth.hopto.org
-csecureinfo06verifp.hopto.org
