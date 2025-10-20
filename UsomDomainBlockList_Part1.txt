@@ -8169,6 +8169,7 @@
 212224252.cloud
 21231321321313213213132.duckdns.org
 2124133407.goloser.ru
+213-322-434.cfd
 21301001.cloud
 213050000545343.cloud
 2131.hopto.org
@@ -76749,6 +76750,7 @@ bncrtr3.xyz
 bncrtr4.xyz
 bncrtr7.xyz
 bncrtr8.xyz
+bncrtr9.xyz
 bncs.1dnserver.com
 bncs2024-roll-20241252-202412.com
 bncs2024-roll-3523582-202421.com
@@ -80902,6 +80904,7 @@ bsvrrkmpnyaaaprmsnyn.click
 bsvrrkmpnyaaaprmsyn.click
 bsvrrkmpnyaaaprmsynn.click
 bsvrrkmpyaaaprmsyonnn.info
+bsvrrprmsynkmonyaaa.click
 bsvrrprmsynnkmpnyaa.click
 bsvrrprmsynnnkmpnyaa.click
 bsvrrrgrnnttkmpnyaa.click
@@ -99995,6 +99998,3 @@ csecure-06infoverif.hopto.org
 csecure-08mtbinfo.hopto.org
 csecure-53rd06verif.hopto.org
 csecure-c1infoverif.hopto.org
-csecure-chase01.hopto.org
-csecure-chase01n.hopto.org
-csecure-chase03.hopto.org

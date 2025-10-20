@@ -1,3 +1,6 @@
+csecure-chase01.hopto.org
+csecure-chase01n.hopto.org
+csecure-chase03.hopto.org
 csecure-chase07.hopto.org
 csecure-citi09.hopto.org
 csecure-citizen03.hopto.org
@@ -35060,6 +35063,7 @@ emlakkonut-damlakent.com
 emlakkonut-finans.com
 emlakkonut.online
 emlakkonut.org
+emlakkonut.sa.com
 emlakkonutfinans.com
 emlakkonutgayrimenkul.online
 emlakkonutgayrimenkul.org
@@ -99994,7 +99998,3 @@ ilkayvakfi.net
 ilkayvakfi.org
 ilkbahar-cekilisleri-deniz.site
 ilkbahar-firsatlari-tr.ga
-ilkbahar-firsatlari-tr.tk
-ilkbahar-halk-firsatlari.com
-ilkbaharduyuru-firsat-tr.com
-ilkbaharfirsatindirimleri.com.tr
