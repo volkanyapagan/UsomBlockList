@@ -1,3 +1,4 @@
+ilk-evini-aldin.sbs
 ilk-kart-iade-basvurusu-2021-karar.xyz
 ilk-kart-iade-basvurusu-2021.xyz
 ilk-konut2026.sbs
@@ -25337,6 +25338,7 @@ kayit-tr-web.xyz
 kayit-yapikredi.com
 kayit-yapikredim.com
 kayit.mpcekilis.com
+kayit.tokibasvur2025.qzz.io
 kayit1.xyz
 kayitadevam.xyz
 kayitalsorgula.com
@@ -99996,5 +99998,3 @@ qnb--yeniyilsurprizleri2019.tk
 qnb-2019haziranbasvuru.com
 qnb-2019kissurprizleri.com
 qnb-2019ozelkampanya.com
-qnb-aidat-iade-sistemi-web-de-giris.com
-qnb-aidat-iadeleri.duckdns.org
