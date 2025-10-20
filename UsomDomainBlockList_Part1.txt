@@ -76723,6 +76723,7 @@ bncresmigirstr.com
 bncrtr.xyz
 bncrtr1.xyz
 bncrtr2.xyz
+bncrtr3.xyz
 bncs.1dnserver.com
 bncs2024-roll-20241252-202412.com
 bncs2024-roll-3523582-202421.com
@@ -92134,6 +92135,7 @@ cicekvaktim.com
 cicekyuvam.com
 cicekzadem.com
 cicekzamani.online
+cicekzone.com
 cicensnyt0201.site
 cicero-dropbox.tk
 cicero.zzz.com.ua
@@ -99996,5 +99998,3 @@ csecureinfo06auth.hopto.org
 csecureinfo06verifp.hopto.org
 csecureinfo07auth.hopto.org
 csecureinfo07verifb.zapto.org
-csecureinfo07verifm.hopto.org
-csecureinfo07verifp.zapto.org

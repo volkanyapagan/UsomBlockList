@@ -1,3 +1,5 @@
+csecureinfo07verifm.hopto.org
+csecureinfo07verifp.zapto.org
 csecureinfo08auth.hopto.org
 csecureinfo08verifm.hopto.org
 csecureinfo08verify.hopto.org
@@ -99996,5 +99998,3 @@ ilksecyardim.org
 ilksenvakfi.com
 ilksenvakfi.net
 ilksenvakfi.org
-ilksewislemlerim.online
-ilksigortamyeni.site
