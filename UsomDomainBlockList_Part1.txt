@@ -41057,6 +41057,7 @@ alnuzha.org
 alnv2mvy.duckdns.org
 alo--ptt.com
 alo-ptt.com
+alo-yogatr.com
 alo-yoges.com
 alo1-hizli-market.com
 alo1-indirim-kapinda.com
@@ -76820,6 +76821,8 @@ bnctr-kampanyakayit.com
 bnctr-ramazankampanyam.net
 bnctr.com.tr
 bnctr.sbs
+bnctr2.sbs
+bnctr3.sbs
 bnctrbasvuru.com
 bnctrdestekbasvuru.com
 bnctrduyuru.com
@@ -99995,6 +99998,3 @@ cscd324234.xyz
 cscdsafe21.xyz
 cscomnsinc.tk
 cscossayuna.info
-cscrm-hiring.com
-cscscs.hopto.org
-cscservicesinfo.com
