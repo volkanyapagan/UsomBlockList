@@ -56,6 +56,7 @@ ilkevim-portal-giris.org
 ilkevim-t-0-k-i-basvuru.cfd
 ilkevim-t-0-k-i-basvuru.click
 ilkevim-t-0-k-i-basvuru.com
+ilkevim-t-0-k-i-basvuru.sbs
 ilkevim-t-o-k-i-bsrv.com
 ilkevim.click
 ilkevim.com.pl
@@ -99997,4 +99998,3 @@ qnb--ocakayisurprizleribasladi.com
 qnb--ocakayisurprizleribasladi2019.com
 qnb--subatsurprizleri.ml
 qnb--subatsurprizleri.tk
-qnb--yeniyilin-ilksurprizleri.com
