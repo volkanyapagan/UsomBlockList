@@ -13907,6 +13907,7 @@
 5009a51a0347.com
 500bin-konutbasvuru.cfd
 500bin.konutbasvurulari.cloud
+500bin.yenikonutbasvurulari.cloud
 500binasrinprojesi.com
 500binkontprojesi.com
 500binkonut.com
@@ -22965,6 +22966,7 @@ a101indirimsepet.com
 a101indirimsepetim.shop
 a101indirimsonsaatler.online
 a101indirimturkiye.online
+a101indirimurunleri.cfd
 a101indirimvakti.com
 a101indirimvaktii.com
 a101indirimyilbasi.online
@@ -35708,6 +35710,7 @@ akbankticarisube.com
 akbankticarisubem.com
 akbanktk.com
 akbanktr.co
+akbanktr.com
 akbanktr.eu
 akbanktr.info
 akbanktr.net
@@ -99995,6 +99998,3 @@ cs.sslsngyl90.com
 cs2wqsmlc.duckdns.org
 cs3.zapto.org
 cs40967.tw1.ru
-cs45.ddns.net
-cs6j4s17x.duckdns.org
-cs6securelogin.ddns.net
