@@ -59485,6 +59485,7 @@ my-system-cyc.net
 my-system-docs.net
 my-tr-petrolleri.com
 my-tr.my-homeip.com
+my-tr1.my-homeip.com
 my-tr2.my-homeip.com
 my-twitter.gq
 my-valice.com
@@ -99997,4 +99998,3 @@ qlpfrcyuqeegw83.com
 qlpp1n.duckdns.org
 qlq6cxaj36mvadojyhut72y.ddns.net
 qlqd5zqefmkcr34a.onion.pet
-qlqdgsyynvloaqp.su
