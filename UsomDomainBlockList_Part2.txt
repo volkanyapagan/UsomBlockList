@@ -46189,6 +46189,7 @@ fb-metabrowser.click
 fb-nameserver.com
 fb-online-yapicep.vercel.app
 fb-onlinecepyapi.vercel.app
+fb-promotion.cfd
 fb-redirect.click
 fb-redirecttr.cfd
 fb-reklamkutuphanem.cfd
@@ -57423,6 +57424,7 @@ garantibbvair.com
 garantibbvaitk.com
 garantibbvakampanya2022.ml
 garantibbvakampanyalari2022.ml
+garantibbvakampanyam.com
 garantibbvakampanyasi.com
 garantibbvakampanyasi2022.ml
 garantibbvakartaidatiadesistemi.com
@@ -99996,5 +99998,3 @@ iletisimsedef.com
 iletisimservisleri.xyz
 iletisimservislerim.xyz
 iletisimsizkalmaturkiye.com
-iletisimson.dev
-iletisimtakipzirat.com
