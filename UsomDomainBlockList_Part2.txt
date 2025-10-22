@@ -63262,6 +63262,7 @@ giris-dnz-bk.com
 giris-e-devlet-cimmer-aidat-iade-form.com
 giris-e-devlet-gov-tr.com
 giris-e-devlet.com
+giris-e-kayit.online
 giris-e-web-portalgovtr.com
 giris-edenizbank.com
 giris-edenizbanktr.com
@@ -99997,4 +99998,3 @@ iletism-baskanlgi.net
 iletism-baskanligj.net
 iletism-baskanligj.org
 iletism-hizmt.net
-iletism-hizmt.org
