@@ -50138,6 +50138,7 @@ aurera.ddns.net
 auricbay.com
 aurlytnhgd.duckdns.org
 aurmidh.pw
+aurnelis.com
 aurora-fm.com
 aurora.arenvatica.ru
 aurora.dawn-904.workers.dev
@@ -79131,6 +79132,7 @@ borsa.xn--bitc-oza.com
 borsadijital-tr.com
 borsadijitaltr.com
 borsadonusum.com
+borsagundem.world
 borsahaber.world
 borsahaberler.online
 borsahaberleri.world
@@ -83342,6 +83344,8 @@ burganbanks.com
 burganezfeysidenizdem.site
 burganga.com
 burganglobal.com
+burganmenkul.com
+burganmenkuldegerler.com
 burganprivate-tr.com
 burgantrading.com
 burgasarackiralama.com
@@ -93750,6 +93754,7 @@ clearlyretarded.top
 clearnetfab.net
 clearpact.top
 clearplow.com
+clearrsteps.com
 clearservice4upgrade.date
 clearservice4upgrade.stream
 clearservice4upgrades.download
@@ -99993,8 +99998,3 @@ cryptowhalesvision.world
 cryptowisea.com
 cryptoworl857.ddns.net
 cryptserver.hopto.org
-cryptslgninisues.webflow.io
-cryptyk.ddns.net
-cryptyk.hopto.org
-cryptyk.info
-cryrootsbe.tk
