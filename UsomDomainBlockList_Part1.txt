@@ -56255,6 +56255,7 @@ basvru-online.com.tr
 basvru-tr-tr-tr.shop
 basvru-tr-tr.shop
 basvru-trbnnrcn.com
+basvru.lat
 basvru.sa.com
 basvrubilgiedin-devleltigirisim.com
 basvrubnancekampanyaa-frsatkmpanyaa.com
@@ -77933,6 +77934,7 @@ bnturkey-redirect.com
 bnturkey-togg.com
 bnturkey1.cfd
 bnturkey2.cfd
+bnturkey3.cfd
 bnturkeyanonimsirketi.com
 bnturkeygiris.com
 bnturkeygiris.info
@@ -79236,7 +79238,6 @@ boshman09.com
 bosjuzdanlar.com
 bosjuzdanlardolsun.com
 boskatrem.ru
-bosluk.net
 bosluklar.name.tr
 boslxkkvvs.duckdns.org
 bosmoitan.top
@@ -94224,12 +94225,14 @@ cloud.cutepaty.com
 cloud.dnx.capital
 cloud.edgerapidcdn.com
 cloud.ghokswa.com
+cloud.givensolutions.online
 cloud.globiscapital.co
 cloud.googlemyanmarnews.com
 cloud.microsoft-ns1.com
 cloud.msapp.workers.dev
 cloud.nathompsstra.com
 cloud.newsofnp.com
+cloud.qunetcentre.org
 cloud.sophos.one
 cloud.trendav.co
 cloud.wmiprvse.com
@@ -94340,6 +94343,7 @@ cloudspora.com
 cloudssl.dns
 cloudstatistics.net
 cloudstats112192.space
+cloudstore.cam
 cloudsystemchat.com
 cloudtesting.ddns.net
 cloudtesting1.ddns.net
@@ -99994,7 +99998,3 @@ crypto-whale.info
 crypto-whale.top
 crypto.blockchainworld.info
 crypto4health.com
-cryptoanalyzetech.com
-cryptoban.ddns.net
-cryptobot.hopto.org
-cryptobrowser.top
