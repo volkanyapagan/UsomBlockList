@@ -1,3 +1,5 @@
+crypto-crypto.site
+crypto-db.com
 crypto-energy.store
 crypto-loot.com
 crypto-mcafee2020.com
@@ -51432,6 +51434,7 @@ fiyatinidusun.com.tr
 fiyatiniduydumaldim.xyz
 fiyatkarsilastir.cfd
 fiyatlar-dusunce-bizim-aklimiz-da-gitti.com
+fiyatlardakisihirlikdegisimiburada.cfd
 fiyatlariniduyuncainanamayacaksiniz.cfd
 fiyatlarinyalaninisoylemedigitekadres.cfd
 fiyatsokunuyasayacaginizalisveris.cfd
@@ -99995,6 +99998,3 @@ ile-onayli-ilan.com
 ile-onayli-ilanim.com
 ile-onayli-ilanlar.com
 ile-onayli-islemler.com
-ile-onayli-satis-islemleri.com
-ile-onayli-satis.com
-ile-onayli-web-islemleri.com
