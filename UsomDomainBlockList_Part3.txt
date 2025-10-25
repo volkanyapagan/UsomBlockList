@@ -1,3 +1,10 @@
+ile-islemler.com
+ile-kampanya-ilan.com
+ile-kampanya.com
+ile-kolay-alisveris-islemleri.com
+ile-kolay-guvenli-forum.com
+ile-kolay-islemler.com
+ile-kolay-odeme-kismi.com
 ile-merkezi-odeme.com
 ile-netalisverisim.com.tr
 ile-netalisverisimiz.com.tr
@@ -9188,6 +9195,7 @@ islemanindaidat.app
 islemarac.com
 islemasdfdf.com
 islemaxipuankazan.com
+islembasvuru.sbs
 islembasvurulari.com
 islembasvurusu.com
 islembasvurusuacikdenizv2denizbank.co.vu
@@ -31479,6 +31487,7 @@ konutbasvurutamamla.cloud
 konutbilgi.click
 konutcan.com
 konutdestegi6060.net
+konutduyuru.click
 konutemlakgayrimenkul.info
 konutemlakgayrimenkul.online
 konutemlkodemeler.net
@@ -54708,6 +54717,7 @@ mobilsubeziraatgiris.com
 mobiltakipciyiz.com
 mobiltakipuygulamasi.online
 mobiltalep.com
+mobiltalep.xyz
 mobiltarifeleri.com
 mobilteknolojim.com
 mobiltemmuzkampanyasibasvurusubugece.monster
@@ -99988,13 +99998,3 @@ qbnirse.vercel.app
 qbniumaz.vercel.app
 qbnkazankampanyasi.vercel.app
 qbnkmpanyalarm.vercel.app
-qbnkmpny.vercel.app
-qbnlefinanscom.vercel.app
-qbnlilerle.vercel.app
-qbnlilerleherzamankazan.vercel.app
-qbnlilerlekazan.vercel.app
-qbnlilersubattakazaniyor.vercel.app
-qbnprmsny.vercel.app
-qbnprmsnyny.xyz
-qbnsubaatkampanyasi.vercel.app
-qbnvrc.vercel.app

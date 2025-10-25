@@ -9526,6 +9526,7 @@
 293293923544213.cloud
 2933c61a60d4.com
 2937.hopto.org
+2937927737.cloud
 2938.ddns.net
 293cyz.duckdns.org
 294145276.corolain.ru
@@ -37329,6 +37330,7 @@ aktif-20gb-internet-turkcell.com
 aktif-aidat.com
 aktif-basvuru-onay.blogdns.net
 aktif-basvuru-yapiceplionay.vercel.app
+aktif-basvurular-onay.blogdns.net
 aktif-basvurumisimcepteonlinebasvuru.vercel.app
 aktif-bilgiler-koksal.duckdns.org
 aktif-guvenli.com.tr
@@ -56621,6 +56623,7 @@ basvur10gb-hemen.com
 basvur150aile.com
 basvur2023.fun
 basvur2023deniz.online
+basvur2025tokl.qzz.io
 basvuraile150.com
 basvuraile150hizmet.com
 basvurailegenc.com
@@ -99995,6 +99998,3 @@ cryo0fsanalizm.shop
 cryoshield.co.za
 crypt.xyz
 cryptais.com
-cryptancu.duckdns.org
-cryptdatagate.com
-cryptdatahub.com
