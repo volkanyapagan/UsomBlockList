@@ -1,3 +1,5 @@
+crypto-energy.store
+crypto-loot.com
 crypto-mcafee2020.com
 crypto-payer.co
 crypto-promo.info
@@ -99996,5 +99998,3 @@ ile-onayli-islemler.com
 ile-onayli-satis-islemleri.com
 ile-onayli-satis.com
 ile-onayli-web-islemleri.com
-ile-online-alim.com.tr
-ile-onlinealisveris.com.tr
