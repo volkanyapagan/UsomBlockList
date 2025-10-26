@@ -13916,6 +13916,7 @@
 50082773562.duckdns.org
 50087254931.duckdns.org
 5009a51a0347.com
+500basvurular.site
 500bin-konutbasvuru.cfd
 500bin.konutbasvurulari.cloud
 500bin.konutbasvurutamamla.cloud
@@ -57829,6 +57830,7 @@ basvuruikramiye-acikdenizv2.com
 basvuruilekazan.com
 basvuruilesendekazan.tk
 basvuruiletisim-portal.tk
+basvuruilkevim.com
 basvuruimzaacikdenizv2denizbankatilis.co.vu
 basvuruingkasim02.duckdns.org
 basvuruinternet-yapikredi.com
@@ -58933,6 +58935,7 @@ baybayamigooos.blogspot.com
 baybaybislecouse.ddns.net
 baybh.onthemtaitp.com
 baybtb.onthemtaitp.com
+bayburtsubesi.sbs
 bayc.astalyt.top
 baycarkiralama.com
 baycarkurumsal.com.tr
@@ -99995,6 +99998,3 @@ cruzballard435.xyz
 cruzroja2.ddns.net
 crvenazvezda.ddns.net
 crvmsoa.com
-crvsigortam.site
-crvsx.zapto.org
-crvsxp.zapto.org
