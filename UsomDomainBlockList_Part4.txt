@@ -53788,6 +53788,7 @@ toki-basvur.cfd
 toki-basvur.com
 toki-basvuru-99.blogspot.com
 toki-basvuru-e-devlet.b-cdn.net
+toki-basvuru.duckdns.org
 toki-basvuru.info
 toki-basvuru.online
 toki-basvuruekrani.sbs
@@ -99997,4 +99998,3 @@ xn--tok-yeniden-1zb.net
 xn--tomtrkmoayn-thb.net
 xn--topobject-869d.top
 xn--tr-bnance-35a.ml
-xn--tr-bnance-35a.tk
