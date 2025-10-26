@@ -1,3 +1,4 @@
+cryest.shop
 cryfast.shop
 cryingpand.com
 cryjakpnl2.xyz
@@ -13778,6 +13779,7 @@ dijital-bankacilik.com
 dijital-basvur.xyz
 dijital-basvuru-islemi.click
 dijital-basvuru.com
+dijital-basvurum.blogdns.org
 dijital-bildirim-kanali.xyz
 dijital-birlik.org
 dijital-denizbank.com
@@ -99996,5 +99998,3 @@ ile-guvenlice-islemini-yap.com
 ile-guvenlice-islemyap.com
 ile-guvenlice-ode.com
 ile-guvenlice-odeme-yap.com
-ile-guvenlice-odemeni-yap.com
-ile-guvenlice-odemeniyap.com
