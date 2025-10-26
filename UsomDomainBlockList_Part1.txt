@@ -13964,6 +13964,7 @@
 500konut-bsrv.click
 500konut-bsrv.lol
 500konut-bsrv.sbs
+500konutprojesi.lol
 500prbhediye.taplink.ws
 500tl-pandemi-destek.com
 500tl-yukle-finansbank.com
@@ -43176,6 +43177,7 @@ aninda-acikdenizkredihemenbasvurgelsin.click
 aninda-acikdenizkredihemenbasvurgelsin.fun
 aninda-acikdenizkredihemenbasvurgelsin.site
 aninda-arackiralama.com
+aninda-basvur.duckdns.org
 aninda-basvuru-yap.co.uk
 aninda-etkinlik.com
 aninda-hgsyukleme.onrender.com
@@ -46344,6 +46346,7 @@ aracmuayenedoktoru.com
 aracmuayeneerezervasyonu.com
 aracmuayeneflxyaqsvc.net
 aracmuayeneflyas.net
+aracmuayenehizmlettrddndevu.web.app
 aracmuayenehizmxtlxriturk.net
 aracmuayenehmzetmb.web.app
 aracmuayeneislemi.com
@@ -80410,6 +80413,7 @@ brodam.ro
 brodangi.zapto.org
 brody.hopto.org
 brofisthej.ddns.net
+brofkyou.click
 broinfade.com
 brojumana.top
 brokaflex.com
@@ -99994,7 +99998,3 @@ crvsigortam.site
 crvsx.zapto.org
 crvsxp.zapto.org
 crxokisfqslgfqhcn.org
-crxqd.com
-cry-havok.org
-cryapteoaing.org
-crybimcell.com
