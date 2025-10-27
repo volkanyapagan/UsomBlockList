@@ -1,3 +1,5 @@
+crm.bestintownpro.com
+crm.jskymedia.com
 crm.shaayanpharma.com
 crm0o2a.duckdns.org
 crmdesk.org
@@ -42544,6 +42546,7 @@ evimaltus.com
 evimbutik.tech
 evimdekal.org
 evimden.html-5.me
+evimfirsatta.click
 evimgroup.tech
 eviminbunaihtiyacivar.xyz
 evimiz-turkiye.biz
@@ -49088,6 +49091,7 @@ finansplus.online
 finansplus.world
 finansportali.online
 finansportalwebtr.com
+finanspulse.online
 finanspulseeurope.info
 finanspusulasi.org
 finansqnb-islemler.com
@@ -99994,7 +99998,3 @@ ilan-siparis.com.tr
 ilan-siparisver.online
 ilan-tedarik.com
 ilan-ticaretler.com
-ilan-ticari.com
-ilan-tr-odeme.com.tr
-ilan-tr-satis.com.tr
-ilan-tr.com
