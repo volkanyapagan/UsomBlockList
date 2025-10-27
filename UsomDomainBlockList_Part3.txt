@@ -1,3 +1,6 @@
+ilan-secure.net
+ilan-securebuy.com
+ilan-sepetal.com.tr
 ilan-sepetalim.com.tr
 ilan-sepetim.com.tr
 ilan-servis.com.tr
@@ -99995,6 +99998,3 @@ pypl3.ddns.net
 pypl4.zapto.org
 pypl7.zapto.org
 pyqhmecn.com
-pyrahirmic.duckdns.org
-pyramide33.pw
-pyramidendeavor.top
