@@ -34955,6 +34955,7 @@ ak.bankbasvurun.com
 ak.basvurunoktasi-online.com
 ak.faizsizkredibasvurusu.com
 ak.juzakb.com
+ak.my-homeip.com
 ak.pipoffers.apnpartners.com
 ak.ptailadsol.net
 ak.tknxg.cf
@@ -99997,4 +99998,3 @@ crucialaggregate.top
 crucialanonymity.top
 crucialdubus.top
 crucialpharmaceutical.top
-crucialrejoice.top
