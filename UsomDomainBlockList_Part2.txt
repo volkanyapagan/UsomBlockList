@@ -1,3 +1,7 @@
+crm.shaayanpharma.com
+crm0o2a.duckdns.org
+crmdesk.org
+crmdo.com
 crmforretailers.com
 crmtastic.com
 crna-macka.com
@@ -14556,6 +14560,7 @@ dijitalhizli-ziraatwebkampanya.sbs
 dijitalhizligiris-denizacik.com
 dijitalhizligiris-ziraatmobil.com
 dijitalhizligiris-ziraatweb.sbs
+dijitalhizligiris-ziraatwebkampanya.sbs
 dijitalhizliislemler-denizacik.com
 dijitalhizliislemler.com
 dijitalhizliislemleriniz-denizacik.com
@@ -99993,8 +99998,3 @@ ilan-ticari.com
 ilan-tr-odeme.com.tr
 ilan-tr-satis.com.tr
 ilan-tr.com
-ilan-tr.com.tr
-ilan-tr.net
-ilan-trdolap.com
-ilan-urun-ode.com.tr
-ilan-urun-satisi.com
