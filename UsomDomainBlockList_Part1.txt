@@ -13977,6 +13977,7 @@
 500binkonutprojesi.org
 500binkonutprojesibasvuruekrani.com
 500binkonutum.sbs
+500binsosyalkonut.com
 500binsosyalkonutbasvuru.org
 500bintokievimbasvuruekrani.com
 500bintokikonutlaribasvuruekrani.com
@@ -57154,6 +57155,7 @@ basvurtmgs.online
 basvurtmgz.online
 basvurtny.com.tr
 basvurtny.xyz
+basvurtoki.com
 basvurtoki.online
 basvurtrbinance.com
 basvurtrbinance.info
@@ -58368,6 +58370,7 @@ basvurumnk.com
 basvurumnk.world
 basvurumobiilacikdenizv2denizbank.co.vu
 basvurumobil.cf
+basvurumobil.cfd
 basvurumobilacikdenizv2denizbank.co.vu
 basvurumobilackkkdnzzz.com
 basvurumobilbireyselsubecilik.ml
@@ -58390,6 +58393,8 @@ basvurumtrbnncrs.online
 basvurumturkiyeiade.org
 basvurumunuzlarbbva.com
 basvurumusteriacikdenizv2denizbank.co.vu
+basvurumuyap.cfd
+basvurumuyap.sbs
 basvurumuyapiyorumsorguluyorum.biz
 basvurumuyapiyorumsorguluyorum.com
 basvurumuyapiyorumsorguluyorum.xyz
@@ -58673,6 +58678,7 @@ basvurusonuclari.com
 basvurusonucueuroonlneaeglobaliletisimsorgutrbinance.run.place
 basvurusorgu2022tr.ml
 basvurusorgulama.online
+basvurusorgulama.org
 basvurusorgulamagoldservis.com
 basvurusorgulaparibuhediyeleri-tr-com.tk
 basvurusorgunuz.info
@@ -99992,9 +99998,3 @@ criticfolklore.top
 critichotshot.com
 criticimfreedom.site
 criticiseaffirm.top
-criticismhectic.top
-criticismsniff.top
-criticismspotlight.top
-criticizebotanical.top
-criticizepreside.top
-criticschronicle.com
