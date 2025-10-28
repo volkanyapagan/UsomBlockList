@@ -1,3 +1,5 @@
+ilan-sayfasi.com
+ilan-secure-alisveris.com
 ilan-secure.net
 ilan-securebuy.com
 ilan-sepetal.com.tr
@@ -99996,5 +99998,3 @@ pypj.org
 pypkoyzlyu.duckdns.org
 pypl3.ddns.net
 pypl4.zapto.org
-pypl7.zapto.org
-pyqhmecn.com
