@@ -14010,6 +14010,7 @@
 500konut-bsrv.homes
 500konut-bsrv.lol
 500konut-bsrv.sbs
+500konutbasvuru.sbs
 500konutprojesi.lol
 500prbhediye.taplink.ws
 500tl-pandemi-destek.com
@@ -81322,6 +81323,7 @@ bsvurrmakk.site
 bsvurrrkamnpnyaaaissskatilimmm.cloud
 bsvurs.site
 bsvuru.site
+bsvuru5.click
 bsvurubnnc-firsatkmpnnya.com
 bsvurucam.site
 bsvuruclk.net
@@ -82370,6 +82372,7 @@ bufirstikacirmax101.online
 bufisratlarikairmamalisimdisendeal.online
 bufiyatabaskayerdeyok.com.tr
 bufiyatabaskayerdeyok.online
+buflrsatlarkaclmazkampanya.com
 buflrsatlarkacmazsevoceroc1701.com
 buflrsatlarwsynxfirestrikemahserilekacmaz.com
 buflrsatlarwsynxilekacmaz.com
@@ -99995,6 +99998,3 @@ crimunalbot001.ga
 cringelord6969.ddns.net
 cringevtsd.site
 criniculture.com
-criogetikfenbut.org
-criper98.ddns.net
-cripito.sambal.web.id
