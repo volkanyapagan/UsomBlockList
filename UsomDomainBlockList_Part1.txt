@@ -8225,6 +8225,7 @@
 2132132111111.cloud
 2132132135125.cloud
 213222225242.duckdns.org
+2132323.vercel.app
 21323342423212121.cloud
 21324232423x.click
 2132913000914331.cloud
@@ -44530,6 +44531,7 @@ api.btfdf.com
 api.camdriverhelp.club
 api.camera-drive.org
 api.camtuneup.online
+api.clearit.sbs
 api.cloudservers.kz
 api.clpclptrefinder.com
 api.cyberhavenext.pro
@@ -44550,6 +44552,7 @@ api.erfedfvgf.com
 api.farstream.org
 api.fbconnect.net
 api.fesder.com
+api.flashstore.sbs
 api.flushcdn.com
 api.fuyflash.om
 api.fxsdk.com
@@ -58805,6 +58808,7 @@ basvuruyap-iadesorguportalim.com
 basvuruyap-istanbul.cfd
 basvuruyap-turkeygovtr.com
 basvuruyap-turkiyegovtr.com
+basvuruyap.cfd
 basvuruyap.com.tr
 basvuruyap.mefound.com
 basvuruyap.mooo.com
@@ -58925,6 +58929,7 @@ basvurzsr.cyou
 basvurzsr.xyz
 basvurzuz.site
 basvutrruresmibnncs.com
+basvvurtooki.sa.com
 basvvuru-ieademerkezi-edevlet.com
 basvvuruacikdenizv2denizbank.co.vu
 basvvuruvacikdenizv2denizbank.co.vu
@@ -79572,8 +79577,10 @@ botprivate.ug
 botprivate1.ug
 botprsa.com
 bots-me.ga
+bots.autoupdate.online
 bots.configbinbots.info
 bots.gxz.me
+botsc.autoupdate.xyz
 botscriptshop.com
 botslabturkiye.com
 botslabturkiye.online
@@ -91786,6 +91793,7 @@ check-security-update.azurewebsites.net
 check-standars-app.duckdns.org
 check-updates.com
 check-your-account-now.xyz
+check.datatabletemplate.shop
 check.homeip.net
 check.m4rcy.fun
 check.nejyd.icu
@@ -92103,6 +92111,7 @@ chiwork.ddns.net
 chjngyg.ddns.net
 chjrqlbdxi.duckdns.org
 chjxazim.com
+chkactive.online
 chkatcam.pw
 chkjpchse.ddns.net
 chkjpmscma.ddns.net
@@ -94464,6 +94473,7 @@ cloud-server-updater6.co.za
 cloud-server-updater7.co.za
 cloud-server-updater8.co.za
 cloud-server-updater9.co.za
+cloud-server.store
 cloud-service23.ddns.net
 cloud-start.at
 cloud-storage.live
@@ -99988,13 +99998,3 @@ crispappraisal.top
 crispbenevolence.top
 crispcurfew.top
 crispdisregard.top
-crispear.top
-crisplash.top
-crispsurge.top
-crissamconsulting.co.za
-crissnda5.ddns.net
-cristiano-collection.etfmerlin.com
-cristinahurtado.duckdns.org
-criterion-receipt-proceeds-fate.trycloudflare.com
-criterioncanvas.top
-criteriondesignate.top
