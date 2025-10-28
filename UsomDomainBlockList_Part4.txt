@@ -1,3 +1,9 @@
+pypi-mirror.org
+pypihosted.org
+pypj.org
+pypkoyzlyu.duckdns.org
+pypl3.ddns.net
+pypl4.zapto.org
 pypl7.zapto.org
 pyqhmecn.com
 pyrahirmic.duckdns.org
@@ -54579,6 +54585,7 @@ tokimobilbasvurular.vercel.app
 tokimobilbasvurulari.vercel.app
 tokimobile.vercel.app
 tokimobilebasvurular.vercel.app
+tokimobilebasvuruyap.vercel.app
 tokimshuzkyy.online
 tokiodeme.com
 tokiolinebasvuru.duckdns.org
@@ -99991,10 +99998,3 @@ xn--nvxiibrtnans-d5b.net
 xn--o3con6gnectthing-ud6i.top
 xn--o3ver6gbplentiful-ny2j.top
 xn--oasgho-p9ad.com.tr
-xn--obit-4ra.net
-xn--obvioustheory-gl6g.top
-xn--ocakayikampanyabasvurulardeniz-rre.com
-xn--ocakayndafrsatlar-hvce.com
-xn--ocakayndakampanya-hvc.com
-xn--ocaktafrsat-5zb.com
-xn--ocaktafrsatkarma-opb93kead.com

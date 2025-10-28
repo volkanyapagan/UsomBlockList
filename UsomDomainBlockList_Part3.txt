@@ -1,3 +1,8 @@
+ilan-satinalim.com.tr
+ilan-satis.com
+ilan-satisim.com.tr
+ilan-satislar.com
+ilan-satislarim.com.tr
 ilan-sayfasi.com
 ilan-secure-alisveris.com
 ilan-secure.net
@@ -2513,6 +2518,7 @@ indirim-kazanim.com
 indirim-kazanim.xyz
 indirim-marketi-a1o1.net
 indirim-maviiiddee-sepetim.com
+indirim-merkezi.online
 indirim-merkezi.site
 indirim-merkezihaftasi.online
 indirim-online-kapida.name.tr
@@ -99992,9 +99998,3 @@ pyojoh5.duckdns.org
 pyowgxubiuvp.tech
 pypaallsecreintl.duckdns.org
 pypal3.hopto.org
-pypi-mirror.org
-pypihosted.org
-pypj.org
-pypkoyzlyu.duckdns.org
-pypl3.ddns.net
-pypl4.zapto.org
