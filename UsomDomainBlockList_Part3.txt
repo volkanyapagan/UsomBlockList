@@ -1,3 +1,4 @@
+ilan-get-sahibinden.com
 ilan-get-sahibinden.com.tr
 ilan-get.com.tr
 ilan-get.online
@@ -90290,6 +90291,7 @@ pixarssl-view.ddns.net
 pixel1.dnsalias.net
 pixelarkz.com
 pixelbreeze.store
+pixeldeneme.blogdns.net
 pixelia.shop
 pixelka.fun
 pixelkidhacks.hopto.org
@@ -99996,5 +99998,3 @@ pwapwmweqs.in
 pwaraawrha.in
 pwcaybzkqe.net
 pwci.pw
-pwcjilkvqpjy.xyz
-pwctrustlaw.com
