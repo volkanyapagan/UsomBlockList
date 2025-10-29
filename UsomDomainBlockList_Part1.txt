@@ -235,6 +235,7 @@
 011112021215210.duckdns.org
 011122211011.duckdns.org
 01121200212102.duckdns.org
+0112120212012.duckdns.org
 0116254-teaxmacc.com
 0116254team-acc.com
 0116254teamacc.com
@@ -7872,6 +7873,8 @@
 2025sonfirsatlari.online
 2025tenduyurular.com
 2025tenhaberler.com
+2025toki.toplukonut-projesi.sbs
+2025toki.yeniuygunknz.sbs
 2025trdenhaber.com
 2025xjsbasvurunt-oki.xyz
 2025yeniurunler.online
@@ -14016,6 +14019,7 @@
 500konut-bsrv.sbs
 500konutbasvuru.sbs
 500konutprojesi.lol
+500konutprojesi.sbs
 500prbhediye.taplink.ws
 500tl-pandemi-destek.com
 500tl-yukle-finansbank.com
@@ -26209,6 +26213,7 @@ acik.deniz-denizbank.com
 acik.deniz-islem.xyz
 acik.denizdenharikalarfirsatlari.online
 acik.denizv2-mobilim.xyz
+acik.my-homeip.net
 acik2denizcekilisbmwx3katilim.com
 acikaciklacilk.com
 acikakfilnk0yarin.online
@@ -51522,6 +51527,7 @@ aviskiralamasyon.online
 aviskiralatr.com
 aviskiralayin.com.tr
 aviskiralik.com.tr
+aviskiralikaraba.com
 aviskiralikaracfilosu.online
 aviskiralikaraclari724.online
 aviskiram.com.tr
@@ -57198,6 +57204,7 @@ basvuru--sosyaldestek.com
 basvuru--ziraat.com
 basvuru-2025.sbs
 basvuru-4.cloud
+basvuru-81ilkonut.xyz
 basvuru-accikdenizv2denizbank.com
 basvuru-acikdenizbncek.ml
 basvuru-acikdenizbncek.tk
@@ -59301,9 +59308,11 @@ baykar-baykoin.world
 baykar-fashion.ru
 baykar-fly.digital
 baykar-invest.com
+baykar-investment-opportunity.com
 baykar-investmentopportunity.com
 baykar-news.info
 baykar-opt.com.ua
+baykar-platform.com
 baykar-pro.world
 baykar-teknolojiler.pro
 baykar-tr.click
@@ -59336,6 +59345,7 @@ baykar6.jabjee.com
 baykara.eu
 baykaradim.com
 baykaraegitimvakfi.com
+baykarai.net
 baykaral.xyz
 baykarapps.com
 baykaras.xyz
@@ -59366,6 +59376,7 @@ baykarinvest.vip
 baykarinvest.xyz
 baykarinvesting.com
 baykarinvestment.com
+baykarinvestmentopportunity.net
 baykarkatilim.com
 baykarlanding.vicchk.com
 baykarnews.com
@@ -59388,11 +59399,13 @@ baykarrrgelir.com
 baykars-tr.com
 baykars.org
 baykars.trbaykl.com
+baykarsavunmasanayi.com
 baykarsmartai.com
 baykarstr.com
 baykarsystem.tr
 baykarsystems.com
 baykart.trbaykl.com
+baykartech.cc
 baykartech.icu
 baykartech.life
 baykartech.live
@@ -69134,6 +69147,7 @@ binancetr.mywire.org
 binancetr.sbs
 binancetr1.duckdns.org
 binancetr2.duckdns.org
+binancetr24.sbs
 binancetr2yilfiirsatlari.ml
 binancetr2yilozel.ml
 binancetr3.duckdns.org
@@ -69149,11 +69163,13 @@ binancetrcampssqcaigntogi.vercel.app
 binancetrcdvvolkas.vercel.app
 binancetrceearvel.vercel.app
 binancetrcenwssei.vercel.app
+binancetrchain.sbs
 binancetrclaattimerturkey.vercel.app
 binancetrclaimertueurkey.vercel.app
 binancetrclaimserturkey.vercel.app
 binancetrclaimsmerturkey.vercel.app
 binancetrclaismplace.vercel.app
+binancetrcloud.sbs
 binancetrcom.org
 binancetrconnect.sbs
 binancetrcozum.com
@@ -69170,11 +69186,13 @@ binancetrfaxxsqi.vercel.app
 binancetrfccervel.vercel.app
 binancetrfchorcel.vercel.app
 binancetrfurkle.vercel.app
+binancetrfuture.sbs
 binancetrgbseyelt.vercel.app
 binancetrgifthhbox.vercel.app
 binancetrgiftpobox.vercel.app
 binancetrgiftssbox.vercel.app
 binancetrgiris-user.tech
+binancetrglobal.sbs
 binancetrgssqlobils.vercel.app
 binancetrguvenlikonayla.ml
 binancetrgycciftbox.vercel.app
@@ -77998,6 +78016,7 @@ bntonlinedestektr.com
 bntr-3949324412412.com
 bntr-5435439513245123421.com
 bntr-5435439513245123421.xyz
+bntr-sponsorlugiris1.cfd
 bntr-xrpbasvuru.com
 bntr.info
 bntr155213165giris.com
@@ -80785,6 +80804,7 @@ brsfrstlrbrda.duckdns.org
 brsizm.ltd
 brslira.com
 brsqnlkzxv.duckdns.org
+brssndsndm.com
 brsua.biz
 brsvckdgh.com
 brsylacikdenizresmibilg.online
@@ -81065,6 +81085,7 @@ bsvrdiadealcffs.com
 bsvrdstk.online
 bsvrdyssongunkatl.duckdns.org
 bsvrdznzz.click
+bsvrdznzz10.click
 bsvrekran.net
 bsvrekrani.net
 bsvrfrmgbvvatr.in
@@ -96725,6 +96746,7 @@ comolokkodeney.duckdns.org
 comonratto.ddns.net
 comoxxossq.asia
 compact-miracle-abounds.top
+compact.link
 compactembed.ml
 compactmediate.top
 compactrejoice.top
@@ -99976,25 +99998,3 @@ crfsnztmmz.com
 crfsnzz.com
 crfsrdnhlkageldkk.shop
 crfssdanfrcrdfsa.com
-crfssdanfrcrdfsadnbbze.com
-crfsyagldncrfsadngtmdn.com
-crfsykrsmtcfrdsyadn.com
-crftseydisehir.cfd
-crfursaabzmolursa.com
-crfyonlendirme.shop
-crgjhhsodmxc.net
-crgricill.gruposenhordobonfim.net
-crh.coinbase-com.info
-crhammerstein.de
-crhecbeaw.com
-crhgytsai.com
-criandobolos.com.br
-criasdebh.ddns.net
-crib-endanger.sbs
-cricketmasculine.top
-cricrapid.com
-crifiiaence.top
-crigonval.gruposenhordobonfim.org
-crigoval.gruposenhordobonfim.org
-crigvalbon.gruposenhordobonfim.org
-crileliste.com
