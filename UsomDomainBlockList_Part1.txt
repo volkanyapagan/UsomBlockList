@@ -4767,6 +4767,7 @@
 155905735612879370.com
 155984615.site
 155f00ffd2d4.com
+155konutbasvuru.sbs
 155polis-tr.online
 155polisi155tr.online
 155polisil155tr.online
@@ -13939,6 +13940,7 @@
 5000dogeparibudanhediyeler.com
 5000dogeparibudanhediyeleri.com
 5000fast.com
+5000konut.site
 5000tldestek.gq
 5000tldestek.ml
 5000tldestek.tk
@@ -14370,6 +14372,7 @@
 53holdx.ddns.net
 53holdxx.ddns.net
 53ipw6z.duckdns.org
+53lzqqd.storage.googleapis.com
 53mhgxt82.duckdns.org
 53q86v2r.duckdns.org
 53qvtfnk.duckdns.org
@@ -99995,6 +99998,3 @@ crimea-kremlin.duckdns.org
 crimeanecdote.top
 crimesec.ddns.net
 crimesoar.top
-crimezoo.ddns.net
-criminal-checker.online
-criminalannex.top
