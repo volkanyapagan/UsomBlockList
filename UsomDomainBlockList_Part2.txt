@@ -43452,6 +43452,7 @@ evrishipping.sbs
 evriuk.top
 evrryday.com
 evruni.top
+evsahibiturkiye.my-homeip.com
 evsaklism.com
 evsaklism.net
 evscklemkaiz.net
@@ -99997,4 +99998,3 @@ ikores.sbs
 ikorodu.duckdns.org
 ikoutmuyafktuon.net
 ikozypybrufanav.cc
-ikparola.com
