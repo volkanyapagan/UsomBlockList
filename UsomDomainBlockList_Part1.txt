@@ -4282,6 +4282,7 @@
 143241432414324.cloud
 14324233324234.com
 1433223.duckdns.org
+14332312312312.duckdns.org
 1435940522.goloser.ru
 144-2-13-133.fwd.coinbase-com.info
 144-2-17-238.fwd.coinbase-com.info
@@ -8216,6 +8217,7 @@
 2119900oylama.com
 212-312-1-2.site
 212.ip.ply.gg
+21200021202.duckdns.org
 21211546122.xyz
 21212126513212156.space
 2121232323232.cloud
@@ -57445,6 +57447,7 @@ basvuru-formu-giris-yeni.com
 basvuru-formu-giris.com
 basvuru-formu-gonderitanitimsv301.duckdns.org
 basvuru-formu-gonderitanitimsv304fg.duckdns.org
+basvuru-formu-gov.ignorelist.com
 basvuru-formu.net
 basvuru-formudoldurkatil.com
 basvuru-formudoldurkatila.com
@@ -59039,6 +59042,7 @@ basvuryenisi.com
 basvuryhl.online
 basvurymn.com.tr
 basvurymn.xyz
+basvurytokk.xyz
 basvuryu-tamamla.free.site.pro
 basvurzmn.com.tr
 basvurzmn.xyz
@@ -99994,7 +99998,3 @@ crediwarranty.org.tr
 crediwarrantybb.com.tr
 crediwarrantybb.net.tr
 crediwarrantybb.org.tr
-crediwarrantybbv.net.tr
-crediwarrantybbv.org.tr
-credlem.it-area-clienti-93832754.com
-credomched.ru
