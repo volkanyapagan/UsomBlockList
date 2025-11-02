@@ -14014,6 +14014,7 @@
 500binsosyalkonutbasvuru.org
 500bintokievimbasvuruekrani.com
 500bintokikonutlaribasvuruekrani.com
+500bintopluhane.com
 500bintopluhaneler.com
 500bintoplukonut.com
 500bintoplukonutbasvuru.webhop.org
@@ -20117,6 +20118,7 @@
 99900000003.cloud
 99900000004.cloud
 999000000056.cloud
+99900995591259.duckdns.org
 999080321besttest971-service10020125999080321.ru
 999080321clubtest561-service10020125999080321.ru
 999080321est213531-service1002012425999080321.ru
@@ -34584,6 +34586,7 @@ aimljbd5h.duckdns.org
 aimmop.pk
 aimnop.su
 aimonino.info
+aimosweet.com
 aimplyhired.com
 aims-corp.com
 aimsagro.com
@@ -99995,6 +99998,3 @@ credittefirsatlari.org.tr
 credittefirsatlariwarranty.com.tr
 credittefirsatlariwarranty.net.tr
 credittefirsatlariwarranty.org.tr
-credittefirsatlariwarranty.xyz
-credittewaranty.net.tr
-credittewaranty.org.tr
