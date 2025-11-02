@@ -9053,6 +9053,7 @@
 250bintokisprojeleribasvuruekrani.com
 250bintoplukonut.com
 250bintoplukonut.xyz
+250bintoplukonutbasvur.com
 250bintoplukonutbasvurusu.com
 250bintoplukonutlarproje.com
 250bintoplukonutproje.com
@@ -14048,6 +14049,7 @@
 500konut-bsrv.sbs
 500konut.com
 500konutbasvuru.sbs
+500konutbasvurum.click
 500konutilkevim.com
 500konutprojesi.cfd
 500konutprojesi.click
@@ -99996,5 +99998,3 @@ credittefirsatlariwarranty.xyz
 credittewaranty.net.tr
 credittewaranty.org.tr
 credittewarantybb.com.tr
-credittewarantybb.net.tr
-credittewarantybb.org.tr
