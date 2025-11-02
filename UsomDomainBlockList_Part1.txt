@@ -78257,6 +78257,7 @@ bntroin.vercel.app
 bntronlinebasvuru.com
 bntrrainsbowiftes.vercel.app
 bntrraivvdnbowiftes.vercel.app
+bntrredirect.com
 bntrrefudenkalgel.vercel.app
 bntrreloadbalaasnceapp.vercel.app
 bntrrewardcenterreypreward.vercel.app
@@ -99997,4 +99998,3 @@ credittewarantybb.com.tr
 credittewarantybb.net.tr
 credittewarantybb.org.tr
 credittewarranty.com.tr
-credittewarranty.net.tr
