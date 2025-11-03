@@ -87598,6 +87598,7 @@ carefourcepte.cfd
 carefourlufirlar.shop
 carefourlugunler.shop
 carefourmobilkasim.cfd
+carefourmobilmuhtesemkasim.cfd
 carefourrsa.com
 carefoursa-flrsat.com.tr
 carefoursa-flrsatgunleri.com.tr
@@ -99997,4 +99998,3 @@ creditagricoledsp2.hopto.org
 creditagricolefr.ddns.net
 creditagricolefr.hopto.org
 creditagricoleinfol.hopto.org
-creditagrricole.ddns.net
