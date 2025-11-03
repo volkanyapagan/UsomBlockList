@@ -1356,6 +1356,7 @@ ilkevim-t-0-k-i-basvuru.icu
 ilkevim-t-0-k-i-basvuru.sbs
 ilkevim-t-o-k-i-bsrv.com
 ilkevim-toki-basvuru.vercel.app
+ilkevim-toki-basvuru1.vercel.app
 ilkevim-toki.xyz
 ilkevim.click
 ilkevim.com.pl
@@ -28653,6 +28654,7 @@ kgmihlalleri.com.tr
 kgmiletisim.ink
 kgmimgovtr.top
 kgminfo-ihlalsis.com
+kgminfo.cc
 kgmivdodeme.net
 kgmkarayoluajan.com
 kgmkarayoluajans.com
@@ -31222,6 +31224,7 @@ kmmsorggulamahmenburdagovptt.com
 kmmsorgllarrr.web.app
 kmmsorgugov-trr.duckdns.org
 kmmsorgulahemengov-tr.duckdns.org
+kmmsorgulamagovpttttt.duckdns.org
 kmmsorgulmagovvvpttqae.com
 kmmsorguluzssamhemengovtptr.com
 kmmsorguszlamaonur.web.app
@@ -31525,6 +31528,7 @@ kmsorgulamayappburdanptt.duckdns.org
 kmsorgulamayapsgsuul.com
 kmsorgulamayeri.web.app
 kmsorgulamayovgovhemenpttasdww.com
+kmsorgulamaypburdayikcop.web.app
 kmsorgulamaypgshsfggg.com
 kmsorgulamaz.com
 kmsorgulamsadvkvsdkz.duckdns.org
@@ -99994,7 +99998,3 @@ pttqmy.com
 pttqov.cc
 pttr-gorv.top
 pttr-tr.shop
-pttr-tr.top
-pttravm.com
-pttrdgov.top
-pttrebook.xyz
