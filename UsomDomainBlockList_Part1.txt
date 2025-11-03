@@ -42733,6 +42733,7 @@ anadolu-sigota.b-cdn.net
 anadolu-turkey.com
 anadolu2019web.com
 anadolu2019webs.com
+anadoluajans.blog
 anadoluajansgovtr.com
 anadoluaksasigorta.com.tr
 anadoluaksasigorta.xyz
@@ -53122,6 +53123,7 @@ b-istb.blogspot.com
 b-istn.blogspot.com
 b-karcahome.shop
 b-kypr.cz
+b-larboy.com
 b-ljimecell.gq
 b-m-h.tk
 b-magaza.cf
@@ -99996,5 +99998,3 @@ creditagricolefr.ddns.net
 creditagricolefr.hopto.org
 creditagricoleinfol.hopto.org
 creditagrricole.ddns.net
-creditasiransin.ddns.net
-creditban.ddns.net
