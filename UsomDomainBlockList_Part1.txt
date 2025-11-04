@@ -10646,6 +10646,7 @@
 31102025basvuru.sbs
 31102025basvuru.shop
 31102025basvuru.space
+31102025basvuru.store
 31132556.cloud
 311590475.corolain.ru
 311982941.corolain.ru
@@ -14006,6 +14007,7 @@
 500bin.konutbasvurutamamla.cloud
 500bin.yenikonutbasvurulari.cloud
 500binasrinprojesi.com
+500binilkevim.com
 500binkontprojesi.com
 500binkonut.com
 500binkonutaciklandisonguntokibasvurulari.icu
@@ -59102,6 +59104,7 @@ basvuryhl.online
 basvurymn.com.tr
 basvurymn.xyz
 basvurytokk.art
+basvurytokk.info
 basvurytokk.sa.com
 basvurytokk.xyz
 basvuryu-tamamla.free.site.pro
@@ -91248,6 +91251,7 @@ cevizyuklemeci.rf.gd
 cevo0lastsnlk.shop
 cevrekars.com
 cevrerasd5.site
+cevresehircilikbakanligisosyalkonutbasvuruformu.dxhost.de
 cevrim-ici2024.online
 cevrimici2024.xyz
 cevrimicialisveris.com
@@ -99994,7 +99998,3 @@ creativehunter.world
 creativeirr.com
 creativeloog.co
 creativenex.com
-creativenft.xyz
-creativeofinspiration.world
-creativepaintwork.click
-creativepatronize.top
