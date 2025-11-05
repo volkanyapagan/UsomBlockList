@@ -1,3 +1,4 @@
+pttlgovtr.shop
 pttlgovtr.store
 pttlgovtr.top
 pttlgovtr.wiki
@@ -55663,6 +55664,7 @@ toki-basvurusu.org
 toki-basvurusugel.work
 toki-cevrevesehir.info
 toki-e-basvuru.lat
+toki-e-basvuru.sbs
 toki-eportal.bounceme.net
 toki-evim.store
 toki-gov-tr-com.ga
@@ -99996,5 +99998,3 @@ xn--denizdijitalv2dovizyatirim-ub2p.com
 xn--denizfirsatenflasyondegeri2-nw8p.ml
 xn--denizfrsat-cekilis-j0c.com
 xn--denizfrsatlar-cekilis-pgd.com
-xn--denizfrsatlarkampanya-pgdh.net
-xn--denizfrsatr-cekilis-l5c.com
