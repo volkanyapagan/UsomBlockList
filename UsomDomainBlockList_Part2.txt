@@ -1,3 +1,6 @@
+crctbnmzl.duckdns.org
+crd-dev.net
+crditgricoler.duckdns.org
 crditmutuelrgnional.duckdns.org
 crdmnatiuc.duckdns.org
 cre8ivecase.net
@@ -14998,6 +15001,7 @@ dijitalgirism.net
 dijitalgirism.org
 dijitalgirismerkezi-denizacik.com
 dijitalgirismobil-ziraatbireysel.com
+dijitalgirismobil-ziraatbireysel.sbs
 dijitalgirismobil-ziraatwebkampanya.sbs
 dijitalgirismobilweb-ziraatbireysel.com
 dijitalgirisnoktasi-denizacik.com
@@ -15309,6 +15313,7 @@ dijitalmobilfestivali-com.tk
 dijitalmobilgiris-denizacik.com
 dijitalmobilgiris-ziraat.com
 dijitalmobilgiris-ziraatbireysel.com
+dijitalmobilgiris-ziraatbireysel.sbs
 dijitalmobilgiris-ziraatkampanyaweb.com
 dijitalmobilgirisimdenizbank.co.vu
 dijitalmobilgirisiniz-denizacik.com
@@ -99993,8 +99998,3 @@ ihlalwebtakip-sorgula.online
 ihlalwebtakip-tahsilat.online
 ihlalwebtakip-tr.tk
 ihlalwebtakip-web.online
-ihlalwebtakip.tk
-ihlas-haberonline.org
-ihlas-online.org
-ihlasdahxzcas.net
-ihlashaberajans.com
