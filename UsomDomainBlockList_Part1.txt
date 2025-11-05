@@ -9049,12 +9049,14 @@
 250binkonutbasvuru.sbs
 250binkonutbasvuruislemi.com
 250binkonutbasvurusu.com
+250binkonutprojebasvurusu.com
 250binkonutprojesibasvuru.com
 250bintokibasvuru.com
 250bintokibasvurusu.com
 250bintokikonutprojesibasvuruekrani.com
 250bintokiprojebasvuruekrani.com
 250bintokisprojeleribasvuruekrani.com
+250bintoplukontproje.com
 250bintoplukonut.com
 250bintoplukonut.xyz
 250bintoplukonutbasvur.com
@@ -14011,6 +14013,7 @@
 500binilkevim.com
 500binkontprojesi.com
 500binkonut.com
+500binkonut.xyz
 500binkonutaciklandisonguntokibasvurulari.icu
 500binkonutbasvuru.blogdns.net
 500binkonutbasvuru.cfd
@@ -56741,6 +56744,7 @@ basvur-bn-clickkampanyafirsati.cloud
 basvur-bn-firsatkampanyadays.cloud
 basvur-bnturkey.com
 basvur-bnturkey.site
+basvur-bnturkey.space
 basvur-bonus-bbwa.com2024bonusayricaliklari.shop
 basvur-bonus.com
 basvur-bryselgarantibbvakrdihmngrs.com
@@ -57069,6 +57073,7 @@ basvurkby.com.tr
 basvurkdvlilik.blogspot.com
 basvurkml.com.tr
 basvurkml.online
+basvurkonuttoki.info
 basvurkonuttoki.pro
 basvurkrd.online
 basvurkrd.xyz
@@ -58557,6 +58562,7 @@ basvurumkolay.com
 basvurumkredi.com
 basvurumm.click
 basvurummis.org
+basvurummtokiimevim1453.xyz
 basvurumnk.com
 basvurumnk.world
 basvurumobiilacikdenizv2denizbank.co.vu
@@ -58952,6 +58958,7 @@ basvurutokiiiii21456.xyz
 basvurutokiiilkevim1453.com
 basvurutokiiilkevimproje81.org
 basvurutokiiilkevimproje81.xyz
+basvurutokiiimilkevimm81.xyz
 basvurutokiilkeviniz.xyz
 basvurutokileri.online
 basvurutokimilkevim81.xyz
@@ -81334,6 +81341,7 @@ bsvrisllm.com
 bsvrislm.com
 bsvrkatlsondayssnde.duckdns.org
 bsvrkrdfrm.xyz
+bsvrlmiztki.sbs
 bsvrlrm.xyz
 bsvrlrmtrkye.digital
 bsvrmalimmerkeztr1.net
@@ -84686,6 +84694,7 @@ bvklmnklcell.com
 bvklmnklmncell.com
 bvklmnvkkixmrrr.net
 bvklyklemeyriiim.net
+bvknt20.click
 bvkslmcell.com
 bvkvakfi.org
 bvkvnhgssssyjjklee.net
@@ -96813,6 +96822,7 @@ comcom-comspacetemiz.com
 comcom-xswqs-csrd.com
 comdirect-de.duckdns.org
 comdirect.duckdns.org
+come-kasim-basvurus.net
 come34657.xyz
 comeanalyze.8x19.com
 comeandgodude.org
@@ -99988,13 +99998,3 @@ createid.hopto.org
 createidiot.top
 createrenowned.top
 createshareunited.hopto.org
-createspecialbeauty.top
-createtempdoc.com
-createwellsonline.com
-creationalignment.top
-creationhemisphere.top
-creationignite.top
-creationsubsistence.top
-creationweek.top
-creative-things.com
-creative-writingcourses.com
