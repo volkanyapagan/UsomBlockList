@@ -25335,6 +25335,7 @@ abvegtndbs.click
 abvhgs.rf.gd
 abvrdun.click
 abvrdun10.click
+abvrdun12.click
 abvsecurity.co.za
 abwehrphas.sa.com
 abwrqw.blogspot.com
@@ -35384,6 +35385,7 @@ akbak-online.com
 akbak.online
 akbakbasvure.com
 akbakn.com
+akbakplc.com
 akban-emeklipromostonu.com.tr
 akban-ihtiyac-kredi.com
 akban-ihtiyac-kredi.online
@@ -99996,5 +99998,3 @@ crarepo.com
 crase11.ddns.net
 crashban.zapto.org
 crashbizarre.top
-crashhandler.ddns.net
-crashonline.site
