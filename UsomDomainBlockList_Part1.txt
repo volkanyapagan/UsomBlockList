@@ -110,6 +110,7 @@
 001l241f51135.duckdns.org
 001sv.ddns.net
 0020020002-kk-002002.store
+00212202120125.duckdns.org
 0021548742.duckdns.org
 0021548747.duckdns.org
 0021548751.duckdns.org
@@ -55051,6 +55052,7 @@ bajoer.fast-page.org
 bak-domain.duckdns.org
 bak.zeroproofs.com
 baka.thecorpot.com
+bakaemanaakoanmaka.cfd
 bakaers.com
 bakalimelimizdenevarmiss.sbs
 bakamsndwe.net
@@ -72607,6 +72609,7 @@ biz-hep-beraber-halkimizadestek.com
 biz-istedik-mi-yapariz.sbs
 biz-kazandik.epizy.com
 biz-mubarek-gunde-indirim-yaptik-mutlu-olun.com
+biz-size-siz-bize-ait.sbs
 biz-sizi-bi-an-biile-unuutmaadik-unutamazdik.com
 biz-sizi-bi-an-biile-unuutmaadik.com
 biz-sizi-bi-an-biile-unuutmaadik.xyz
@@ -99995,6 +99998,3 @@ crazyboy.ddns.net
 crazyboy533.zapto.org
 crazycreww.hopto.org
 crazydavesslots.com
-crazydns.linkpc.net
-crazydos.duckdns.org
-crazydreadful.top
