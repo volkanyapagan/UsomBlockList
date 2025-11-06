@@ -250,6 +250,7 @@
 0121945102ned.duckdns.org
 0121945104615g2ned.duckdns.org
 0122120212202.duckdns.org
+012221202121202.duckdns.org
 01230-03210.com
 01230-03210.live
 01230796125348888.cloud
@@ -57825,6 +57826,7 @@ basvuruadresimayis2025.com
 basvuruadresimayis25.com
 basvuruadresimdeniizkatilim.site
 basvuruadresiniz.site
+basvuruadresinizbizimleberaber.sbs
 basvuruadresinizhaziran25.com
 basvuruai-datiad-e.com
 basvuruaidatiade.org
@@ -84812,6 +84814,7 @@ bvpyzk0p.duckdns.org
 bvqlgvi.cn
 bvqwdqasfmsa.net
 bvrdunz.click
+bvrdunz20.click
 bvrgi-3meler.net
 bvrkftmdh.com
 bvrknt10.click
@@ -99995,6 +99998,3 @@ crazydreadful.top
 crazyerror.su
 crazyfalcos.icu
 crazyfasting.icu
-crazyfasting.xyz
-crazyfun.pw
-crazygadgets.club
