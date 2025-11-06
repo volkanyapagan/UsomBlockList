@@ -1,3 +1,6 @@
+ihlalbilgilendirme-tr.ml
+ihlalbilgilendirme-tr.tk
+ihlalbilgilendirme-webtr.tk
 ihlalbilgisi.info
 ihlalceza.info
 ihlalcezasi.info
@@ -1604,6 +1607,7 @@ ilkevim250binbasvurusu.com
 ilkevimbasvr.xyz
 ilkevimbasvrmonline.vercel.app
 ilkevimbasvur2025.online
+ilkevimbasvurlarim.org
 ilkevimbasvuru.cfd
 ilkevimbasvuru.click
 ilkevimbasvuru.com
@@ -32966,6 +32970,7 @@ konutbul.click
 konutcan.com
 konutcozum.com
 konutdestegi6060.net
+konutdestek.online
 konutduyuru.click
 konutemlakgayrimenkul.info
 konutemlakgayrimenkul.online
@@ -74336,6 +74341,7 @@ onbasvuru-pandemidestek.com
 onbasvuru-sosyaldestek.com
 onbasvuru-tog.com
 onbasvuru.basvuruekrani.online
+onbasvuru.bond
 onbasvuru.org
 onbasvuru.sbs
 onbasvuru.shop
@@ -89921,6 +89927,7 @@ pepperjel.co
 peppers.duckdns.org
 pepperyear.top
 pepsivip-usdt.com
+peptechdigital.com
 peq6fk.duckdns.org
 peqevent.com
 peqkmvuy.duckdns.org
@@ -99991,10 +99998,3 @@ ptthostcheap.xyz
 ptthp.xyz
 ptthqs.istanbul
 ptthtc.ink
-ptthtp.ink
-ptthtt.ink
-ptthu.top
-ptthuge.xyz
-ptthxgkslem.com
-ptthxgsgecislerinizbizimle.blogspot.com
-ptti-gov-tr.top
