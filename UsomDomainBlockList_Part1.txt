@@ -58490,6 +58490,7 @@ basvurum-ocak-senin.ip-ddns.com
 basvurum-onay-deniz.com
 basvurum-onayla-deniz.xyz
 basvurum-online.net
+basvurum-online.org
 basvurum-ozel-bireysel-kampanya.ml
 basvurum-qnbfinans.com
 basvurum-qnbfinansci.com
@@ -99997,4 +99998,3 @@ crazyman131.zapto.org
 crazymonkey777.com
 crazysocket.ddns.net
 crazzzycrab.com
-crb74wsd.duckdns.org
