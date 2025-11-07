@@ -1,3 +1,14 @@
+ihazinegovdctr13.b-cdn.net
+ihazinegovdctr14.b-cdn.net
+ihazinegovdctr3.b-cdn.net
+ihazinegovdctr5.b-cdn.net
+ihazinegovdctr6.b-cdn.net
+ihazinegovdctr7.b-cdn.net
+ihazinegovtgt1.b-cdn.net
+ihazinegovtgt8.b-cdn.net
+ihazinegovtrtc15.b-cdn.net
+ihazinegovtrtc269.b-cdn.net
+ihazinegovtrtc281.b-cdn.net
 ihazinegovtrtc338.b-cdn.net
 ihazinegovtrtc343.b-cdn.net
 ihazinegovtrtc352.b-cdn.net
@@ -1665,6 +1676,7 @@ ilkevim-t-o-k-i-bsrv.com
 ilkevim-toki-basvuru.vercel.app
 ilkevim-toki-basvuru1.vercel.app
 ilkevim-toki-basvuruhsojay.vercel.app
+ilkevim-toki-bglrfyga.vercel.app
 ilkevim-toki-bwmpuh.vercel.app
 ilkevim-toki.xyz
 ilkevim.click
@@ -1698,6 +1710,7 @@ ilkevimkonut.xyz
 ilkevimkonutbasvuru.com
 ilkevimkonutlari.cloud
 ilkevimnet.com
+ilkevimproje.com
 ilkevimprojeleri.org
 ilkevimprojesi.com
 ilkevimprojesi.xyz
@@ -28872,6 +28885,7 @@ kgm-govtr.ink
 kgm-govtr.qpon
 kgm-govtr.sbs
 kgm-govtr.top
+kgm-govtrr.cfd
 kgm-govv.help
 kgm-govv.xyz
 kgm-govz-tr.cfd
@@ -31648,6 +31662,7 @@ kmpanya-aldn.com.tr
 kmpanya-yeni-kasm.online
 kmpanya101defirstlari.com
 kmpanyabsvrrgrnt.info
+kmpanyabsvrrgrnt.pro
 kmpanyadenizde.site
 kmpanyagunleri.online
 kmpanyagunleri.site
@@ -33069,6 +33084,7 @@ konutevlerihazirlaniyor.cloud
 konutevlik.cfd
 konutfirsat.click
 konutfirsati.click
+konutfirsati.online
 konutguncel.click
 konutgunceldestekhatti.com
 konutilkevim.org
@@ -33092,7 +33108,9 @@ konutsahibiol.org
 konutsalisiniz.com
 konutsalprojeler.app
 konutsayfasi.shop
+konuttokibasvurusu.art
 konuttokibasvurusu.pro
+konuttokibasvurusu.xyz
 konuttokibsvr.sa.com
 konuttokimbasvurum.click
 konuttrend.click
@@ -99980,21 +99998,3 @@ ptthelps.site
 ptthemen.com
 ptthemenngirisyap.xyz
 ptthgs--hgs-tr.blogspot.com
-ptthgs-avm-gov-tr.blogspot.com
-ptthgs-bakiyeislemleri.com
-ptthgs-bakiyemobil.com
-ptthgs-bakiyeyukle.me
-ptthgs-bakiyeyukleme.com
-ptthgs-dolumu.tk
-ptthgs-gov-tr.me
-ptthgs-km-islemleri.site
-ptthgs-mobil.com
-ptthgs-mobil.me
-ptthgs-mobilbakiye.com
-ptthgs-mobilde.com
-ptthgs-mobilde.me
-ptthgs-mobildenyukle.com
-ptthgs-mobildenyukle.me
-ptthgs-mobildeyukle.com
-ptthgs-mobileyukle.com
-ptthgs-mobileyukleme.com
