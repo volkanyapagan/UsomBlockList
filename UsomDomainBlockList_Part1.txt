@@ -25336,6 +25336,7 @@ abvhgs.rf.gd
 abvrdun.click
 abvrdun10.click
 abvrdun12.click
+abvrdun14.click
 abvsecurity.co.za
 abwehrphas.sa.com
 abwrqw.blogspot.com
@@ -99997,4 +99998,3 @@ cranky-moser.194-163-174-222.plesk.page
 cranuncrux.xyz
 crapa.ddns.net
 crarepo.com
-crase11.ddns.net
