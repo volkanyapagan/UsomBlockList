@@ -1,4 +1,3 @@
-ihazinegovtrtc440.b-cdn.net
 ihazinegovtrtc50.b-cdn.net
 ihazinegovtrtc571.b-cdn.net
 ihazinegovtrtc583.b-cdn.net
@@ -21665,7 +21664,6 @@ kah2c.cloud
 kahbe.store
 kahbe.world
 kahetindyt.com
-kahin.org
 kahinabsda.linkpc.net
 kahlid000.zapto.org
 kahmir-n.com
@@ -96819,12 +96817,7 @@ prxdda1f.duckdns.org
 prxko01c.duckdns.org
 pryht21u.duckdns.org
 prymx.dosya.space
-prymx.fun
 prymx.net
-prymx.org
-prymx.site
-prymx.store
-prymx.top
 prynt.market
 prythera.com
 pryvnavr.info
@@ -99998,3 +99991,10 @@ ptthgs-mobileyuklemesi.com
 ptthgs-mobilgecis.me
 ptthgs-mobilin.me
 ptthgs-mobilyukle.com
+ptthgs-mobilyukle.me
+ptthgs-mobilyukleme.com
+ptthgs-mobilyuklemeler.com
+ptthgs-mobilyuklemeleri.com
+ptthgs-mobilyuklemesi.com
+ptthgs-odeme-gov-tr-net.blogspot.com
+ptthgs-odeme.com
