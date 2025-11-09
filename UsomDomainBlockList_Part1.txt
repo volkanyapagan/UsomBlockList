@@ -9069,6 +9069,7 @@
 250binkonutbasvurusu.com
 250binkonutprojebasvurusu.com
 250binkonutprojesibasvuru.com
+250binltokl.help
 250binltokl.site
 250bintokibasvuru.com
 250bintokibasvurusu.com
@@ -56660,6 +56661,7 @@ basvru-trbnnrcn.com
 basvru.click
 basvru.lat
 basvru.sa.com
+basvru.top
 basvrubilgiedin-devleltigirisim.com
 basvrubnancekampanyaa-frsatkmpanyaa.com
 basvrudvltggggg.icu
@@ -59133,6 +59135,7 @@ basvurutokimilkevim81.xyz
 basvurutokionline.click
 basvurutokkampanya.art
 basvurutokkampanya.info
+basvurutokkampanya.live
 basvurutokl.click
 basvurutokl.com
 basvurutoplukonutlar.com
@@ -73088,6 +73091,7 @@ bizimburadanfirsatlarintakensineulasirsiniz.xyz
 bizimburalargzl.click
 bizimdanismanlik.com.tr
 bizimekip.net
+bizimev.click
 bizimfirma75.com
 bizimgarantikupon.buzz
 bizimgarantino.buzz
@@ -99994,7 +99998,3 @@ cpttgovtr.cfd
 cpttgovtr.click
 cptveirfysguards.com
 cpuconfig.com
-cpudgvclgb.duckdns.org
-cpuisocutter.com
-cpuproc.com
-cpuvnqqoyy.duckdns.org
