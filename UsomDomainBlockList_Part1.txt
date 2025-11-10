@@ -14013,6 +14013,8 @@
 5.login.e-memursikayet.online
 50-1-11-11-1113r111-11.sbs
 50-gb-internet.online
+500-bin-konut-basvuru.definebul.com
+500-bin-toki-basvuru.referansbilisim.online
 50000110101.cloud
 5000coins.com
 5000dogecoinhediyeparibudan.com
@@ -43519,6 +43521,7 @@ aninda-islemm.net
 aninda-kampanya.com
 aninda-kredi-garantibva.digital
 aninda-mobil.online
+aninda-odeme.com
 aninda-onayli.net.tc
 aninda-online-basvuru-yap.tursab.co.uk
 aninda-oto-kirala.com
@@ -57487,6 +57490,8 @@ basvurtoki.info
 basvurtoki.online
 basvurtoki.xyz
 basvurtokii2871.xyz
+basvurtokikonutlari.info
+basvurtokikonutlari.xyz
 basvurtokim.xyz
 basvurtook.art
 basvurtook.pro
@@ -57873,6 +57878,7 @@ basvuru-yapkredi.com
 basvuru-yatirim.site
 basvuru-yillik-kart-ucretiadesi.xyz
 basvuru-zamani-com-tr.online
+basvuru-zamanlari.online
 basvuru-ziraatinternet.com
 basvuru.18-133-220-72.plesk.page
 basvuru.40-118-23-80.plesk.page
@@ -99992,9 +99998,3 @@ cpcontacts.www-finansiadehizmetmerkezi-2021.ml
 cpcontacts.www-finansiadelermerkezi.gq
 cpcontacts.www-finansiadelermerkezi.tk
 cpcontacts.www-iadelerfinansmerkezim2021.ml
-cpcontacts.ziraatbannk.com
-cpd32a24.cp12.vandweb.com
-cpecsol.com
-cpegzxovu.com
-cperakendelndrimlerinigoruntule.com
-cpetesokmarket-indirim.online
