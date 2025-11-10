@@ -8259,6 +8259,7 @@
 2132132111.site
 2132132111111.cloud
 2132132135125.cloud
+2132154.netlify.app
 213222225242.duckdns.org
 2132323.vercel.app
 21323342423212121.cloud
@@ -21271,6 +21272,7 @@ a-101-firsatlari.online
 a-101-haftannyldizlari.s-get-pays.xyz
 a-101-harca-bitmez.sa.com
 a-101-hrca-hrca-bltmez-flrsatlar.cfd
+a-101-hrca-hrca-btmez-alisverls.com
 a-101-hrca-hrca-btmez-alisvrls.com
 a-101-hrca-hrca-btmez-alsvris.cfd
 a-101-indirim-gunleri-son-saatler.com
@@ -56310,6 +56312,7 @@ basakegitimvakfi.com
 basaksigorta.net.tr
 basakykleme.22web.org
 basaranholing.net
+basardigimizda-bizim-sarkimiz-calicak.sbs
 basariajansi.online
 basaricizgisi.space
 basariharitasi.online
@@ -59163,6 +59166,7 @@ basvurutoki.com
 basvurutoki.digital
 basvurutoki.pro
 basvurutoki.site
+basvurutokievim.com
 basvurutokii.art
 basvurutokii.com
 basvurutokii.info
@@ -99994,7 +99998,3 @@ cpcontacts.s-sahibindenguvenleode.com
 cpcontacts.sahibinden.business
 cpcontacts.sahibiniz.top
 cpcontacts.tbmtrhazineuktr44.ga
-cpcontacts.tctrbmtrhazinegovtr9373.ml
-cpcontacts.tektiklakredims.com
-cpcontacts.tr-sb-irtibatiletisim.com
-cpcontacts.tramer-sorgu.net
