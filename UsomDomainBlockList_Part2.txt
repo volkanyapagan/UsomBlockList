@@ -1,3 +1,4 @@
+cpcontacts.tramer-sorgula.net
 cpcontacts.tramerbilgi.net
 cpcontacts.tramerkaydisorgula.net
 cpcontacts.tramerportal.net
@@ -15538,6 +15539,7 @@ dijitalkredigiris-ziraat.com
 dijitalkredikampanya-ziraat.com
 dijitalkrediler-ziraat.com
 dijitalkrediler-ziraatbireysel.com
+dijitalkrediler-ziraatmobilweb.sbs
 dijitalkredim-ziraatbireysel.com
 dijitalkredimdenizv2.co
 dijitalkredimevduat-ziraatbireysel.com
@@ -53646,6 +53648,7 @@ fluxden.site
 fluxdens.crd.co
 fluxflare.online
 fluxhorizon.online
+fluxivo1.sbs
 fluxorahubs.shop
 fluxswift.biz
 flvmx2tw.duckdns.org
@@ -99995,6 +99998,3 @@ ifybest85fff.ddns.net
 ifybtvpgmt.duckdns.org
 ifyouconfings.xyz
 ifyxvustjh.duckdns.org
-ifzy1xl.duckdns.org
-ifzyhsfqna.duckdns.org
-ig-aid-destek-merkezi.ml
