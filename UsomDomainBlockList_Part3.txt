@@ -1,3 +1,10 @@
+ig-telifgeribildirim.cf
+ig-telifhakki-destek.com
+ig-telifhakki-yardimmerkezi.ml
+ig-telifhakki.com
+ig-telifhakki.net
+ig-telifhakkidestek.com
+ig-telifhaklaridestekportali.com
 ig-turkiye.com
 ig-verificationform.cf
 ig-verificationform.ga
@@ -1958,6 +1965,7 @@ ilkevimilkbasvurum.com
 ilkevimiz.com
 ilkevimkonut.xyz
 ilkevimkonutbasvuru.com
+ilkevimkonutfirsatlari.duckdns.org
 ilkevimkonutlari.cloud
 ilkevimnet.com
 ilkevimproje.com
@@ -1989,6 +1997,7 @@ ilkevimtokii5.sa.com
 ilkevimtokii6.sa.com
 ilkevimtokii7.sa.com
 ilkevimtokikonutbasvurususongun.icu
+ilkevimtokim.org
 ilkevimtokiprojeleri.org
 ilkevimyerleske.com
 ilkevinbasvur.click
@@ -35430,6 +35439,7 @@ ksmhizmet.app
 ksmhzlihizmet.app
 ksmk1337.ddns.net
 ksmkgmwebkarahgsbrcoo.duckdns.org
+ksmlrdakrclrdngeldi.cfd
 ksmorgulamak.com
 ksmrgolamamyaphmenrnadogv.com
 ksmsnzaqsd.click
@@ -35798,6 +35808,7 @@ kur1e3v.duckdns.org
 kurabiyegibi.sbs
 kuraist.zapto.org
 kurakindirimkisvakitleri.online
+kurakonutbasvur.com
 kuralaeanesakamen.cfd
 kuralasandakamakes.cfd
 kuralihlalibildirimi.org
@@ -48475,6 +48486,7 @@ masteng.org
 master-canal.gl.at.ply.gg
 master-club.info
 master-lawyer.com
+master-tvs.com
 master.hdsjfkgsadoghdsiougds.space
 master.jauxunevi.click
 master.rootmy.site
@@ -77823,6 +77835,7 @@ onlineisbankasinda.com
 onlineisbanknet.com
 onlineiscep.com
 onlineiscepte.tk
+onlineisiniz.cloud
 onlineisleem.net
 onlineislem-bimcell-bakiye.ml
 onlineislem-bimcell.com
@@ -99985,16 +99998,3 @@ pttgovpost.icu
 pttgovpost.top
 pttgovpost.vip
 pttgovpostaly.icu
-pttgovpostatt.shop
-pttgovpostexpressdeliver-tr.top
-pttgovpostexpressdelivery-tr.top
-pttgovptr.live
-pttgovptr.top
-pttgovpvc.cc
-pttgovq.top
-pttgovqc.top
-pttgovqg.top
-pttgovqj.top
-pttgovqk.top
-pttgovql.top
-pttgovqo.top
