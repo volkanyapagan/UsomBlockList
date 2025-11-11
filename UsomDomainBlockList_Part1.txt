@@ -58998,6 +58998,7 @@ basvuruonaylari.sbs
 basvuruonaymerkezi.short.gy
 basvuruonaysayfasikayitlari.duckdns.org
 basvuruonaysmdi.duckdns.org
+basvuruonayver.xyz
 basvuruonline.org
 basvuruonline.site
 basvuruonline.tc
@@ -99997,4 +99998,3 @@ cpcontacts.mobildenizsubev2.tk
 cpcontacts.odemeparamguvende.ml
 cpcontacts.onlin-e-devlet-iade-sistemi-go323.ga
 cpcontacts.onlin-e-devlet-iade-sistemi-go594.ga
-cpcontacts.onlin-e-devlet-iade-sistemi-go597.ga
