@@ -1,3 +1,6 @@
+pttgov-tr.cyou
+pttgov-tr.guru
+pttgov-tr.hair
 pttgov-tr.icu
 pttgov-tr.info
 pttgov-tr.ink
@@ -99995,6 +99998,3 @@ xhsgdestekhizm9.ga
 xhsgdestekhizme6.cf
 xhsgdestekhizme6.ga
 xhsgdestekhizme6.gq
-xhsgdestekhizme6.ml
-xhsgdestekhizme6.tk
-xhsgdestekhizmet.ml
