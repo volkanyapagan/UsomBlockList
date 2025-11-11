@@ -1,3 +1,7 @@
+pttgov.cc
+pttgov.click
+pttgov.icu
+pttgov.info
 pttgov.ink
 pttgov.life
 pttgov.live
@@ -56664,6 +56668,7 @@ toki-gov-tr.tk
 toki-gov.cfd
 toki-gov.sbs
 toki-ile.evsahibturkiye.com
+toki-ilkevim.com
 toki-ilkevim.duckdns.org
 toki-ilkevim.shop
 toki-kampanya.com
@@ -57657,6 +57662,7 @@ toplukonutbasvuruguvfqhs.vercel.app
 toplukonutbasvurujdspj.vercel.app
 toplukonutbasvurujxhcg.vercel.app
 toplukonutbasvurukigwp.vercel.app
+toplukonutbasvurukollobbr.vercel.app
 toplukonutbasvurukvzbhku.vercel.app
 toplukonutbasvurular-45.com
 toplukonutbasvurular.com
@@ -83386,6 +83392,7 @@ vortax.space
 vortex-cloudgaming.com
 vortex-crystal.com
 vortex.ismatch.ru
+vortexal4.sbs
 vortexchase.com
 vortexgleam.shop
 vortexharbor.com
@@ -99991,10 +99998,3 @@ xjslbm.com
 xjslesj.com
 xjslg.cn
 xjsy7n.duckdns.org
-xjsyfsilz.duckdns.org
-xjtlt.cn
-xjui03.duckdns.org
-xjupqkqreqpbroo.su
-xjuswqgngi.duckdns.org
-xjvemitntearroumo.net
-xjvi8o3f5.duckdns.org
