@@ -14089,6 +14089,7 @@
 500binkonutprojesi.org
 500binkonutprojesibasvuruekrani.com
 500binkonutprojesibasvurusu.urlbee.icu
+500binkonutreceptayyiperdogan.neocities.org
 500binkonutum.sbs
 500binkonutyerlesim.com
 500binsosya1konut.com.tr
@@ -99997,4 +99998,3 @@ cpcontacts.denizmobilacikdenizkredi.ga
 cpcontacts.denizmobilacikdenizkrediv2.ga
 cpcontacts.denizmobilacikdenizv4.ml
 cpcontacts.denizmobilacikdenizv4.tk
-cpcontacts.denizmobilkredim.ga
