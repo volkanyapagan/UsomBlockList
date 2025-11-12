@@ -1,3 +1,8 @@
+pttgov-po.top
+pttgov-post.com
+pttgov-pt.top
+pttgov-qa.top
+pttgov-qb.top
 pttgov-qc.top
 pttgov-qd.top
 pttgov-qf.top
@@ -14394,6 +14399,7 @@ s-pguvende.com.tr
 s-pguvende.net
 s-pramguvende-magaza.com
 s-pranguvende-magaza.com
+s-prmguvende.xyz
 s-prmgvnde-ile-al-sat.site
 s-prmgvnde-ile-al-sat.xyz
 s-prmgvnde-ile-satis-alis.site
@@ -56963,6 +56969,7 @@ toki-gov-tr.ml
 toki-gov-tr.tk
 toki-gov.cfd
 toki-gov.sbs
+toki-hizlibasvurularim.vercel.app
 toki-hizlibasvuruyap.vercel.app
 toki-ile.evsahibturkiye.com
 toki-ilkevim.com
@@ -57020,6 +57027,7 @@ toki.basvuruyapev.com
 toki.basvuruyorum.com
 toki.beauty
 toki.blog
+toki.boo
 toki.castgard.com
 toki.ebasvur.com
 toki.eczonomm.it.com
@@ -57311,6 +57319,7 @@ tokii-basvrur-2025.com
 tokii-basvuru.online
 tokii.digital
 tokiibasvuralarii.art
+tokiibasvuralarii.xyz
 tokiibasvuru.art
 tokiibasvuru.com
 tokiibasvuru.info
@@ -65742,6 +65751,7 @@ tu.rkiye.dev
 tu02n.website
 tu321985.ddns.net
 tu3t6v.duckdns.org
+tu5hp8tpikj2.storage.googleapis.com
 tu6w5ins.duckdns.org
 tu75ljci.duckdns.org
 tuaaiirkiye.online
@@ -99988,13 +99998,3 @@ xfowv.com
 xfptimucdclr.hesteroptical.ru
 xfqbnqih.xyz
 xfreddy2751.duckdns.org
-xfreddy318s.ddns.net
-xfrsatim1001xkmpny.online
-xfrsxts.indrxmlrimx.xyz
-xfswr.click
-xftdgbink.com
-xfufjyapli.duckdns.org
-xful94h.duckdns.org
-xfuuqj.cyou
-xfuuqj.icu
-xfvdohicjy.duckdns.org
