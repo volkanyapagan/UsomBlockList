@@ -1,3 +1,4 @@
+pttgov-qc.top
 pttgov-qd.top
 pttgov-qf.top
 pttgov-qg.top
@@ -47375,6 +47376,7 @@ t0ggservisi.org
 t0ggturkiyem.net
 t0hqjwh.duckdns.org
 t0k1-b4svar.click
+t0kbasvurular.click
 t0kbasvurulari.sbs
 t0kbasvurum.click
 t0ki-hemenbrda.com
@@ -57025,6 +57027,7 @@ toki.evbasvurusu.com
 toki.evbasvuruyap.com
 toki.evsahibiolduturkiye.com
 toki.evsahibiturkiye.org
+toki.forum
 toki.glbserv.com
 toki.hanimanya.com
 toki.hemenbasvuru2025.org
@@ -57307,6 +57310,7 @@ tokihousingapplication.com
 tokii-basvrur-2025.com
 tokii-basvuru.online
 tokii.digital
+tokiibasvuralarii.art
 tokiibasvuru.art
 tokiibasvuru.com
 tokiibasvuru.info
@@ -57996,6 +58000,7 @@ toplukonutbasvurucyyzmdku.vercel.app
 toplukonutbasvurudnxjxk.vercel.app
 toplukonutbasvurudqiimu.vercel.app
 toplukonutbasvurue0o64rpf6.vercel.app
+toplukonutbasvurufbcnjj04ql.vercel.app
 toplukonutbasvuruguvfqhs.vercel.app
 toplukonutbasvurujdspj.vercel.app
 toplukonutbasvurujflew.vercel.app
@@ -99993,8 +99998,3 @@ xful94h.duckdns.org
 xfuuqj.cyou
 xfuuqj.icu
 xfvdohicjy.duckdns.org
-xfvqnykmnd.duckdns.org
-xfwkdhbv.com
-xfwraf.click
-xfwuadndbk.duckdns.org
-xfxixrsat-inxdrxmlerx.life

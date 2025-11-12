@@ -28981,6 +28981,7 @@ keosland.xyz
 kep-adres-hepsiburada.com
 kep-adres-tekno-sa.com
 kep-aktifim.com
+kep-aktifim.net
 kep04securels45log.zapto.org
 kepadres-guncelleme-hepsi.com
 kepadres-tekno-sa.com
@@ -99997,4 +99998,3 @@ pttgov-post.com
 pttgov-pt.top
 pttgov-qa.top
 pttgov-qb.top
-pttgov-qc.top
