@@ -1,3 +1,9 @@
+pttgov-tog.top
+pttgov-toh.top
+pttgov-toi.top
+pttgov-tok.top
+pttgov-tom.top
+pttgov-ton.top
 pttgov-top.top
 pttgov-tor.top
 pttgov-tot.top
@@ -348,6 +354,7 @@ pttgovs.cloud
 pttgovs.club
 pttgovs.com.tr
 pttgovs.help
+pttgovs.icu
 pttgovs.ink
 pttgovs.life
 pttgovs.org
@@ -40758,6 +40765,7 @@ ssahibinden-paramguvende.com.tr
 ssahibinden-paramguvende.online
 ssahibinden-paramguvende.xyz
 ssahibinden.aguvende.online
+ssahibinden.com.tr
 ssahibinden.sbguvende.com
 ssahibindenbireyselparamguvende.online
 ssahibindennguvende.com
@@ -55683,6 +55691,7 @@ tkibasvurularimysfliocomdatatitansbschronosyssbs.luminix.sbs
 tkibsvbrda.site
 tkibsvrlr-gov.pics
 tkibsvru-gov.pics
+tkibsvru2025.com.tr
 tkibsvurlarim.club
 tkibsvurlarim.com
 tkibsvuru2023.com
@@ -56954,6 +56963,7 @@ toki.2025sghbsvbsvr.sbs
 toki.2025xjsbasvurunt-oki.xyz
 toki.2026bajsknvtnkito.sbs
 toki.a-basvr25.sbs
+toki.apartments
 toki.autos
 toki.basuito.com
 toki.basvuru-2025.sbs
@@ -57405,6 +57415,7 @@ tokiproje.com
 tokiprojeleri-basvurularim.vercel.app
 tokiprojeleri-basvurum.vercel.app
 tokiprojelerim-basvurularim.vercel.app
+tokiprojem.xyz
 tokiprojesi.com
 tokiresmibasvurun.wordpress.com
 tokiresmiyetgazeteniz.webredirect.org
@@ -57499,6 +57510,7 @@ toklhemensorgula.qzz.io
 tokliverinzgeln.blogspot.com
 toklprojebasv.com
 toklprojebasvru.help
+toklprojebasvrusu.com
 toklprojembasvru.com
 toklprojembasvru2025.com
 toknohaftasonuindirimin.net
@@ -62059,6 +62071,7 @@ trbnacergirsi.com
 trbnadestek.com
 trbnan-ceteknoloji.net
 trbnancdestektr.com
+trbnance-tr.com.tr
 trbnance-tr.online
 trbnance.com
 trbnance.com.tr
@@ -83299,6 +83312,7 @@ vnn.bush2015.net
 vnn.dinhk.net
 vnn.phung123.com
 vnna6r.duckdns.org
+vnnetcom.com
 vnntravel.com
 vnnvsdav5not43dg6dgs.info
 vnnvsdav5not43dg6dgs.org
@@ -99984,17 +99998,3 @@ xgy86rqm5.duckdns.org
 xgyhzw40w.duckdns.org
 xgyxiz.top
 xgzknejlzf.duckdns.org
-xh2nihdk.duckdns.org
-xh4kwf.duckdns.org
-xh5dat.duckdns.org
-xh6slhl.duckdns.org
-xh8s01r.cn
-xhac.hopto.org
-xhackb.zapto.org
-xhafxtaxlrmixdnrmlrm.online
-xhamster-18.ru
-xhasrlama.com
-xhaxo.com
-xhbsexirmlbgdph.su
-xhc6poyno.duckdns.org
-xhcofyi.com
