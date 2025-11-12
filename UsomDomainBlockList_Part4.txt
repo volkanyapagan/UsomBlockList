@@ -1,3 +1,13 @@
+pttgov-qm.top
+pttgov-qn.top
+pttgov-qo.top
+pttgov-qq.top
+pttgov-qs.top
+pttgov-qt.top
+pttgov-qu.top
+pttgov-qw.top
+pttgov-qx.top
+pttgov-qy.top
 pttgov-qz.top
 pttgov-r.top
 pttgov-ra.top
@@ -47356,6 +47366,7 @@ t0ggservisi.org
 t0ggturkiyem.net
 t0hqjwh.duckdns.org
 t0k1-b4svar.click
+t0kbasvurulari.sbs
 t0kbasvurum.click
 t0ki-hemenbrda.com
 t0ki.com.tr
@@ -57533,6 +57544,7 @@ toklgovtr.sbs
 toklhemensorgula.qzz.io
 tokliverinzgeln.blogspot.com
 toklprojebasv.com
+toklprojebasvr.com
 toklprojebasvru.help
 toklprojebasvrusu.com
 toklprojembasvru.com
@@ -59380,6 +59392,7 @@ tr-guvenli.online
 tr-guvenlialisveris.sa.com
 tr-guvenlialisverisim-sahibinden.com
 tr-guvenlionline.sa.com
+tr-haber.my-homeip.com
 tr-haber.pro
 tr-haberler.tk
 tr-haberler.today
@@ -60371,6 +60384,7 @@ tr1familia.org.tr
 tr1ffy.ddns.net
 tr1sok.org.tr
 tr2-guncelsikaytler.com
+tr2-haber.my-homeip.com
 tr2.pointmarkld.pro
 tr2023avansfirsatlari.xyz
 tr2024kmhizmeti.shop
@@ -61984,6 +61998,7 @@ trbicense.click
 trbiinanc.com
 trbiinance.com.tr
 trbilgimerkez.viewdns.net
+trbilgirehberi.cfd
 trbilimler.club
 trbilimler.xyz
 trbilnance.com
@@ -99983,18 +99998,3 @@ xg5w66coo.duckdns.org
 xgahdnwhqdawd.space
 xgaulptxid.duckdns.org
 xgazqeuom.com
-xgbtgrxph.com
-xgcj5glpb0hk8m02a2uwmxjjuumah8f3l.duckdns.org
-xgcrvb.info
-xgecisleriniz.sg-host.com
-xgecisx.sg-host.com
-xgecisxxx.sg-host.com
-xgecisxxx1.sg-host.com
-xgecx.sg-host.com
-xgegxegexg.xyz
-xgeo123.duckdns.org
-xgfdstu6k.frge.io
-xgfumeyk.com
-xghsmdgsa.space
-xghumgiejcbgoch.ru
-xghyywvutcoq.com
