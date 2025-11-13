@@ -1,3 +1,7 @@
+pttgov-jl.top
+pttgov-jt.top
+pttgov-k.top
+pttgov-ka.top
 pttgov-kb.top
 pttgov-kc.top
 pttgov-kd.top
@@ -57428,6 +57432,7 @@ tokikntarsaisyeri2025.com
 tokikntarsaisyeribasvuru.com
 tokikolaybasvurulari.vercel.app
 tokikolaybasvuruyap.vercel.app
+tokikonj1pznfr77.vercel.app
 tokikonusbasvurusu.xyz
 tokikonut.io
 tokikonut.net
@@ -57663,6 +57668,7 @@ toklprojebasvru.help
 toklprojebasvrusu.com
 toklprojembasvru.com
 toklprojembasvru2025.com
+toklyilinprojesl.com
 toknohaftasonuindirimin.net
 toknowall.com
 toko-3.vip
@@ -99992,9 +99998,3 @@ xelfarabetosx.xyz
 xeloriax.com
 xelphoria.store
 xeltykzmpr.duckdns.org
-xelvira.space
-xelycui.com
-xelzads.cyou
-xelzyskurum.cfd
-xemecii.com
-xemlakimxodemem.net
