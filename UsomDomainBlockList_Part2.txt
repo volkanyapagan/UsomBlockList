@@ -1,3 +1,6 @@
+cpcontacts.acikdenizv2denizbank.gq
+cpcontacts.acikdenizv3mobil.tk
+cpcontacts.acikdenizvdeniizbankmobil.gq
 cpcontacts.acikdenizvv2denizmobil.tk
 cpcontacts.acikdenizyeniyil.ml
 cpcontacts.acikdenizyeniyilv2.ga
@@ -99995,6 +99998,3 @@ idsspmjiev.duckdns.org
 idstats.duckdns.org
 idsupportapple.com
 idsurinle.com
-idtarandevusu.com
-idtpl.org
-iduesur.web.app
