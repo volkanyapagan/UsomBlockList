@@ -1,3 +1,6 @@
+idsprozz.buzz
+idsspmjiev.duckdns.org
+idstats.duckdns.org
 idsupportapple.com
 idsurinle.com
 idtarandevusu.com
@@ -51064,6 +51067,7 @@ meltie-rat.live
 melting-potes.com
 meltisa-api.net
 melto-ir.org
+melto2.unaux.com
 meltp-ir.org
 meltplight.top
 meltr-ir.net
@@ -98145,6 +98149,7 @@ ptt-avm.elektronikservis.sa.com
 ptt-avm.g-islemler.online
 ptt-avm.g-secure.online
 ptt-avm.g-sepetim.com.tr
+ptt-avm.hemenalin.sa.com
 ptt-avm.hizli-devam.com.tr
 ptt-avm.hizli-islem.online
 ptt-avm.hizli-sepetin-tr.com.tr
@@ -99993,8 +99998,3 @@ pttgov-it.top
 pttgov-iu.top
 pttgov-iw.top
 pttgov-ix.top
-pttgov-iy.top
-pttgov-j.top
-pttgov-jc.top
-pttgov-ji.top
-pttgov-jk.top

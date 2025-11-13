@@ -35692,6 +35692,7 @@ akbank-subelerim.com
 akbank-subemiz.com
 akbank-subeniz.com
 akbank-subesi.com
+akbank-synthetics.acmx.ai
 akbank-togg-comtr.rf.gd
 akbank-tr-giris.com
 akbank-tr.com
@@ -99997,4 +99998,3 @@ cpcontacts.acikdenizmobilv2com.tk
 cpcontacts.acikdenizmobilv2lg.gq
 cpcontacts.acikdenizsube.cf
 cpcontacts.acikdenizsube.ga
-cpcontacts.acikdenizsube.gq
