@@ -12217,6 +12217,7 @@ destek-kampanyasi.net
 destek-katilim.net
 destek-katilim.org
 destek-kbasvuruu.com
+destek-kollari.digital
 destek-kredisi-2000tl.com
 destek-kredisi.com.tr
 destek-maliye-pandemi.com
@@ -99997,4 +99998,3 @@ idtpl.org
 iduesur.web.app
 idustrialca.top
 iduupliech.duckdns.org
-idv3rgldoemel3rimkysrmix.net

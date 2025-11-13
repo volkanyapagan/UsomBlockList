@@ -1,3 +1,5 @@
+pttgov-kn.top
+pttgov-ko.top
 pttgov-kp.top
 pttgov-kq.top
 pttgov-ks.top
@@ -57146,6 +57148,7 @@ toki500konutbasvuru.icu
 toki500konutbasvuru.org
 toki500konutbasvuru.sbs
 toki500konutbasvurulari.xyz
+toki500proje.xyz
 toki600konutbasvuru.sbs
 toki7.lightchord.cfd
 toki700konutbasvuru.sbs
@@ -57495,6 +57498,7 @@ tokilkevimtrtr.blogspot.com
 tokim-basvurum.digital
 tokim.bounceme.net
 tokim.vercel.app
+tokimileilkevimler.org
 tokimkonutbasvurusu.cloud
 tokimmnntokimm-knt-proje.com
 tokimnetevim.store
@@ -57558,6 +57562,7 @@ tokisite.com
 tokisitelerimiz.b-cdn.net
 tokislem.com
 tokislemyap.com
+tokisondakikahaber.org
 tokisony.omnicron.sbs
 tokisosyalbasvuru.net
 tokisosyalbasvurularim.vercel.app
@@ -99993,8 +99998,3 @@ xeo99ty.duckdns.org
 xeoghehofuuxo.su
 xeohgswl.com
 xeontime.com
-xepace.cn
-xepjpiuvdw.duckdns.org
-xeqjhbrgcl.duckdns.org
-xeqt1z6ld.duckdns.org
-xer121.top
