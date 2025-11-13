@@ -1,3 +1,5 @@
+pttgov-iw.top
+pttgov-ix.top
 pttgov-iy.top
 pttgov-j.top
 pttgov-jc.top
@@ -9462,6 +9464,7 @@ reklamlink26.vercel.app
 reklamlink56.vercel.app
 reklamlinkkampanya.vercel.app
 reklamm.cf
+reklammilazimhemenulasin.cfd
 reklamnurgaz.icu
 reklamnurgazis.my
 reklamonizlemes.site
@@ -57660,6 +57663,7 @@ tokl500proje.com
 toklbasvrlra.com
 toklbasvrproje.com
 toklbasvruproje.com
+toklbasvurlarim.com
 toklbasvuruadresl.duckdns.org
 toklbasvuruhlzmetlerl.wordpress.com
 toklbasvyryap.org
@@ -99994,7 +99998,3 @@ xehrj.com
 xeirz.ddns.net
 xejemoijoy.live
 xejjaupcla.duckdns.org
-xejwqvrgrawo.net
-xekbr8aoh.duckdns.org
-xekezix.com
-xekjcmyaf.com
