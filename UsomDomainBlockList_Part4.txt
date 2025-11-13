@@ -1,3 +1,7 @@
+pttgov-kj.top
+pttgov-kk.top
+pttgov-kl.top
+pttgov-km.top
 pttgov-kn.top
 pttgov-ko.top
 pttgov-kp.top
@@ -11510,6 +11514,7 @@ rh72px.duckdns.org
 rhaanu.windearlycar.top
 rhalkbank.com
 rhaye.ml
+rhbe2a7eekp.storage.googleapis.com
 rhbi5i7.duckdns.org
 rhbjrvtmon.duckdns.org
 rhbreeef.xyz
@@ -57179,6 +57184,7 @@ tokibasvur.store
 tokibasvur.xyz
 tokibasvur2025.qzz.io
 tokibasvuralarii.info
+tokibasvuralarii.pro
 tokibasvurdum.xyz
 tokibasvuredevlet-20f08.kxcdn.com
 tokibasvurislem.cfd
@@ -57445,6 +57451,7 @@ tokikonutbasvuruun.net
 tokikonutbasvuruyap.com
 tokikonutbasvuruyap.vercel.app
 tokikonutdan.com
+tokikonutevim.com
 tokikonutevleri.cloud
 tokikonutevleribasvurusu.com
 tokikonutidaresi.org
@@ -99991,10 +99998,3 @@ xenodochial-lovelace.194-233-69-188.plesk.page
 xenodochial-villani.18-219-65-232.plesk.page
 xenogdwxva.duckdns.org
 xenoncss.zapto.org
-xenosissexy.ddns.net
-xentroum.com
-xenturai.com
-xeo99ty.duckdns.org
-xeoghehofuuxo.su
-xeohgswl.com
-xeontime.com
