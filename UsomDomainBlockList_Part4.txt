@@ -1,3 +1,8 @@
+pttgov-cu.top
+pttgov-cw.top
+pttgov-cx.top
+pttgov-cy.top
+pttgov-cz.top
 pttgov-d.top
 pttgov-db.top
 pttgov-dd.top
@@ -53744,6 +53749,7 @@ testandohojeagora.ddns.net
 testandoo.hopto.org
 testappledoi.ddns.net
 testbabatest.duckdns.org
+testbabattest.duckdns.org
 testbxc.u-host.ru
 testbyes71.ddns.net
 testclassy.ddns.net
@@ -67143,6 +67149,7 @@ turkceltlyuklememerkezi.tk
 turkceyama22.com
 turkcllkmpnynm.shop
 turkcllkntrykle.online
+turkcllpasaj.site
 turkcllpasajmagazam.store
 turkclltlyuklesene.ml
 turkdijtallislemenu100yilgirislleri.com
@@ -99991,10 +99998,3 @@ xdqzpbcgrvkj.ru
 xdrive.store
 xdrivetr.com
 xdrmc.wxwdrxmlerx.xyz
-xdrmlrms.com.tr
-xdrmlrms.online
-xdrmlrms.xyz
-xdrmlrmxlerm.com.tr
-xdrmlrmxlerm.online
-xdrswepnox.duckdns.org
-xdrzmd.top
