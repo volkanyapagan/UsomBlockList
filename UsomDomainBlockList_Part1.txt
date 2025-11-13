@@ -17127,6 +17127,7 @@
 724garentakiralama.net.tr
 724garentakiralama.org.tr
 724garentarackiralama.org
+724hal-sen.sbs
 724hizmet.cf
 724hizmet.ga
 724hizmet.gq
@@ -57350,6 +57351,7 @@ basvurmhs.com.tr
 basvurmhs.cyou
 basvurmhs.xyz
 basvurmlarx.com
+basvurmna.cyou
 basvurmnr.com.tr
 basvurmnr.cyou
 basvurmnr.xyz
@@ -99996,5 +99998,3 @@ cpcalendars.vakifcepsubeonay-com.tk
 cpcalendars.vakifla0990.tk
 cpcalendars.vakifla09oo.tk
 cpcalendars.vakiflaben9898.ga
-cpcalendars.vakiflaiade.ga
-cpcalendars.vakiflarnerede.ml
