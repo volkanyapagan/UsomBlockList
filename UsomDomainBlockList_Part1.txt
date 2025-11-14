@@ -58614,6 +58614,7 @@ basvurular.ailevegenclik.bugatechnic.com
 basvurular.ailevegenclik.sedesa.com.tr
 basvurular.biz
 basvurular.denizozelonay.209-38-246-220.plesk.page
+basvurular.duckdns.org
 basvurular.fun
 basvurular.online
 basvurular.org
@@ -99997,4 +99998,3 @@ cowardlylounge.top
 cowardlyretaliate.top
 cowbex.info
 cowboyd.ddns.net
-cowboyingaround.com
