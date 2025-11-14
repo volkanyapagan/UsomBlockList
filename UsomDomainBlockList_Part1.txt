@@ -58013,6 +58013,7 @@ basvuru.kredi-hizmeti.com
 basvuru.kredi-mobil.com.tr
 basvuru.kredi-servisle.com
 basvuru.lflink.com
+basvuru.maksi.digital
 basvuru.mefound.com
 basvuru.misecure.com
 basvuru.mobildeniz.hediye.3-77-235-143.plesk.page
@@ -99997,4 +99998,3 @@ cpcalendars.tramersorguekrani.net
 cpcalendars.tramersorgula.net
 cpcalendars.tramersorgulama.net
 cpcalendars.tramersorgulamaportali.net
-cpcalendars.tramersorguportali.net
