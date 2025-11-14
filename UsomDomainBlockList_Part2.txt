@@ -1,3 +1,4 @@
+cpcalendars.e-devlet-iade-sistemi-govtrtt123.ga
 cpcalendars.e-devlet-iade-sistemi-govtrtt129.ga
 cpcalendars.e-devlet-iade-sistemi-govtrtt169.ga
 cpcalendars.e-devlet-iade-sistemi-govtrtt173.ga
@@ -99997,4 +99998,3 @@ iddaacafe.net
 iddaacafe.org
 iddaas.com
 iddadoberevovate.ddns.net
-iddefkurban.org
