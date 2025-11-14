@@ -14035,6 +14035,7 @@
 5.login.e-memursikayet.online
 50-1-11-11-1113r111-11.sbs
 50-gb-internet.online
+500-basvuru.online
 500-bin-konut-basvuru.definebul.com
 500-bin-tok1.org.tr
 500-bin-toki-basvuru.referansbilisim.online
@@ -58455,6 +58456,7 @@ basvuruilekazan.com
 basvuruilesendekazan.tk
 basvuruiletisim-portal.tk
 basvuruilkevim.com
+basvuruilkevim.info
 basvuruilkevim.live
 basvuruilkevim.pro
 basvuruimzaacikdenizv2denizbankatilis.co.vu
@@ -59331,6 +59333,7 @@ basvurutokileri.online
 basvurutokimerkezim.com
 basvurutokimilkevim81.xyz
 basvurutokionline.click
+basvurutokitakip.com
 basvurutokkampanya.art
 basvurutokkampanya.info
 basvurutokkampanya.live
@@ -59414,6 +59417,7 @@ basvuruyap.tk
 basvuruyap.vercel.app
 basvuruyap.xyz
 basvuruyap150aile.com
+basvuruyap2025.online
 basvuruyap2025.site
 basvuruyapabilirsin.click
 basvuruyapailevegenc.com
@@ -99994,7 +99998,3 @@ covttfvsnh.duckdns.org
 cow37.xyz
 cow7jwnwq.duckdns.org
 cowardaptly.top
-cowardcoincidence.top
-cowardicebotanical.top
-cowardiceemulate.top
-cowardiceflattery.top
