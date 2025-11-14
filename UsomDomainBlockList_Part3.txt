@@ -1,3 +1,4 @@
+icloud-flnd-my-devlce.live
 icloud-ios-find.com
 icloud-itunes.com.cn
 icloud-mail.net
@@ -34387,6 +34388,7 @@ konutbasvurumerkezi.org
 konutbasvurumtr.click
 konutbasvurun.org
 konutbasvurunet.online
+konutbasvurunu.org
 konutbasvurunuyap.com
 konutbasvurunuz.nl
 konutbasvurunuzuyapin.com
@@ -99996,5 +99998,3 @@ pttavm-hgs.sa.com
 pttavm-hgsbakiye.com
 pttavm-hgsbakiyeyukle.com
 pttavm-hgsbakiyeyukle.me
-pttavm-hgsdolum.com
-pttavm-hgshizliyukleme.com
