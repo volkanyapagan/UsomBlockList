@@ -1,3 +1,5 @@
+pttalisveris.tr-alisverisler.com
+pttalisveris.tr-onay-alisveris.com
 pttalisveris.trguvende-odeme.com
 pttalisveris.trodeme-ilan.com.tr
 pttalisverisavm.com
@@ -58007,6 +58009,7 @@ toki-basladi-sende.click
 toki-basladi-sende.com
 toki-basladi-sende.xyz
 toki-basvrubilgisistemi.click
+toki-basvrubilgisistemleri.click
 toki-basvrum.digital
 toki-basvur-2025.com
 toki-basvur.blogspot.com
@@ -99995,6 +99998,3 @@ wwwsahibinden.com
 wwwsahibinden.com-ilan.com.tr
 wwwsahibinden.com.tr
 wwwsahibinden.comtr.online
-wwwsahibinden.ml
-wwwsahibinden.online
-wwwsahibinden.xyz
