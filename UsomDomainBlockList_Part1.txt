@@ -14088,6 +14088,7 @@
 500binhazirkonutrojesi.cloud
 500binilkevim.com
 500binkontprojesi.com
+500binkonuprojesi.cloud
 500binkonut.com
 500binkonut.neocities.org
 500binkonut.org
@@ -14117,6 +14118,7 @@
 500binsosya1konut.com.tr
 500binsosya1konut.cyou
 500binsosya1konut.xyz
+500binsosyalbasvuru.myonlineportal.de
 500binsosyalkonut.com
 500binsosyalkonut.xyz
 500binsosyalkonutbasvuru.com
@@ -99996,5 +99998,3 @@ covidasidogrulamasaglikgovtr.cf
 covidasidogrulamasaglikgovtr.gq
 covidasidogrulamasaglikgovtr.online
 covidasidogrulamasaglikgovtr.xyz
-coviddestek.com
-coviddestekfonu.com
