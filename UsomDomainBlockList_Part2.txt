@@ -1,3 +1,5 @@
+covidtest.website
+covidyardim-trt.com
 covidyardim.org
 covied19.duckdns.org
 covsaiddme.com
@@ -25927,6 +25929,7 @@ e-hgsyuklemee.com
 e-hgsyuklemi.com
 e-hgsyuklemi.mobi
 e-hizli-alim.com.tr
+e-hizli-basvuru-online.sbs
 e-hizli-bireysel-kampanya-basvur-online.ml
 e-hizli-islem-vatandas.com
 e-hizli.net
@@ -72466,6 +72469,7 @@ guvenceli-tedarik.com.tr
 guvencelibimtl100.ga
 guvencelikredim.click
 guvenceniz.com.tr
+guvenceonayli.com.tr
 guvencesi-ile-ode.com
 guvencesi-ile.com
 guvencesi.com.tr
@@ -84979,6 +84983,7 @@ hemnebinmeyebasla.com.tr
 hemnebinmeyebasla.xyz
 hemnenkosfirsatlara.com.tr
 hemnenkosfirsatlara.online
+hemneonlasinislem.online
 hemnhizlionnline.net
 hemnhzligirsbasvrunktassi.com
 hemnkampanyalarburdasendefaydalan.com.tr
@@ -85845,6 +85850,7 @@ herseyanimda.com
 herseyaninda.com
 herseybbvaicin.net
 herseybittartik.click
+herseybizimicin23.click
 herseybizimicn.site
 herseybosanlamsiz.click
 herseyburada.name.tr
@@ -99992,9 +99998,3 @@ icloud-apple-store.com
 icloud-find-device.live
 icloud-find-device.wtf
 icloud-find-my-device.com
-icloud-find-my-mx.wtf
-icloud-finddevice.live
-icloud-finde-device.com
-icloud-finderdevice.live
-icloud-findmy-ar.com
-icloud-findmy-phone.com
