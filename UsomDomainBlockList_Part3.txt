@@ -1,3 +1,6 @@
+icloud-findmyiphone.cf
+icloud-findmyiphone.com
+icloud-findmyiphone.live
 icloud-findmyiphone.me
 icloud-findmyiphone.org
 icloud-findmyiphone.tk
@@ -27717,6 +27720,7 @@ kasimfirsat.online
 kasimfirsat.shop
 kasimfirsat.site
 kasimfirsat.store
+kasimfirsat.xyz
 kasimfirsata101.online
 kasimfirsati.shop
 kasimfirsati.site
@@ -99994,7 +99998,3 @@ pttavm-depo.com
 pttavm-dolumhizmeti.com
 pttavm-esepet.trapps.online
 pttavm-firsatlarburda.click
-pttavm-firsatlarburda.com
-pttavm-firsatlarburda.xyz
-pttavm-gov-tr.blogspot.com
-pttavm-h-g-s-com-tr.blogspot.com
