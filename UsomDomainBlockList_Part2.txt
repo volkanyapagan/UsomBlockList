@@ -1,3 +1,4 @@
+covidsafe-map.com
 covidtest.website
 covidyardim-trt.com
 covidyardim.org
@@ -99997,4 +99998,3 @@ icloud-analysis.com
 icloud-apple-store.com
 icloud-find-device.live
 icloud-find-device.wtf
-icloud-find-my-device.com
