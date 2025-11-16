@@ -7896,6 +7896,7 @@
 2025online-iscepbasvuru.vercel.app
 2025onlineislemler.sbs
 2025primakovreadings.info
+2025projeleri.com
 2025qnbkampanyasi.vercel.app
 2025rmcnewcreate.duckdns.org
 2025s0rgu-yap.com
@@ -99997,4 +99998,3 @@ covid30gb.org
 covidapp-19.site
 covidapp-19.space
 covidasidogrulama-sagik-gov-tr.info
-covidasidogrulama-saglik-gov-tr.co
