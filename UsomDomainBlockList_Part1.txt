@@ -14178,6 +14178,7 @@
 500konut-bsrv.lat
 500konut-bsrv.lol
 500konut-bsrv.sbs
+500konut.click
 500konut.com
 500konutbasvur.shop
 500konutbasvuru.sbs
@@ -58668,6 +58669,7 @@ basvurularaliniyor.xyz
 basvurularbasladi.com
 basvurularbasladi.neocities.org
 basvurularbasladi.netlify.app
+basvurularbasladi500.com
 basvurularbasladigovtr.com
 basvurularbasladihemenbasvuronaylansiniz.urlhero.top
 basvurularbitiyor.cloud
@@ -78542,6 +78544,7 @@ bnsmarket-technology.com
 bnsmcsaddsfy3klecim.net
 bnsmglobalbasvuru.com
 bnsnaonlinegiristr.com
+bnsnbrbr2026.xyz
 bnsnbsnnbsscnaceesngsetr.com
 bnsncssdtr.vercel.app
 bnsneonlinegiristr.com
@@ -99995,6 +99998,3 @@ covid19saglikgov.tk
 covid19support.top
 covid19tracer.ca
 covid19vaccinations.hopto.org
-covid19vaccine.hopto.org
-covid19voi.com
-covid19yardim.com
