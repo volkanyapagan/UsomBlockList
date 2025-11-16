@@ -1,3 +1,6 @@
+covid19support.top
+covid19tracer.ca
+covid19vaccinations.hopto.org
 covid19vaccine.hopto.org
 covid19voi.com
 covid19yardim.com
@@ -51598,6 +51601,7 @@ firsatburdatikla.com
 firsatburlodr.duckdns.org
 firsatbursu.com
 firsatbursum.com
+firsatbvtr.my-homeip.com
 firsatcadiri.com
 firsatcampain.net
 firsatcampanyhediyebasvur.net
@@ -99994,7 +99998,3 @@ ichbineinvogel.duckdns.org
 ichbinrek.net
 ichdielch.click
 ichefbcci.is-a-chef.com
-ichheibedas.buzz
-ichifusa-sanpo.com
-ichinose.de
-ichoose.zapto.org
