@@ -1,3 +1,5 @@
+covid-19saglik.com
+covid-aaidat-basvurusu.com
 covid-destegi.com
 covid-destek-aidatiadesi.co
 covid-destek-kartaidat.org
@@ -51704,6 +51706,7 @@ firsatcepsubesinde.gq
 firsatcepsubesinde.ml
 firsatcepsubesinde.tk
 firsatcepte.dev
+firsatcepte.my-homeip.com
 firsatceptesok.shop
 firsatci.akillisigortaci.com.tr
 firsatci.netsigortan.site
@@ -91776,6 +91779,7 @@ hizlikmsorglma.web.app
 hizlikmsorgular.web.app
 hizlikmsorgularimchp.web.app
 hizliknle-295115bb51f1.herokuapp.com
+hizlikntbsvurular.duckdns.org
 hizlikntyuklemesi.2kool4u.net
 hizlikolaypaketal.net
 hizlikontoryukle.xyz
@@ -99994,7 +99998,3 @@ ic107.com
 ic109.com
 ic113.com
 ic155.com
-ic1rfw.duckdns.org
-ic3a.com
-ic8axv.duckdns.org
-icah-jobs.com
