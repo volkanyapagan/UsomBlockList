@@ -1,3 +1,9 @@
+ic103.com
+ic105.com
+ic107.com
+ic109.com
+ic113.com
+ic155.com
 ic1rfw.duckdns.org
 ic3a.com
 ic8axv.duckdns.org
@@ -68773,6 +68779,7 @@ nj0d1aeav.duckdns.org
 nj0x0.ddns.net
 nj121.ddns.net
 nj1289.ddns.net
+nj1j14ozuss.storage.googleapis.com
 nj3100.duckdns.org
 nj314.ddns.net
 nj428.ddns.net
@@ -76738,6 +76745,7 @@ onlinacenta.name.tr
 onlinacenta360.com
 onlinacenta360.online
 onlinacenta365.online
+onlinacik.com
 onlinbncastrduyuru.com
 onlindeodemehg.com
 online---girising.xyz
@@ -99990,11 +99998,3 @@ ptt-soufidwqer.top
 ptt-ssgov.top
 ptt-supermarkett-alisverismerkezleri.online
 ptt-support.top
-ptt-szz.top
-ptt-t.com
-ptt-takibi.com
-ptt-takip.com
-ptt-takip.net
-ptt-takip.org
-ptt-takiphizmetlerikapilarinizda.com
-ptt-takipkargo.com
