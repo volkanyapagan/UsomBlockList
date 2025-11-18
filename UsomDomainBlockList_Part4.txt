@@ -1,3 +1,5 @@
+ptt-gonderittakipbiz.com
+ptt-gonderittakipsizle.org
 ptt-gonv.ink
 ptt-gonv.top
 ptt-gony.top
@@ -59002,6 +59004,7 @@ toki-konut-online.best
 toki-konutlar.sbs
 toki-konutlari-basvuru.best
 toki-konutlari.sbs
+toki-konutlarimbasvuru.vercel.app
 toki-konutprojebasvuru.duckdns.org
 toki-konutprojelerimbasvuruvercelap.vercel.app
 toki-konutprojesi.digital
@@ -59168,6 +59171,7 @@ tokibasvuru-edevletgir.site
 tokibasvuru-islemim.digital
 tokibasvuru.apathe.net
 tokibasvuru.blogspot.com
+tokibasvuru.cfd
 tokibasvuru.click
 tokibasvuru.com
 tokibasvuru.cyou
@@ -99994,7 +99998,3 @@ www.karayollari.xyz
 www.kathatours.com
 www.kazancinizyilbasinda.cf
 www.kazandiraniscep.com
-www.kazanmakseninellerinde.cf
-www.kcnp.or.kr
-www.khotsonglodge.co.ls
-www.kisa.link
