@@ -1,3 +1,10 @@
+ptt-gnai.top
+ptt-gnce.cc
+ptt-gnen.cc
+ptt-go-post.top
+ptt-go-tr.top
+ptt-go-vs.top
+ptt-go.life
 ptt-go.top
 ptt-go.xyz
 ptt-goa-tr.top
@@ -40529,6 +40536,7 @@ sosyalkonutbasvuru.site
 sosyalkonutbasvuru2025.online
 sosyalkonutbasvuru2026.vercel.app
 sosyalkonutbasvurugirislerii.cfd
+sosyalkonutbasvurular.xyz
 sosyalkonutbasvurularim.vercel.app
 sosyalkonutbasvurularin-toki.vercel.app
 sosyalkonutbasvurusu.net
@@ -99990,11 +99998,3 @@ www.hannibal.dev
 www.harmonyguesthouse.co.za
 www.hawaiiislandmidweek.com
 www.hbjkjc.com
-www.hcsscj.ga
-www.hediye-burda.com
-www.hfhl.org.ls
-www.hgxs-onlineyklemelerm.com
-www.hirokawaunso.co.jp
-www.hnd-food.com
-www.holidayacrestreefarm.com
-www.homeadditon.com
