@@ -50159,7 +50159,9 @@ fibabank2022.ml
 fibabanka-kart-aidat-iadeleri.cf
 fibabanka-kart-aidat-iadeleri.ml
 fibabanka-tr.online
+fibabanka-web.click
 fibabanka.agencylook.org
+fibabanka.click
 fibabanka.club
 fibabanka.com.gr
 fibabanka.ml
@@ -99996,5 +99998,3 @@ iadeyapikredi.com
 iadeyapikredisube.com
 iadeye-ozel-basvuru-sayfasi.ga
 iadeyonver.cf
-iadeypainanindaburadan.site
-iadezamani.com
