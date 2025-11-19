@@ -295,6 +295,7 @@
 019506.cn
 01991545555.cloud
 019949393111.cloud
+01a1b6l2612li013.duckdns.org
 01a2b4b1.ns-u629df.shop
 01aga01.com
 01autogestor.ga
@@ -83576,6 +83577,7 @@ buguneozel-turkcell.com
 buguneozel.cfd
 buguneozel.click
 buguneozel.co.vu
+buguneozel.sbs
 buguneozel.shop
 buguneozel.xyz
 buguneozelbasvuru-binnce.tech
@@ -99996,5 +99998,3 @@ convertscloud.com
 conveyancejockey.top
 conveyancelegendary.top
 conveyanecdotal.top
-conveyprosecution.top
-conveysyndrome.top
