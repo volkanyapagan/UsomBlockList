@@ -1,3 +1,5 @@
+ptt-gemoam.top
+ptt-gemu.cc
 ptt-geoz.top
 ptt-gepa.cc
 ptt-gev-tr.cfd
@@ -48138,7 +48140,6 @@ surveillancespice.top
 surveriysiop.shop
 survey-research.1dailynews.online
 survey-smiles.com
-survey.porsline.com
 survey.zohopublic.eu
 surveyappquery.azurewebsites.net
 surveycashbox.com
@@ -99997,4 +99998,3 @@ www.garantibireyselgirisiniz.tk
 www.garantimobilcep.tk
 www.garentarentalcar.com
 www.garralntibbva.com
-www.ge4cdn.com
