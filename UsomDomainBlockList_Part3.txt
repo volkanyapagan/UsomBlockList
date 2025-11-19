@@ -49204,6 +49204,7 @@ manorstudios.net
 manovediahemen.net.tr
 manpowerfeedapi.azurewebsites.net
 manpowerfeedapijson.azurewebsites.net
+manramekarnam.com
 manrklm.com
 manruksalar.xyz
 mansengco778.ddns.net
@@ -99997,4 +99998,3 @@ ptt-geai.sbs
 ptt-gede.cc
 ptt-gemoam.top
 ptt-gemu.cc
-ptt-geoz.top
