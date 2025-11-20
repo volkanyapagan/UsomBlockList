@@ -1,3 +1,5 @@
+provideaccesshubz.ddns.net
+providebibliography.top
 providebronze.top
 providecontact.hopto.org
 providecontacts.hopto.org
@@ -46980,6 +46982,7 @@ subesiz-vakifmobill.gq
 subesiz-vakifmobill.ml
 subesiz-vakifmobill.tk
 subesiz-vakifonlinbasvuru.chickenkiller.com
+subesiz-vakilfbank.com
 subesiz-vaklfbank.com
 subesiz-vaklfmobil.ml
 subesiz-vakmobil-bilgi.xyz
@@ -99995,6 +99998,3 @@ www-teb.tk
 www-tebbank-com-tr.tk
 www-tebhediyem.com
 www-tebonline-com.tk
-www-tek-no-sa.com.tr
-www-teknos-a.com.tr
-www-teknos-a.website
