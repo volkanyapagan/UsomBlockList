@@ -35253,6 +35253,7 @@ ak-axess-basvuru.com.tr
 ak-bank-2022-tr.com
 ak-bank-axess.site
 ak-bank-ihtiyackredisi.site
+ak-bank-islem.click
 ak-bank-tr-giris.com
 ak-bank.duckdns.org
 ak-bank.hemenbasvuru.com
@@ -50155,6 +50156,7 @@ atamksd.net
 atammm6.com
 atamobilya.com.tr
 atamvergiodedi.net
+atamx.com
 atani.cloud
 atapsapad.net
 ataputhatunlar.tk
@@ -78022,6 +78024,7 @@ bncstrgirisleri.com
 bncstrktifgirisler.com
 bncsturkey-com.click
 bncsx-kpmnyacom.click
+bncsxstr.vercel.app
 bnctodayhazirankmpanyasi.net
 bnctr-kampanyakayit.com
 bnctr-ramazankampanyam.net
@@ -82454,6 +82457,7 @@ bsvurr.site
 bsvurrmakk.site
 bsvurrrkamnpnyaaaissskatilimmm.cloud
 bsvurs.site
+bsvurtokidenevim.duckdns.org
 bsvurtokikonut.duckdns.org
 bsvuru.site
 bsvuru2025tki.com.tr
@@ -99994,7 +99998,3 @@ confirmation-id9112.com
 confirmation-id91202.com
 confirmation-id9124.com
 confirmation-id91248.com
-confirmation-id9128.com
-confirmation-id91284.com
-confirmation-id914881.com
-confirmation-id91603.com
