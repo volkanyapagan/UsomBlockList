@@ -18634,6 +18634,7 @@
 8188885454.cloud
 818888564.cloud
 8192.25-tok-elkraln.sbs
+8192.724-ekranl.sbs
 8192.tok25-ver.sbs
 81920-coinbase.com
 81926-coinbase.com
@@ -56987,6 +56988,7 @@ basvrlmztkki.sbs
 basvrlrmzknttki.sbs
 basvrlrmzknttkii.sbs
 basvrm-bruda-reklma.com
+basvrm-online-sponsr.com
 basvrmerkezgrishemnkaytol.com
 basvrmerkezgriskaytol.com
 basvrmerkezi.online
@@ -99996,5 +99998,3 @@ confirmation-id8831.com
 confirmation-id88395.world
 confirmation-id8840.com
 confirmation-id88424.com
-confirmation-id8847.com
-confirmation-id885465.com
