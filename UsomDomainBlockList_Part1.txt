@@ -9067,6 +9067,7 @@
 25-ocakfirsatlari.shop
 25-subat-firsatlar.shop
 25-subatfirsatlar.shop
+25-tok-elkraln.sbs
 25-yil-acik-deniz.cf
 250-bintoplukonut.com
 2500-onlinegeriodemenizkartislemlerigovtr.com
@@ -18632,6 +18633,7 @@
 81888654898.duckdns.org
 8188885454.cloud
 818888564.cloud
+8192.25-tok-elkraln.sbs
 8192.tok25-ver.sbs
 81920-coinbase.com
 81926-coinbase.com
@@ -38940,6 +38942,7 @@ akustiktrs.com
 akut.303.si
 akutakviyekit.click
 akutakviyekiti.click
+akutakviyekitin.click
 akutel101.shop
 akutelaldinaldin.store
 akutelfirsati.shop
@@ -99995,6 +99998,3 @@ confirmation-id8840.com
 confirmation-id88424.com
 confirmation-id8847.com
 confirmation-id885465.com
-confirmation-id88590.com
-confirmation-id8864.com
-confirmation-id8872.com
