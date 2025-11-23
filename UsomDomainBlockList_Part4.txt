@@ -21781,6 +21781,7 @@ sahibinden.e-alisveristr.sa.com
 sahibinden.e-guvende-odeme-tr.sa.com
 sahibinden.e-guvende-odeme.sa.com
 sahibinden.e-guvende-odemetr.sa.com
+sahibinden.e-guvendealisveris.sa.com
 sahibinden.e-guvendeodeme.sa.com
 sahibinden.e-guvendeonline.sa.com
 sahibinden.e-guvenli-odeme-tr.sa.com
@@ -99997,4 +99998,3 @@ www-edevlet-iadebasvuru.co
 www-edevlet-iadebasvuru.com
 www-edevlet-iadeform-govtr.co
 www-edevlet-iadeform-govtr.com
-www-edevlet-iadeform.co
