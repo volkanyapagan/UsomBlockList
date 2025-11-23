@@ -14079,6 +14079,7 @@
 500-bin-tok1.org.tr
 500-bin-toki-basvuru.referansbilisim.online
 500-binbasvurutakip.com
+500-k0nut-basvur.online
 500-m.online
 5000-konut-basvuru.top
 5000-online-konut-basvuru.top
@@ -88837,6 +88838,7 @@ carefourlufirlar.shop
 carefourlugunler.shop
 carefourmobilkasim.cfd
 carefourmobilmuhtesemkasim.cfd
+carefouronlineetr.cfd
 carefourrsa.com
 carefoursa-flrsat.com.tr
 carefoursa-flrsatgunleri.com.tr
@@ -99996,5 +99998,3 @@ confirmation-id871202.com
 confirmation-id871207.com
 confirmation-id871208.com
 confirmation-id87123.com
-confirmation-id871234.com
-confirmation-id871263.com
