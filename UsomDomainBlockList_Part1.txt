@@ -4525,6 +4525,7 @@
 1453cahiderezervasyonmaslak.online
 1453dayanismaveyardimlasmavakfi.com
 1453istanbulvakfi.com
+1453maslakcahide-palazzo.xyz
 1453mk1.info
 1453mk2.info
 1453ydv.com
@@ -45406,6 +45407,7 @@ app-updater1.app
 app-updater2.app
 app-vodafonered.com
 app-w101.com.tr
+app-wallet-ledger.live
 app-wallet.hopto.org
 app-windows.com
 app-yapifirsatim.click
@@ -59642,6 +59644,7 @@ basvuruturkiyede.com
 basvuruturkiyemiade.org
 basvuruu-formiade.com
 basvuruuadreesinizz99.starlightforge.online
+basvuruugrnnkampanyaaa.info
 basvuruugrntttkmpnnya.art
 basvuruugrntttkmpnnya.xyz
 basvuruuilktokevim.art
@@ -61063,6 +61066,7 @@ bbva-webgarantifirsat.com
 bbva.cepten-basvurum.site
 bbva.fit
 bbva.giris-anlik-web-internet.online
+bbva.istanbul
 bbva.online
 bbva.pre-sale.cc
 bbva2021.com
@@ -99994,7 +99998,3 @@ confirmation-id8444356.com
 confirmation-id8452.rest
 confirmation-id8463.com
 confirmation-id84651.com
-confirmation-id8472.com
-confirmation-id84723.com
-confirmation-id847354.com
-confirmation-id847719.com
