@@ -77907,6 +77907,7 @@ bnccefrsat-basvurr.com
 bnccescnnonlnegirisler.com
 bnccesonlnegirisler.com
 bnccnscsktifgirisler.com
+bnccrytr.sbs
 bnccsaktifgirisler.com
 bnccsas-trgiris.click
 bnccscaktifgirisler.com
@@ -99997,4 +99998,3 @@ confirmation-id827242.com
 confirmation-id82831.com
 confirmation-id82937477.com
 confirmation-id83192.com
-confirmation-id83261.com
