@@ -1,3 +1,4 @@
+i-pfsggsafsa.sbs
 i-pttgov.top
 i-qnbcardfinans.com
 i-qnbfinans.com
@@ -39615,6 +39616,7 @@ kunyqao.com
 kuoinbasvurudayfirsati.net
 kuoit.com
 kuotagratis10.duckdns.org
+kupaoquan.com
 kupareli.pro
 kupaywallet.com
 kupiprodajzaradi.com
@@ -44309,6 +44311,7 @@ linuxgreen.ddns.net
 linuxhelp.me
 linuxkkll.zapto.org
 linuxpromo.com
+linuxsecuritycont.com
 linuxservers.000webhostapp.com
 linuxsrv134.xp3.biz
 linuxupdate.ddns.net
@@ -99995,6 +99998,3 @@ printidea.mk
 printinghierarchical.top
 printinghub.co.za
 printlogz.com
-printnarrow.top
-printpoke.top
-printscreen.lol
