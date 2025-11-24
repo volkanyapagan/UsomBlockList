@@ -19868,6 +19868,7 @@
 90vd3fk.duckdns.org
 90x91pbg.duckdns.org
 90yysmw.duckdns.org
+91-208-184-72.plesk.page
 91-238-163-161.plesk.page
 91-yilimiz-dotcom.gateway.web.tr
 910hpvr5.duckdns.org
@@ -57445,6 +57446,7 @@ basvuramazan.online
 basvuramazan.xyz
 basvuran.sbs
 basvuranindayapikredi.com
+basvuranyetisiyor.sbs
 basvurbasladi.org
 basvurbbvaonlin.xyz
 basvurbireysele.com
@@ -72356,6 +72358,7 @@ bireyseltebescekilis.xyz
 bireyseltebhesabim.com
 bireyseltebsubemtr.com
 bireyseltelekom.com.tr
+bireyselteslimat.com.tr
 bireyselticaretler.duckdns.org
 bireyseltrkiye.website
 bireyselvak-iflimit.xyz
@@ -94163,6 +94166,7 @@ cicekmarketim.me
 cicekmarketim.mobi
 cicekmarketim.org
 cicekmarketim.site
+cicekmarketim.space
 cicekmarketim.store
 cicekmarketim.work
 cicekn.com
@@ -99994,7 +99998,3 @@ confirmation-id8425.com
 confirmation-id842526.com
 confirmation-id84284.com
 confirmation-id84433.cfd
-confirmation-id8444356.com
-confirmation-id8452.rest
-confirmation-id8463.com
-confirmation-id84651.com
