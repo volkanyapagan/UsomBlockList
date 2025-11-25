@@ -1088,6 +1088,7 @@ promosyon-odemesi.duckdns.org
 promosyon-randevugiris.duckdns.org
 promosyon-zamani.shop
 promosyon.akpro-akbn-ozel.com.tr
+promosyon.my-homeip.com
 promosyon.website
 promosyon101.online
 promosyon15bintl.club
@@ -1912,6 +1913,7 @@ ptd-servissorgu.net
 ptd-sevislerimiz.net
 ptdenizbank.com
 ptdhgsyukle.ml
+ptdpp.top
 ptdrf.xyz
 ptdrr.ddns.net
 ptdvo7me.duckdns.org
@@ -3040,6 +3042,7 @@ ptt.govpos.icu
 ptt.govpost.cc
 ptt.govsab.help
 ptt.govsac.help
+ptt.govsae.help
 ptt.govtoday.homes
 ptt.govtra.life
 ptt.govtra.top
@@ -99995,6 +99998,3 @@ www-e-devlet-giris.com
 www-e-devlet-gov-tr-pandemidestek.com
 www-e-devlet-gov-tr.com
 www-e-devlet-iade-basvuru.com
-www-e-devlet-karthizmetleri.com
-www-e-devlet-online-aidat-iade-form.com
-www-e-devlet-online-iade-form.com
