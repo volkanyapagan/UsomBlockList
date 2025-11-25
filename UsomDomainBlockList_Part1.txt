@@ -14174,6 +14174,7 @@
 500binsosya1konut.com.tr
 500binsosya1konut.cyou
 500binsosya1konut.xyz
+500binsosyal.sbs
 500binsosyalbasvuru.myonlineportal.de
 500binsosyalkonut.xyz
 500binsosyalkonutbasvuru.com
@@ -23157,6 +23158,7 @@ a101ekstra.site
 a101ekstraa.com.tr
 a101ekstraa.xyz
 a101ekstraaldinaldincampany.xyz
+a101ekstraindirimler.com
 a101ekstram.online
 a101ekstram.xyz
 a101elaletleri.com.tr
@@ -29209,6 +29211,7 @@ acikfirsatzamani.com
 acikfvdeniz.net
 acikgarantibbvaiskemleriniz.duckdns.org
 acikgarantibbvaislemleri.duckdns.org
+acikgarantitr.my-homeip.com
 acikgiris-halkbank.com
 acikgirisdenizbank2019kampanya.com
 acikgirisim.denizgunlerindefirsatgunleri.site
@@ -99995,6 +99998,3 @@ confirmation-id66342.com
 confirmation-id66455.com
 confirmation-id665.com
 confirmation-id6663377.com
-confirmation-id67024.com
-confirmation-id67123.world
-confirmation-id67193.com
