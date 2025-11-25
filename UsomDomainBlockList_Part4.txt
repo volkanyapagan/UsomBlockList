@@ -1,3 +1,7 @@
+primsecoected.org
+primtakip.net
+primtakipsistemi.com
+primtuning.com
 primusbelgium.com
 primusext.pro
 prince007.ddns.net
@@ -2536,6 +2540,7 @@ ptt-gov.site
 ptt-gov.top
 ptt-gov.vip
 ptt-gov.wiki
+ptt-gov.work
 ptt-gov.xyz
 ptt-gov1.cyou
 ptt-gov1.help
@@ -3033,6 +3038,8 @@ ptt.govio.cc
 ptt.govpl.cc
 ptt.govpos.icu
 ptt.govpost.cc
+ptt.govsab.help
+ptt.govsac.help
 ptt.govtoday.homes
 ptt.govtra.life
 ptt.govtra.top
@@ -62831,6 +62838,7 @@ toplukonut-onlinebasvuru.blogdns.net
 toplukonut-onlinebasvuru.duckdns.org
 toplukonut-projesi.sbs
 toplukonut.b-cdn.net
+toplukonut.click
 toplukonut.forum
 toplukonut.homes
 toplukonut.it.com
@@ -99990,11 +99998,3 @@ www-e-devlet-iade-basvuru.com
 www-e-devlet-karthizmetleri.com
 www-e-devlet-online-aidat-iade-form.com
 www-e-devlet-online-iade-form.com
-www-e-devlet-org-tr.com
-www-e-devlet-orgtr.com
-www-e-devlet-vatandas-portal.org
-www-e-devlet.com
-www-e-devlet.com.tr
-www-e-devlet.ml
-www-e-devlet.net
-www-e-devletcimerbasvuru.com
