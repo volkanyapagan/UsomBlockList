@@ -1,3 +1,5 @@
+confirmation-id645255.com
+confirmation-id645355.com
 confirmation-id6456458.com
 confirmation-id64651.com
 confirmation-id64651.online
@@ -3634,6 +3636,7 @@ cryptancu.duckdns.org
 cryptdatagate.com
 cryptdatahub.com
 cryptdomain.dp.ua
+crypteg.com
 cryptendlogoin.webflow.io
 crypter202019.ddns.net
 crypterium.world
@@ -3720,6 +3723,7 @@ cryptowisea.com
 cryptoworl857.ddns.net
 cryptserver.hopto.org
 cryptslgninisues.webflow.io
+crypttobox.com
 cryptyk.ddns.net
 cryptyk.hopto.org
 cryptyk.info
@@ -23763,6 +23767,7 @@ duv-cen.xyz
 duv28wps.duckdns.org
 duvalitatli.com
 duvarprojem.com.tr.ht
+duveliy.com
 duverta.pro
 duvetkr.live
 duvida.duckdns.org
@@ -86588,6 +86593,7 @@ helpwhatsapp.xyz
 helpzonecisco.com
 helsinkim.com
 helsoki.com
+helstoun.com
 helthbrotthersg.com
 helvforalls2.digital
 helytra.com
@@ -99992,9 +99998,3 @@ hyuklemee.org
 hyukleyin.arabamuayenesi.xyz
 hyukleyin.com
 hyunda-ce.com
-hyundaibahcealdin.xyz
-hyundaibahcealdinaldin.online
-hyundaibahceisleri.xyz
-hyundaimotor.social
-hyundaimotorgroup.social
-hyundaimotorjob.social
