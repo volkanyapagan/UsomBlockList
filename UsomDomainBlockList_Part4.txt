@@ -1,3 +1,5 @@
+pptcenter.xyz
+pptgov-pt.top
 pptgov-tr.life
 pptgov-tr.top
 pptgov.lol
@@ -23752,6 +23754,7 @@ sahibinden.mobil-tr.com.tr
 sahibinden.mobil-urun-tr.com
 sahibinden.mobilalisverisget.com.tr
 sahibinden.mobilsepetin-tr.online
+sahibinden.mobilservisi-1.com
 sahibinden.mobilservisleri.com
 sahibinden.mom
 sahibinden.name
@@ -99995,6 +99998,3 @@ wvwptt-avm.com
 wvwpttavm-secure.com
 wvwpttavm-securem.com
 wvwpttavm-securen.com
-wvwpttavm-securess.com
-wvwpttavm.com
-wvwpttavmsecurem.com
