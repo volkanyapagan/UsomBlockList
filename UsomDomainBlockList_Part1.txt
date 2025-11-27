@@ -38426,6 +38426,7 @@ aktuel.persembeagustos547.com
 aktuel.persembeagustos891.com
 aktuel.persembefrager.com
 aktuel.persembeindirimi23.com
+aktuel.persembekasmpati.com
 aktuel.persembemarket64.com
 aktuel.persemberossy.com
 aktuel.persembesabahi68.com
@@ -54830,6 +54831,7 @@ baasvurukonutlaritoki.art
 baasvurukonutlaritoki.info
 baasvurukonutlaritoki.pro
 baasvurukonutlaritoki.sa.com
+baasvuruuprmsynngrnttt.info
 baaykar.com
 baayramfirsatlari.online
 baayykar.com
@@ -99996,5 +99998,3 @@ confirmation-id41240.com
 confirmation-id4125.com
 confirmation-id41338.com
 confirmation-id4188.com
-confirmation-id4211.com
-confirmation-id4212.com
