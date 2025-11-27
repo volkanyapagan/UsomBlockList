@@ -1,3 +1,5 @@
+ppt-gov-tr.top
+ppt-gov-tur-bn.top
 ppt-gov-tur-su.top
 ppt-gov-tur-sy.top
 ppt-gov-tur.top
@@ -99996,5 +99998,3 @@ wvwedevlet-iade.com
 wvwedevlet.com
 wvwedevlet.org
 wvwenpara.com
-wvwenparam.com
-wvwenparamhediye.com
