@@ -4772,6 +4772,7 @@ pttavmsale.online
 pttavmsanalpazar.com
 pttavmsatis.com
 pttavmsatis.online
+pttavmsatisbireysel.com
 pttavmsatismagazasi.com
 pttavmsepetim.com
 pttavmsepetiniz.com
@@ -34733,6 +34734,7 @@ short-l.link
 short-link.sbs
 short-url.net
 short-vol.com
+short.my-homeip.com
 short.pe
 shortagemediate.top
 shortagerefund.top
@@ -63528,6 +63530,7 @@ tokikonutbasvurususongun.icu
 tokikonutbasvuruun.net
 tokikonutbasvuruyap.com
 tokikonutbasvuruyap.vercel.app
+tokikonutbilgirehberi.online
 tokikonutdan.com
 tokikonutevim.com
 tokikonutevleri.cloud
@@ -92053,6 +92056,7 @@ w9dd435z.duckdns.org
 w9e5rm6.duckdns.org
 w9laha33.duckdns.org
 w9nl8x.duckdns.org
+w9ocr12ul.storage.googleapis.com
 w9sljtc.duckdns.org
 w9t4meqc.duckdns.org
 w9uzs9la.mywebcommunity.org
@@ -97028,6 +97032,7 @@ windappz.xyz
 windapts.ddns.net
 windda.ddns.net
 winddns.zapto.org
+winde.my-homeip.com
 windearlycar.top
 windefdl.ddns.net
 windefender.org
@@ -99993,8 +99998,3 @@ wvww-halkbank.com
 wvww-kapidamarket-101.xyz
 wvww-paribu.com
 wvww-sanal-market-101.com
-wvww-sanal-market-101.xyz
-wvww-turkiyegov.com
-wvww-yapikredi.com
-wvwwakifbanka.click
-wvwwakifbanks.click
