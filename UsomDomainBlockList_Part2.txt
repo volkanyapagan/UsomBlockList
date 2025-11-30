@@ -5902,6 +5902,7 @@ cygfbsapt.com
 cyggbs.cn
 cygnisan.com
 cygnora.com
+cygnussforge.com
 cygvka.shop
 cyhesnohers.com
 cyhire.cechire.com
@@ -99997,4 +99998,3 @@ hwgsvcnmturkym.com
 hwgxx-53564.portmap.host
 hwhigsgnb.org
 hwhwqhqwah.net
-hwhwtggdd.duckdns.org
