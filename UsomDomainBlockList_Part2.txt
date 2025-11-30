@@ -1,3 +1,6 @@
+confirmation-id3270.cfd
+confirmation-id32982.com
+confirmation-id33041.com
 confirmation-id33125.com
 confirmation-id33151.com
 confirmation-id33188.com
@@ -24098,6 +24101,7 @@ duyuruaktuel.net
 duyuruakyazfirsatlari.com
 duyurubasvurugiris.com
 duyurubildirimi.com
+duyurubltns.com
 duyurubnacgiristr.com
 duyurubnascegiristr.com
 duyurubnasgiristr.com
@@ -99994,7 +99998,3 @@ hw0odmv.duckdns.org
 hw1l3gvj.ru
 hw5xbrd5.duckdns.org
 hw8vntb.duckdns.org
-hwa85y4icf5.com
-hwayou.com.tw
-hwbgx.duckdns.org
-hwbtki.top
