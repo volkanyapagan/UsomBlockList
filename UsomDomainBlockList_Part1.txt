@@ -14172,6 +14172,7 @@
 500binkonutbasvuru.site
 500binkonutbasvuruekrani.com
 500binkonutbasvurularionline.webredirect.org
+500binkonutbasvurum.sbs
 500binkonutbasvurusu.cfd
 500binkonutduyurusu.com
 500binkonutonlinebasvuru.webhop.org
@@ -59056,6 +59057,7 @@ basvurular1m.com
 basvurularacikbasvurrr.lat
 basvurularacikdenizv2denizbank.co.vu
 basvurularacikdenizv2denizbank.com
+basvurularacld.sbs
 basvurularadevamet.com
 basvurularadevametburdan.com
 basvurularadevametburdanhemen.com
@@ -99996,5 +99998,3 @@ confirmation-id29918.com
 confirmation-id3117.com
 confirmation-id3125.com
 confirmation-id3127.com
-confirmation-id313219.com
-confirmation-id3153.com
