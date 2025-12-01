@@ -1,3 +1,6 @@
+postgov-tr.top
+postgov-tw.hopto.org
+postgovs-tr.top
 postgovtr.xyz
 postgoyte.ddns.net
 posth-skk.xyz
@@ -99995,6 +99998,3 @@ wsywnb.info
 wszaccchbe.duckdns.org
 wszm7fv1.duckdns.org
 wsztdpj.duckdns.org
-wt-teknosa.com
-wt.com.tr
-wt4i5g.duckdns.org
