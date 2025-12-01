@@ -14165,6 +14165,7 @@
 500binkonut.neocities.org
 500binkonut.org
 500binkonut.xyz
+500binkonut.yonlendir.cfd
 500binkonutabasvur.org
 500binkonutaciklandisonguntokibasvurulari.icu
 500binkonutbasvur.site
@@ -57763,6 +57764,7 @@ basvurkdvlilik.blogspot.com
 basvurkml.com.tr
 basvurkml.online
 basvurkonut.cfd
+basvurkonutbilgi.cfd
 basvurkonuttoki.info
 basvurkonuttoki.pro
 basvurkrd.online
@@ -99996,5 +99998,3 @@ confirmation-id2509151.com
 confirmation-id2509152.com
 confirmation-id2509153.com
 confirmation-id2509155.com
-confirmation-id2509156.com
-confirmation-id2509160.com
