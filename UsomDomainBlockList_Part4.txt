@@ -1,3 +1,4 @@
+postgort.ddns.net
 postgov-tr.top
 postgov-tw.hopto.org
 postgovs-tr.top
@@ -99997,4 +99998,3 @@ wsysk4n.duckdns.org
 wsywnb.info
 wszaccchbe.duckdns.org
 wszm7fv1.duckdns.org
-wsztdpj.duckdns.org
