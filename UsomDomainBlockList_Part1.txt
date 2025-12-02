@@ -45159,6 +45159,8 @@ api.btfdf.com
 api.camdriverhelp.club
 api.camera-drive.org
 api.camtuneup.online
+api.cgatgpt.net
+api.cleanmasters.store
 api.clearit.sbs
 api.cloudservers.kz
 api.clpclptrefinder.com
@@ -45177,6 +45179,7 @@ api.eatrgrise.com
 api.eazymount.com
 api.emazemedia.com
 api.erfedfvgf.com
+api.extensionplay.com
 api.farstream.org
 api.fbconnect.net
 api.fesder.com
@@ -96156,6 +96159,7 @@ cleaningnewengland.com
 cleanislem.22web.org
 cleankiralikarac.online
 cleanmagoza.com
+cleanmasters.store
 cleanmilitia.top
 cleanmymac.pro
 cleanotomobilkirala.online
@@ -99994,7 +99998,3 @@ confirmation-id2501120.com
 confirmation-id2501131.com
 confirmation-id250127750.com
 confirmation-id2503320.com
-confirmation-id2507610.com
-confirmation-id2507611.com
-confirmation-id2507612.com
-confirmation-id2507613.com
