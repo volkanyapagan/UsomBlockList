@@ -48696,6 +48696,7 @@ artikdahaguclu-966f1f1c1a95.herokuapp.com
 artikdahaguclu.web.app
 artikdahaguclu2-5ce975feed2f.herokuapp.com
 artikdahagucluyuz.xyz
+artikdahaguvenli-15d7ab410032.herokuapp.com
 artikdahaguvenli-7b62ae7911ae.herokuapp.com
 artikdurdeyinsiddete.com
 artikhazirsin.remingtonturkiye.com
@@ -99997,4 +99998,3 @@ confirmation-id24673.com
 confirmation-id24736.com
 confirmation-id2501120.com
 confirmation-id2501131.com
-confirmation-id250127750.com
