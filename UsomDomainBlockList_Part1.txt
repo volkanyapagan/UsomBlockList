@@ -89561,6 +89561,7 @@ carrefoursa-firsatlari.b8adspd-xyzads-dcxk.us
 carrefoursa-indirimgunux.com
 carrefoursa-indirmleri.vercel.app
 carrefoursa-kampanya.com
+carrefoursa-kis-indirimleri.vercel.app
 carrefoursa-mobile.com
 carrefoursa-online-firsatlar.vercel.app
 carrefoursa-online-ozel.vercel.app
@@ -99997,4 +99998,3 @@ confirmation-id2319.com
 confirmation-id23462.com
 confirmation-id2348.com
 confirmation-id236253.com
-confirmation-id2381.com
