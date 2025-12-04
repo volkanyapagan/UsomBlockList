@@ -92496,6 +92496,7 @@ ceptesok.gt.tc
 ceptesok.net.tr
 ceptesok.superindirim.cfd
 ceptesok.yazaozel.cfd
+ceptesok.yilbasiozel.cfd
 ceptesokaktuel.com
 ceptesokaktuel.online
 ceptesokbayramaozel.online
@@ -99997,4 +99998,3 @@ confirmation-id1864.com
 confirmation-id189213.com
 confirmation-id1896.com
 confirmation-id190238.com
-confirmation-id191188.com
