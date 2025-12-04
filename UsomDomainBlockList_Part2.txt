@@ -1,3 +1,6 @@
+confirmation-id1822.com
+confirmation-id182427.com
+confirmation-id1828.com
 confirmation-id182997.com
 confirmation-id1830.com
 confirmation-id1831.com
@@ -36219,6 +36222,7 @@ efsane-kampanya-saatigeldi.shop
 efsane-kampanya-saatleri-basladi.shop
 efsane-kampanya-saatleri-yine-basladi.shop
 efsane-kampanya-saatleribasladi.shop
+efsane-kampanyasaatleri-yine-basladi.shop
 efsane-kasim-firsatlari-basladi.shop
 efsane-kasim-geldi.shop
 efsane-kasim-indirimler-online-ozel.com.tr
@@ -71367,6 +71371,7 @@ gonlinemisllemmnumtr.store
 gonlinemmislemtrapp.store
 gonllinemislemenutr.liveblog365.com
 gonllinemislemenutr.space
+gonllinemisllemleritrapp.store
 gonllinemobilmenubasvurislemlleri.com
 gonnv.top
 gonoluluis.icu
@@ -99993,8 +99998,3 @@ hurrocel.net
 hurryunderlying.top
 hurse.ddns.net
 hurtambiguity.top
-hurtasptr.click
-hurtfulfragile.top
-hurtfulrigor.top
-hurtillumination.top
-hurtr.online
