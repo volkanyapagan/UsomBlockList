@@ -1,3 +1,7 @@
+hurriyet-tr.site
+hurriyet-tr.today
+hurriyet.carrd.co
+hurriyet.online
 hurriyet.pics
 hurriyet.us
 hurriyet.wiki
@@ -17146,6 +17150,7 @@ istanbulumpazarx.net
 istanbulumusev.com
 istanbulumusev.ml
 istanbulumut.online
+istanbuluncanavari.com
 istanbulunguvercinleri.shop
 istanbuluntarihi.myshopify.com
 istanbulunyasinatasoyu.net
@@ -99993,8 +99998,3 @@ portion.duckdns.org
 portion115876.xyz
 portiondispatch.top
 portionplight.top
-portionstgnant.top
-portionsurpass.top
-portlgib.click
-portlgib.com.tr
-portlgibxc.click
