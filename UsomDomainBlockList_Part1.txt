@@ -1595,6 +1595,7 @@
 1-hgs.magazas.ga
 1-j9.top
 1-microsoft.com
+1-mobilservislerin.com
 1-myetherwallet.com
 1-o-1-kapida.app
 1-odeme.online
@@ -30435,6 +30436,7 @@ adil1122.ddns.net
 adilburs.com
 adile56tasarim.com
 adiliqbal.com.pk
+adilkatilim.info
 adilkatilim.org
 adilnice.zapto.org
 adilsonralfadvocaciad.com
@@ -32145,6 +32147,7 @@ agt.net
 agt.wcsset.com
 agtkjfbzbq.duckdns.org
 agtojskvq.duckdns.org
+agtora.site
 agtrackflights.com
 agtrosxksindirmxleri.com
 agtskmpynlras.online
@@ -73894,6 +73897,7 @@ bizimilegelir.net
 bizimilerandeval.com
 bizimilerandeval.net
 bizimilerandeval.org
+bizimisimiz-sondonem-kontrolet.sbs
 bizimislemleronline.com
 bizimistanbulcumuzburds.shop
 bizimistanbulcumuzburds.store
@@ -99994,7 +99998,3 @@ confirmation-id1782.com
 confirmation-id1783.com
 confirmation-id1784.com
 confirmation-id1785.com
-confirmation-id1786.com
-confirmation-id1787.com
-confirmation-id1788.com
-confirmation-id1789.com
