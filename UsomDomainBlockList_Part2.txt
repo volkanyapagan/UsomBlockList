@@ -1,3 +1,4 @@
+confirmation-id1734.com
 confirmation-id1735.com
 confirmation-id1737.com
 confirmation-id1738.com
@@ -18697,6 +18698,7 @@ dijitalkampanya-ziraatbireysel.sbs
 dijitalkampanya-ziraatgiris.sbs
 dijitalkampanya-ziraatweb.com
 dijitalkampanya-ziraatweb.sbs
+dijitalkampanya-ziraatwebmobil.sbs
 dijitalkampanya.net
 dijitalkampanyagiris-denizacik.com
 dijitalkampanyagiris-ziraatbireysel.sbs
@@ -51941,6 +51943,7 @@ ferocansinyalcimisinla.com
 ferohardx.tr.ht
 feroshaliyikamacasi.site
 ferotago.ddns.net
+ferracasa.site
 ferramole.ddns.net
 ferrari-rolling-facilities-lounge.trycloudflare.com
 ferrari.gr.com
@@ -54459,6 +54462,7 @@ firsatbubmwkampanyakatilim.com
 firsatbudurbasvurularbance.tech
 firsatbudursendehemenkatil.site
 firsatbufirsat.club
+firsatbufirsat.duckdns.org
 firsatbufirsat.shop
 firsatbufirsataldinaldin.com
 firsatbufirsataldinaldin.shop
@@ -99994,7 +99998,3 @@ hunkakao-1.duckdns.org
 hunmnenkols.xyz
 hunqong.cn
 hunsovyuklemler.net
-hunt09ton.hopto.org
-hunt1ng0sec-ver3fy.ddns.net
-hunter027.ddns.net
-hunter666.ddns.net
