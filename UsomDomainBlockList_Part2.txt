@@ -22467,6 +22467,7 @@ dosya-sorgusu.com
 dosya.adlitakip.com
 dosya.adlitakip.org
 dosya.adliyekontrol.com
+dosya.alwaysdata.net
 dosya.cezasorgu.org
 dosya.maliyekontrol.com
 dosya.maliyesorgulama.com
@@ -99997,4 +99998,3 @@ hunk114.ddns.net
 hunkakao-1.duckdns.org
 hunmnenkols.xyz
 hunqong.cn
-hunsovyuklemler.net
