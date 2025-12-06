@@ -2338,6 +2338,7 @@
 101firsatlarigirisadresi.sbs
 101firsatlarikapinda.duckdns.org
 101firsatlarim.shop
+101firsatlariniz.duckdns.org
 101firsatlarinzburda.psee.io
 101firsatlarisizinle.duckdns.org
 101firsatlariyaninda.duckdns.org
@@ -99997,4 +99998,3 @@ confirmation-id1730.com
 confirmation-id1731.com
 confirmation-id1732.com
 confirmation-id17322.com
-confirmation-id1733.com
