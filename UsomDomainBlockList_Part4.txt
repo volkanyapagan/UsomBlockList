@@ -1,3 +1,14 @@
+portal-verification.cf
+portal.100am100.kz
+portal.177954coinbase.com
+portal.77-83-201-131.plesk.page
+portal.carlsberg.site
+portal.denizik.com
+portal.eaidamerkezi.com.tr
+portal.eiadelerim.com.tr
+portal.eiademerkezi.net
+portal.gucluvip.com
+portal.infura-ipfs.io
 portal.miaariacademy.com
 portal.operative-sintecmedia.com
 portal.oracrat.ru
@@ -32789,6 +32800,7 @@ sepetiniz-tr.online
 sepetinizdeindirimleryapiyoruz.com
 sepetinizislemleri.com
 sepetinizislemlerim.com
+sepetinizsiparisizionaylayin.shorted.sbs
 sepetinkolay.click
 sepetinkolayda.click
 sepetisleminiz.com
@@ -53169,6 +53181,7 @@ sutveotlak.com
 sutwvtjhmk.duckdns.org
 suukj7.duckdns.org
 suuyur-e40f02ffa708.herokuapp.com
+suuyur12-db6d450fa1b3.herokuapp.com
 suvaribimcelltl.com
 suvbxln.com
 suvekosa.xyz
@@ -59686,6 +59699,7 @@ tem.web.services
 temaklar.com
 temaplaydestekbasvuru.com
 temarketim.com
+temaro.sbs
 temasra.net
 temassiz.org
 temax.ddns.net
@@ -66902,6 +66916,7 @@ tr-internet-system1.space
 tr-internet-ziraatbankasi.com
 tr-internet.online
 tr-internet.site
+tr-investing.my-homeip.com
 tr-iparibu.com
 tr-ire-facebook.com
 tr-is-cep-basvuru.ml
@@ -99983,18 +99998,3 @@ wrmineriy.top
 wrmineriz.top
 wrminerj.top
 wrminerk.top
-wrminerka.top
-wrminerkd.top
-wrminerke.top
-wrminerkf.top
-wrminerkg.top
-wrminerkh.top
-wrminerkn.top
-wrminerkr.top
-wrminerks.top
-wrminerkv.top
-wrminerkx.top
-wrminerky.top
-wrminerodgj.top
-wrminerodgk.top
-wrminerodgm.top
