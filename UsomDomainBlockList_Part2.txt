@@ -1,3 +1,4 @@
+confirmation-id1716.com
 confirmation-id17175.com
 confirmation-id1718.com
 confirmation-id1719.com
@@ -38436,6 +38437,7 @@ ekrandan-erkenden-sorgula-gerceklestir.sbs
 ekrandan-onaylanan-islemleriniz.sbs
 ekrandan-onlineolaraksor-veaktar.sbs
 ekrandan-sorgulama-aktarma.online
+ekrandan-sorgulama-ve-aktarma-hizmeti.sbs
 ekrandan-sorgulama-ve-aktarma-hizmetiniz.sbs
 ekrandan-sorgulamani-yap-eylul-ayi.cyou
 ekrandan-sorgulayin-ve-onaylayin.sbs
@@ -99996,5 +99998,3 @@ humnresources.ddns.net
 humo-arena.com
 humo.zapto.org
 humor335.xyz
-humorblack.top
-humordegradation.top
