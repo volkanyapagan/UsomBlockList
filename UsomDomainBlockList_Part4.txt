@@ -1,3 +1,8 @@
+portal-iade.net
+portal-iade.org
+portal-iade.xyz
+portal-iadeler-edevlet.com
+portal-iadem-deniz.net
 portal-iadem-deniz.org
 portal-iadeniz-son-haberler.co.uk
 portal-iadeniz-son-haberler.org
@@ -46842,6 +46847,7 @@ sponsorlu.click
 sponsorlu.icu
 sponsorlu.net
 sponsorlu.online
+sponsorlu.page
 sponsorlu.subatinfirsati.org
 sponsorlu.web.tr
 sponsorlu26.xyz
@@ -77935,6 +77941,7 @@ u2s0k8d1ial3r.info
 u2sthr.duckdns.org
 u2vb0c.cn
 u2wgg22a111ssy.space
+u2yrrzlz3e.storage.googleapis.com
 u31h21e.duckdns.org
 u324.ddns.net
 u36206.test93w.ru
@@ -99991,10 +99998,3 @@ wrminereto.top
 wrmineretp.top
 wrmineretq.top
 wrmineretr.top
-wrminerets.top
-wrminerett.top
-wrmineretu.top
-wrmineretw.top
-wrminerety.top
-wrminereu.top
-wrminerew.top
