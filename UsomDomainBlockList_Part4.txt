@@ -1,3 +1,8 @@
+portal-inbox.com
+portal-ledgerauth-pro.webflow.io
+portal-login2020.hopto.org
+portal-mijnics.ddns.net
+portal-mijnoverheid.ddns.net
 portal-nowsystem.duckdns.org
 portal-online-evdekalgovtr.com
 portal-onlinedestekbasvuru.com
@@ -87212,6 +87217,7 @@ veb.yeniyilozzeellindrmirlerr.click
 veb7hs51p.duckdns.org
 vebatteries.com
 vebavirus.cfd
+vebosta-a101alisverissiparis.shorted.sbs
 vebsmzmks.click
 vebsnl.shop
 vec6cqww.duckdns.org
@@ -99992,9 +99998,3 @@ wrminerhc.top
 wrminerhi.top
 wrminerhl.top
 wrminerhn.top
-wrminerht.top
-wrminerhx.top
-wrminerhz.top
-wrmineria.top
-wrminerib.top
-wrmineric.top
