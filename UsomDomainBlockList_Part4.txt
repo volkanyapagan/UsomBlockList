@@ -1,3 +1,5 @@
+portal-iadevatandas.com
+portal-imediato.hopto.org
 portal-inbox.com
 portal-ledgerauth-pro.webflow.io
 portal-login2020.hopto.org
@@ -27640,6 +27642,7 @@ sarigunlerinkesfi.xyz
 sarihayatveduygular.xyz
 sarikizlarimmm.sa.com
 sarilarabiteriiiz.shop
+sarilarabiteriz.click
 sarilartarim.com
 sarilermese.duckdns.org
 sarimercedes.vercel.app
@@ -99995,6 +99998,3 @@ wrminerey.top
 wrminerez.top
 wrminerha.top
 wrminerhc.top
-wrminerhi.top
-wrminerhl.top
-wrminerhn.top

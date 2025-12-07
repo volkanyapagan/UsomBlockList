@@ -1,3 +1,4 @@
+confirmation-id17175.com
 confirmation-id1718.com
 confirmation-id1719.com
 confirmation-id1720.com
@@ -38440,6 +38441,7 @@ ekrandan-sorgulamani-yap-eylul-ayi.cyou
 ekrandan-sorgulayin-ve-onaylayin.sbs
 ekrandan-sorgulayiniz-bir-cok-islem.sbs
 ekrandan-sorgulayip-aktariniz-aktif.sbs
+ekrandan-tutarinizi-ogrenin-aktarin.sbs
 ekrandanalonaylarisimdi.duckdns.org
 ekrandanonline-olaraksor-bilgial.cyou
 ekrandanonlineolarak-sorgulamaniyap.cyou
@@ -99996,5 +99998,3 @@ humo.zapto.org
 humor335.xyz
 humorblack.top
 humordegradation.top
-humorflag.top
-humorousindulge.top
