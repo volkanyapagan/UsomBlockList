@@ -37807,6 +37807,7 @@ aktar-onlineislemleriniz.online
 aktar-onlinesorgu.cyou
 aktar-sorgulama-ekrani.cyou
 aktar-sorgulama-sistem.cyou
+aktaranlar.my-homeip.com
 aktarbeni.my-homeip.com
 aktardinmi.duckdns.org
 aktarhemen.online
@@ -47717,6 +47718,7 @@ aralikin20indirmi.com.tr
 aralikin20indirmi.online
 aralikin20indirmim.xyz
 aralikindirimleri.online
+aralikindirimlericepte.me
 aralikindrmfrstlar.com.tr
 aralikkampanyalari-basladi.shop
 aralikkampanyalari-yine-basladi.shop
@@ -55557,6 +55559,7 @@ baglantikatilgrt.site
 baglantilanma.com
 baglantilar-ailegenc.com
 baglantilar-ailegenc.org
+baglantilariniz.com
 baglantisi-ailegenc.com
 baglantisi-ailegenc.org
 baglantisiailegenc.com
@@ -57342,6 +57345,7 @@ basvrunoktasi-hizlikayittol.com
 basvrunoktasii-hemenkayitol.com
 basvrunuz-dvettgirsleri.com
 basvruonayi.pro
+basvrurrprsmynnkmonyaaa.info
 basvrusasnaaid.com
 basvrusorgulama-acikdenz.com
 basvrutcrnrnbnnrc.com
@@ -89637,6 +89641,7 @@ carrefour-market.online
 carrefour-saa-com.duckdns.org
 carrefourdan.online
 carrefoureban.ddns.net
+carrefouresawetr.space
 carrefourlugnler.shop
 carrefourmarketleriekim.cfd
 carrefourmarketleriekimayi.cfd
@@ -99993,8 +99998,3 @@ confirmation-id1706.com
 confirmation-id1707.com
 confirmation-id1708.com
 confirmation-id1709.com
-confirmation-id1710.com
-confirmation-id1711.com
-confirmation-id1712.com
-confirmation-id17123.com
-confirmation-id1713.com

@@ -1,3 +1,15 @@
+portal-giris-turkiyegovtr.com
+portal-giris-web-tr.tk
+portal-giris.online
+portal-girisi-turkeygovtr.com
+portal-grs-denetleme.com
+portal-guvenli-aidat-basvuru-platformu.xyz
+portal-guvenli-devlet2021-transfer-hizmet-iadesi.xyz
+portal-guvenli-transfer-hizmet-iadesi-e-devlet2021.xyz
+portal-hayatevesigar.com
+portal-hayatevesigarbasvuru.com
+portal-hayatevesigarindir.com
+portal-hediye20gbinternet.com
 portal-iade-talebi-trt-com-tr.com
 portal-iade.net
 portal-iade.org
@@ -5403,6 +5415,7 @@ pttavm.alisveriyap-online.com
 pttavm.alisveriyap-online.xyz
 pttavm.aninda-odeme.com
 pttavm.ayinfirsati.com.tr
+pttavm.baglantilariniz.com
 pttavm.bireyselalsat.com.tr
 pttavm.bireyselfirma.com.tr
 pttavm.bireyselfirsatlar.com.tr
@@ -5565,6 +5578,7 @@ pttavm.sepetim-get-odeme.com
 pttavm.sepetim-onayli-137426.com
 pttavm.sepetim-onayli-207426.com
 pttavm.sepetim-onayli-227426.com
+pttavm.sepetim-onayli-24526.com
 pttavm.sepetimguvenli.com
 pttavm.sepetkontrol.com.tr
 pttavm.sepetolustur.com.tr
@@ -22927,7 +22941,9 @@ sahibinden-get.ml
 sahibinden-get.mobil-hizmetiniz.com
 sahibinden-get.mobil-islemler-hizmet.online
 sahibinden-get.mobil-jet-hizmet.online
+sahibinden-get.mobilservisim.com
 sahibinden-get.mobilservisin.com
+sahibinden-get.mobilservisleriniz.com
 sahibinden-get.net
 sahibinden-get.odeme-ilanlarim.sa.com
 sahibinden-get.online-odemeler.sa.com
@@ -23580,6 +23596,7 @@ sahibinden-param-guvende.shop
 sahibinden-param-guvende.store
 sahibinden-param-guvende.tk
 sahibinden-param-guvende.tr-alisveris-odeme.online
+sahibinden-param-guvende.tr-odeme-hizmet.online
 sahibinden-param-guvende.tr-odeme-servis.online
 sahibinden-param-guvende.tr-online-odemelerim.sa.com
 sahibinden-param-guvende.v-tr.sa.com
@@ -26421,6 +26438,7 @@ sahinbiden.com
 sahinbinden-alisverisin-expresstr.shop
 sahinblisim.com
 sahinblisim.org
+sahinden-get.mobilservisleriniz.com
 sahinden-ilanim.com
 sahinden-online.com
 sahinden-param-alisveris.site
@@ -27445,6 +27463,7 @@ sanitarysaturate.top
 sanitationaggravation.top
 sanitationblaze.top
 sanitationliner.top
+sanits.click
 saniye.me
 saniyelericindealin.cfd
 sankalpana-kurulu.blogspot.com
@@ -67184,6 +67203,7 @@ tr-odeme-472210.com
 tr-odeme-472211.com
 tr-odeme-472213.com
 tr-odeme-bilgi.online
+tr-odeme-hizmet.online
 tr-odeme-ilan.com
 tr-odeme-ilanlar.com
 tr-odeme-online.sa.com
@@ -99978,23 +99998,3 @@ wrminerera.top
 wrminererb.top
 wrminererc.top
 wrminererd.top
-wrminererf.top
-wrminererg.top
-wrminererh.top
-wrminererj.top
-wrminererk.top
-wrminererl.top
-wrminererm.top
-wrminerern.top
-wrminerers.top
-wrminererv.top
-wrminererx.top
-wrminererz.top
-wrmineret.top
-wrminereta.top
-wrminerete.top
-wrmineretf.top
-wrminereti.top
-wrminereto.top
-wrmineretp.top
-wrmineretq.top
