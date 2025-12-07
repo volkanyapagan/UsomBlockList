@@ -60027,6 +60027,7 @@ basvurvkstm.online
 basvurvms.com.tr
 basvurvms.cyou
 basvurvms.xyz
+basvurvmz.cyou
 basvurvnc.com.tr
 basvurvnm.com.tr
 basvurvnm.xyz
@@ -99997,4 +99998,3 @@ confirmation-id1705.com
 confirmation-id1706.com
 confirmation-id1707.com
 confirmation-id1708.com
-confirmation-id1709.com
