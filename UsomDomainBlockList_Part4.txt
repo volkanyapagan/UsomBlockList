@@ -1,3 +1,7 @@
+portal-nowsystem.duckdns.org
+portal-online-evdekalgovtr.com
+portal-onlinedestekbasvuru.com
+portal-personas.duckdns.org
 portal-randevularim.online
 portal-sosyaldayanisma.com
 portal-tuketicihaklari.com
@@ -24470,6 +24474,7 @@ sahibinden.hizli-islemler.com.tr
 sahibinden.hizli-odemen.online
 sahibinden.hizli-tedarik.com.tr
 sahibinden.hizli-ticaret.com
+sahibinden.hizlica-satinalim.com
 sahibinden.hizlii-odemem.online
 sahibinden.hizlisepet.org.tr
 sahibinden.hizlisiparis.site
@@ -99993,8 +99998,3 @@ wrminerhz.top
 wrmineria.top
 wrminerib.top
 wrmineric.top
-wrminerid.top
-wrminerie.top
-wrminerif.top
-wrminerig.top
-wrminerih.top
