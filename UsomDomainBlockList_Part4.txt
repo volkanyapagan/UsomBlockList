@@ -1,3 +1,4 @@
+portal-bbva.my-homeip.com
 portal-c.pw
 portal-cimer-com-tr.com
 portal-cimer-iade-sorgu.com
@@ -99997,4 +99998,3 @@ wrmiergys.top
 wrmiergytc.top
 wrmiergyte.top
 wrmiergytn.top
-wrmiergytr.top
