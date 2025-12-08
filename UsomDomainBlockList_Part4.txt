@@ -1,3 +1,9 @@
+portal-devletsosyalyardimbasvuru.com
+portal-devletsosyalyardimlasma.com
+portal-digid.ddns.net
+portal-dihk.duckdns.org
+portal-donembasliyor.com
+portal-e-hizmetler-sorgu.com
 portal-edevletim-iadeleri.com
 portal-eiade-com.com
 portal-evesigarbasvuru.com
@@ -66664,6 +66670,7 @@ tr-eiade.com
 tr-eiademerkezi.com
 tr-eiademerkezii.com
 tr-ekatilim-internetsubesi.com
+tr-ekonomi.my-homeip.com
 tr-ekonomibak-destekpandemi.net
 tr-ekonomiisst.online
 tr-ekran-entry.click
@@ -99991,10 +99998,3 @@ wrminerbe.top
 wrminerbf.top
 wrminerbj.top
 wrminerbk.top
-wrminerbl.top
-wrminerbm.top
-wrminerbr.top
-wrminerbs.top
-wrminerea.top
-wrminereb.top
-wrmineree.top
