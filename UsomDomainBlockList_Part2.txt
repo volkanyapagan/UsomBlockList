@@ -1,3 +1,5 @@
+confirmation-id1641.com
+confirmation-id1642.com
 confirmation-id1643.com
 confirmation-id1644.com
 confirmation-id1645.com
@@ -18366,6 +18368,7 @@ dijital-ziraatbankasi.ml
 dijital-ziraatbireysel.com
 dijital-ziraatbireysel.sbs
 dijital-ziraatbireyselgiris.com
+dijital-ziraatbireyselinternet.sbs
 dijital-ziraatbireyselmobil.com
 dijital-ziraatgiris.com
 dijital-ziraatislemler.com
@@ -18802,6 +18805,7 @@ dijitalkampanyagiris-denizacik.com
 dijitalkampanyagiris-ziraatbireysel.sbs
 dijitalkampanyagiris-ziraatweb.sbs
 dijitalkampanyahizmet-ziraatbireysel.sbs
+dijitalkampanyalar-ziraatwebmobil.sbs
 dijitalkampanyamobil-ziraat.com
 dijitalkampanyanet-ziraatbireysel.com
 dijitalkampanyavakifmobil.com
@@ -53750,6 +53754,7 @@ finansmobilyukle.com
 finansnakitiniz.site
 finansnbank.xn--bireyselube-ygc.com
 finansnotu.online
+finansnrl.com
 finansonaygirisi.com
 finansonline-qnb.com
 finansonline-tr.com
@@ -79155,6 +79160,7 @@ hadidaa.blogdns.org
 hadidebuhafta.site
 hadidelioglan23.site
 hadiellerhavaya.cfd
+hadif.click
 hadifirsatlarsizinle.com.tr
 hadifz3z.zapto.org
 hadigarimarket.com.tr
@@ -99992,9 +99998,3 @@ hukukdosyalariniz.info
 hukukdosyam.com
 hukukdosyamaliye.com
 hukukdosyasi.in
-hukukdosyasi.info
-hukukdosyasorgu.com
-hukukegm.org
-hukukesorgu.org
-hukukgecisbildirisi.info
-hukukhgsbirim.com
