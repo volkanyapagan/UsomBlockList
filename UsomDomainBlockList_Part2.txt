@@ -1,3 +1,5 @@
+confirmation-id1628.com
+confirmation-id1629.com
 confirmation-id1630.com
 confirmation-id1631.com
 confirmation-id1632.com
@@ -18676,6 +18678,7 @@ dijitalhizli-ziraatmobil.com
 dijitalhizli-ziraatwebkampanya.sbs
 dijitalhizligiris-denizacik.com
 dijitalhizligiris-ziraatbireysel.sbs
+dijitalhizligiris-ziraatbireyselinternet.sbs
 dijitalhizligiris-ziraatmobil.com
 dijitalhizligiris-ziraatmobilbireysel.sbs
 dijitalhizligiris-ziraatweb.sbs
@@ -99995,6 +99998,3 @@ hukukdavalar.com
 hukukdavasorgulama.com
 hukukdenetimbirimi-govtr.cf
 hukukdenetimbirimi-govtr.ga
-hukukdenetimbirimi-govtr.gq
-hukukdenetimbirimi-govtr.ml
-hukukdenetimbirimi-govtr.tk
