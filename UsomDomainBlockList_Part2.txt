@@ -20838,6 +20838,7 @@ dnz-netde.site
 dnz-sitessubessiz.com
 dnz.ddns.net
 dnz.kisalink.cc
+dnz.mefound.com
 dnz1080.ddns.net
 dnz6pyh7.duckdns.org
 dnz80.ddns.net
@@ -23983,6 +23984,7 @@ dubshort.click
 dubshort.pro
 dubshort.site
 dubshort.store
+dubshorter.blog
 dubshorter.homes
 dubstep33.ddns.net
 dubstrf2.weebly.com
@@ -87779,6 +87781,7 @@ hemenalmalisin.xyz
 hemenalmazsankacicakfirsatlar.xyz
 hemenalnisan.com.tr
 hemenalonaylarideniz.duckdns.org
+hemenalsepetteindirim.me
 hemenalsimdal.online
 hemenalsimdal.xyz
 hemenalsinirlistok.com.tr
@@ -99995,6 +99998,3 @@ hukukkarayollari.info
 hukuklukislem.in
 hukukodeme.xyz
 hukukodemebirimi.com
-hukukportal.com
-hukuksal.eu
-hukuksalislem.in
