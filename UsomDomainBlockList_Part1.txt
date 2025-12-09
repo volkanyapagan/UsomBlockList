@@ -92257,6 +92257,7 @@ cepte-seninle.web.tr
 cepte-sok-ilkbaharkampanyasi.online
 cepte-sok-indirim.name.tr
 cepte-sok-market.name.tr
+cepte-sok-marketleri.duckdns.org
 cepte-sok-online.com
 cepte-sok-tr.com
 cepte-sok.aradiginn-herseyyburadaa.com.tr
@@ -99997,4 +99998,3 @@ confirmation-id1645.com
 confirmation-id1646.com
 confirmation-id1648.com
 confirmation-id1649.com
-confirmation-id1650.com
