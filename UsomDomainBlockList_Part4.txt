@@ -1,3 +1,5 @@
+politicalpress.org
+politicalstigma.top
 politicalthermal.top
 politiciancoincidence.top
 politicianrandom.top
@@ -65242,6 +65244,7 @@ tokikonutprojesiburda.vercel.app
 tokikonutprojesikayitlar.vercel.app
 tokikonutum.com
 tokikotbasvurus-kayityap.vercel.app
+tokikourus-kayityap.vercel.app
 tokikura.com
 tokikura.shop
 tokikurulus.fun
@@ -99995,6 +99998,3 @@ world76yapkredi.com
 world76yilozel.com
 worldakete.duckdns.org
 worldatdoor.in
-worldawaitsgo.com
-worldbankloan.com
-worldbasvuryapikredi.com
