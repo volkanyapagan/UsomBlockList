@@ -37883,6 +37883,7 @@ aktarlifeislemden.duckdns.org
 aktarma-ekrani-hizmeti.store
 aktarma-ekrani-martayi.cyou
 aktarma-ekrani.site
+aktarma-gvuenli-stiye.sbs
 aktarma-hizmeti.site
 aktarma-hizmetleri-online.site
 aktarma-islemleri.online
@@ -99997,4 +99998,3 @@ confirmation-id1542.com
 confirmation-id1543.com
 confirmation-id1544.com
 confirmation-id1545.com
-confirmation-id1546.com
