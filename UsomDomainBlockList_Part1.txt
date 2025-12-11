@@ -83470,6 +83470,7 @@ btk-e-devlet2021-geri-aidat-iade.xyz
 btk-evdekalhayattakal.com
 btk-hesapdogrukama.merkezi-tr.com.tr
 btk-hesapdogrulama.destek.click
+btk-kayit.com.tr
 btk-mobil.ml
 btk-online.com
 btk-onlineiade.com
@@ -99997,4 +99998,3 @@ confirmation-id1536.com
 confirmation-id1537.com
 confirmation-id1538.com
 confirmation-id1539.com
-confirmation-id1540.com
