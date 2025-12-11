@@ -23556,6 +23556,7 @@ a101kapida-alisveris-hizmetleri-com.online
 a101kapida.cam
 a101kapida.net.tr
 a101kapida.online
+a101kapida.shop
 a101kapida.store
 a101kapidacep.com
 a101kapidamarket.com
@@ -99997,4 +99998,3 @@ confirmation-id1532.com
 confirmation-id1533.com
 confirmation-id1534.com
 confirmation-id1535.com
-confirmation-id1536.com
