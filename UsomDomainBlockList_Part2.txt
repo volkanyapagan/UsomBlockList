@@ -1,3 +1,9 @@
+confirmation-id1367.com
+confirmation-id13821.com
+confirmation-id14332449.com
+confirmation-id14332450.com
+confirmation-id14332451.com
+confirmation-id14332452.com
 confirmation-id14332453.com
 confirmation-id14332471.com
 confirmation-id14332473.com
@@ -27163,6 +27169,7 @@ e-devlet-sosyaldestek.org
 e-devlet-sunucum-org.com
 e-devlet-tbmmiadeler-govtr.tk
 e-devlet-toki-gov-tr.fenlo.cyou
+e-devlet-toki.com
 e-devlet-toki.duckdns.org
 e-devlet-tr-gov.com
 e-devlet-tr.com
@@ -99991,10 +99998,3 @@ https-dyson.com.tr
 https-findmy-iphone.com
 https-garanti.com
 https-merkezi-randevu-hizmeti.com
-https-merkezi-randevu.com
-https-muayene-hizmetim.net
-https-muayne-hizmetlerim.net
-https-muayne-hizmetlerimiz.net
-https-muayne-hizmetleriniz.net
-https-odeme-hizmetleri.net
-https-odeme-hizmetlerin.net
