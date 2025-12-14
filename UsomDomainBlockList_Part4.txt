@@ -1,3 +1,7 @@
+pnc1secures.zapto.org
+pnclogsecure.zapto.org
+pnconline0.ddns.net
+pnconline42.duckdns.org
 pncvhchyst.duckdns.org
 pnd5.xyz
 pndbayxvjf.duckdns.org
@@ -22794,6 +22798,7 @@ sadesconsficsrisatlartrrrcvtrtrtrt.blogspot.com
 sadesconsficsrisatlartrrrcvtrtrtrtc.blogspot.com
 sadesconsficsrisatlartrrtrvcr.blogspot.com
 sadesconsficsrisatlartrrtrvcrtr.blogspot.com
+sadesconsficsrisatlartrrtrvcrtrcs.blogspot.com
 sadesconsfirsatlstrs.blogdns.com
 sadesconsfirsdtrasdftr.blogdns.com
 sadesconsfisdrsartlarfstr.blogspot.com
@@ -45483,6 +45488,7 @@ sorgu.live
 sorgu.loclx.io
 sorgu.lol
 sorgu.network
+sorgu.pro
 sorgu.pw
 sorgu.shop
 sorgu.site
@@ -99992,9 +99998,3 @@ wlekakdjwysy.com.tr
 wlenuqnfkg.duckdns.org
 wlexu8d.duckdns.org
 wlffch.top
-wlfg0.hopto.org
-wlfvnbevxb.ddns.net
-wlfw.themetafounders.com
-wlgdz.duckdns.org
-wlghks753951.codns.com
-wlgpxxqstovkttq.su
