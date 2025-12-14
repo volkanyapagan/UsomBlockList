@@ -14176,6 +14176,7 @@
 500bin-konut.com
 500bin-konutbasvuru.cfd
 500bin.evsahibiturkiye.news
+500bin.kasimsonubasvuradan.cloud
 500bin.konutbasvurulari.cloud
 500bin.konutbasvurularindasongunler.cloud
 500bin.konutbasvurutamamla.cloud
@@ -14192,6 +14193,7 @@
 500binkonut.com
 500binkonut.neocities.org
 500binkonut.org
+500binkonut.sbs
 500binkonut.xyz
 500binkonut.yonlendir.cfd
 500binkonutabasvur.org
@@ -99996,5 +99998,3 @@ confirmation-id09499.com
 confirmation-id1012.com
 confirmation-id1013.com
 confirmation-id10573.com
-confirmation-id1072.com
-confirmation-id10791.com
