@@ -14186,6 +14186,7 @@
 500bin.konutbasvurulari.cloud
 500bin.konutbasvurularindasongunler.cloud
 500bin.konutbasvurutamamla.cloud
+500bin.sonuclaraciklandi.cloud
 500bin.yenikonutbasvurulari.cloud
 500binasrinprojesi.com
 500binbasvuruekrani.org
@@ -99997,4 +99998,3 @@ confirmation-53782.com
 confirmation-58231.com
 confirmation-59486.com
 confirmation-61748.com
-confirmation-62150.com
