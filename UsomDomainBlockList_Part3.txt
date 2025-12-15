@@ -1,3 +1,7 @@
+htmlvalidator.app
+htname.info
+htnt09.zapto.org
+htobimcell.com
 htopu.duckdns.org
 htoutwkkvl.uglyarticle.club
 htpnbvg.com
@@ -33892,6 +33896,7 @@ keck0.hopto.org
 kedicik.app
 kedicik.art
 kedicik.club
+kedicik.dev
 kedicik.live
 kedicik.online
 kedicik.pro
@@ -53424,6 +53429,7 @@ manage.appleld.secure-update.en-us.maingaringah10.com
 manage.appleld.secure-update.en-us.memekneon04.com
 manage.appleld.update-secure.en-us.jagoanneon09.com
 manage.biteupdates.site
+manage.glimmerix.pro
 manage.xn--bnance-cdn-global-ewb.ml
 manageaccount-appleid-service.com
 manageaccount832.hopto.org
@@ -65239,6 +65245,7 @@ mrxz.zapto.org
 mryahya.zapto.org
 mryes.clayratnik.top
 mryetherwallet.com
+mrypage.pages.dev
 mrzishere.ddns.net
 ms-antispam.live
 ms-azure.azdatastore.workers.dev
@@ -70902,6 +70909,7 @@ ndcdisiadnn.net
 ndcfmr.top
 ndcpcoonan.duckdns.org
 ndcumolde.net
+ndcwsww.com
 ndczuqlhfe.duckdns.org
 ndddiadamaandaad.blogspot.com
 nddduusqbu.duckdns.org
@@ -98098,6 +98106,7 @@ petrolmce.top
 petrolme-way.com
 petrolofis.com
 petrolofisi-bites.com
+petrolofisi-tr.com
 petrolofisikampanyalar.com
 petrolofisleri.info
 petroloilnews.live
@@ -99989,12 +99998,3 @@ pmmkhywtqr.duckdns.org
 pmnio-pttavm.is-best.net
 pmnsnc.top
 pmo-gov-pk.filenest.live
-pmob.site
-pmoipkrmbi.duckdns.org
-pmortalksa.vercel.app
-pmp129r.t5ows.ru
-pmpdm.com
-pmpfnnomjftbei.in
-pmpiasbuzvj.com
-pmppow.top
-pmqtpxohwj.duckdns.org
