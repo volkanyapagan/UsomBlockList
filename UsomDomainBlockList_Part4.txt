@@ -1,3 +1,4 @@
+plymouth-hn.org
 plynkvlqrf.duckdns.org
 plyyxurrgd.duckdns.org
 plzwtqmmjc.duckdns.org
@@ -6225,6 +6226,7 @@ pttavm-s.bireysel-satis.com.tr
 pttavm-s.bireysel-satisim.com.tr
 pttavm-s.bireysel-satislar.com.tr
 pttavm-s.bireyselim.com.tr
+pttavm-satici.com
 pttavm-secure.com
 pttavm-sepet.com.tr
 pttavm-sepet.online
@@ -99996,5 +99998,3 @@ wizlub5oz.ru
 wizmirimkart.online
 wiznon.ddns.net
 wizz.hopto.org
-wizzaxllc.com
-wizzbrand.com
