@@ -1,3 +1,6 @@
+plzwtqmmjc.duckdns.org
+pm-ssafy.duckdns.org
+pm.pmfreshway.network
 pm0uboai.duckdns.org
 pm2za.cc
 pm3a5f.duckdns.org
@@ -5504,6 +5507,7 @@ ptt-govs-trs.top
 ptt-govs.cfd
 ptt-govs.click
 ptt-govs.club
+ptt-govs.help
 ptt-govs.sbs
 ptt-govs.top
 ptt-govs.vip
@@ -40137,6 +40141,7 @@ siparisleriniz-online-ptt-market.online
 siparisleriniz.com.tr
 siparislerinizbizim1e.online
 siparislerinizdehizlandirmalik.cloud
+siparislerinizden.com
 siparislerinizlanirda.cloud
 siparislerizetlas.dnsup.net
 siparislerkolay.site
@@ -66533,6 +66538,7 @@ toplukonutbasvuru4vjnrovjs82.vercel.app
 toplukonutbasvuru7jyf8d4ks.vercel.app
 toplukonutbasvuru86k2ctcaux.vercel.app
 toplukonutbasvuru8mps8jg9.vercel.app
+toplukonutbasvurubc50.onrender.com
 toplukonutbasvurubuzcr.vercel.app
 toplukonutbasvurucyyzmdku.vercel.app
 toplukonutbasvurud524.onrender.com
@@ -99992,9 +99998,3 @@ wizzbrand.com
 wizzkye10004.hopto.org
 wizzocane.ddns.net
 wizztrakys.com
-wizzy.hopto.org
-wizzydd.duckdns.org
-wizzyvseazi.duckdns.org
-wj1bl75c.duckdns.org
-wj3j4c.duckdns.org
-wj5flp.duckdns.org
