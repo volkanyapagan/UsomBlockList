@@ -30926,6 +30926,7 @@ adreseteslimkirala.xyz
 adreseteslimmax.online
 adreseyonlendir.cfd
 adreseyonlendir.sbs
+adreshepsiburada.com
 adresi.b-cdn.net
 adresi.net
 adresimatkapplar.xyz
@@ -99997,4 +99998,3 @@ confirm-reserve.help
 confirm-session-identification.info
 confirm-session-identifier.info
 confirm-signal.site
-confirm-snapchat.com
