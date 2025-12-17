@@ -4757,6 +4757,7 @@
 154-216-19-158.plesk.page
 154-216-20-140.plesk.page
 154-4-4-4-1.cloud
+154-boaswurulariw.dvrlists.com
 154-yil.com
 1540953694.online
 15416556556599991.duckdns.org
@@ -7998,6 +7999,7 @@
 2025yilikampanyasizlere.com
 2026bvsnrsmdikyt.sbs
 2026hedefvizyon.online
+2026hediyesi.cfd
 2026knutun.wordpress.com
 2026konutvizyon.online
 2026teslim-tarih.sbs
@@ -99996,5 +99998,3 @@ confirm-reserve-id.cloud
 confirm-reserve.cloud
 confirm-reserve.com
 confirm-reserve.help
-confirm-session-identification.info
-confirm-session-identifier.info
