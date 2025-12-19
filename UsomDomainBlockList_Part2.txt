@@ -1,3 +1,4 @@
+configuregatewayglobal.com
 configvalidation.hopto.org
 configxmrstakcpu.xvlhj.pw
 confimacao.ddns.net
@@ -85937,6 +85938,7 @@ hayranlar.win
 hayranolmak.com
 hayratdernegi.com
 hayravakfi.info
+hayrbrefdbi.sbs
 hayret20gb.com
 hayretettirn.net
 hayrksmbdas.net
@@ -99996,5 +99998,3 @@ hsgone.xyz
 hsgonlinebakiyeislems.gq
 hsgonlineeislem.store
 hsgonlinegecisyukleme.gq
-hsgonlineislem.store
-hsgonlineislemmerkezi.com
