@@ -1,3 +1,6 @@
+hsg-rpd.store
+hsg-rpd.xyz
+hsg-yukleme.xyz
 hsg.monster
 hsg1hemenbayi.online
 hsg1islembayi.online
@@ -16978,6 +16981,7 @@ islemsizlerle.com
 islemsizlerle.online
 islemsizlerle.sg-host.com
 islemsizlerle.xyz
+islemsonsnukhizli.online
 islemsorgu.org
 islemssonayyaparmsn.net
 islemsubeacikdenizv2denizbank.co.vu
@@ -21043,6 +21047,7 @@ izlmrklemexd.net
 izlogvszks.duckdns.org
 izlrmrmulasimm.net
 izlt0srews.dynip.org
+izltas03fkcuma.dynip.org
 izltas0nline4.dnsup.net
 izltasdafrsatayuzbride.blogdns.com
 izltasinburada.xyz
@@ -85566,6 +85571,7 @@ onlineodemehizmetin-portal.tk
 onlineodemehizmetleri.com
 onlineodemeislemleri.com
 onlineodemeizmirimkart.com
+onlineodemekasa.com.tr
 onlineodemeler.com
 onlineodemeler.gen.tr
 onlineodemeler.net
@@ -99992,9 +99998,3 @@ plateready.top
 plateturbulent.top
 platfom.yatirim-garanti.com
 platform-appses.appspot.com
-platform-dizinitr-web.sa.com
-platform-in.sa.com
-platform-onlinereklam-vakif-com.tk
-platform-quest.com
-platform-times.com
-platform-vakif-dijiital-com-tr.cf

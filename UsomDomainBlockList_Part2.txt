@@ -1,3 +1,5 @@
+config.linkpc.net
+config.mpcloudcollection.xyz
 config.zapto.org
 configbofaeddveri.ddns.net
 configlayers.com
@@ -86342,6 +86344,7 @@ hazirbaslauygulamaislemleri.online
 hazirbasvuruyapgirisicin.online
 hazirbonus.digital
 hazirceptefirsat.camdvr.org
+hazirdafirsathemenalta.site
 hazirdafirsatimsendealhemne.site
 hazirdageldinaldin.online
 hazirdahemen.sbs
@@ -99995,6 +99998,3 @@ hsg-pttavm.site
 hsg-pttavm.website
 hsg-pttavmcenter.com
 hsg-rpd.site
-hsg-rpd.store
-hsg-rpd.xyz
-hsg-yukleme.xyz
