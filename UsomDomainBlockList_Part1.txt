@@ -9197,6 +9197,7 @@
 250ekpromosyon.ml
 250garantibbva-com-tr.tk
 250konutbasvuruportal.com
+250konutevprojebasvuru.com
 250konutportal.com
 250konutprojebasvuruekrani.com
 250tlekpromosyon.ml
@@ -82223,6 +82224,7 @@ brgecis.sg-host.com
 brghtpixel.site
 brgn-onlineislemler.com
 brgn-onlineislemler.pro
+brgnmenkul.com
 brgylbscrfsonline.cfd
 brh-knua-edhn-1000tl.com
 brhck8.duckdns.org
@@ -95113,6 +95115,7 @@ cicekmarketim.sbs
 cicekmarketim.site
 cicekmarketim.space
 cicekmarketim.store
+cicekmarketim.vip
 cicekmarketim.work
 cicekn.com
 cicekolsun.com
@@ -99995,6 +99998,3 @@ configs.zapto.org
 configsysrc.com
 configsysrc.info
 configuradorx.zapto.org
-configuration-account-setting.com
-configuration-accountpypapal-service.com
-configure.zapto.org
