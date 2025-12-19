@@ -12999,6 +12999,7 @@
 4378390993498955.duckdns.org
 43789093599797354536642.duckdns.org
 437kxg.duckdns.org
+4380new.sbs
 438845954.cloud
 439068665-atari-embeds.googleusercontent.com
 4392o377492r1563771028.publicvm.com
@@ -20429,6 +20430,7 @@
 99-33-4432-2-3-1.pro
 99-88-77-0.ga
 99-basvurularimiz.dvrlists.com
+9901215999999.duckdns.org
 9902677698400499.cloud
 9903332114411.cloud
 99040835234-345435.com
@@ -53540,6 +53542,7 @@ aylikekpaket-turkcell.com
 aylikfatura.net
 aylikindieimlimagaza.com.tr
 aylikmarketbutcenizintekduzenleyicisi.cfd
+aylikmutfakalisverisinidengeleyin.cfd
 aylikpaket-turkcell.com
 aylikpaket.xyz
 ayliktarife-turkcell.com
@@ -99995,6 +99998,3 @@ config.mpcloudcollection.xyz
 config.zapto.org
 configbofaeddveri.ddns.net
 configlayers.com
-configmage.com
-configpaid.hopto.org
-configs.zapto.org

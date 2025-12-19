@@ -1,3 +1,6 @@
+configmage.com
+configpaid.hopto.org
+configs.zapto.org
 configsysrc.com
 configsysrc.info
 configuradorx.zapto.org
@@ -79179,6 +79182,7 @@ haberasanbizdenozelgundem.co.vu
 haberasya.com
 haberavrupa.org
 haberbasinfirsatlari.com
+haberbildirim.sbs
 haberbiz1.online
 haberbiz1.site
 haberbul.club
@@ -99994,7 +99998,3 @@ hsg.monster
 hsg1hemenbayi.online
 hsg1islembayi.online
 hsgasdfasdfasdffd.net
-hsgbaakiyes.com
-hsgbakiye.com
-hsgbakiyem.net
-hsgbky.net
