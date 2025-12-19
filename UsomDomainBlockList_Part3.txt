@@ -1,3 +1,8 @@
+hsg-osr.xyz
+hsg-pttavm.app
+hsg-pttavm.design
+hsg-pttavm.live
+hsg-pttavm.ltd
 hsg-pttavm.me
 hsg-pttavm.net
 hsg-pttavm.org
@@ -12277,6 +12282,7 @@ interbank-ingresa.web.app
 interbank-online.com
 interbank-personas.web.app
 interbank-peru.web.app
+interbankgaranti.com
 interbnalk.buzz
 interbrat.icu
 intercambio906.cc
@@ -67732,6 +67738,7 @@ muhasebemizitutacakyokmu.cfd
 muhasebemizitutacakyokmu2.cfd
 muhasebemizitutacakyokmu3.cfd
 muhbethakandayi.com
+muhbetsecva.sbs
 muhbirahmet.com
 muhbirayse.com
 muhbircevatadami.com
@@ -99991,10 +99998,3 @@ plasenta.app
 plasenta.n-cdn.space
 plasmavpn.zapto.org
 plasmob.pics
-plasmosome.com
-plasnan.net
-plasnna.net
-plaspo.click
-plassmoranet.com
-plastcoctr.click
-plastic637.xyz
