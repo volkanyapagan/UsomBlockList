@@ -1,3 +1,6 @@
+config.zapto.org
+configbofaeddveri.ddns.net
+configlayers.com
 configmage.com
 configpaid.hopto.org
 configs.zapto.org
@@ -2352,6 +2355,7 @@ coreos.rest
 coreoven.top
 coreservice224.ddns.net
 coreshex.click
+coresphere.cfd
 coresux.com
 coretelin.gq
 coretelin.ml
@@ -99994,7 +99998,3 @@ hsg-rpd.site
 hsg-rpd.store
 hsg-rpd.xyz
 hsg-yukleme.xyz
-hsg.monster
-hsg1hemenbayi.online
-hsg1islembayi.online
-hsgasdfasdfasdffd.net

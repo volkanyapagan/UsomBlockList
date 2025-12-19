@@ -15071,6 +15071,7 @@
 57rd.duckdns.org
 57u9cu6b.duckdns.org
 581123719.site
+581325.wang
 581518759128421421.space
 581642.cloud
 58176-coinbase.com
@@ -21404,6 +21405,7 @@ a--101-firsatlarri.online
 a--101.online
 a--haber-govtrr.org
 a--magazatr-a.xyz
+a-1--01denflrsatlar-kmpanlari.cfd
 a-1-0-1-aldinaldinfrstmysoth.xyz
 a-1-0-1-aldnaldnbukmpnya2025.net
 a-1-0-1-b-o-s-c-h.site
@@ -58067,6 +58069,7 @@ basvurlar-destek-kampanyalar-ozel-bireysel.xyz
 basvurlar-destek-kampanyasi-ozel-bireysel.xyz
 basvurlaribas.mindframe.sbs
 basvurlarim.site
+basvurlariniztokki.online
 basvurlarinizz.com
 basvurlarracikdenizv2denizbank.co.vu
 basvurlhayatseninleguzel.xyz
@@ -99995,6 +99998,3 @@ config.allmusikcollection.com
 config.collectionmpmusic.xyz
 config.linkpc.net
 config.mpcloudcollection.xyz
-config.zapto.org
-configbofaeddveri.ddns.net
-configlayers.com
