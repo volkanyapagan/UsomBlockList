@@ -685,6 +685,7 @@
 07727077777.duckdns.org
 07776658847777.duckdns.org
 0777741477077.duckdns.org
+0777845487845781.duckdns.org
 077p2l.duckdns.org
 078a3c8.duckdns.org
 078pmx027.duckdns.org
@@ -93552,6 +93553,7 @@ cezaislemleri.info
 cezaislemleri.mywire.org
 cezaislemlerin.info
 cezaislemq.mywire.org
+cezakarar.net
 cezakontrol.com
 cezakontrol.org
 cezakontroluresmi.com
@@ -99996,5 +99998,3 @@ confenos.shop
 conferalignment.top
 conferdinsaur.top
 conferenceesd.xyz
-conferencefreckewl.shop
-conferenceinvalid.top
