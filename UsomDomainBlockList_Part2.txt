@@ -1,3 +1,5 @@
+conexindeo.duckdns.org
+conexindex.duckdns.org
 conexinfo.duckdns.org
 conexmourang.duckdns.org
 conexrangme.duckdns.org
@@ -10219,6 +10221,7 @@ deniz-eyt-odemeniz.online
 deniz-feribot-al-bilet.com
 deniz-finansim.net
 deniz-firsat-dunyasina-hosgeldin.com.ph
+deniz-firsat.sbs
 deniz-firsati2023.net
 deniz-firsatlarim.61bettebet.com
 deniz-firsatlarim.com
@@ -99995,6 +99998,3 @@ hsbcbankonlineservices.com
 hsbcbanks.online
 hsbcbankservice.tk
 hsbcbanksters.com
-hsbcbankuk.com
-hsbcbankverse.com
-hsbcbannk.com
