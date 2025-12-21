@@ -1,3 +1,5 @@
+conexaoremota2024.ddns.net
+conexcexionphp.duckdns.org
 conexgeneriq.duckdns.org
 conexindeo.duckdns.org
 conexindex.duckdns.org
@@ -99996,5 +99998,3 @@ hsbcbanking.org
 hsbcbankline.com
 hsbcbankltd.online
 hsbcbankonlineservices.com
-hsbcbanks.online
-hsbcbankservice.tk
