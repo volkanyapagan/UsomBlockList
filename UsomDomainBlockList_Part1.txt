@@ -52265,6 +52265,7 @@ avihbar-webtr.com
 avihlal-bildiri.icu
 aviis-kirala.tk
 aviis-tr.com.tr
+aviis.fun
 avik.se
 avikbasxb-basvur0orn.online
 avilonstar.com
@@ -99997,4 +99998,3 @@ conexcexionphp.duckdns.org
 conexgeneriq.duckdns.org
 conexindeo.duckdns.org
 conexindex.duckdns.org
-conexinfo.duckdns.org
