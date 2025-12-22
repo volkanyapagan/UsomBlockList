@@ -1,3 +1,5 @@
+hsbcbank.cf
+hsbcbank.global
 hsbcbank.one
 hsbcbank.online
 hsbcbank.org
@@ -73572,6 +73574,7 @@ nexusweb.online
 nexusworld.online
 nexusystem.online
 nexvalorn.com
+nexvario.one
 nexvila.store
 nexxarat.com
 nexxoraboost.com
@@ -99995,6 +99998,3 @@ plakadancezatrafik-odeme2019.ga
 plakadandetaylar.net
 plakadandetays.net
 plakadandetays2.net
-plakadanhasarsorgula.blogspot.com
-plakadankgmcezaodemesi.com
-plakadankomisyonsuz.blogspot.com
