@@ -1,3 +1,7 @@
+hsbc-banking.com
+hsbc-bankingonline.com
+hsbc-bankonline.com
+hsbc-bankuk.com
 hsbc-banque.cf
 hsbc-bm.com
 hsbc-central.com
@@ -35997,6 +36001,7 @@ kiantkamer-handel.duckdns.org
 kiaqqgwcek.org
 kiausas.ddns.net
 kiavpn.cf
+kibanacore.com
 kibank.co
 kibgxokqmt.duckdns.org
 kibossuqar.com
@@ -66040,6 +66045,7 @@ msn-service.ddns.net
 msn-web.zapto.org
 msnapp.help
 msnapp.live
+msnclouds.com
 msnhw.com
 msnotetask-insights.azurewebsites.net
 msnpassword.zapto.org
@@ -99992,9 +99998,3 @@ placementspectator.top
 placenumb.top
 placeoftomcat.club
 placesatire.top
-placeupd-id30491.world
-placeupd-id40981.world
-placeupd-id4378.world
-placeupd-id4579.world
-placeupd-id4891.world
-placeupd-id49313.world
