@@ -75587,6 +75587,7 @@ gun-bugun-son-saatlerde-kapina-geleni-kacirma.com
 gun-celyukle.22web.org
 gun-gunbu-04da595dfa7a.herokuapp.com
 gun-gunbu1-700e564b3fcb.herokuapp.com
+gun-gunbu18383-abe80b66bded.herokuapp.com
 gun-simdi.com
 gun255.xyz
 gunaayrestorant-rezerve.com.tr
@@ -99997,4 +99998,3 @@ hryyfoelux.aboutrosw.ru
 hrzmnfrstlrburda.com
 hrzpftzjum.duckdns.org
 hs-bc-onlinebanking-alert.com
-hs-bc-onlinebanking-secure.com
