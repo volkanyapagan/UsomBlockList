@@ -38918,6 +38918,7 @@ aktuelkapindailetisim.sbs
 aktuelkasim.com
 aktuelkasimindirimleri.com
 aktuelkatalog.b-cdn.net
+aktuelkatalog.cfd
 aktuelkatalog.duckdns.org
 aktuelkatalog.shop
 aktuelkatalogl.duckdns.org
@@ -99997,4 +99998,3 @@ concernluminous.top
 concernrape.top
 concernssentient.net
 concerradiactivity.top
-concert-knyazz.ru
