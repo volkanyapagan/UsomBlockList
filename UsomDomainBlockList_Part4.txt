@@ -1,6 +1,3 @@
-piyasa-sayfalar-web-in.ru.com
-piyasa-yatirimi.info
-piyasaakisi.org
 piyasabasassa.xyz
 piyasaekspres.online
 piyasahabercisi.com
@@ -2440,6 +2437,7 @@ pox112s62on.xyz
 pox5616s62on.xyz
 pox5e63dion.xyz
 poxexgecis-autokesif.net
+poxpe.cn
 poxs62on.xyz
 poxse63dion.xyz
 poyansystem.ir
@@ -66277,6 +66275,7 @@ tokesozf.com
 toketurkiye.xyz
 tokgebyron.duckdns.org
 tokgirisilerimgovtr.sbs
+tokgirisislemleredevlet.cfd
 tokgirisislemleredevlet.sbs
 tokgirislerimgovtr.cyou
 tokgirislerimgovtr.sbs
@@ -66399,6 +66398,7 @@ toki-onlinebasvurumlar.vercel.app
 toki-onlinebasvurumlari.vercel.app
 toki-onlinebasvurumlarin.vercel.app
 toki-onlinemobilbasvuru.vercel.app
+toki-projeleri-basvuru.cfd
 toki-projeleri.com
 toki-slv-basvuru.com
 toki-slv-basvuru.info

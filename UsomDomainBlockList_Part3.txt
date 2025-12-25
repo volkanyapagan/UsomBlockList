@@ -34576,15 +34576,12 @@ kecekurdan.za.com
 keciboynuzu.host
 keck0.hopto.org
 kedicik.app
-kedicik.art
 kedicik.club
-kedicik.dev
 kedicik.live
 kedicik.online
 kedicik.pro
 kedicik.pw
 kedicik.tech
-kedicik.uk
 kedicik.vip
 kedicikno1.xyz
 kedidirkedi.com
@@ -99998,3 +99995,6 @@ pixtraffweb.com
 pixtreev.run
 piy.wjzmzp.com
 piyasa-akis.info
+piyasa-sayfalar-web-in.ru.com
+piyasa-yatirimi.info
+piyasaakisi.org
