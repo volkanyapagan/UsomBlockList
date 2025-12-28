@@ -1,3 +1,5 @@
+comunitas-app-check.duckdns.org
+comunitas-app-meta.duckdns.org
 comunitas-app-standars.duckdns.org
 comunitas-confrim-page.duckdns.org
 comunitas-receve-check.duckdns.org
@@ -9908,6 +9910,7 @@ demlafka.org
 demlik-kampanyasi.world
 demmazondem.duckdns.org
 demmokarda.surf
+demmon50ltbuzdolabin.sbs
 demmonkampanya.xyz
 demmonsinirlisayida.xyz
 demmonzamani.xyz
@@ -15634,6 +15637,7 @@ derli-toplu-sergileyen-kacirmazda-sizlerde-yok.com
 derlikbirfirsat.com
 derlikbirfirsatlarimiz.com
 derlmod-tr.shop
+dermainsaat.com
 dermanacilsensden.xyz
 dermanbungalov.net
 dermanbutik.fun
@@ -99994,7 +99998,3 @@ hqjwbeovzn.org
 hqkjcm.com
 hqknwgbhoe.duckdns.org
 hqljeyivywlmhoer.biz
-hqlksigortam.com
-hqlksigortam.net
-hqlksigortan.net
-hqllznrlflst111.duckdns.org
