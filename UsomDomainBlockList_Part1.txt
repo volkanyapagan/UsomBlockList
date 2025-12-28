@@ -94324,6 +94324,7 @@ chasemeready11.ddns.net
 chasemobile-2022.ddns.net
 chasemobileusa.ddns.net
 chasemyeye.top
+chasenationals.com
 chasenerve.top
 chasenthveriedhost.ddns.net
 chaseo.ddns.net
@@ -99997,4 +99998,3 @@ comunikt.cl
 comunitas-app-case.duckdns.org
 comunitas-app-check.duckdns.org
 comunitas-app-meta.duckdns.org
-comunitas-app-standars.duckdns.org

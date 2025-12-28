@@ -1,3 +1,4 @@
+comunitas-app-standars.duckdns.org
 comunitas-confrim-page.duckdns.org
 comunitas-receve-check.duckdns.org
 comunitas-receve-confrim.duckdns.org
@@ -99997,4 +99998,3 @@ hqlksigortam.net
 hqlksigortan.net
 hqllznrlflst111.duckdns.org
 hqlznrlflst111.duckdns.org
-hqmhkfgfihox.me
