@@ -22496,6 +22496,7 @@ a101-kampanyaa.cloud
 a101-kampanyakasim.shop
 a101-kampanyalar.com
 a101-kampanyalar.com.tr
+a101-kampanyalar.duckdns.org
 a101-kampanyalar.net
 a101-kampanyalari.uno
 a101-kampanyalarim.com
@@ -99997,4 +99998,3 @@ comtr-ustunfirsalar.org
 comtr-yildizlar.net
 comtr.pw
 comtrr.com
-comtrturkbeast.click
