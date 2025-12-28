@@ -90266,6 +90266,7 @@ carrefourtr.shop
 carrefouursa.shop
 carrefoyrsa.store
 carrefozel.cfd
+carrefrsaindirim.cfd
 carrefrsaonline.cfd
 carreftoursa.store
 carrefuorasonline.cfd
@@ -99997,4 +99998,3 @@ comtr-yildizlar.net
 comtr.pw
 comtrr.com
 comtrturkbeast.click
-comtrturkish.click
