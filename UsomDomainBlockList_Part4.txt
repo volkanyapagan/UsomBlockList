@@ -1,3 +1,8 @@
+pinepathway.com
+pinewood-financial.com
+pinflour.com
+ping.androidadbserver.com
+ping.confirmid.name
 ping.confmenow.net
 ping.topsite.life
 ping.ynrkone.top
@@ -85535,6 +85540,7 @@ uzlasmadosyasimaliye.com
 uzlasmadosyasiportal.com
 uzlasmadosyasisorgusu.com
 uzlasmadosyasorgu.com
+uzlasmadosyasorgu.org
 uzlasmadosyasorgulat.com
 uzlasmaesorgu.org
 uzlasmagirisuyap.com
@@ -99992,9 +99998,3 @@ wellsandus.zapto.org
 wellsauth1.zapto.org
 wellscitizenscoupo.hopto.org
 wellscoastink.biz
-wellscounter.ddns.net
-wellsdrop1.zapto.org
-wellsecured06.hopto.org
-wellsecured08.ddns.net
-wellsfa08.duckdns.org
-wellsfago-bnk.duckdns.org
