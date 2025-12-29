@@ -1,3 +1,6 @@
+ping.confmenow.net
+ping.topsite.life
+ping.ynrkone.top
 pingaksh.com
 pingalgeri.zapto.org
 pingconectstatus.hopto.org
@@ -99995,6 +99998,3 @@ wellsecured06.hopto.org
 wellsecured08.ddns.net
 wellsfa08.duckdns.org
 wellsfago-bnk.duckdns.org
-wellsfago.ddns.net
-wellsfago.zapto.org
-wellsfarg0-3dsecure.ddns.net
