@@ -1,3 +1,4 @@
+comtr-get.link
 comtr-guncelkataloglar.org
 comtr-guvenli.link
 comtr-i2.link
@@ -37688,6 +37689,7 @@ egmdosya.org
 egmdosyam.com
 egmgovtr.org
 egminfaz.com
+egmkamuecezatr.org
 egmkarar.net
 egmkbg.info
 egmmalicezatr.org
@@ -56291,6 +56293,7 @@ firsatlardiyarillai.com
 firsatlardnisftirat2.duckdns.org
 firsatlardunyam.com.tr
 firsatlardunyasi-aldin-aldin.com.tr
+firsatlardunyasi.cloud
 firsatlardunyasi.com.tr
 firsatlardunyasi.link
 firsatlardunyasi.online
@@ -99995,6 +99998,3 @@ hoxcbo.top
 hoxedx.duckdns.org
 hoxesya.com
 hoxsgyj5o.duckdns.org
-hoxude.duckdns.org
-hoyoverse.blog
-hoyunesfotosesilaclama.site
