@@ -86421,6 +86421,7 @@ buyukhaziranfirsatlari.com.tr
 buyukhazirannfirsatlari.com.tr
 buyukinsan1921-9a2599b291ca.herokuapp.com
 buyukinsan1981-576e65a69cc2.herokuapp.com
+buyukinsan1982-88982fca54c6.herokuapp.com
 buyukinsan1998-dd0bc8eb382e.herokuapp.com
 buyukinsan998-62a0f1792fc4.herokuapp.com
 buyukkampanyaa.com
@@ -99997,4 +99998,3 @@ comtr-guvenli.link
 comtr-i2.link
 comtr-ilan.info
 comtr-ilan.link
-comtr-ilan.site
