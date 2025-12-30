@@ -84013,6 +84013,7 @@ bu-gungun-f24b54b4bcf9.herokuapp.com
 bu-gungun1421-4f62653ce980.herokuapp.com
 bu-gungun14211-70597cf54205.herokuapp.com
 bu-gungun14212-b0e73da1516a.herokuapp.com
+bu-gungun142121-57c65fa3b68b.herokuapp.com
 bu-gungun1453-1dbb8ceec631.herokuapp.com
 bu-gunler-gececek-cok-ozleyecegiz.com
 bu-gunlerde-iyi-hisset-icindir.com
@@ -99997,4 +99998,3 @@ comtr-ekstra.site
 comtr-firrsatlari.com
 comtr-firsalarii.com
 comtr-firsat.shop
-comtr-firsataylari.net
