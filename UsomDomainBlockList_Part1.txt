@@ -2053,6 +2053,7 @@
 101-volta.shop
 101-yag.shop
 101-yilbasi-kampanya-islemleri.com
+101-yilbasina-ozel-firsatlar.online
 101-zaferbayramda.art
 101.20eylul-comtr.art
 101.3ekim-telefon.art
@@ -93437,6 +93438,7 @@ ceptetrfirsat.net.tr
 ceptetrfirsat.org.tr
 ceptetrink.digital
 ceptetrmrkt.com.tr
+ceptetrmrkt.net.tr
 ceptetrmrkt.org.tr
 ceptettelekomlatanis.com
 cepteurunskhizmetler.com
@@ -99996,5 +99998,3 @@ comtr-0.shop
 comtr-agsutos.net
 comtr-agustoskatalog.org
 comtr-agustosurunleri.shop
-comtr-aidat.site
-comtr-aktuel.shop
