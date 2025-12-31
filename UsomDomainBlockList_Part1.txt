@@ -59762,6 +59762,7 @@ basvurumerkezi.vercel.app
 basvurumerkezi.xyz
 basvurumerkezi2023.com
 basvurumerkezi2023.online
+basvurumerkezi2026onaysitemi.duckdns.org
 basvurumerkezi808.duckdns.org
 basvurumerkezibbva.static.domains
 basvurumerkeziiadesistemi.com
@@ -71055,6 +71056,7 @@ binbcelltlykle.com
 binbircesit.shop
 binbircesit.site
 binbirlndirimler-kapinakadar.xyz
+binbirlndirimler-kapinda.xyz
 binbiryorum.xyz
 binbiryukleme.22web.org
 binblunt.top
@@ -99996,5 +99998,3 @@ comtr-agustoskatalog.org
 comtr-agustosurunleri.shop
 comtr-aidat.site
 comtr-aktuel.shop
-comtr-aldin.net
-comtr-bufirsatson.net
