@@ -38089,6 +38089,7 @@ aktelaybir.duckdns.org
 aktelfirsatlaribim.com
 aktelfirsatlaribim.online
 aktelfirsatlaribim.xyz
+aktelfrtlar.duckdns.org
 aktelkapindanimm.com
 aktelkapindanimm.online
 aktelkapindanimm.xyz
@@ -99997,4 +99998,3 @@ comsivasl.xui.ptlogin2-unauthorized.coinbase-com.info
 comsquery.com
 comsurrgate-39791.portmap.host
 comsystems.xyz
-comt-xfirsattall.net
