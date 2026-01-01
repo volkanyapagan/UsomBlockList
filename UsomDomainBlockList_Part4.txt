@@ -1,3 +1,7 @@
+physiologicalmnoplise.top
+physiologicalrust.top
+pi-network.sbs
+pi.license-updater.com
 pi052e.com
 pi2r16vrl.duckdns.org
 pi43fr4e9.duckdns.org
@@ -63210,6 +63214,7 @@ tercell.com
 tercell.icu
 tercell.online
 tercell.shop
+tercell.store
 tercepico202120212021.duckdns.org
 terceroremco.duckdns.org
 tercih-senin12.net
@@ -99993,8 +99998,3 @@ webwwwdenizdemobil.com
 webwwwdenizsizinle.com
 webxmepgibiademdgov1tr.fun
 webxpo.ga
-webxx1gibcgibcv1govtr.fun
-webxx1gibcgibcv1govtr.site
-webxxcgibgovxxtr.fun
-webxxonlinegovtrrr.net
-webxxonlinegovtrrr.xyz
