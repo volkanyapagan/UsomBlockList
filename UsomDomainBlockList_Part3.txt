@@ -60428,6 +60428,7 @@ migros-bonus.com
 migros-extra.com
 migros-extra.vercel.app
 migros-extraindirim.vercel.app
+migros-extraonline.vercel.app
 migros-hizla-tikla.com.tr
 migros-hizla-tikla.xyz
 migros-indirim.com.tr
@@ -99997,4 +99998,3 @@ photographidol.top
 photographycoup.top
 photographygarlic.top
 photojournalistmb.com
-photomoa.co.kr
