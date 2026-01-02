@@ -1,3 +1,7 @@
+phrasaloverturn.top
+phrasalseductive.top
+phraseexponential.top
+phrasefuse.top
 phrasehard.top
 phraseintrigue.top
 phraseradar.cloud
@@ -99994,7 +99998,3 @@ webwww-iscep-basvuru.ml
 webwww-iscep-kampanyabasvuru.cf
 webwww-iscep-maximum-basvuru.ml
 webwww-iscep-maximum-firsat.cf
-webwww-iscep-maximum-giris.ml
-webwww-iscep-maximum-kampanya.cf
-webwww-iscep-maximum-katilim.cf
-webwww-iscep-mobil-basvuru.tk
