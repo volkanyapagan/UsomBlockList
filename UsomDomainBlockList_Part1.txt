@@ -41160,6 +41160,7 @@ alisveris-kapinda.app
 alisveris-kapinizda.biz.tr
 alisveris-kapinizda.com.tr
 alisveris-kapinizda.net.tr
+alisveris-kapinizda.tv.tr
 alisveris-kapinizda.web.tr
 alisveris-market.online
 alisveris-marketi.online
@@ -99997,4 +99998,3 @@ compromiseflush.top
 compromiserepression.top
 compromisse.com
 compsiteawk.top
-compte-online.duckdns.org
