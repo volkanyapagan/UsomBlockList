@@ -41159,6 +41159,7 @@ alisveris-kapida.net
 alisveris-kapinda.app
 alisveris-kapinizda.biz.tr
 alisveris-kapinizda.com.tr
+alisveris-kapinizda.net.tr
 alisveris-kapinizda.web.tr
 alisveris-market.online
 alisveris-marketi.online
@@ -99997,4 +99998,3 @@ compromiserepression.top
 compromisse.com
 compsiteawk.top
 compte-online.duckdns.org
-compte-pavpal-login.hopto.org
