@@ -3204,6 +3204,7 @@
 10yilozelethbasvurulari.com
 10yilozelethkampanyasi.com
 10yilozelkampanyalaripro.com
+10yilsurerylbasi.dns.navy
 10ylndvm.duckdns.org
 10yotlctt.storage.googleapis.com
 10yri17wh.duckdns.org
@@ -41165,6 +41166,7 @@ alisveris-kapida.net
 alisveris-kapinda.app
 alisveris-kapinizda.biz.tr
 alisveris-kapinizda.com.tr
+alisveris-kapinizda.name.tr
 alisveris-kapinizda.net.tr
 alisveris-kapinizda.tv.tr
 alisveris-kapinizda.web.tr
@@ -85086,6 +85088,7 @@ buketkatkidabulun.site
 buketozgunkarabrcodme.duckdns.org
 buketvakfi.site
 buketyardimlasmavakfi.site
+bukezdetelevisiondenioz.blogspot.com
 bukgudertesede.site
 bukharishop.com
 bukhn6.duckdns.org
@@ -99995,6 +99998,3 @@ comprobante14.miramantolama.com
 comprobante2.marcialledo.com
 comprobante27.mariageorgina.com
 comprobante27.serragrandreunion.com
-comprobante27.servicioslocomer.online
-comprobante45.altavista100.com
-comprobante51.meinastrohoroskop.com
