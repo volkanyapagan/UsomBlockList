@@ -41170,6 +41170,7 @@ alisveris-kapida.net
 alisveris-kapinda.app
 alisveris-kapinizda.biz.tr
 alisveris-kapinizda.com.tr
+alisveris-kapinizda.info.tr
 alisveris-kapinizda.name.tr
 alisveris-kapinizda.net.tr
 alisveris-kapinizda.tv.tr
@@ -85507,6 +85508,7 @@ buradabsvur.site
 buradadironline.com
 buradaeyluslksoka.cloud
 buradagarenta.com
+buradahazirsanizyenidengel.com
 buradahepbirazkaldik.com
 buradaherkeslegel.net
 buradakacmazfirsarlat.com.tr
@@ -88631,6 +88633,7 @@ cahgsyi.rf.gd
 cahhidee-pallazzo-rezervasyonn.business.site
 cahide-palazzo.b-cdn.net
 cahide-palazzo.click
+cahide-palazzo.cloud
 cahide-palazzo.online
 cahide-palazzo.xyz
 cahide-palazzorezervasyon.com
@@ -99995,6 +99998,3 @@ comprehensionfeat.top
 comprehensioninhibit.top
 comprehensionjeopardy.top
 comprehensionwield.top
-comprehensiveallot.top
-comprehensivestandby.top
-compresoresdetornillo.com.pe
