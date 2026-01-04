@@ -1,3 +1,4 @@
+hotelvillampasteur.world
 hotelyayoba.com
 hotelzenit-reservation.com
 hotelzentralgijonreypelayo.com
@@ -46549,6 +46550,7 @@ legensdarycin.com
 leger--wilteliv.webflow.io
 leger-livelogoonz.webflow.io
 leggelatez.lat
+legimos.gt.tc
 legioo8w.duckdns.org
 legislateconvergence.top
 legislateinsulate.top
@@ -60547,6 +60549,7 @@ migros-onlineextra.vercel.app
 migros-sanalalisveris.com.tr
 migros-sanalmarket.com.tr
 migros-sanalmarket.pro
+migros-sanalmarket.vercel.app
 migros-sanalmarketi.vercel.app
 migros-sanalmarketim.vercel.app
 migros-sanalmarketin.vercel.app
@@ -87547,6 +87550,7 @@ onlneaidtiadmrkezibsvruyeni.com.tr
 onlneaidtiadmrkezigeri.com.tr
 onlneaidtiadmrkeziyeni.com.tr
 onlnealisves.com.tr
+onlnealmfrsat.site
 onlneaozelsdecea1o1.ddnsgeek.com
 onlnebasvruiadleri.com.tr
 onlnebasvruiadleritr.com.tr
@@ -99994,7 +99998,3 @@ phicdn.world
 phicrougareta.tk
 phiheatings.ir
 phiinoc.dnsdyn.net
-phiiykppxxog.online
-phil-army.gotdns.org
-phil-gov.gotdns.org
-philadelphite.com
