@@ -13267,6 +13267,7 @@ internet-kampayasi.org
 internet-kuveytturk.com
 internet-kuveytturkiye.com
 internet-marketi.sbs
+internet-mobil-alisveris.duckdns.org
 internet-mobil-hesabim.com
 internet-mobildenizacikbasvuru.com
 internet-mobile-cor.ml
@@ -39186,6 +39187,7 @@ kmpnyaaaqnbbbkatilim.cloud
 kmpnyaabasvrrruprmsynnn.info
 kmpnyaabasvrrruprmsynnn.pro
 kmpnyaabsvrrprmsynnn.info
+kmpnyaabsvrrprmsynnn.pro
 kmpnyaabsvrrraafinnss.click
 kmpnyaabsvrrrgrnntt.click
 kmpnyaabsvrrrprmo.click
@@ -47984,6 +47986,7 @@ linkredirects.click
 linkrequest.live
 links-dolap.com
 links-kslt-tr.duckdns.org
+links-kslts-mobilde.duckdns.org
 links-tr.strangled.net
 links.heliohost.org
 linksa.asia
@@ -58292,6 +58295,7 @@ megsasa.click
 mehackiscool.ddns.net
 mehamn.zapto.org
 mehdef.duckdns.org
+mehdibaba.cc.dvrlists.com
 mehdibennour.zapto.org
 mehdizayani.com
 mehenltd.com
@@ -99994,7 +99998,3 @@ phantomwallxtension.webflow.io
 phantoomwalltextension.webflow.io
 phantumwaletus.webflow.io
 phantumwalleut.webflow.io
-phar-box.com
-phar1bu-firsatlari.ml
-phariboxum.com
-pharirgatic.hotmail.ru
