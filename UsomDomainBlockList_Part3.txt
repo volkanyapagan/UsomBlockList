@@ -1,3 +1,4 @@
+hoteleder.world
 hotelerbooked2025.world
 hotelerbookeds2025.world
 hoteles2025bookeds.sbs
@@ -54393,6 +54394,7 @@ maliyecezasorgulat.com
 maliyecezasorgulatma.com
 maliyecim.com.tr
 maliyecimiz.com.tr
+maliyedava.com
 maliyedava.net
 maliyedavalar.com
 maliyedavasorgu.org
@@ -99996,5 +99998,3 @@ pg2yrg5.duckdns.org
 pg384w.duckdns.org
 pg3vdlymt.duckdns.org
 pg6470um.duckdns.org
-pg8mt1m1.duckdns.org
-pg97bq.duckdns.org
