@@ -36349,6 +36349,7 @@ kgm-example.com
 kgm-gecis-ihlal-odemeleri.ml
 kgm-gecis-sorgu-com.tk
 kgm-gis.com
+kgm-goa.com
 kgm-goe.com
 kgm-gou.com
 kgm-gov-co.me
@@ -99997,4 +99998,3 @@ petroll-tr.com
 petroll.site
 petrollcapital.com
 petrollem.com
-petrolleri-growth.com
