@@ -7212,6 +7212,7 @@ d-denizbank.com
 d-dyson.com.tr
 d-e-n-i-z-b-a-n-k.com
 d-e-n-i-z-b-a-n-k.org
+d-e-n-i-z.my-homeip.com
 d-e-xnz.com
 d-enizwebkredi.xyz
 d-estekbasvuruform-u.com
@@ -56148,6 +56149,7 @@ firsatkampanya.click
 firsatkampanya.com.tr
 firsatkampanya.duckdns.org
 firsatkampanya.online
+firsatkampanya.sbs
 firsatkampanya.site
 firsatkampanyabasvuru.com
 firsatkampanyabasvurunuyap.online
@@ -99996,5 +99998,3 @@ hot-shaperstr.club
 hot-tebaru.duckdns.org
 hot-trade.info
 hot26hj.duckdns.org
-hot365.ml
-hotaction.online
