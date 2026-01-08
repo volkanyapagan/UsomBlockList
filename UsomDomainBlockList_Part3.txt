@@ -1,3 +1,7 @@
+hostserverddns.ddns.net
+hostservice.duckdns.org
+hostshop1.ddns.net
+hoststring-sandwich.com
 hostthrive.top
 hostttnine.hopto.org
 hostucc1.zapto.org
@@ -16130,6 +16134,7 @@ isbank.netlify.app
 isbank.online-firsatlari.com.tr
 isbank.online-teklif.com
 isbank.rf.gd
+isbank.sbs
 isbank.secureileode.com.tr
 isbank.support
 isbank.tr-bilgi.com
@@ -18412,6 +18417,7 @@ istanbklum.net
 istanblbzmhzls.net
 istanblcuma.net
 istanbldolum.ml
+istanbldska.com
 istanblelrkserrer.net
 istanblfans.net
 istanblfkrt.net
@@ -41235,6 +41241,7 @@ kosendeagla.cfd
 kosfzv.com
 kosgdestekprojesi.site
 kosgeb-basvuru.click
+kosgeb-destek.com
 kosgeb-destek.duckdns.org
 kosgeb-hibe-basvuru.cfd
 kosgeb-hibe-basvuru.replit.app
@@ -41731,6 +41738,7 @@ krcaktuel.org.tr
 krcamtlusnlerdiler.top
 krcaocaksiparislerim.xyz
 krcaockzmi.click
+krcaockzmnitn.top
 krcaonline.shop
 krcarlik.com
 krcarlk.com
@@ -42516,6 +42524,7 @@ kredimerkezi.xyz
 kredimgaranti.my-homeip.com
 kredimgarntide.online
 kredimgarntide.site
+kredimguvende.sbs
 kredimhazir.sbs
 kredimhazirgovttr.com
 kredimhesaplama.com
@@ -99989,12 +99998,3 @@ petitiunifiction.top
 petlebim.com
 petlelec.quest
 petlingerr.com
-petmgov.com
-petosafollari.com
-petpangaea.com
-petq.wergston.top
-petr.my-style.in
-petrel.volleyballsipsmart.cc
-petrelin.zapto.org
-petricgreen.info
-petrlofounds.com
