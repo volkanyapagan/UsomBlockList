@@ -35981,6 +35981,7 @@ kepadres-guncelleme-hepsi.com
 kepadres-tekno-sa.com
 kepadresaktiflestirme.net
 kepadresbilgilerim.com
+kepadresguncel.com
 kepadresim-aktif.com
 kepadresim-guncel.com
 kepadresim-tekno-sa.com
@@ -99997,4 +99998,3 @@ petekvkfyardm.org
 petekyardim.net
 petekyardm.org
 petekyardmdestek.com
-petekyardmvk.org
