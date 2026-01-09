@@ -1,3 +1,6 @@
+compelsignify.top
+compeltime.top
+compensateepoch.top
 compensateflush.top
 compensationdebut.top
 compensatorybinoculars.top
@@ -99995,6 +99998,3 @@ hostflix.live
 hostforcheat.ddns.net
 hostgotor.servehumour.com
 hosthabbo.ddns.net
-hosthof.com
-hosthof.pk
-hosthost2023.ddns.net
