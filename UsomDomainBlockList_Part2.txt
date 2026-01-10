@@ -1,3 +1,4 @@
+compassmagnify.top
 compatibleangle.top
 compaypali.hopto.org
 compdate.my03.com
@@ -77500,6 +77501,7 @@ guvendealisveris-online.com.tr
 guvendealisveris.com
 guvendealisveris.com.tr
 guvendealisveris.online
+guvendealisveris.shop
 guvendealisveris.site
 guvendealisverisode.com
 guvendealsat.com
@@ -95713,6 +95715,7 @@ hizli-kredi.com
 hizli-kredim.com
 hizli-login-monitor.space
 hizli-market-online-a101.com
+hizli-migros.vercel.app
 hizli-mobil-basvur.ip-ddns.com
 hizli-mobil-bsvurum.ip-ddns.com
 hizli-mobilbasvur.ip-ddns.com
@@ -99995,6 +99998,3 @@ hostcddns.zapto.org
 hostcobraserver.ddns.net
 hostcoil.com
 hostcomplimentary.top
-hostconsetion.top
-hostdashboard53.hopto.org
-hostderx1.shop
