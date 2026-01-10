@@ -8046,6 +8046,7 @@
 2026knutun.wordpress.com
 2026konutprojesi.sbs
 2026konutvizyon.online
+2026onkayit.sbs
 2026online.cfd
 2026sosyalevim.com.tr
 2026teslim-tarih.sbs
@@ -99997,4 +99998,3 @@ compassionatesue.top
 compassionclan.top
 compassiondecimal.top
 compassiondwarf.top
-compassionexempt.top
