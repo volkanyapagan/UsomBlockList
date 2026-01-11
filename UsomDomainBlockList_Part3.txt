@@ -1,3 +1,9 @@
+host20200120.ddns.net
+host2244au.ddns.net
+host288.ddns.net
+host28f234f832f2.ddns.net
+host4unix.net
+host5536.zapto.org
 host56jl5300.hopto.org
 host883420124.hopto.org
 host92.ddns.net
@@ -19274,6 +19280,7 @@ istanbulumut.online
 istanbuluncanavari.com
 istanbulungucu.com
 istanbulunguvercinleri.shop
+istanbulunsizlerindenhab.shop
 istanbuluntarihi.myshopify.com
 istanbulunyasinatasoyu.net
 istanbuluyukle.net
@@ -99991,10 +99998,3 @@ persembemayisonlinec.com
 persembemrkt-431.com
 persembeninenmutluanlari.com
 persemberamazan346.com
-persemberossy.com
-persembesabah-arefe.com
-persembesabahi2-6.com
-persembesabahi89.com
-persembesabahi9-8.com
-persembeshd.com
-persembesiparis87.com
