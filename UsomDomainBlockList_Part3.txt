@@ -1,3 +1,5 @@
+host-file-host9.com
+host-host-file8.com
 host-noip.ddns.net
 host-u25vb3b5.zapto.org
 host.cloudsonicwave.com
@@ -27834,6 +27836,7 @@ k1tjbpxh.duckdns.org
 k1u5f8.duckdns.org
 k1ydbf8.cn
 k1z2fpiur.duckdns.org
+k20asdhashdhashdahshdashdahsd.click
 k20wpv.duckdns.org
 k20xho76m.duckdns.org
 k21ly4itktmj3r1.ddns.net
@@ -77719,6 +77722,7 @@ ns-cemaatkmpanyasiduckdnsorg.peakforge.cfd
 ns-client.net
 ns-krt.online
 ns-vaikf.online
+ns-wwwhaber61net.rasperstate.sbs
 ns-wwwhaberlercom.cyberpath.cfd
 ns-wwwsondakikacom.nexusframe.cfd
 ns-wwwtokigovtr.mindframe.sbs
@@ -99994,7 +99998,3 @@ persembealdinaldintestere.xyz
 persembearefeonline.com
 persembecmarkets.com
 persembefirsa.com
-persembefirsat21.com
-persembefirsat31.com
-persembefirsat51.com
-persembefirsat52.com
