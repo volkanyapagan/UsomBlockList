@@ -1,3 +1,4 @@
+compassionclan.top
 compassiondecimal.top
 compassiondwarf.top
 compassionexempt.top
@@ -99997,4 +99998,3 @@ host92.ddns.net
 host999b.ddns.net
 hostage345.duckdns.org
 hostalvinuela.com
-hostapp.ddns.net
