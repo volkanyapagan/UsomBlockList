@@ -77723,6 +77723,7 @@ turk-news.space
 turk-odeme-hizmetleri.tk
 turk-onlineshop.ir
 turk-paribu.com
+turk-piyasa-analizi.site
 turk-takipcisatinal.site
 turk-telekom-abonelik-basvurusu.com
 turk-telekom-abonelik-basvurusu.online
@@ -99997,4 +99998,3 @@ webislemlergiriskartiadem.app
 webislemlerhizli.app
 webislemleriackddeenzz.site
 webislemlerimgiris.app
-webislemmerkezi-yapimkredims.com
