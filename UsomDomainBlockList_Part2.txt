@@ -70431,6 +70431,7 @@ giris-websayfasi-aidat.org
 giris-webtry-monitor.space
 giris-yap-hizlikartdoldurmaisskf.net
 giris-yap-hizlikartdoldurrmaizmsdskf.net
+giris-yap-sorgula-ogren-aktar.sbs
 giris-yap-tr.org
 giris-yap.cfd
 giris-yapikredi.com
@@ -89203,6 +89204,7 @@ hemen-kmpanyafaydalan.com
 hemen-kredi-giris.buzz
 hemen-kredi-giris.lat
 hemen-kripto-varlik-sorgula.xyz
+hemen-migros.vercel.app
 hemen-odedin.com
 hemen-odemesizdeolsun.com
 hemen-otokirala.rest
@@ -99996,5 +99998,3 @@ hosgeldinacikdenizv2denizbank.co.vu
 hosgeldinaramiza.com.tr
 hosgeldinbaska-garant.vercel.app
 hosgeldinikramiyesi.cloud
-hosgeldiniz-web.xyz
-hosgeldinizdunyama.com.tr
