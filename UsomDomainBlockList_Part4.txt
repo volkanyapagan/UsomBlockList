@@ -48372,6 +48372,7 @@ sorgulakm.shop
 sorgulalamara.com
 sorgulama-1948.blogspot.com
 sorgulama-aktarma-hizmeti.online
+sorgulama-aktiflestirildi.sbs
 sorgulama-asp.com
 sorgulama-cimer-gov-tr.com
 sorgulama-cimer.com
@@ -99997,4 +99998,3 @@ webiadeislemleriapp.online
 webiadeislemlerigiris.app
 webiadeler.de
 webiadeleri.de
-webiadelerim.de
