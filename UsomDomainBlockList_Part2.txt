@@ -25127,6 +25127,7 @@ dumdururum.dns.navy
 dumen-emlak.boats
 dumen-emlak.cam
 dumen-emlak.click
+dumen-emlak.shop
 dumenamkherlsrsedds.wiki
 dumeninsenligi.com
 dumerilipi.ru
@@ -42670,6 +42671,7 @@ eniyifiyat.net.tr
 eniyifiyatlarabakburada.baby
 eniyifiyatlarabakburada.click
 eniyifiyatlarabakburada.sbs
+eniyifiyatperformans.sbs
 eniyiflrsatsimd3.cfd
 eniyigiris.b-cdn.net
 eniyigirisadreslerimiz14.fun
@@ -99996,5 +99998,3 @@ hoseinmaleki.com
 hoseyutarmef.shop
 hosg-eld-in-y0n.store
 hosgejdiniz.com
-hosgeldin-2025-firsatlari.shop
-hosgeldin-2025-kampanyalari.shop
