@@ -90492,6 +90492,7 @@ carrefoursa-turkiye.com
 carrefoursa.cloud
 carrefoursa.ct.ws
 carrefoursa.digital
+carrefoursa.link
 carrefoursa.ltd
 carrefoursa.online-tr.online
 carrefoursa.onlinemarket-tr.com
@@ -90727,6 +90728,7 @@ cartagenacity.duckdns.org
 cartagening.com
 cartash.com
 cartatrantap.com
+cartcollective.art
 cartdisplacement.top
 cartegoogleplau.ddns.net
 carteiradigital.ddns.net
@@ -99996,5 +99998,3 @@ communityvoter.com
 communnity-trustwallet.duckdns.org
 communnotify.ru
 commutebleach.top
-commutefeminism.top
-commutepeninsula.top
