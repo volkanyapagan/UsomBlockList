@@ -9775,6 +9775,7 @@ defalowmacfly-elektro.de
 defaltroot.duckdns.org
 defambckbeacm.xyz
 defaturaodeme.com
+defaty.click
 default-coinbase.com
 defaultbluemarker.info
 defaultdrpbox.ddns.net
@@ -57032,6 +57033,7 @@ firsatlarla-dolu-gunler-basladi.shop
 firsatlarla-dolu-yaz.cloud
 firsatlarla-dolu-yaz.com
 firsatlarla-dolu-yaz.org
+firsatlarla-geldi.com.tr
 firsatlarla-kampanyan.com.tr
 firsatlarla-kasim-geldi.shop
 firsatlarla.com.tr
@@ -86297,6 +86299,7 @@ hauyrt883.xyz
 hava-ist.com
 hava-ist.org
 hava.bio
+havaa.ist
 havaalaniarackira.co
 havaalaniarackirala.xyz
 havaalaniarackiralama.org
@@ -99995,6 +99998,3 @@ horrenhorst.top
 horribleavert.top
 horribleingenuity.top
 horribleretrieve.top
-horriblerim.top
-horriblevice.top
-horrifydesignate.top
