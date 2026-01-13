@@ -57042,8 +57042,10 @@ firsatlarla-dolu-yaz.org
 firsatlarla-geldi.biz.tr
 firsatlarla-geldi.com.tr
 firsatlarla-geldi.info.tr
+firsatlarla-geldi.name.tr
 firsatlarla-geldi.net.tr
 firsatlarla-geldi.org.tr
+firsatlarla-geldi.tv.tr
 firsatlarla-kampanyan.com.tr
 firsatlarla-kasim-geldi.shop
 firsatlarla.com.tr
@@ -99996,5 +99998,3 @@ hormestlercilerr.xyz
 hormjksscycc.com
 hormonizes.org
 horn21disease.top
-horn5956.xyz
-horncore.top
