@@ -39244,6 +39244,7 @@ aktuelsiparis.net.tr
 aktuelsiparis.org.tr
 aktuelsiparisiler.com
 aktuelsiparislerim.online
+aktuelsizolmzonlnee.duckdns.org
 aktuelsok.duckdns.org
 aktuelsokmarket.com.tr
 aktuelsokmarket.info.tr
@@ -95568,6 +95569,7 @@ cicekcikaan.com.tr
 cicekcim.biz
 cicekcinur.com
 cicekdiyari.co
+cicekduk.com
 cicekdunyalari.xyz
 cicekdunyam.shop
 cicekdunyam.site
@@ -99996,5 +99998,3 @@ commonwealtth-australiaa.web-internet-online-digital.com
 commonwealtth-austtralia.web-internet-online-digital.com
 commstatic11private.ddns.net
 communeappraise.top
-communereassure.top
-communicatediscern.top
