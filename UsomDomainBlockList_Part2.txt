@@ -28161,6 +28161,7 @@ e-devlet.kk-iade.site
 e-devlet.kredikartiaidatgeriodeme.com
 e-devlet.live
 e-devlet.me
+e-devlet.misecure.com
 e-devlet.ml
 e-devlet.musteri-giris.online
 e-devlet.musteri-portal.online
@@ -99997,4 +99998,3 @@ hormennssssterkdslere.com
 hormensdtrerr.com
 hormenssteerlerss.com
 hormensterkdslere.com
-hormensterlandks.click
