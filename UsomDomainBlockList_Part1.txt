@@ -8054,6 +8054,8 @@
 2026knutun.wordpress.com
 2026konutbasvuru.sbs
 2026konutbasvurum.sbs
+2026konutislem.sbs
+2026konutportal.sbs
 2026konutprojesi.sbs
 2026konutvizyon.online
 2026onbasvurum.sbs
@@ -23546,6 +23548,7 @@ a101hizliindrims.com
 a101hizmet.com
 a101hizmetleri101.dynip.org
 a101hobihadi.com
+a101icinfirsat.com
 a101iiletisim.com
 a101ile-indirimli-alisveris.wuaze.com
 a101ile.comilan.org
@@ -54304,6 +54307,7 @@ b-ist-y.blogspot.com
 b-istb.blogspot.com
 b-istn.blogspot.com
 b-karcahome.shop
+b-kmpny-atr-a.my-homeip.net
 b-kypr.cz
 b-larboy.com
 b-ljimecell.gq
@@ -71581,6 +71585,7 @@ birbest.blogspot.com
 birbgxkyppqhtxhch.org
 birbile-bilsen.net.tr
 birbira.xyz
+birbirgercekoldular.click
 birbirimiziseviyoruz.biz
 birbiriniyalardurduramazlar.com
 birbrlkzmnigeldiginde.com
@@ -99993,8 +99998,3 @@ commoninteresting.click
 commonlifestyle.online
 commonline.space
 commonmimic.top
-commonn-weealth-au.online-login-digital-mobile.com
-commonnweal.hopto.org
-commonnweallthbannk.online-login-digital-mobile.com
-commonplaceoffspring.top
-commonsenseofstyle.com
