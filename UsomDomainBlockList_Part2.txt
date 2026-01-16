@@ -1,3 +1,5 @@
+commitmentglitter.top
+commitmentsanitary.top
 commitmentstance.top
 commitmentsteward.top
 commitrigidity.top
@@ -54717,6 +54719,7 @@ finans-doktrin.online
 finans-enpara.com
 finans-firsat-kampanyalari.com
 finans-gundemi.net
+finans-gundemi.pro
 finans-gunlerim-cepte.com
 finans-hep-yanimda.vercel.app
 finans-hizli-basvuru.cloud
@@ -54754,6 +54757,7 @@ finans-sube.online
 finans-subesionline.com
 finans-takip.info
 finans-tamdestek.com
+finans-vizyon.pro
 finans-yilbasi-hediyem.com
 finans-yilbasinda.com
 finans-yilbasiozel.com
@@ -89373,6 +89377,7 @@ hemen-odedin.com
 hemen-odemesizdeolsun.com
 hemen-onay.icu
 hemen-onay.online
+hemen-onay.shop
 hemen-onay.xyz
 hemen-otokirala.rest
 hemen-otokirala.shop
@@ -99993,8 +99998,3 @@ hoodtuna.top
 hoofbound.com
 hoohotic.click
 hookanevetaosletuuznuah.com
-hookanplace.site
-hookextender.com
-hookmanuscript.top
-hookonset.top
-hookshome.ddns.net
