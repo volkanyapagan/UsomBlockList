@@ -1,3 +1,4 @@
+commitmentstance.top
 commitmentsteward.top
 commitrigidity.top
 commitsoothe.top
@@ -17135,6 +17136,7 @@ dev.mycoinba.se
 dev.prod.ultradns.coinbase-com.info
 dev.secure.web4311.coinbase-com.info
 dev.snap.tk
+dev.trblnancebasvuru.com
 dev.vegascheck.net.tr
 dev.vegascheck.xyz
 dev.wyoming.coinbase-com.info
@@ -73822,6 +73824,7 @@ gov-haorci.top
 gov-hl.win
 gov-ihlas-haber-tr.com
 gov-kasih.com
+gov-kgm.cc
 gov-kgm.cyou
 gov-lk.org-liv.net
 gov-md.com
@@ -99995,6 +99998,3 @@ hookextender.com
 hookmanuscript.top
 hookonset.top
 hookshome.ddns.net
-hookup4444.top
-hookuproom6334.world
-hooky.ddns.net
