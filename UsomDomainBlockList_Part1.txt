@@ -2513,6 +2513,7 @@
 101kampanyamerkezisi.my
 101kampanyamerkezisi.xyz
 101kampanyasi.vercel.app
+101kampanyavefirsatlari.online
 101kampanyndabugunn.vercel.app
 101kampanynsubataozellikte.vercel.app
 101kapida-firsataninda.shop
@@ -6537,6 +6538,7 @@
 1o1-brdayzherzaman.shop
 1o1-de-var.shop
 1o1-firsat-kapida.app
+1o1-iletisim-son-gun.sbs
 1o1-indirimfirsati.com
 1o1-kampanya-aktuel.shop
 1o1-kapida.app
@@ -8044,6 +8046,7 @@
 2025yilikampanyasizlere.com
 2026-hep-beraber-sahlaniyoruz-sayesinde.sbs
 2026-yanizda-olacak.sbs
+2026basvurum.sbs
 2026bvsnrsmdikyt.sbs
 2026evfirsati.sbs
 2026evimprojesi.com.tr
@@ -8063,6 +8066,7 @@
 2026konutportal.sbs
 2026konutprojesi.sbs
 2026konutvizyon.online
+2026onbasvuru.sbs
 2026onbasvurum.sbs
 2026onkayit.sbs
 2026online.cfd
@@ -31119,6 +31123,7 @@ adresimne.net
 adresimtrendyol.com
 adresimtrendyol.net
 adresimyenitrendyol.com
+adresimyenitrendyol.net
 adresindeoto.online
 adresinegelir.online
 adresinegelsin.online
@@ -59202,6 +59207,7 @@ basvurubbwa.net
 basvurubddkiade.com
 basvurubduyurutr.com
 basvurubilgiekrani.com
+basvurubilgilendir.click
 basvurubilgilendirme.net
 basvurubireyselacikdnzzbasvuruformru.com
 basvurubireyselackkkdnzmobilbireysel.com
@@ -99992,9 +99998,3 @@ commercializesolitary.top
 commercializeword.top
 commercialmediator.top
 commertz-bank-de.duckdns.org
-commeryherb.top
-commerzbank-online.ddns.net
-commerzbank-tan.ddns.net
-commerzbank.ddns.net
-commetdark22.ddns.net
-commissiondisarm.top
