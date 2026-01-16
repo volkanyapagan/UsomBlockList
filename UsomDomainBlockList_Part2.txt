@@ -20307,6 +20307,7 @@ dijitalwebhizmet-ziraatbireysel.com
 dijitalwebinternet-ziraatmobil.com
 dijitalwebislemler-denizacik.com
 dijitalwebislemler-ziraatbireysel.com
+dijitalwebislemleri-ziraatbireysel.com
 dijitalwebkampanya-denizacik.com
 dijitalwebkampanya-ziraat.com
 dijitalwebkampanya-ziraatbireysel.com
@@ -22742,6 +22743,7 @@ dolap-alisverislerim-ileguvende.click
 dolap-apps.com
 dolap-cep.com
 dolap-chekout.cf
+dolap-com-temiz-iphone.duckdns.org
 dolap-com-tr.tk
 dolap-com-tr.xyz
 dolap-com-urun-diger-devam.shop
@@ -99996,5 +99998,3 @@ honestlerketest.click
 honestlerrrr22.sbs
 honestlers.com
 honestme.com.ua
-honestspinal.top
-honestydegenerate.top
