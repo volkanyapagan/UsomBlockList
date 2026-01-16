@@ -38294,6 +38294,7 @@ aktif-istecepfarki.vercel.app
 aktif-kepadresim.com
 aktif-merkez.net
 aktif-merkezz.net
+aktif-ogrenme-ekrani.sbs
 aktif-onlinebasvuruserbestbayramyapida.vercel.app
 aktif-panel.net
 aktif-pay.com.tr
@@ -43538,6 +43539,7 @@ amtposti.top
 amtrusjanbdah.duckdns.org
 amtvhvurdumv.org
 amuhgsotoylgcststmo.duckdns.org
+amuletcforge.com
 amuletgert.vercel.app
 amuletofstr.xyz
 amumuem.hopto.org
@@ -99996,5 +99998,3 @@ commetdark22.ddns.net
 commissiondisarm.top
 commissiongrim.top
 commissionplausible.top
-commissionpremium.top
-commitcockpit.top
