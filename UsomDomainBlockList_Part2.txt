@@ -10012,6 +10012,7 @@ degerlendirmefirsati.xyz
 degerlendirmekampan.vercel.app
 degerlendirmeyapisi.com
 degerleri-kaybetmeden-sonlara-dogru-yetisin.com
+degerli-musterilerimiz-g.my-homeip.com
 degerli-zamanlar-sizlericin.com
 degerlicampanya.com
 degerlikonutvergisiiade.com
@@ -99997,4 +99998,3 @@ hondaza.duckdns.org
 hondchain.com
 hondreti.sambal.web.id
 hondurass.sbs
-honeiwillre.biz
