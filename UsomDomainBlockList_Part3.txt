@@ -33098,6 +33098,7 @@ karacastore.net.tr
 karacastore.org.tr
 karacatabak.free.site.pro
 karacatr.biz.tr
+karacatr.com
 karacatr.com.tr
 karacatr.info.tr
 karacatr.net.tr
@@ -99997,4 +99998,3 @@ pegasus-arackirala.online
 pegasus-sky.com
 pegasus-virtual.com
 pegasus.serviceglobal.com.tr
-pegasusarabakirala.ga
