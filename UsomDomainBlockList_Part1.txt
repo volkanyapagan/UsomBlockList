@@ -58669,6 +58669,7 @@ basvurtokikonutlari.pro
 basvurtokikonutlari.xyz
 basvurtokim.xyz
 basvurtokiye2025.sbs
+basvurtokiye2025ekrani.sbs
 basvurtook.art
 basvurtook.pro
 basvurtrbinance.com
@@ -99997,4 +99998,3 @@ comments.name.tr
 commentshark.top
 commercbankverify.hopto.org
 commerce-development.sbs
-commerce24-grow.homes
