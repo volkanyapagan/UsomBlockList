@@ -8070,6 +8070,7 @@
 2026konutportal.sbs
 2026konutprojesi.sbs
 2026konutvizyon.online
+2026ocakfrsattlarburada.giize.com
 2026onbasvuru.sbs
 2026onbasvurum.sbs
 2026onkayit.sbs
@@ -25193,6 +25194,7 @@ aaccountverify.ml
 aacf32hx0.duckdns.org
 aachen-spar.ddns.net
 aacikdeniz-denizbank.com
+aacrrfrsadayiz.cfd
 aadatmerkez.com
 aaddons--mozilla--org.webflow.io
 aadicorporation.in
@@ -39028,6 +39030,7 @@ aktuelindirim.duckdns.org
 aktuelindirim.org
 aktuelindirim.shop
 aktuelindirimcinizfirsat.com
+aktuelindirimhaberleri.com
 aktuelindirimiyakala.net
 aktuelindirimkulubu.xyz
 aktuelindirimler.duckdns.org
@@ -99995,6 +99998,3 @@ commendationerosive.top
 commendationoar.top
 commenddepletion.top
 commendharvest.top
-commendperch.top
-commendpretty.top
-comment-comes.at.ply.gg
