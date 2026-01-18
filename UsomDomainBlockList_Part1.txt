@@ -8054,6 +8054,7 @@
 2026basvurum.sbs
 2026bvsnrsmdikyt.sbs
 2026evfirsati.sbs
+2026evim.sbs
 2026evimkayit.sbs
 2026evimolsun.sbs
 2026evimprojesi.com.tr
@@ -99997,4 +99998,3 @@ commbankmobileweb.com
 commbankonline.ddns.net
 commbankprotect.ddns.net
 commbeawaelthban.hopto.org
-commbnk.ddns.net
