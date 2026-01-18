@@ -61525,6 +61525,7 @@ migros-hizla-tikla.com.tr
 migros-hizla-tikla.xyz
 migros-indirim.com.tr
 migros-mall.com
+migros-marketcepte.vercel.app
 migros-mobilmarket.vercel.app
 migros-onlineextra.vercel.app
 migros-sanalalisveris.com.tr
@@ -99997,4 +99998,3 @@ pedsicomdu.site
 peebxwtjgf.duckdns.org
 peedyhiv.top
 peek-through.com
-peek.openssl-digicert.xyz
