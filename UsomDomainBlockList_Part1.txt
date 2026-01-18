@@ -38128,6 +38128,7 @@ aktar-hhizli-islem.com
 aktar-hhizli-islem.online
 aktar-hhizli-islem.xyz
 aktar-iade-kampanya.com
+aktar-iletisimsorgu-ekrani.sbs
 aktar-kampanya.com
 aktar-kampanya.online
 aktar-kampanya.xyz
@@ -99997,4 +99998,3 @@ commbak.xyz
 commbank-account.com
 commbank-ausecrue.ddns.net
 commbank-ausecruity.ddns.net
-commbank-ausinfo.ddns.net
