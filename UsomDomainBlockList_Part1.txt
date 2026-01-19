@@ -33210,6 +33210,7 @@ ai-midjourneys.com
 ai-midjourneys.net
 ai-midjourneys.org
 ai-new-grn-in.my-homeip.com
+ai-newing-grn-in.my-homeip.com
 ai-nude.adult
 ai-nude.click
 ai-nude.cloud
@@ -99997,4 +99998,3 @@ comlogin.online
 comlogin.services
 comlpl-rglslrlv.com
 comm-security.ddns.net
-comma347.xyz
