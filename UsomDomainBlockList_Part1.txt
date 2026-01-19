@@ -1930,6 +1930,7 @@
 101-cumaksami.com
 101-cumartesiaksamx.com
 101-de-bugune-ozel-firsatlar-tr.mooo.com
+101-de-bugune-ozel-indirim-hemen-siparis-ver.com
 101-de-bugune-ozel-indirimler-tr.mooo.com
 101-de-haftalar-indirimler-burada.com
 101-de-hemen.com
@@ -99997,4 +99998,3 @@ comlogin.services
 comlpl-rglslrlv.com
 comm-security.ddns.net
 comma347.xyz
-commacchio.com
