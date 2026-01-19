@@ -56444,6 +56444,7 @@ market-familia.com.tr
 market-familia.net.tr
 market-familia.org.tr
 market-firsat.online
+market-firsatlari-takip-merkezi.cfd
 market-firsatlari.app
 market-fiyatlari-indirimde-tr.online
 market-fiyatlarinda-indirim-var-tr.online
@@ -99997,4 +99998,3 @@ pdzfxh.top
 pe-gaxiys.com
 pe-gaxy.com
 pe1rsonbro.com
-pe71vdcb.duckdns.org
