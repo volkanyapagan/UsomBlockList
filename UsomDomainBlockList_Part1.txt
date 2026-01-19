@@ -1929,6 +1929,7 @@
 101-cumafirsat.com
 101-cumaksami.com
 101-cumartesiaksamx.com
+101-de-bugune-ozel-firsatlar-tr.mooo.com
 101-de-bugune-ozel-indirimler-tr.mooo.com
 101-de-haftalar-indirimler-burada.com
 101-de-hemen.com
@@ -8077,6 +8078,7 @@
 2026konutportal.sbs
 2026konutprojesi.sbs
 2026konutvizyon.online
+2026ocakfrsattlarburada.duckdns.org
 2026ocakfrsattlarburada.giize.com
 2026onbasvuru.sbs
 2026onbasvurum.sbs
@@ -99996,5 +99998,3 @@ commacchio.com
 commagx4.info
 command-investment.info
 commande56399.cc
-commandentrance.com
-commandercivic.top
