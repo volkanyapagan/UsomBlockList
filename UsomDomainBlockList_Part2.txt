@@ -89585,6 +89585,7 @@ hemen-kripto-varlik-sorgula.xyz
 hemen-migros.vercel.app
 hemen-odedin.com
 hemen-odemesizdeolsun.com
+hemen-onay.click
 hemen-onay.icu
 hemen-onay.online
 hemen-onay.shop
@@ -99997,4 +99998,3 @@ homestrlerss.com.tr
 homestrletkesterataklar.com
 homesubeonlinebayilerim.my-homeip.net
 homesvest.com.tr
-homesvt.com.tr
