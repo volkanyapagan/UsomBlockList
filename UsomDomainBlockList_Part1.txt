@@ -58264,6 +58264,7 @@ basvuranindayapikredi.com
 basvuranlardan.sbs
 basvuranyetisiyor.sbs
 basvurbasladi.org
+basvurbavcu.sbs
 basvurbbvaonlin.xyz
 basvurbireysele.com
 basvurblinancetr.com
@@ -99997,4 +99998,3 @@ comkobifirsatlari.xyz
 comleidgestart.webflow.io
 comlikenhelp.tk
 comline.cloud
-comlogin.online
