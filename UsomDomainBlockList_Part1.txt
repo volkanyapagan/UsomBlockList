@@ -79789,6 +79789,7 @@ bnrgiris-trkmpanyalar.com
 bnrgirisbasvuru.com
 bnrince.org
 bnrklmynlndrme.sbs
+bnrklmynlndrmed.sbs
 bnrn.com.tr
 bnrnboerxce.com
 bnrncntrgirsleri.online
@@ -99997,4 +99998,3 @@ comfortex.co.za
 comfortexcerpt.top
 comfortfm.ddns.net
 comfortnow.online
-comfortturmoil.top
