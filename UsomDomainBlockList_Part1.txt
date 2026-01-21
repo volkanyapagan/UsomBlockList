@@ -1932,6 +1932,7 @@
 101-de-bugune-ozel-firsatlar-tr.mooo.com
 101-de-bugune-ozel-indirim-hemen-siparis-ver.com
 101-de-bugune-ozel-indirimler-tr.mooo.com
+101-de-bugune-ozel-mobil-firsatlar-hemen-siparis-ver-tr.com
 101-de-firsatlar-bugune-ozel-online-siparis-tr.com
 101-de-haftalar-indirimler-burada.com
 101-de-hemen.com
@@ -99997,4 +99998,3 @@ comehomelesteat.ddns.net
 comeimp.icu
 comeleg.top
 comelimb.top
-comelogistic.top
