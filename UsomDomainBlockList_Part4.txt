@@ -1,3 +1,4 @@
+pbum.shop
 pbuyildasizle.com
 pbuyilinfirsati.com
 pbva-garenti.xyz
@@ -42849,6 +42850,7 @@ simdi-islemlerini-baslat-sendekazan.com
 simdi-lndrlmleri-kullanma-noktasi.com
 simdi-ode.com
 simdi-olur.com
+simdi-onaylansin.click
 simdi-onaylansin.com
 simdi-sende-dene.com
 simdi-senin-olsun.com
@@ -60553,6 +60555,7 @@ tarim-deniz.my-homeip.com
 tarim-giris-hizli.com
 tarim-kooperatiff.online
 tarim-kooperatiff.xyz
+tarim-zirai.my-homeip.com
 tarim.my-homeip.com
 tarim20avmfirsat2024.online
 tarim20firsatavm2024.online
@@ -84411,6 +84414,7 @@ ulasamazsin.space
 ulasamazsiniz.cfd
 ulasas.xyz
 ulasimimizmirim.net
+ulasimkartbilgi.xyz
 ulasimkarthediye.pro
 ulasimkrt-yukle.b-cdn.net
 ulasmajogerekli.com
@@ -99994,7 +99998,3 @@ web-paribudestek.com
 web-platformirtdiyalogtrgirisler.com
 web-platformirtibatdiyalogtrgir.com
 web-plaza-kultur.xyz
-web-pnrf.vercel.app
-web-portaal.ddns.net
-web-portali.com.tr
-web-portali.online
