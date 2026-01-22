@@ -8071,6 +8071,7 @@
 2026evimolsun.sbs
 2026evimprojesi.com.tr
 2026evkaydi.sbs
+2026evsahibi.sbs
 2026evsistemi.sbs
 2026evtapum.sbs
 2026frsattlarburadakcmz.giize.com
@@ -8099,8 +8100,11 @@
 2026tapum.sbs
 2026teslim-tarih.sbs
 2026teslimsel.cyou
+2026tokievim.sbs
+2026tokikayit.sbs
 2026topluev.sbs
 2026yaozel.cfd
+2026yeniev.sbs
 2026yenievim.sbs
 2026yeniyil.my-homeip.com
 2028-88-230-146-31.ngrok-free.app
@@ -53764,6 +53768,7 @@ aychobanpo.ru
 aycicegi.online
 aycicegi.website
 aycicegiresmi.org
+aycicek-yagi-kampanyali-fiyattan-al.cfd
 aycicekyagiucuz.space
 aycinteker.com
 ayciqy.duckdns.org
@@ -99993,8 +99998,3 @@ comecha.my
 comecomefindme.ru
 comecoode.duckdns.org
 comediko.online
-comedisposition.top
-comedydeployment.top
-comedyglider.top
-comedytrashisfun.ddns.net
-comefromsmoke.ddns.net
