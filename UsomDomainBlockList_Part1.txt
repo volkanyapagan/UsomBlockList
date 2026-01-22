@@ -1936,6 +1936,7 @@
 101-de-firsatlar-bugune-ozel-online-siparis-tr.com
 101-de-haftalar-indirimler-burada.com
 101-de-hemen.com
+101-de-indirim-firsatlari-bugune-ozel-alisveris-tr.com
 101-de-indirimli-firsat-urunler.mooo.com
 101-de-indirimli-firsatlar-online-ozel-tr.mooo.com
 101-de-mobil-bugune-ozel-online-firsatlar-siparis-tr.com
@@ -2032,6 +2033,8 @@
 101-oglenkacmaz10.com
 101-oglenkapinda.com
 101-online-akutelmayis.com
+101-online-alisveris-bugune-ozel-firsatlar-internete-ozel.com
+101-online-alisveris-bugune-ozel-firsatlar-mobilde.com
 101-online-ozel.ooguy.com
 101-online-siparis-ver-mobilde-bireysel-tr.mooo.com
 101-online-sponsor-ozel-siparis-ver-tr-cep.com
@@ -61153,7 +61156,6 @@ baykar.bet
 baykar.buzz
 baykar.capitalingon.com
 baykar.cloud
-baykar.com
 baykar.glitch.me
 baykar.icu
 baykar.lol
@@ -71019,6 +71021,7 @@ binanceltr.xyz
 binancem.link
 binancemega.net
 binancememecoin.com
+binancemobile.app
 binancemobilgiris.com
 binancen.live
 binancen.top
@@ -99995,6 +99998,3 @@ comcom-comspacetemiz.com
 comcom-xswqs-csrd.com
 comdirect-de.duckdns.org
 comdirect.duckdns.org
-come-kasim-basvurus.net
-come34657.xyz
-comeanalyze.8x19.com
