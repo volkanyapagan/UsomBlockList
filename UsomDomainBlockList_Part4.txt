@@ -1,3 +1,5 @@
+pazarsolenlerindebugununindirimi.cfd
+pazarsolenlerindebugununindirimi.sbs
 pazarsuprizler.online
 pazartesi-aksamfirsati.com
 pazartesi-bugunonlineyiz.com
@@ -82250,6 +82252,7 @@ tuvturkhizmetonline.com
 tuvturkhizmettakip.com
 tuvturkilearac.net
 tuvturkileodemexhzmeti.net
+tuvturkiye.com
 tuvturkj-muayene.net
 tuvturkk-rezervasyon.com
 tuvturkk-tr.net
@@ -99995,6 +99998,3 @@ web-edevletturkiyegovtr.tk
 web-ekrantry.online
 web-en--bridge-trzor.webflow.io
 web-erisim-iade-bedeli.net
-web-erisim-iade-bedeli.org
-web-erisim.online
-web-erism-basvr.net
