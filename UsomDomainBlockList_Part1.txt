@@ -8110,7 +8110,9 @@
 2026teslim-tarih.sbs
 2026teslimsel.cyou
 2026tokievim.sbs
+2026tokigiris.sbs
 2026tokikayit.sbs
+2026tokim.sbs
 2026topluev.sbs
 2026yaozel.cfd
 2026yeniev.sbs
@@ -20302,6 +20304,7 @@
 94356.click
 94357.click
 943752.cloud
+94393942242.click
 944279.parkingcrew.net
 945467274.cloud
 945505162443118756.com
@@ -30484,6 +30487,7 @@ adayolusum-sistemleri.net
 adayrandevulari.com
 adaysecim2026.com
 adaysistem-islemlerin.org
+adaytercihler.com
 adayyuksekurumlarin.net
 adb-yukleme.22web.org
 adb.androidadbserver.com
@@ -59757,6 +59761,7 @@ basvurukullanimekrani.com
 basvurukullannilabilirlikekrani.com
 basvurukurumsalapp.icu
 basvurukurumsalcenter.icu
+basvurukurumsaldanisma.icu
 basvurukurumsalform.icu
 basvurukurumsalgiris.icu
 basvurukurumsalhizmet.icu
@@ -99993,8 +99998,3 @@ com-xaaaqt.top
 com-xaaaqy.top
 com-xaaata.vip
 com-xaaath.vip
-com-xitas.top
-com-xitay.top
-com-xites.top
-com-xntes.top
-com-xxoixa.cc
