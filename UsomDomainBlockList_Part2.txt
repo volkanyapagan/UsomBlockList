@@ -1,3 +1,4 @@
+com-xxoixf.cc
 com-xxoixg.cc
 com-xxoixs.cc
 com-y.ru
@@ -76901,6 +76902,7 @@ guncel-kmp-zmni.shop
 guncel-konut-basvurusu.blogdns.net
 guncel-kredi-firsatlari.net
 guncel-market-indirimleri-ve-aktuel-urunler.cfd
+guncel-market-kampanyalari-ve-aktuel-listesi.cfd
 guncel-market-tr.site
 guncel-maxipuan-tr.space
 guncel-nisanfirsat.com.tr
@@ -99996,5 +99998,3 @@ homescangeceflesk.com
 homescarsfents.com
 homesces.com.tr
 homesceset.com.tr
-homesclearance.com
-homesctesiflesk.com

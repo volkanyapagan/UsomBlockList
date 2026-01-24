@@ -1,3 +1,5 @@
+pazargununefirsatlabasla.icu
+pazargununefirsatlabasla.sbs
 pazargununefsanefirsaltariburada.cfd
 pazargununefsanefirsaltariburada.sbs
 pazargununefsanefirsaltarikacirma.cfd
@@ -99996,5 +99998,3 @@ web-devletsosyalyardimlasma.com
 web-devletsosyalyardimuygulamasi.com
 web-dijitallgarantisbva.ml
 web-dijitallgarantisbva.tk
-web-dijitallvakifsbvb.cf
-web-dijitallvakifsbvc.ga
