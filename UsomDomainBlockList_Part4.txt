@@ -1,3 +1,4 @@
+pazarama.bireyselprovizyon.com.tr
 pazarama.bireyselsatisin.com.tr
 pazarama.bireyselticaret.com.tr
 pazarama.guvenceonay.com.tr
@@ -99997,4 +99998,3 @@ web-basvuru-girisi-e-devlet.xyz
 web-basvuru-ozel-kart-aidati-ebasvurum-onlinegiris.xyz
 web-basvuru.info
 web-basvurusu-online-ed-evlet-2021.xyz
-web-basvurutalep.com
