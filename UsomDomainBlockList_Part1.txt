@@ -1008,6 +1008,7 @@
 0faiz-basvuruyap-akbank.github.io
 0faiz-direckt.site
 0faiz-isbnssww.sbs
+0faiz-kredi.replit.app
 0faiz-kredii.hopto.org
 0faiz-sana-ozel.site
 0faizbasvurun.online
@@ -99997,4 +99998,3 @@ com-vps.work
 com-webparamguvende.online
 com-wineu.top
 com-winty.top
-com-wited.top
