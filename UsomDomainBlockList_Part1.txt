@@ -23448,6 +23448,7 @@ a101ekstra.com
 a101ekstra.com.tr
 a101ekstra.shop
 a101ekstra.site
+a101ekstra.xyz
 a101ekstraa.com.tr
 a101ekstraa.xyz
 a101ekstraaldinaldincampany.xyz
@@ -99997,4 +99998,3 @@ com-verify-ssl-login.com
 com-vps.work
 com-webparamguvende.online
 com-wineu.top
-com-winty.top
