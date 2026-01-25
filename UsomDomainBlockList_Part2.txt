@@ -81441,6 +81441,7 @@ haftalardapazattesihaftasi.icu
 haftalardapazattesihaftasi.sbs
 haftalik-a101-online.com
 haftalik-aktuel-urunler-ve-market-firsatlari.cfd
+haftalik-brosurler-ve-ucuzluk-firsatlari-takibi.cfd
 haftalik-indirim-ve-aktuel.cfd
 haftalik-kapida-urunler.com
 haftalik-kapida.com
@@ -99997,4 +99998,3 @@ homenzelter.com
 homenzelter.com.tr
 homeofblinds.com
 homeoffice365login.myportfolio.com
-homeofficeisimkani.online
