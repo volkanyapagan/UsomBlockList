@@ -80499,6 +80499,7 @@ turkiye-finans.onrender.com
 turkiye-finansbankasi.tk
 turkiye-finanstr.com
 turkiye-g-o-v-tr.com
+turkiye-geneli-market-kampanya-listesi.cfd
 turkiye-geneli-market-kampanyalari-ve-aktuel-listesi.cfd
 turkiye-giris-bilglendirme.tk
 turkiye-giris-edevlet-aidat-iade-gov-tr.com
@@ -99997,4 +99998,3 @@ web--support--cryptcom.webflow.io
 web--support-c-crypto.webflow.io
 web--trezorvoul--web.webflow.io
 web-16fe.app
-web-20gbinternetbasvuru.com
