@@ -1,3 +1,8 @@
+com-tr.pro
+com-tr.store
+com-tr.top
+com-tr.xyz
+com-trackktr.top
 com-trackptt.top
 com-trike.top
 com-unauthorise-account.systems
@@ -9063,6 +9068,7 @@ davadosyalari.org
 davadosyalarim.org
 davadosyasi.com
 davaesorgu.org
+davalayap.com
 davalidosyam.com
 davamaliye.net
 davamaliyem.com
@@ -25578,6 +25584,7 @@ dunyadevibasladi.best
 dunyadonbana.online
 dunyaduzeni.com
 dunyafirsatlari.sbs
+dunyahaber365.sbs
 dunyainsanvakfi.com
 dunyakadinlargununuzkutluolsun.com
 dunyakalitesicuzdan.com
@@ -99991,10 +99998,3 @@ homenesskartalofhoki.cloud
 homenesskartalpleskasd.cloud
 homenest-kartal.cloud
 homenest-kartal1.cloud
-homenest-kartal2.cloud
-homenest-kartal3.cloud
-homenest-kartal4.cloud
-homenestkartalflex15.duckdns.org
-homenestkartalvip.duckdns.org
-homenestkartlastflex1.cloud
-homenestler.com
