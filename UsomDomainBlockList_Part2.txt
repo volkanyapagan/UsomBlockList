@@ -1,3 +1,6 @@
+com-verifications-account.limited
+com-verifications.site
+com-verified-accounts.com
 com-verify-account-email.biz
 com-verify-login-account.limited
 com-verify-ssl-login.com
@@ -55703,6 +55706,7 @@ finnsta-qnbliler-kazaniyor.com
 finntronauts.com
 finolyx.lat
 finoodemem.net
+finoraxel.com
 finorbitz.com
 finottorubatta.xyz
 finpeak.online
@@ -55728,6 +55732,7 @@ finvami.com
 finxiio.com
 finxsons.com
 finyze.info
+finzavor.com
 fioha1.net
 fiollool.ga
 fionamcleod.net
@@ -75604,6 +75609,7 @@ grngrmsztn.org
 grnhglntli.com
 grnkampanya.net
 grnltknkbbsdfateskaito.duckdns.org
+grnngntbasssvvrrrrkmpnyaaa.click
 grnnnnbsvrrrprmsynn.click
 grnnnnn.site
 grnnnnprmmmmbsvr.click
@@ -99992,9 +99998,3 @@ homenestlerzehrflex1.com
 homenesttler5.xyz
 homenesttlerr6.xyz
 homenesttlerrr10.xyz
-homenesttorettoxd.cloud
-homenetakinveskayit.com
-homeneteller.com
-homeneteller.com.tr
-homenews-tr.pro
-homensadaa-sdasd.com
