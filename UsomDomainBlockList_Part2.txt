@@ -1,3 +1,6 @@
+com-verify-login-account.limited
+com-verify-ssl-login.com
+com-vps.work
 com-webparamguvende.online
 com-wineu.top
 com-winty.top
@@ -99995,6 +99998,3 @@ homensdlerishoknflesk.cloud
 homenseflesafajzdansdds.cloud
 homensesleslcan.com
 homenseslfsksakhsds.cloud
-homensgleksadflesksad.cloud
-homensleft.click
-homenslerataksfleskasd.cloud

@@ -21706,6 +21706,7 @@ a-101-indirim.martt.vip
 a-101-indirim.netlify.app
 a-101-indirim.oldubiler.vip
 a-101-indirimleri.s2lovam.com
+a-101-indirimlerinizsizle.com
 a-101-kampanyalari.s-ode.com
 a-101-kapida.onlne-frsatlar-kmpnya-ozl-simd-aldn-aldn.shop
 a-101-kapimda.com
@@ -59771,6 +59772,7 @@ basvurukullannilabilirlikekrani.com
 basvurukurumsalapp.icu
 basvurukurumsalcenter.icu
 basvurukurumsaldanisma.icu
+basvurukurumsaldestek.icu
 basvurukurumsalform.icu
 basvurukurumsalgiris.icu
 basvurukurumsalhizmet.icu
@@ -85346,6 +85348,7 @@ buhaftakampanyam.com.tr
 buhaftakatologs.sbs
 buhaftalarbuurunler.com
 buhaftamatkapindirimde.xyz
+buhaftamatkapsponsorluindirimde.xyz
 buhaftanevar.online
 buhaftanin-firsatlari-sadece-onlineozel.com.tr
 buhaftanin-son-indrmleri-bunlar-benm.click
@@ -99995,6 +99998,3 @@ com-verifications-account.limited
 com-verifications.site
 com-verified-accounts.com
 com-verify-account-email.biz
-com-verify-login-account.limited
-com-verify-ssl-login.com
-com-vps.work
