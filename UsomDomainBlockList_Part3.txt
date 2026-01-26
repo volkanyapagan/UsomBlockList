@@ -33655,6 +33655,7 @@ karacastore.org.tr
 karacatabak.free.site.pro
 karacatc.cfd
 karacatc.com
+karacatcb.cfd
 karacatr.biz.tr
 karacatr.com
 karacatr.com.tr
@@ -60590,6 +60591,7 @@ merkezicezaodeme.sg-host.com
 merkezicuzdaninaylamamerkeziozelonline.run.place
 merkezigecisyukle.sg-host.com
 merkezihekimrandevu.online
+merkezihekimrandevu.org
 merkezihekimrandevularm.online
 merkezihekimrandevusistemi.com
 merkezihekimrandevusistemi.net
@@ -99996,5 +99998,3 @@ paypalfr.hopto.org
 paypalidsecurity.ga
 paypalinfoupdate.duckdns.org
 paypalnore.hopto.org
-paypalpurchase.zapto.org
-paypalsecur5e.hopto.org
