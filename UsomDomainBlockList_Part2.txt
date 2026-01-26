@@ -1,3 +1,4 @@
+com-verify-account-email.biz
 com-verify-login-account.limited
 com-verify-ssl-login.com
 com-vps.work
@@ -11900,6 +11901,7 @@ denizbank.v2mobildenizi-firsat.com
 denizbank.vip
 denizbank.world
 denizbank.xn--hizmetyardm-8zb.com
+denizbank.zefcos.at
 denizbank10gb.com
 denizbank10gbfirsat.com
 denizbank10gbfirsati.com
@@ -24050,6 +24052,7 @@ dothidella.com
 dotretaliation.top
 dottrickle.top
 dou.crownaqua.com
+douaj.cn
 douate.com
 double-wing.de
 double3573.xyz
@@ -41128,6 +41131,7 @@ emeklipromosyon.duckdns.org
 emeklipromosyonbasvur.cfd
 emeklipromosyonbasvuru.cfd
 emeklipromosyonu.cfd
+emeklipromosyonusgk.cfd
 emeklipromsyon.cfd
 emekliramiysi.pw
 emeklisgkpromosyon.cfd
@@ -99994,7 +99998,3 @@ homeneteller.com.tr
 homenews-tr.pro
 homensadaa-sdasd.com
 homensakjzzdancinoflesk.cloud
-homensakkjzdancinoflesk.cloud
-homensakkjzdanncingoflesk.cloud
-homensakkkjzzdancinoflesk.cloud
-homensdleriscinonflesk.cloud
