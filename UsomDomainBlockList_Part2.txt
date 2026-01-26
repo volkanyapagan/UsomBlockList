@@ -1,3 +1,6 @@
+com-unlock-account.limited
+com-unusualy-login.com
+com-update-payments-data.cfd
 com-updater.com
 com-updates-account.me
 com-urunsatinal.com.tr
@@ -99995,6 +99998,3 @@ homenestlerkartallflex2.cloud
 homenestlerkartallflex3.cloud
 homenestlerkkartalflex1.cloud
 homenestlerkkartalflex1.duckdns.org
-homenestlerkkartalflex2.cloud
-homenestlerkkartalflex2.duckdns.org
-homenestlerkkartalflex3.cloud

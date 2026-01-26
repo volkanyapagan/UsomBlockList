@@ -8099,6 +8099,7 @@
 2026konutportal.sbs
 2026konutprojesi.sbs
 2026konutvizyon.online
+2026msu.com
 2026ocakfrsattlarburada.duckdns.org
 2026ocakfrsattlarburada.giize.com
 2026onbasvuru.sbs
@@ -15167,6 +15168,7 @@
 5753cm.duckdns.org
 5754756367547867.cloud
 575554567455.cloud
+575727513223.click
 5778.hopto.org
 578-7-7-1-1.com
 578-7-7-1-7.com
@@ -93376,6 +93378,7 @@ cepte-sok.kampanyahaftasiucuzluk.xyz
 cepte-sok.kimse-buradami.top
 cepte-sok.name.tr
 cepte-sok.online
+cepte-sokfirsatlar.online
 cepte-sokguncel.net.tr
 cepte-sokguncel.org.tr
 cepte-sokkampaya.site
@@ -99995,6 +99998,3 @@ com-trike.top
 com-unauthorise-account.systems
 com-unauthorise-account.technology
 com-unauthorised-login.solutions
-com-unlock-account.limited
-com-unusualy-login.com
-com-update-payments-data.cfd
