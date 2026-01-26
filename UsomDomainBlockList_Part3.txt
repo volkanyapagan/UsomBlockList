@@ -37821,6 +37821,7 @@ kgmtr-gov.icu
 kgmtr-govu.top
 kgmtr.org
 kgmtr.top
+kgmtrgov.help
 kgmtrgov.top
 kgmtrr.cc
 kgmttr.cc
@@ -82210,6 +82211,7 @@ ocaklndirimtrendleri.shop
 ocaklndirmlerikcmaz.com
 ocaklndrimflrsatlari.store
 ocakmbl.cfd
+ocakmblsbe.sbs
 ocakmtw.net
 ocakozelkapida.online
 ocakpromosynlaridagitildi.vercel.app
@@ -99996,5 +99998,3 @@ paypal-verification-identite.com
 paypal-verification.net
 paypal.com.schooler.net
 paypal.dev-webapps.com
-paypal.xn--confirm-my-account-7ya.com
-paypal1.hopto.org
