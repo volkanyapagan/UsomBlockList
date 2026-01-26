@@ -99144,6 +99144,7 @@ cokpahalicokpahalibu.top
 cokparakazan.com
 coksansinvar.com
 coksatanizeltas.sbs
+coksatanlar.sbs
 cokseverek-geldiginde-illaki-yenisine-bilinirsin.top
 coksiqorta.com.tr
 coktanunuutuurduum.top
@@ -99997,4 +99998,3 @@ com-unauthorised-login.solutions
 com-unlock-account.limited
 com-unusualy-login.com
 com-update-payments-data.cfd
-com-updater.com
