@@ -59204,6 +59204,7 @@ basvuru.18-133-220-72.plesk.page
 basvuru.40-118-23-80.plesk.page
 basvuru.74-234-l76-l4.plesk.page
 basvuru.acikdeniz.denizbank.20-105-202-112.plesk.page
+basvuru.adayislemleri.sbs
 basvuru.aile.social
 basvuru.ailevegenclik.paygame.gen.tr
 basvuru.ailevegenclik.sedesa.com.tr
@@ -99997,4 +99998,3 @@ com-trackptt.top
 com-trike.top
 com-unauthorise-account.systems
 com-unauthorise-account.technology
-com-unauthorised-login.solutions
