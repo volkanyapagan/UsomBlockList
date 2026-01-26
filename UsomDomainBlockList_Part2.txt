@@ -41101,6 +41101,7 @@ emekli-cekilis-promosyon.store
 emekli-kampanyamiz.com
 emekli-promo-basvur.com
 emeklibasvurum.com
+emeklibilgi.cfd
 emeklibilgilendirme.cfd
 emeklicampagn.com
 emekliciftcikrdibsvurr.duckdns.org
@@ -99997,4 +99998,3 @@ homeneteller.com
 homeneteller.com.tr
 homenews-tr.pro
 homensadaa-sdasd.com
-homensakjzzdancinoflesk.cloud
