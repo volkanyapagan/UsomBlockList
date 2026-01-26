@@ -8106,6 +8106,7 @@
 2026onbasvurum.sbs
 2026onkayit.sbs
 2026online.cfd
+2026osym.com
 2026sosyalevim.com.tr
 2026tapu.sbs
 2026tapum.sbs
@@ -21733,6 +21734,7 @@ a-101-onlineislemler.com.tr
 a-101-perakende.online
 a-101-sanal.com.tr
 a-101-sanal.xyz
+a-101-sanial-markel.sbs
 a-101-sepetim.com
 a-101-sepetimkapimda.com
 a-101-stanley.sa.com
@@ -63278,6 +63280,7 @@ beddingdepise.top
 beddysstudio.com
 bedekteferheye.online
 bedelgecisler.is-best.net
+bedellimsbhizmetyeri.org
 bedelliyekredi.com
 bedelsizler.com
 bedende.duckdns.org
@@ -99995,6 +99998,3 @@ com-tr.top
 com-tr.xyz
 com-trackktr.top
 com-trackptt.top
-com-trike.top
-com-unauthorise-account.systems
-com-unauthorise-account.technology
