@@ -1,3 +1,6 @@
+homenestlerkartallflex3.cloud
+homenestlerkkartalflex1.cloud
+homenestlerkkartalflex1.duckdns.org
 homenestlerkkartalflex2.cloud
 homenestlerkkartalflex2.duckdns.org
 homenestlerkkartalflex3.cloud
@@ -61642,6 +61645,7 @@ mhrs-guvenli-hastane-randevu.click
 mhrs-randevu-e-devlet.blogspot.com
 mhrs-randevu.net
 mhrs-randvm.blogspot.com
+mhrs-vatandas-randevu.click
 mhrs.basvurulari.org
 mhrs.co.vu
 mhrs.fr
@@ -82187,6 +82191,7 @@ ocakmbl.cfd
 ocakmtw.net
 ocakozelkapida.online
 ocakpromosynlaridagitildi.vercel.app
+ocaksepetim.cfd
 ocakson01.shop
 ocakson101kapida-yenikmpanya.site
 ocaksongidafirsatlari.com
@@ -99993,8 +99998,3 @@ paypalsupports.hopto.org
 paypalteam5.hopto.org
 paypalupdatecheck.ddns.net
 paypalv2.duckdns.org
-paypalverification.xyz
-paypalverificationbancaire.com
-paypalwebapp.ddns.net
-paypalwin.duckdns.org
-paypalyardimvakfi.com
