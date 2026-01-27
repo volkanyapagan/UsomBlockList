@@ -1,3 +1,4 @@
+com-tr-indexs.com.tr
 com-tr-indirim.online
 com-tr-indirimler.online
 com-tr-indirimm.online
@@ -78110,6 +78111,7 @@ guvende-hizmet-param-ode.com.tr
 guvende-hizmet-s.com
 guvende-hizmetler-param.com.tr
 guvende-hizmetleri-s.com
+guvende-ilan-s.com
 guvende-ilan-tr.sa.com
 guvende-ilan.com
 guvende-ilan.net
@@ -99996,5 +99998,3 @@ homeneslerdeisydkdecinoflesk.cloud
 homeneslerdenislerlex1.cloud
 homeneslerisydkhokiiflesk.cloud
 homeneslerisydkhokiiifleskk.cloud
-homeneslerkartal2025.duckdns.org
-homeneslerkartalbddk.duckdns.org
