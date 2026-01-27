@@ -30397,6 +30397,7 @@ adaletariyoruz.net
 adaletbakanligi-sikayetvar.epizy.com
 adaletbakanligi.org
 adaletbakanligigov.xyz
+adaletbakanligigovtr.org
 adaletbizim.net
 adaletbumula.com
 adaletceza.net
@@ -99997,4 +99998,3 @@ com-tr-index-php.fun
 com-tr-index-php.online
 com-tr-index-php.site
 com-tr-index.click
-com-tr-index.com.tr
