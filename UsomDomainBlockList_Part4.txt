@@ -1,3 +1,6 @@
+paypal-service.zapto.org
+paypal-servicefr.zapto.org
+paypal-services.hopto.org
 paypal-servicesauth.hopto.org
 paypal-supportcom.hopto.org
 paypal-ticketid154.com
@@ -99995,6 +99998,3 @@ wddsodxmsvglvnx.cn
 wde0of42a.duckdns.org
 wdee03.duckdns.org
 wdeiqeqwns.com
-wdengvcv761bixu.ddns.net
-wdenizbank.net
-wdenizmobil.com

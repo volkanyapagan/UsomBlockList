@@ -1007,6 +1007,7 @@
 0faiz-basvurular.com
 0faiz-basvuruyap-akbank.github.io
 0faiz-direckt.site
+0faiz-garanti-kredin.replit.app
 0faiz-isbnssww.sbs
 0faiz-kredi.replit.app
 0faiz-kredii.hopto.org
@@ -21734,6 +21735,7 @@ a-101-online-sepetim.online
 a-101-onlineislem.net.tr
 a-101-onlineislemler.com.tr
 a-101-perakende.online
+a-101-san-al-mar-ket.sbs
 a-101-sanal.com.tr
 a-101-sanal.xyz
 a-101-sanial-markel.sbs
@@ -99996,5 +99998,3 @@ com-tr-indirimler.online
 com-tr-indirimm.online
 com-tr-kampanya.online
 com-tr-kampanya.xyz
-com-tr-kampanyalar.info
-com-tr-kapida.com
