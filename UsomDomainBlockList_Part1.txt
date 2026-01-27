@@ -59563,6 +59563,7 @@ basvuruformu-denizkampanya.com
 basvuruformu-ebatabletdestek.com
 basvuruformu-tk.online
 basvuruformu.shop
+basvuruformu.webredirect.org
 basvuruformubnca.com
 basvuruformudenizarap.com
 basvuruformudoldur.com
@@ -99997,4 +99998,3 @@ com-tr-market.online
 com-tr-online.xyz
 com-tr-onlne-aspx.com.tr
 com-tr-sanasayfa.com
-com-tr.mobi
