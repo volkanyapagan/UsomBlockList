@@ -1942,6 +1942,7 @@
 101-de-haftalar-indirimler-burada.com
 101-de-hemen.com
 101-de-indirim-firsatlari-bugune-ozel-alisveris-tr.com
+101-de-indirim-online-bugune-ozel-alisveris-tr.com
 101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
 101-de-indirimli-firsat-urunler.mooo.com
 101-de-indirimli-firsatlar-online-ozel-tr.mooo.com
@@ -83885,6 +83886,7 @@ bsvrrrkmpnyaaaqnbb.click
 bsvrrrkmpnyaaprmsynn.click
 bsvrrrkmpnyaaprmsynnn.art
 bsvrrrkmpnyaaprmsynnn.info
+bsvrrrkmpnyaaprmsynnn.pro
 bsvrrrkmpnyaaqnb.click
 bsvrrrkmpnyyaaprmsyonnn.click
 bsvrrrkmponyaaprmsyn.click
@@ -83894,6 +83896,8 @@ bsvrrrprmsynnnqnbbb.click
 bsvrrrpromooogrnnn.click
 bsvrrrprsmsnynn.pro
 bsvrrrprsmynnnkmpnyaaaa.art
+bsvrrrprsmynnnkmpnyaaaa.info
+bsvrrrprsmynnnkmpnyaaaa.pro
 bsvrrrqnbbprmsyn.click
 bsvrrrrkmpmnyaaaqnb.click
 bsvrrrrkmpnyaaprmsynnn.info
@@ -85033,6 +85037,7 @@ bufirsatlariseviyorum.com.tr
 bufirsatlariseviyorum.online
 bufirsatlarkacilirmazaldinaldin.com
 bufirsatlarkacmaz.shop
+bufirsatlarkacmaz.site
 bufirsatlarkacmaz20ocak.shop
 bufirsatlarkacmazeylul.com
 bufirsatlarkacmazhaziranozel.com.tr
@@ -99993,8 +99998,3 @@ com-tr-com.net
 com-tr-firsat.online
 com-tr-i-index.site
 com-tr-ilan-detay.com.tr
-com-tr-index-aspx.click
-com-tr-index-aspx.fun
-com-tr-index-i-php.site
-com-tr-index-main-aspx.click
-com-tr-index-php.fun
