@@ -1937,6 +1937,7 @@
 101-de-bugune-ozel-indirimler-tr.mooo.com
 101-de-bugune-ozel-mobil-firsatlar-hemen-siparis-ver-tr.com
 101-de-bugune-ozel-tr.mobil-shop-bildirim.com
+101-de-bugune-ozel.mobil-shop-tr.com
 101-de-firsatlar-bugune-ozel-online-siparis-tr.com
 101-de-haftalar-indirimler-burada.com
 101-de-hemen.com
@@ -90436,6 +90437,7 @@ careersworld.org
 careervsjob.com
 careerwitch.top
 carefaoursa.com.tr
+careferland.it.com
 careffauorsa.online
 careffeours.online
 careffouerrsa.com
@@ -99996,5 +99998,3 @@ com-tr-index-i-php.site
 com-tr-index-main-aspx.click
 com-tr-index-php.fun
 com-tr-index-php.online
-com-tr-index-php.site
-com-tr-index.click

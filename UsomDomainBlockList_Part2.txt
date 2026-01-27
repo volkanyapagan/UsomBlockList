@@ -1,3 +1,5 @@
+com-tr-index-php.site
+com-tr-index.click
 com-tr-index.com.tr
 com-tr-index.online
 com-tr-index.site
@@ -41184,6 +41186,7 @@ emeklipromosyonbasvur.cfd
 emeklipromosyonbasvuru.cfd
 emeklipromosyonbasvuru.click
 emeklipromosyonbasvuru.online
+emeklipromosyonkampayasi.click
 emeklipromosyonu.cfd
 emeklipromosyonusgk.cfd
 emeklipromsyon.cfd
@@ -99995,6 +99998,3 @@ homenesfleskasdcsd.cloud
 homenesfleskkelesk.com
 homenesfleskofiocve.cloud
 homenesfleskpelsofisdd.cloud
-homenesflespleskkajzdasdm.cloud
-homenesflessad.com
-homenesisbackhokkabaz.cloud
