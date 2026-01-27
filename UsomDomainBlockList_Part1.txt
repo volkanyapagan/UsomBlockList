@@ -1982,6 +1982,7 @@
 101-kacmaz3.art
 101-kacmazfirsatlaroglen.com
 101-kacmazfirsatsabah.com
+101-kampanya-firsat.ddns-ip.net
 101-kampanya-zamani.com.tr
 101-kampanya.online-internet-alisverisi.com.tr
 101-kampanyalar-online.duckdns.org
@@ -60594,6 +60595,7 @@ basvurutescil.xyz
 basvuruteyitet.com
 basvurutoki.com
 basvurutoki.digital
+basvurutoki.info
 basvurutoki.pro
 basvurutoki.site
 basvurutokievim.com
@@ -73343,6 +73345,7 @@ bireyselonlinekampanya-basvurm-com.ml
 bireyselonlinekampanya-basvurm-com.tk
 bireyselonlinekredivakif.xyz
 bireyselonlinemobilozel.tk
+bireyselonlineplatform.com.tr
 bireyselonlineplatformdeniz-com.cf
 bireyselonlineplatformdeniz-com.gq
 bireyselonlineplatformdeniz-com.ml
@@ -99995,6 +99998,3 @@ com-tr-kampanya.xyz
 com-tr-kampanyalar.info
 com-tr-kapida.com
 com-tr-market.online
-com-tr-online.xyz
-com-tr-onlne-aspx.com.tr
-com-tr-sanasayfa.com
