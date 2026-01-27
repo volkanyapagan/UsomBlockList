@@ -32917,6 +32917,7 @@ kapida-aktuel.name.tr
 kapida-aldin.com.tr
 kapida-byrm-eksstraa.com
 kapida-ca3bn4-inds3ml4r.cfd
+kapida-connecta.cyou
 kapida-eniyiixndrmlrmbunlarbnm.click
 kapida-firsat-urun.com.tr
 kapida-firsat.com.tr
@@ -82203,6 +82204,7 @@ ocakilk-haftafirsatlari.shop
 ocakin-bitisindeyizz.shop
 ocakindirimi.cfd
 ocakindirimifirsat.net
+ocakindirimlerisokmarket.cfd
 ocakindirims.com
 ocakindirims.xyz
 ocakkacirma8.online
@@ -99996,5 +99998,3 @@ paypal-access.zapto.org
 paypal-alert.ddns.net
 paypal-assist.com
 paypal-assistance.hopto.org
-paypal-authent.ddns.net
-paypal-caseid194.com
