@@ -1922,6 +1922,7 @@
 101-bayramozel.com.tr
 101-biryag.shop
 101-bugun-firsatkapinda.com
+101-bugun.shop-mobil-tr.com
 101-cadir26temmuz.com
 101-cepte.com.tr
 101-cesmesubemiz.com
@@ -96119,6 +96120,7 @@ cifcimedestem.duckdns.org
 cifcimizbura.duckdns.org
 cifelausrucvjrhjq.net
 cifsigorta.net
+cift-mrtgagn-t.my-homeip.net
 ciftbolmedemon.click
 ciftci-destekli.pii.at
 ciftci-supriz.online
@@ -99996,5 +99998,3 @@ com-subat-firsatlari.info
 com-summary-account-login.com
 com-support-account-verify.com
 com-supportaccountresolutioncenter.info
-com-sutay.top
-com-suten.top
