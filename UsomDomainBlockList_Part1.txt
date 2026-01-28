@@ -98601,6 +98601,7 @@ cnn-turk-iadenizi-alin.org
 cnn-turk-web-aidate-basvur.app
 cnn-turk-web-aidate-basvur.net
 cnn-turk-web-giris.net
+cnn-turk.my-homeip.net
 cnn.gr.com
 cnn24-7.online
 cnncell.com
@@ -99997,4 +99998,3 @@ com-supportaccountresolutioncenter.info
 com-sutay.top
 com-suten.top
 com-sutes.top
-com-sutey.top
