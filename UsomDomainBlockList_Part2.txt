@@ -1,3 +1,5 @@
+com-tr-cep.online
+com-tr-com.net
 com-tr-firsat.online
 com-tr-i-index.site
 com-tr-ilan-detay.com.tr
@@ -99996,5 +99998,3 @@ homeneld.com
 homenenseltere.com
 homenensentel1.com
 homenensentel2.com
-homenesadehokisflesk.cloud
-homenescbbarflesksi.cloud
