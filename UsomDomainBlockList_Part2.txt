@@ -68853,6 +68853,7 @@ geranti.my-homeip.com
 geranticep.online
 geranticep.shop
 geranticepden.shop
+gerantide-merkez.my-homeip.net
 gerantidenislemler.shop
 gerantim-suben.shop
 gerantimobilden.shop
@@ -99997,4 +99998,3 @@ homebutik.online
 homecalloficecenter.com
 homecameras1.zapto.org
 homecancelers.com
-homecarpetshopping.com
