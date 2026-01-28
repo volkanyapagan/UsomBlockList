@@ -1,3 +1,7 @@
+com-subat-firsatlari.info
+com-summary-account-login.com
+com-support-account-verify.com
+com-supportaccountresolutioncenter.info
 com-sutay.top
 com-suten.top
 com-sutes.top
@@ -8314,6 +8318,7 @@ dailyemploy.com
 dailyhouse-bpn.com
 dailylifelives.com
 dailyqadamat.com
+dailyrasoi.com.tr
 dailysportsgossips.com
 dailystepstowardsuccess.com
 dailystudy.org
@@ -99993,8 +99998,3 @@ homebasvurusayfasi.com
 homebeastpromotion.xyz
 homebet.totalh.net
 homebone.top
-homebrewclubs.org
-homebrewfaq.org
-homebrewfaq.us
-homebrewlub.us
-homebrewonline.org
