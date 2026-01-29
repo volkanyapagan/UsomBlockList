@@ -1,3 +1,6 @@
+com-safe.support
+com-saheo.top
+com-salisveris.com
 com-saten.top
 com-satin-al.com.tr
 com-satin-all.com.tr
@@ -80864,6 +80867,7 @@ haber-home.site
 haber-kapital.life
 haber-kartinizinislemlerigovtr.org
 haber-konut-basvuru.com
+haber-krizi.cfd
 haber-kusu.com
 haber-leer.site
 haber-man.club
@@ -99994,7 +99998,3 @@ homagalicia29.ddns.net
 homakjzzz.com
 homakkrdifaizsiz.com
 homanew.fun
-homanew.store
-homasertesmels.com
-homastres.top
-homastrout.top
