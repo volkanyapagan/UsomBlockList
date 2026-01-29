@@ -1,3 +1,4 @@
+com-shdg.top
 com-signin-recovery-account.info
 com-signin-v2.email
 com-signin-your-account.com
@@ -20968,6 +20969,7 @@ diplicano.ru
 diplom-attestat.net
 diploma-hizmeti.com
 diploma-sorgulama.com
+diploma.legal
 diploma360.live
 diplomaal.com
 diplomabasvuru.com
@@ -41114,6 +41116,7 @@ emakverg.blogspot.com
 emaleblunder.top
 emaliye-aidat.ml
 emaliye.com
+emaliye.net
 emaliyecezalar.org
 emaliyecezasorgulama.org
 emaliyegovtr206.com
@@ -42002,6 +42005,7 @@ emobildestek-kredikartlarihizmetlerimgovtr.com
 emobildestekfinanslogin.ml
 emobildestekhizmetlerimgovtr.com
 emobileservices.club
+emobileservislerim.com
 emobilfastacikdenizv2denizbank.co.vu
 emobilfirsatiaadebasvuru.net
 emobilformdoldurunuzvakif.xyz
@@ -99994,7 +99998,3 @@ home-treozr---wallet.webflow.io
 home-zxc.ddns.net
 home.boopainc.com
 home.googlemobilecenter.info
-home.ktxhome.com
-home.manahegazeda.org
-home.microsoft-ns1.com
-home.sappointedmanah.org

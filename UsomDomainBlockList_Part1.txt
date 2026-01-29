@@ -9966,6 +9966,7 @@
 29nd93ni.duckdns.org
 29oa.us
 29ocak101.org
+29ocakfirsatlari.cfd
 29rpfyty4.duckdns.org
 29subatfirsatdeniz.online
 29ufttb.duckdns.org
@@ -99997,4 +99998,3 @@ com-service-i.cloud
 com-service-webapp-secure.rocks
 com-service-webapp-secure.world
 com-session.site
-com-shdg.top
