@@ -1,3 +1,5 @@
+com-saten.top
+com-satin-al.com.tr
 com-satin-all.com.tr
 com-satinal-uru.com.tr
 com-satinaldik.com.tr
@@ -20229,6 +20231,7 @@ dijitalislembasvurularim.click
 dijitalislemgiris-denizacik.com
 dijitalislemgirisiniz-denizacik.com
 dijitalislemim.com
+dijitalislemler-bireyselziraatweb.com
 dijitalislemler-denizacik.com
 dijitalislemler-ziraatbireysel.com
 dijitalislemler-ziraatbireyselgiris.com
@@ -55262,6 +55265,7 @@ finans-destek.com
 finans-doktrin.online
 finans-enpara.com
 finans-firsat-kampanyalari.com
+finans-gundem.pro
 finans-gundemi.net
 finans-gundemi.pro
 finans-gunlerim-cepte.com
@@ -55297,6 +55301,7 @@ finans-parapuangiris.com
 finans-qnbesube.com
 finans-qnbtrsubesi.com
 finans-rotasi.pro
+finans-strateji.pro
 finans-sube.com
 finans-sube.online
 finans-subesionline.com
@@ -81788,6 +81793,7 @@ haftanin-firsatlari-sahane-urunler.xyz
 haftanin-firsatlari.com
 haftanin-firsatlari.com.tr
 haftanin-firsatlari.net.tr
+haftanin-firsatlarii-com.site
 haftanin-gunleri.com.tr
 haftanin-indirimleri-tr.online
 haftanin-indirimleri.com.tr
@@ -99992,9 +99998,3 @@ homanew.store
 homasertesmels.com
 homastres.top
 homastrout.top
-homdencansoy.com
-homdenmecan.com
-homderascan.com
-homderslesmes.com
-homderster.com.tr
-homdersters.com.tr
