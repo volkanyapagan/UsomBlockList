@@ -1,3 +1,4 @@
+pavorinel.com
 pavpaladmin9917.ddns.net
 pavsdwesd.co
 pavyon.duckdns.org
@@ -72731,6 +72732,7 @@ tr-get-ilanlarim.com
 tr-get-islem.online
 tr-get-islemler.online
 tr-get-odeme-bilgi.online
+tr-get-odeme.com
 tr-get-secure.online
 tr-get-servislerim.com
 tr-get-siparis-secure.online
@@ -99996,5 +99998,3 @@ warnor.world
 warntterliminasiukamzon.duckdns.org
 warplogic.pro
 warprime.duckdns.org
-warpsector.space
-warrantaudit.top
