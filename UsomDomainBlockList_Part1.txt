@@ -9967,6 +9967,7 @@
 29oa.us
 29ocak101.org
 29ocakfirsatlari.cfd
+29ocaksokfirsatlar.cfd
 29rpfyty4.duckdns.org
 29subatfirsatdeniz.online
 29ufttb.duckdns.org
@@ -12872,6 +12873,8 @@
 404.300bt.com
 404.hao563.com
 404.hzyzn.com
+404.imxzq.com
+404.jmfwy.com
 404.pyhycy.com
 404.yyphw.com
 40400400001.cloud
@@ -17328,6 +17331,7 @@
 7051.gsm.360safe.company
 706526125.dfgqdsd.ru
 706aim5p.duckdns.org
+7070-ppxcx-a1-3gg5ufwp666ee644-1300076834.tcb.qcloud.la
 70708723422833.duckdns.org
 70795143.dfgqdsd.ru
 7079792.dfgqdsd.ru
@@ -18097,6 +18101,7 @@
 79867547654.cloud
 7987567563453.cloud
 798work.com
+799.cors5.vip
 79d339b8ec11h.net
 79deploy.consentesto.ru
 79fedd66c1fd.ngrok.io
@@ -36962,6 +36967,7 @@ akbnk-internetsubedekredim.com
 akbnk-neo-axess.com
 akbnk-tr.com
 akbnk.akdirekt.gb.net
+akbnk.cfd
 akbnk.digitalsayfa-basvuru.com
 akbnk.hemenbasvurum.com
 akbnk.online
@@ -88125,6 +88131,7 @@ bxokieaxti.duckdns.org
 bxoqdvxei.duckdns.org
 bxosdo.gufekpode1.website
 bxoynnagaxllava.click
+bxphp.westooo.com
 bxr43c27ll.net
 bxr4fyfvv.duckdns.org
 bxrch.com
@@ -99991,10 +99998,3 @@ com-secure.com.tr
 com-secureactionaccountinutescancellogin.com
 com-securealisveris.com.tr
 com-secureconnectcancellogin.com
-com-secureconnectinfologin.com
-com-securelogin.net
-com-securitycancelitunespaymentlogin.com
-com-service-i.cloud
-com-service-webapp-secure.rocks
-com-service-webapp-secure.world
-com-session.site
