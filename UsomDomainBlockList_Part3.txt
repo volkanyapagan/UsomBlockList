@@ -1,3 +1,5 @@
+home-ingservice.icu
+home-logintr-girwebplatform.com
 home-okooo.com
 home-page--qoinbase.webflow.io
 home-qkucoins.webflow.io
@@ -44926,6 +44928,7 @@ kullanicimerkezim.net
 kullanicisitesi.com
 kullanimsozunuzeozel.com.tr
 kullanimsozunuzeozel.xyz
+kullanpromosyonceplekuveyt.life
 kulsaf2asde.com
 kulsams.com
 kult.mydiscussion.net
@@ -64228,6 +64231,7 @@ mobil-aidatlar-girisedevlet.com
 mobil-aidatlar-onlinebilgilerimgovtr.com
 mobil-aidatsistemi-bankalargovtr.com
 mobil-ak-eylulfirsati.click
+mobil-ak.sbs
 mobil-akbank-basvuruyap.github.io
 mobil-akbank.duckdns.org
 mobil-akbank.lat
@@ -64832,6 +64836,7 @@ mobilak.com.tr
 mobilakbank.com
 mobilakbankgiris.ml
 mobilakbanksube.com
+mobilakbnk.cfd
 mobilakfaizsiz.com
 mobilakgarantiniziz-resmi.shop
 mobilakhizli.com
@@ -82507,6 +82512,7 @@ ocaklndirimleri.com
 ocaklndirimlerikacmaz.me
 ocaklndirimlerikacmaz.sbs
 ocaklndirimlerikacmiiyor.sbs
+ocaklndirimlerikacmiiyorr.biz
 ocaklndirimlerikacmiiyorr.info
 ocaklndirimlerikacmiiyorr.online
 ocaklndirimlerikacmiyor.sbs
@@ -99788,6 +99794,7 @@ password-esential.buzz
 password-esential.click
 password-esential.mom
 password-esential.store
+password-i-sube.my-homeip.net
 password-isube-login.my-homeip.net
 password-jsube.my-homeip.com
 password-proxy-redirect.com
@@ -99991,10 +99998,3 @@ paveldurov.sbs
 pavellox.hopto.org
 paveltumapoi.xyz
 pavementsalon.top
-pavetinet.store
-pavibu.com
-pavicomsa.com
-pavicontech.com
-pavilion.futbol
-pavlatos-studios.gr
-pavnnfcqhs.zapto.org
