@@ -14512,6 +14512,7 @@
 50356hb.duckdns.org
 503f9d44.hwqwwrh.com.cn
 504a18da.hwqwwrh.com.cn
+504e1a42.host.njalla.net
 504e1c95.host.njalla.net
 5050505050.duckdns.org
 50519259123.online
@@ -30215,6 +30216,7 @@ activation-turkiyegovtr.com
 activationecuripass.ddns.net
 activationsecure.ddns.net
 active-mailgun.com
+active-microsoft.com
 active-mtbsecure.ddns.net
 active-ppl.duckdns.org
 active-turkiyegovtre.com
@@ -45606,6 +45608,7 @@ ap-pttgov.top
 ap-transz.hu
 ap0jolaai-account-angk4l33raa.hasmaksmkamsa.com
 ap1-acl.net
+ap123.fbi.cab
 ap27ha65.duckdns.org
 ap46767987887698.ddns.net
 ap7e0mtj.duckdns.org
@@ -45819,6 +45822,8 @@ api.sowixvip.xyz
 api.soykun.icu
 api.stalche.xyz
 api.startservicefounds.com
+api.stream-amazon.com
+api.stream-google.com
 api.suibianmaimaicom.com
 api.sxrgu.xyz
 api.terdpo.com
@@ -53405,6 +53410,7 @@ avzemgras.com
 aw-pttgov.top
 aw-test.com
 aw.mabpex.shop
+aw.ofo.ac
 aw05nz.duckdns.org
 aw0curgluw.com
 aw11e2.ddns.net
@@ -76403,6 +76409,7 @@ blackhill.pp.ua
 blackhills.ddns.net
 blackhumanitarian.top
 blackhunters231231.top
+blackice.sol-domain.org
 blackid-48411.portmap.io
 blackievirus.com
 blackinfect.ddns.net
@@ -85544,6 +85551,7 @@ buildingstrong.net
 buildneeds.net
 buildoc.co.jp
 buildstorepro.com
+buildthenations.info
 buildviet.info
 buildvogue.top
 buildwellpak.com
@@ -91770,6 +91778,7 @@ cckboodssock.org
 ccklcskcsklcscx.net
 ccl2211.duckdns.org
 ccl2222.duckdns.org
+cclawdbot.getintwopc.site
 cclawsuit.com
 ccleaner-2.ddns.net
 ccleaner.hopto.org
@@ -91948,6 +91957,7 @@ cdn-staging.livechat-files.com
 cdn-tynt.com
 cdn-webstats.com
 cdn-xhr.com
+cdn.active-microsoft.com
 cdn.adsfly.co
 cdn.arhive.online
 cdn.cloudfiare.workers.dev
@@ -92825,6 +92835,7 @@ center-postdeuthse.hopto.org
 center-upgrade-wait-load-your-account.com
 center.active-page-policy.cfd
 center.asmlbigip.com
+center.myrnicrosoft.com
 center10saat.3d.tc
 center3roma.com
 centerbotasolution.click
@@ -95836,6 +95847,7 @@ chtoto.ddns.net
 chtozaprikol.ddns.net
 chtsn.ddns.net
 chuangshijia.com.cn
+chuanqiliebiao-1314.oss-cn-shanghai.aliyuncs.com
 chubcharm.com
 chuckiekesterlerkes.com
 chuckiekestes.duckdns.org
@@ -97527,6 +97539,7 @@ clausealmighty.top
 clavedinamica.duckdns.org
 clavosolutions.com
 claw0x3.ddns.net
+clawdbot.getintwopc.site
 clawmr.top
 clawsindia.com
 clawsrisingclimb.pics
@@ -98085,6 +98098,7 @@ cloud.globiscapital.co
 cloud.googlemyanmarnews.com
 cloud.microsoft-ns1.com
 cloud.msapp.workers.dev
+cloud.myrnicrosoft.com
 cloud.nathompsstra.com
 cloud.newsofnp.com
 cloud.qunetcentre.org
@@ -98218,6 +98232,7 @@ cloudwebfile.com
 cloudwebstart.net
 cloudwebstorage.com
 cloudworldst.net
+cloudwps.cn
 cloudyplausible.top
 cloudysky24.top
 cloufdtf.com
@@ -99983,18 +99998,3 @@ com-service-webapp-secure.rocks
 com-service-webapp-secure.world
 com-session.site
 com-shdg.top
-com-signin-recovery-account.info
-com-signin-v2.email
-com-signin-your-account.com
-com-siken.top
-com-sikey.top
-com-sikly.top
-com-simple-reserve.my
-com-siparis.com
-com-sipariss.com
-com-sitai.top
-com-sitan.top
-com-sntag.top
-com-sntei.top
-com-sntep.top
-com-sptm.com.tr
