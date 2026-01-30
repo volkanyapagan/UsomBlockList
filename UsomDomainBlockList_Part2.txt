@@ -1,3 +1,5 @@
+com-paymentc-update.icu
+com-paymentcc-update-account.sbs
 com-paymentcc-update-idres.help
 com-paymentcc-update-idreser.icu
 com-paymentcc-update-idreser.sbs
@@ -99996,5 +99998,3 @@ hokkabazjustmoney666.duckdns.org
 hokkakbryselfnansbsvuru.store
 hokkakbryselfnansbsvuru.xyz
 hokkicanshade.duckdns.org
-hokkicanshade4.duckdns.org
-hokkicanshade6.duckdns.org
