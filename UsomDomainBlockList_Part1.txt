@@ -1951,6 +1951,7 @@
 101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
 101-de-indirimli-firsat-urunler.mooo.com
 101-de-indirimli-firsatlar-online-ozel-tr.mooo.com
+101-de-mobil-bugune-ozel-cep.mobil-shop-sponsor.com
 101-de-mobil-bugune-ozel-online-firsatlar-siparis-tr.com
 101-de-online-ozel-indirimler-tr.mooo.com
 101-de-ozel-firsatlar-bugune-ozel-alisveris-tr.com
@@ -35625,6 +35626,7 @@ ais-aidat-iade-sistemi-onlinegov23tr.tk
 ais-aidat-iade-sistemi-onlinegov2tr.ml
 ais-aidat-iade-sistemi-onlinegovtr.ml
 ais-iadeportalim.ml
+ais-islemleri.ink
 ais-odemeler-basvuru.org
 ais-odemeler.org
 ais-sistemedevletcomtr.ml
@@ -99996,5 +99998,3 @@ com-nital.top
 com-nitay.top
 com-niter.top
 com-ocak-firsatlari-basladi.com
-com-odemeget.com.tr
-com-onlne-aspx.com.tr
