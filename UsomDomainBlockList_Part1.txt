@@ -59385,6 +59385,7 @@ basvuru.toplu-konut500.xyz
 basvuru.ucuzevinterneti.com
 basvuru.vkf-bnk.net.tr
 basvuru.vkfmobil2025.net.tr
+basvuru.vkftrkye26.art
 basvuru.yapi-kredi.tr
 basvuru.yardiminizicingeldikk.org
 basvuru.ypk-22.click
@@ -64705,6 +64706,7 @@ betparibu472.com
 betparibu473.com
 betparibu475.com
 betparibu476.com
+betparibu477.com
 betparibu478.com
 betparibu480.com
 betparibu481.com
@@ -99996,5 +99998,3 @@ com-metly.top
 com-metry.top
 com-mobalol.info
 com-moblbsvrumrkeziony.com.tr
-com-mouti.top
-com-msrt.top
