@@ -1,3 +1,10 @@
+password-i-sube.my-homeip.net
+password-isube-login.my-homeip.net
+password-jsube.my-homeip.com
+password-proxy-redirect.com
+password-site.click
+password-sube.website
+password.livelynotelively.com
 password4325.xyz
 passwordkernel.online
 passwordmurmur.top
@@ -10460,6 +10467,7 @@ pttavm.onlinefirsatlar.com.tr
 pttavm.onlineguvence.com.tr
 pttavm.onlineguvence.xyz
 pttavm.onlineguvencesi.com.tr
+pttavm.onlinehizmet.com.tr
 pttavm.onlinehizmetim.com.tr
 pttavm.onlinekapinda.com.tr
 pttavm.onlineodemekasa.com.tr
@@ -48451,6 +48459,7 @@ sokmarket.com-e-eurun.com.tr
 sokmarket.duckdns.org
 sokmarket.firsatgunleri.net
 sokmarket.gunceladres.cfd
+sokmarket.indirimliurun.cfd
 sokmarket.magazacep.cfd
 sokmarket.mobilcep.cfd
 sokmarket.mywire.org
@@ -49457,6 +49466,7 @@ sonfirsatlarinikacirmadansatinalmalisinhizlica.com.tr
 sonfirsatlarinikacirmadansatinalmalisinhizlica.online
 sonfirsatlarinikacirmadansatinalmalisinhizlica.xyz
 sonfirsatlarkacmaz.com.tr
+sonfirsatlarkacmaz.info
 sonfirsatlarkacmaz.online
 sonfirsatlarkacmaz.sbs
 sonfirsatlarkcmazindirimlerle.com
@@ -83041,6 +83051,7 @@ tuvktueksxaracmuyabe.net
 tuvkurt-tr.net
 tuvkurt.net
 tuvkurt.org
+tuvl-turk.digital
 tuvmuayenearacrandevu.com
 tuvmuayenerandevu.com
 tuvmuayenerandevusu.com
@@ -99987,14 +99998,3 @@ waitressbenevolence.top
 waitressdespatch.top
 waitsome.net
 waitspectator.top
-waivecosy.top
-waiveroxide.top
-waixtest1337.ddns.net
-wak.rocks
-wakarna.com.tr
-wakelet.ink
-wakenrot.top
-wakepolytechnic.top
-wakesua.info
-wakeupthereality.xyz
-wakeuthjtu.duckdns.org

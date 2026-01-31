@@ -1,3 +1,6 @@
+com-paramguvende-odeme.com.tr
+com-paramguvende.com.tr
+com-paymentc-update.cfd
 com-paymentc-update.icu
 com-paymentcc-update-account.sbs
 com-paymentcc-update-idres.help
@@ -56001,6 +56004,7 @@ finoodemem.net
 finoraxel.com
 finorbitz.com
 finottorubatta.xyz
+finpartner.world
 finpeak.online
 finpeaks.online
 finra-online.com
@@ -99994,7 +99998,3 @@ hokkabazakjzdanisflesk.cloud
 hokkabazflexqnb222.duckdns.org
 hokkabazflexqnb666.duckdns.org
 hokkabazflexteb666.duckdns.org
-hokkabazflexyapi444.duckdns.org
-hokkabazjusmoney777.duckdns.org
-hokkabazjustmoney666.duckdns.org
-hokkakbryselfnansbsvuru.store
