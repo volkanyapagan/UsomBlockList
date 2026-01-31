@@ -1,3 +1,4 @@
+com-package.tech
 com-paramguvende-odeme.com.tr
 com-paramguvende.com.tr
 com-paymentc-update.cfd
@@ -67114,6 +67115,7 @@ gastropiq.com
 gaswanted.top
 gaswingassistance.com
 gaswisdom.top
+gasyield.com
 gatabrislemsgaranti.duckdns.org
 gatademais.ddns.net
 gatantonl.xyz
@@ -67179,6 +67181,7 @@ gattersl2.duckdns.org
 gattri1.com
 gatuvesisak.eu
 gatypub.com
+gauchostyle.com
 gauesterregchikin.com
 gaug21ekeen.top
 gaugeobscurity.top
@@ -99995,6 +99998,3 @@ hokishadelerrfleks.cloud
 hokitebflex2.duckdns.org
 hokitebflex3.duckdns.org
 hokkabazakjzdanisflesk.cloud
-hokkabazflexqnb222.duckdns.org
-hokkabazflexqnb666.duckdns.org
-hokkabazflexteb666.duckdns.org
