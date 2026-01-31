@@ -1,3 +1,6 @@
+passtr.click
+passwback.click
+passwodbroked.life
 password-app.pro
 password-digital.website
 password-entrypersonal.website
@@ -76501,6 +76504,7 @@ trendyoladresiguncel.com
 trendyoladresim.com
 trendyoladresim.net
 trendyoladresim.org
+trendyoladresimguncel.net
 trendyoladresimiyenile.com
 trendyoladresimyeni.net
 trendyoladresyenile.com
@@ -99994,7 +99998,3 @@ wailgiri.pw
 waingrerquiite.top
 waiouseect.xyz
 waiov1rz.duckdns.org
-waist578.xyz
-wait-reserve.com
-wait21flat.top
-wait2r3.xyz
