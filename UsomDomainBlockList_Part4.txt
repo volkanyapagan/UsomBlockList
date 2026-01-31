@@ -1,3 +1,5 @@
+password-app.pro
+password-digital.website
 password-entrypersonal.website
 password-esential.buzz
 password-esential.click
@@ -25751,6 +25753,7 @@ s-guvenliodemem.com
 s-guvenliodemenoktasi.com
 s-guvenliodemeyap.com
 s-guvenlionlineislemler.tk
+s-guvenliparaislem.com
 s-guvenlisatis.xyz
 s-guvenlisatisi.com
 s-guvenliticaretilani.com
@@ -99995,6 +99998,3 @@ waist578.xyz
 wait-reserve.com
 wait21flat.top
 wait2r3.xyz
-waitblackmail.top
-waiterhub.top
-waiterstrait.top
