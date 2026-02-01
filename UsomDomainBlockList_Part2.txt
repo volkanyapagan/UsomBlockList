@@ -1,3 +1,6 @@
+com-mbduhg.top
+com-messengercenters.name
+com-messengersaccount.name
 com-metai.top
 com-metal.top
 com-metan.top
@@ -19329,6 +19332,7 @@ digital-girisim.site
 digital-girisim.website
 digital-hizlikrdiakbankhemen.com
 digital-hizmet.net
+digital-internet.my-homeip.de
 digital-internet.my-homeip.net
 digital-isube.site
 digital-kampanyalar.website
@@ -77370,6 +77374,7 @@ guncel-nisanfirsat.info.tr
 guncel-nisanfirsat.org.tr
 guncel-odemeler.com
 guncel-satin-alim.online
+guncel-sepetler.name.tr
 guncel-sepetler.web.tr
 guncel-sikayet-burda.ml
 guncel-sikayet-var.com
@@ -78101,6 +78106,7 @@ gunisigivakfi.com
 gunivory.top
 gunkampanyasi.net
 gunlerden-kampanya.shop
+gunlerden1701.sbs
 gunlerdenbirguldolanadolana.cfd
 gunlerdenbugun-a101.cloud
 gunlerdenidnirim.com.tr
@@ -99992,9 +99998,3 @@ hog98.zapto.org
 hogahxljk.xyz
 hogalora.com
 hogaslkhq.xyz
-hogcvawrsxkyle.net
-hogglsodeme.net
-hoghaskjx.xyz
-hoghsajl.xyz
-hogirmogir.com
-hogjahgs.org
