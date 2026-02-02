@@ -22471,6 +22471,7 @@ dnz.ddns.net
 dnz.kisalink.cc
 dnz.mefound.com
 dnz1080.ddns.net
+dnz1subatms.myftp.org
 dnz6pyh7.duckdns.org
 dnz80.ddns.net
 dnzacik.freewebhostmost.com
@@ -99997,4 +99998,3 @@ hofroyildozkari1211.xyz
 hog98.zapto.org
 hogahxljk.xyz
 hogalora.com
-hogaslkhq.xyz
