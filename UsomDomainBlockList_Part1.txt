@@ -8088,6 +8088,7 @@
 2026aldinaldinsepette.org
 2026basvurum.sbs
 2026bvsnrsmdikyt.sbs
+2026bzllefrsattlar.org
 2026evfirsati.sbs
 2026evim.sbs
 2026evimkayit.sbs
@@ -24378,6 +24379,7 @@ a101yilbasifirsati.com.tr
 a101yilbasifirsati.store
 a101yilbasifirsati.xyz
 a101yilbasiindirimleri.com
+a101yilbasiindirimleri.wuaze.com
 a101yilbasikampanyan.online
 a101yilbasinda.wuaze.com
 a101yilbasiozel.wuaze.com
@@ -48073,6 +48075,7 @@ aracrandevucum.com
 aracrandevucum.online
 aracrandevuhizmetleri.com
 aracrandevuhmztmermh.web.app
+aracrandevuhzmtciniz.web.app
 aracrandevuislemleri.com
 aracrandevuislemleri.xyz
 aracrandevulari.com
@@ -59294,6 +59297,7 @@ basvuru-sistemim-odeme.net
 basvuru-sistemim-odemen.net
 basvuru-sistemleri.site
 basvuru-sistemlerim.store
+basvuru-site-tr-cfd.cfd
 basvuru-skh-toki-gov-tr.tech
 basvuru-son.sissed.com
 basvuru-sorguiadeportali.com
@@ -99994,7 +99998,3 @@ com-knter.top
 com-kob.top
 com-kobiny.top
 com-kotag.top
-com-kotar.top
-com-kotel.top
-com-koter.top
-com-kotes.top
