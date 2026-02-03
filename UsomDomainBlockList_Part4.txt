@@ -1,3 +1,8 @@
+pasagesite.sbs
+pasailetapu.xyz
+pasaiotuzuncuyil.com
+pasaj-alisveris.com
+pasaj-alisverislerin.com
 pasaj-turkcell.com
 pasaj.aradigin-her-sey.com
 pasaj.kolayodeyin.com.tr
@@ -28500,6 +28505,7 @@ sahibinden-get.odeme-ilanlarim.sa.com
 sahibinden-get.online-odemeler.sa.com
 sahibinden-get.online-odemelerim.sa.com
 sahibinden-get.online-tr.sa.com
+sahibinden-get.r-onaylihizmetin.com
 sahibinden-get.r-onayliservisin.com
 sahibinden-get.ru.com
 sahibinden-get.satis-tr.online
@@ -29342,6 +29348,7 @@ sahibinden-paramguvende.gq
 sahibinden-paramguvende.guvenilirhizmetler.com.tr
 sahibinden-paramguvende.guvenli-alisverisin.com.tr
 sahibinden-paramguvende.guvenli-alisverisler.com.tr
+sahibinden-paramguvende.guvenli-alisverislerim.sa.com
 sahibinden-paramguvende.guvenli-cozumler.com.tr
 sahibinden-paramguvende.guvenli-getislem.com.tr
 sahibinden-paramguvende.guvenli-hizmetlerin.com.tr
@@ -48950,6 +48957,7 @@ sokmarketsongunfirsatlarri.cfd
 sokmarketsponsorlu.cfd
 sokmarketsubat.cfd
 sokmarketsubatfirsatlari.cfd
+sokmarketsubatsepetim.cfd
 sokmarkett.duckdns.org
 sokmarkettekitiklakapinda.cfd
 sokmarketten.online
@@ -99990,11 +99998,3 @@ w-132-ss-3-545-2.blogspot.com
 w-denizbank.com
 w-denizonline.ga
 w-denizonline.ml
-w-farg0s90valid.ddns.net
-w-fibaonline.ga
-w-kuveytturk.com
-w-merkezbankasi.com
-w-mynslemlrnztvk.net
-w-mynstvuk.net
-w-myslemnztvuk.net
-w-mysnlemntvuk.net
