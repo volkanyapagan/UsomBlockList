@@ -75870,6 +75870,7 @@ netkirlama.site
 netklop.life
 netkoruma-garanti.com
 netkoruma-garanti.lat
+netkoruma-garanti.sbs
 netkoruma.xyz
 netkorumam.site
 netkorumaveusom.mefound.com
@@ -99997,4 +99998,3 @@ pasajmagazam.com
 pasajmagazam.store
 pasajmagazasi.com
 pasajmagazatr.com
-pasajmagazm.store
