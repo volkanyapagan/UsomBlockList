@@ -66026,6 +66026,7 @@ bildirim-destek.cf
 bildirim-destek.ga
 bildirim-hasar-tram.net
 bildirim-hizmet-iedevlet.com
+bildirim-merkezi.cfd
 bildirim-onay.net
 bildirim-onaycep.xyz
 bildirim-tr.com
@@ -99997,4 +99998,3 @@ com-indirimci.com
 com-indirims.com
 com-info-lockeds-myaccount.com
 com-informations.site
-com-invoice.email
