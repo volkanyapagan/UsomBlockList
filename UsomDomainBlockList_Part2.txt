@@ -1,3 +1,5 @@
+com-kntan.top
+com-kntap.top
 com-kntar.top
 com-kntas.top
 com-knteb.top
@@ -81352,6 +81354,7 @@ haberler.bid
 haberler.dyndns.tv
 haberler.life
 haberler.my-homeip.com
+haberler.my-homeip.de
 haberler.today
 haberler.win
 haberler16.online
@@ -99995,6 +99998,3 @@ hnxhbn.top
 hnxjthi.duckdns.org
 hnxzdowjcf.duckdns.org
 hnyp1g05x.duckdns.org
-hnzdbg.com
-hnzuimx.org
-ho-mobile.online
