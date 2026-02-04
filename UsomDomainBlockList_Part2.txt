@@ -1,3 +1,5 @@
+com-kntar.top
+com-kntas.top
 com-knteb.top
 com-knteo.top
 com-knter.top
@@ -46550,6 +46552,7 @@ esnafytrmtdstek.cfd
 esnek-hesap.com
 esnek-limit.net
 esnemreprs.ws
+esnfdestek.cfd
 esnfytrmtdstek.cfd
 esnfytrmtdstk.cfd
 esnfytrmtfc1000.cfd
@@ -51472,6 +51475,7 @@ ezmt6x6.duckdns.org
 eznano.ddns.net
 eznetb.synology.me
 ezo9kh.duckdns.org
+ezoapikur.digital
 ezp-va.com
 ezpass.homes
 ezpass.life
@@ -99994,7 +99998,3 @@ hnyp1g05x.duckdns.org
 hnzdbg.com
 hnzuimx.org
 ho-mobile.online
-ho0y8mv3u.duckdns.org
-ho2d4gj.duckdns.org
-ho3.xyz
-ho6rq361.duckdns.org
