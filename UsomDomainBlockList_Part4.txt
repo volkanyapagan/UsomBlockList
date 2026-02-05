@@ -1,3 +1,5 @@
+parishgs.website
+parisiannova.com
 parisjetem.com
 parisnomic.com
 parisohediso1007.site
@@ -5838,6 +5840,7 @@ postahs.help
 postaisyerin.xyz
 postakargo.site
 postakazentes.net
+postal-form.on.shiper.app
 postal-mail.hopto.org
 postalecerticodep.hopto.org
 postalefr.ddns.net
@@ -35462,6 +35465,7 @@ sec-pttavm.com.tr
 sec-pttavm.info.tr
 sec-redirect.zapto.org
 sec-sahibinden.com.tr
+sec-t2.fainerkern.ru
 sec-tr.website
 sec-ure01verify.zapto.org
 sec-ure05al0g.hopto.org
@@ -59898,6 +59902,7 @@ svbseloxpzts.net
 svbseloxsali.club
 svbseloxsali.co
 svbseloxsali.com
+svc-int-api-identity-token-issuer-v2-mn.in.net
 svc.ponethus.com
 svcdgb3n1bi63pkrylq.ddns.net
 svch0st.zapto.org
@@ -69060,6 +69065,7 @@ tickets-ska.com
 tickets-spartak.com
 tickets-surganova.com
 tickets-zveri.com
+tickets.pfoten-prinz.de
 ticketscircus.spb.ru
 ticketscomedy.ru
 ticketsevent-uae.com
@@ -99992,9 +99998,3 @@ vvrcoder-48705.portmap.host
 vvrea.ddns.net
 vvrrdng-dresileriodm.net
 vvrrgssmodeme.net
-vvsdaddagiiyklemmee.com
-vvsddasdsyklmeenktasii.com
-vvsdrgiodemessi.com
-vvseergiiyyklemee.net
-vvseergiiyyklemees.com
-vvseraagiiykklemeeerii.net
