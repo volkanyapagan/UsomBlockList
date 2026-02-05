@@ -14516,6 +14516,7 @@
 500tlaidatiadesi.com
 500tlaidatiniz.com
 500tokibasvur.xyz
+500toktokteslimat.sbs
 500usddoge.com
 500usddogebasvur.com
 500usddogehediyeli.com
@@ -99997,4 +99998,3 @@ com-hotel-id90932.com
 com-hotel-id99281.com
 com-hotel.site
 com-hotik.top
-com-hotip.top
