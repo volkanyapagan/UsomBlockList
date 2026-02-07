@@ -30594,6 +30594,7 @@ aday-odeme-merkezi.org
 aday-odemeler.shop
 aday-sistemleri.org
 adayanismakadim.site
+adaybasvuru.adayislemleri.sbs
 adaybasvuru.net
 adaybasvuru.online
 adaybasvuru.org
@@ -99997,4 +99998,3 @@ com-gikya.top
 com-giris-net.com
 com-giris-yap.com.tr
 com-gitad.top
-com-gitai.top
