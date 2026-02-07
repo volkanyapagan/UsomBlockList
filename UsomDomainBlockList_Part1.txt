@@ -21632,6 +21632,7 @@ a--1-01den-kmpanyalar-aralik.cfd
 a--10-1den-aralk-flrsatlari.cfd
 a--10-1den-kmpyanlar.sbs
 a--10-1den-ynliyliaozei.sbs
+a--10-1snal-mrklet-com.sbs
 a--101-firsatlarri.online
 a--101.online
 a--haber-govtrr.org
@@ -82988,6 +82989,7 @@ brdiizmryklemrkzdlm.net
 brdizmryklemrkzdlm.net
 brdizmryklemrkzdlmmm.net
 brdle.duckdns.org
+brdn-yendn-al.com
 brdnalmssnbskytrdnak.ignorelist.com
 brdnalnbnceded.mooo.com
 brdnalnbzbrdnalyrz.com
@@ -99996,5 +99998,3 @@ com-gites.top
 com-gntei.top
 com-gnten.top
 com-goulc.top
-com-gt.info
-com-gudye.top
