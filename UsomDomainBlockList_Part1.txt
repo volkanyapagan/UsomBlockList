@@ -5081,6 +5081,7 @@
 16478202-coinbase.com
 164872942-coinbase.com
 1651561561651561.duckdns.org
+165161l11l125.duckdns.org
 16516516522.cloud
 16523326.site
 165384.cloud
@@ -56020,6 +56021,7 @@ babalmadina.com
 babalrsahadaqrw.net
 babam.store
 babamlandat.storage.googleapis.com
+babanizabiatedinnn-82d809f1ca0c.herokuapp.com
 babanizburda.sbs
 babanizgeldi.cfd
 babanizgeldiitler.sbs
@@ -99996,5 +99998,3 @@ com-gutes.top
 com-gutey.top
 com-guvendealisveris.com.tr
 com-guvendeweb.online
-com-guvenlialisveris.com.tr
-com-guvenliodeme.cfd
