@@ -1,3 +1,5 @@
+com-eurn.com.tr
+com-eurunu-al.com.tr
 com-evi.cyou
 com-fakel.top
 com-fakey.top
@@ -72251,6 +72253,7 @@ girisler-bn-kampanya.vercel.app
 girisler-guncel.com
 girisler-mobil-girisler-mobil-mobil-mobil-mobil.tk
 girisler-mobilde.cfd
+girisler-mobile-acik.cfd
 girisler-onlinrbnnrctr.com
 girisler-tr.com
 girisler-yapikredi.com
@@ -99995,6 +99998,3 @@ hmbrstkynd.xyz
 hmcgube9.duckdns.org
 hmcybx.com
 hmczblc.duckdns.org
-hmdegelalsipsinisimcbk0la.com
-hmdfgdlipm.duckdns.org
-hmdhmd.ddns.net

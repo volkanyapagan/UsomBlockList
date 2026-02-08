@@ -1953,6 +1953,7 @@
 101-de-indirimli-firsatlar-online-ozel-tr.mooo.com
 101-de-mobil-bugune-ozel-cep.mobil-shop-sponsor.com
 101-de-mobil-bugune-ozel-online-firsatlar-siparis-tr.com
+101-de-mobile-ozel.mobil-shop-sponsor.com
 101-de-online-ozel-indirimler-tr.mooo.com
 101-de-ozel-firsatlar-bugune-ozel-alisveris-tr.com
 101-den-firsatlariniz-kacmasin.sbs
@@ -86385,6 +86386,7 @@ buradanhemengiriyozbea.com
 buradanhepbirazbizden.com
 buradanhephizlialdiklariniz.com
 buradanhizlicabulsende.com
+buradanhizlicakazan.com
 buradanhizmet.app
 buradaniadenial.duckdns.org
 buradanistanbulluolun.com
@@ -99996,5 +99998,3 @@ com-eislem.com.tr
 com-emzwepr.xin
 com-etc-bbzj.vip
 com-etsy-verify.cfd
-com-eurn.com.tr
-com-eurunu-al.com.tr
