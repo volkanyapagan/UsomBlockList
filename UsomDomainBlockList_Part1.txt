@@ -1956,6 +1956,7 @@
 101-de-mobile-ozel.mobil-shop-sponsor.com
 101-de-online-ozel-indirimler-tr.mooo.com
 101-de-ozel-firsatlar-bugune-ozel-alisveris-tr.com
+101-de-ozel-mobil.cep-shop-sponsor.com
 101-de-tr-bugune-ozel.cep-shop-sponsor.com
 101-den-firsatlariniz-kacmasin.sbs
 101-efsane.shop
@@ -72886,6 +72887,7 @@ bireysel-tl-yuk-hizli-bim.com
 bireysel-tr-halkbanka.com
 bireysel-tr-yapi-kredi.com
 bireysel-tr-ziraatbanka.cf
+bireysel-trans.my-homeip.net
 bireysel-ucret-geri-iadesi-basvurularimiz.tk
 bireysel-ucret-geri-iadesine-basvurularimiz.tk
 bireysel-ucret-geri-iadesine-basvurumuz.tk
@@ -99996,5 +99998,3 @@ com-e-isleminiz.com.tr
 com-e-isleminiztr.com.tr
 com-e-islemler.com.tr
 com-eislem.com.tr
-com-emzwepr.xin
-com-etc-bbzj.vip
