@@ -1,3 +1,4 @@
+com-etsy-verify.cfd
 com-eurn.com.tr
 com-eurunu-al.com.tr
 com-evi.cyou
@@ -99997,4 +99998,3 @@ hmbre.com
 hmbrstkynd.xyz
 hmcgube9.duckdns.org
 hmcybx.com
-hmczblc.duckdns.org

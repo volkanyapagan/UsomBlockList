@@ -1956,6 +1956,7 @@
 101-de-mobile-ozel.mobil-shop-sponsor.com
 101-de-online-ozel-indirimler-tr.mooo.com
 101-de-ozel-firsatlar-bugune-ozel-alisveris-tr.com
+101-de-tr-bugune-ozel.cep-shop-sponsor.com
 101-den-firsatlariniz-kacmasin.sbs
 101-efsane.shop
 101-eozel.xyz
@@ -99997,4 +99998,3 @@ com-e-islemler.com.tr
 com-eislem.com.tr
 com-emzwepr.xin
 com-etc-bbzj.vip
-com-etsy-verify.cfd
