@@ -21630,6 +21630,7 @@ a--1--0-1bua-yfl-satlari.sbs
 a--1-0-1.cepte-tr.online
 a--1-0-1den-kpinda-aralk-flrsatlar.sbs
 a--1-01-san-la-mrket.sbs
+a--1-01comtr.sbs
 a--1-01den-flrsatlar.sbs
 a--1-01den-kmpanyalar-aralik.cfd
 a--10-1den-aralk-flrsatlari.cfd
@@ -39596,6 +39597,7 @@ aktulmarkeet.xyz
 aktulmarkt101t.online
 aktulmarti101.online
 aktulmayiskamp101.online
+aktulonepaz.com
 aktulsonkamp101.online
 aktuma.icu
 aktuma.online
@@ -41504,6 +41506,8 @@ alisveris-hizmeti.net
 alisveris-ilan-hizmet.com
 alisveris-ilan-pay.com
 alisveris-ilanal.com.tr
+alisveris-ilanim-671822.com
+alisveris-ilanim-671824.com
 alisveris-ilanim.com.tr
 alisveris-ilanlarim.com
 alisveris-ile.com
@@ -49751,6 +49755,7 @@ asaryapi.com.tr
 asasasbb.hopto.org
 asasasqwqq.xyz
 asasdcfweqvs.net
+asasdgwq.pk-night.xyz
 asasdq.hopto.org
 asasexstab.blasters.biz
 asasgasgwqg.com
@@ -79853,6 +79858,7 @@ bnlr-gzl-gnlrmz.shop
 bnlr-kcmmli-bnce.shop
 bnlr-onmli-sylr.shop
 bnlr-zmn.it.com
+bnlrdnyklmeypcnzki.mooo.com
 bnlrkaxpixmdxaxfxrstxlrm.click
 bnlrkaxpixmdxaxfxrstxlrm.sa.com
 bnlskdmnfsnezr.net
@@ -83011,6 +83017,7 @@ brdnalnbnceded.mooo.com
 brdnalnbzbrdnalyrz.com
 brdnbsfrynlandas.bond
 brdngdrsnorya.mooo.com
+brdnglsnyklnyrhmn.mooo.com
 brdnhzlcyklmypn-m.mooo.com
 brdnoryaglyrdkbr.icu
 brdnsnkzbrdoplr.icu
@@ -99991,10 +99998,3 @@ com-fakey.top
 com-fakou.top
 com-feict.top
 com-fins.top
-com-firsatlari-yakala.info
-com-firsatlari-yakala.xyz
-com-flyingm.com
-com-fouya.top
-com-fraud.support
-com-freeapps.com
-com-frsconfirm.com
