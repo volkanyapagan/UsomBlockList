@@ -1,3 +1,4 @@
+pariibu-com.online
 pariibu-com.tk
 pariibu-net.blogspot.com
 pariibu-online.me
@@ -99997,4 +99998,3 @@ vsch2pic.duckdns.org
 vscode.digital
 vscodeupdater.azurewebsites.net
 vscofull.ddns.net
-vscojcfeio.duckdns.org
