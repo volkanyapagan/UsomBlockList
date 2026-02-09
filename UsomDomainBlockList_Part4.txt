@@ -1,3 +1,6 @@
+pariibu-co.blogspot.com
+pariibu-com.me
+pariibu-com.ml
 pariibu-com.online
 pariibu-com.tk
 pariibu-net.blogspot.com
@@ -99995,6 +99998,3 @@ vsawd.ddns.net
 vsbed.duckdns.org
 vsbgiky.shop
 vsch2pic.duckdns.org
-vscode.digital
-vscodeupdater.azurewebsites.net
-vscofull.ddns.net
