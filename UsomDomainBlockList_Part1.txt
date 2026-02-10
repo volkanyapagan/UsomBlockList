@@ -2056,6 +2056,7 @@
 101-online-alisveris-bugune-ozel-firsatlar-internete-ozel.com
 101-online-alisveris-bugune-ozel-firsatlar-mobilde.com
 101-online-ozel.ooguy.com
+101-online-sadece-bugune-ozel-firsatlar-mobilde-tr.mooo.com
 101-online-siparis-ver-mobilde-bireysel-tr.mooo.com
 101-online-sponsor-ozel-siparis-ver-tr-cep.com
 101-online.net
@@ -55588,6 +55589,7 @@ b2imcll.com
 b2imsell.com
 b2jimcell.com
 b2jmcell.com
+b2k6x7f8q9n4m3sahv.sbs
 b2lcllelonye.com
 b2lewq1t.duckdns.org
 b2mc3ll.net
@@ -99996,5 +99998,3 @@ com-confirmation-account.limited
 com-confirmation-accountpayment.limited
 com-confirmation.life
 com-confirmed.live
-com-confirmes.site
-com-confirmfr.live
