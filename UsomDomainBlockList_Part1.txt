@@ -2042,6 +2042,7 @@
 101-mobil-bugune-ozel-indirimler-tr-cep.duckdns.org
 101-mobil-online-alisveris-tr.linkpc.net
 101-mobil-online-alisveris.ooguy.com
+101-mobil-online-ozel-tr.mooo.com
 101-mobil-sadece-online-ozel-firsatlar-tr.online
 101-mobil-tr.com
 101-mobil.com.tr
@@ -66886,6 +66887,7 @@ bimaktuelindirimgunlerm.xyz
 bimaktuell.com
 bimaktuelurunler1.duckdns.org
 bimalan.com
+bimalisveris.fun
 bimallahgibinamusuma.com
 bimamce.vip
 bimarayan.com
@@ -76876,6 +76878,7 @@ bldsmclskdsldmldm.com
 bldsmdlcmxldlsm.com
 ble3ds2.shop
 bleachassimilate.top
+bleakcheck.fun
 bleakhibernate.top
 bleaknaive.top
 bleakoverhaul.top
@@ -86363,6 +86366,7 @@ buradaeyluslksoka.cloud
 buradagarenta.com
 buradahazirsanizyenidengel.com
 buradahepbirazkaldik.com
+buradahepbirazmutlusunuz.com
 buradahepyenidenbulunur.com
 buradaherkeslegel.net
 buradailklerehepyervar.com
@@ -99994,7 +99998,3 @@ com-confirmacion.life
 com-confirmategb.live
 com-confirmates.online
 com-confirmates.site
-com-confirmation-account.limited
-com-confirmation-accountpayment.limited
-com-confirmation.life
-com-confirmed.live
