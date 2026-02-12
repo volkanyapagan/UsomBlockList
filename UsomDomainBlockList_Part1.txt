@@ -2739,6 +2739,7 @@
 101pazarurunleri.shop
 101pazaruygn.com
 101pazmarket.com
+101peraken.de
 101persembe-aksamfirsat.com
 101persembe-firsta.com
 101persembe-gece.com
@@ -99997,4 +99998,3 @@ com-banka.com
 com-basvru-yap-online.com.tr
 com-batye.top
 com-bcrt.top
-com-bdahn.top
