@@ -1,3 +1,4 @@
+com-bcrt.top
 com-bdahn.top
 com-bedr.top
 com-betay.top
@@ -99997,4 +99998,3 @@ hkhsy0slq.duckdns.org
 hkhvkylqghebdgg.cn
 hkiw40.duckdns.org
 hkj67jfvas.ddns.net
-hkjasm.com
