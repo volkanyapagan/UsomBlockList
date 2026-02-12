@@ -38851,6 +38851,7 @@ kgm-gov-tr.one
 kgm-gov-tr.top
 kgm-gov-tr.vip
 kgm-gov-tu.me
+kgm-gov-vip-tr.bond
 kgm-gov-vip.bond
 kgm-gov.bar
 kgm-gov.blog
@@ -99997,4 +99998,3 @@ paribuonlinetoken.tk
 paribuonlinetr.ga
 paribuonlinetr.ml
 paribuonuncuyil.tk
-paribuozelhediyefirsatlari.xyz
