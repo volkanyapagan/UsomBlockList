@@ -88841,6 +88841,7 @@ online.basvur-hizli-giris-ak.com
 online.basvuru-merkeziburada.com
 online.basvurular-hizli.com
 online.basvurularim-hizli.com
+online.bmenkuldegerler.pro
 online.denizbank.com.tr.xn--dijitlsubm-7gb4t.com
 online.fibavarlikmenkul.com
 online.filokurumsal.com
@@ -99997,4 +99998,3 @@ paribudankampanya.com
 paribudankampanya.xyz
 paribudankapanyan2022.xyz
 paribudankatilimvakti.epizy.com
-paribudankazanclar.com
