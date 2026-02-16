@@ -8997,6 +8997,7 @@ daimaalirim.sg-host.com
 daimaguvenli.name.tr
 daimahepalirim.sg-host.com
 daimahepalirim1.sg-host.com
+daimamutlualisveris.com
 daimaseninle.xyz
 daimasizinle.online
 daimasizlericin.blogspot.com
@@ -48443,6 +48444,7 @@ eturkiyeyardmgov.site
 eturkye.me
 eturuncu-onlinesube.com
 etutqonday.duckdns.org
+etuvlturk.digital
 etw.icu
 etw8y8wverklmvensbslw0y.ddns.net
 etwo.msoftupdates.eu
@@ -99996,5 +99998,3 @@ hizmetmuayenerandevu.com
 hizmetnoktalari.site
 hizmetnoktalari.xyz
 hizmetnoktalarim.xyz
-hizmetnoktalarimiz.xyz
-hizmetnoktalarin.xyz
