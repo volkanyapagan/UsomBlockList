@@ -1928,6 +1928,7 @@
 101-biryag.shop
 101-bugun-firsatkapinda.com
 101-bugun.shop-mobil-tr.com
+101-bugune-ozel-mobil-tr.online-shop-tr.com
 101-cadir26temmuz.com
 101-cepte.com.tr
 101-cesmesubemiz.com
@@ -3355,6 +3356,7 @@
 111423525235.xyz
 1114702934.corolain.ru
 1116.hopto.org
+11164211116644355.duckdns.org
 1116601159.corolain.ru
 1116642.cloud
 1119.hopto.org
@@ -13524,6 +13526,7 @@
 46546323574583238.com
 4667734552455.com
 467455213745334.com
+4679877663563673456.click
 46816841685416854181.com
 4682.ddns.net
 46842064.cloud
@@ -64037,6 +64040,7 @@ belgeodemeleriniz.com
 belgeonaydogrula.org
 belgeonayla.xyz
 belgeonaymerkezi.xyz
+belgeonaysistemi.xyz
 belgeportali.xyz
 belgepqsqport.net
 belgetunceli.net
@@ -99994,7 +99998,3 @@ collab.fork-land.com
 collab.land-verifys.com
 collab.land-wl.com
 collabapp.site
-collabland-eth.com
-collaboationorrosion.top
-collabodex.com
-collaborateshare.ddns.net
