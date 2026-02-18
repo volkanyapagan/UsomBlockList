@@ -1,3 +1,5 @@
+collab.fork-land.com
+collab.land-verifys.com
 collab.land-wl.com
 collabapp.site
 collabland-eth.com
@@ -22885,6 +22887,7 @@ dn4l8xos.forms.app
 dn5uw0em.duckdns.org
 dn7oli0kxm.com
 dn8g4zf6y.duckdns.org
+dn8w43im.icu
 dn99a50cea000d4.gleeze.com
 dnahack515.linkpc.net
 dnahacker2012.zapto.org
@@ -99995,6 +99998,3 @@ hizmetlergirisi-turkiyegovtr.com
 hizmetlergirisin-turkiyegovtr.com
 hizmetlergirisonlineislemler.com
 hizmetlergiriswebonline.com
-hizmetlergirisyap-turkeygovtr.com
-hizmetlerhizmeti.xyz
-hizmetleri-150.com

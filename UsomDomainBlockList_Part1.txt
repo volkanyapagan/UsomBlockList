@@ -21831,6 +21831,7 @@ a-10-1comtr.sbs
 a-10-1flrsatlari.cfd
 a-10-firsatlardunyasia101.wuaze.com
 a-1001buhaftaninindinirimler.com
+a-1001buhaftaninindinirimlerin.com
 a-101-5ocak.me
 a-101-aktuel-market.online
 a-101-aktuel-market.shop
@@ -91447,6 +91448,7 @@ carrefoursa-termos.vercel.app
 carrefoursa-tr.com
 carrefoursa-tr.vercel.app
 carrefoursa-turkiye.com
+carrefoursa.cfd
 carrefoursa.cloud
 carrefoursa.ct.ws
 carrefoursa.digital
@@ -99996,5 +99998,3 @@ collab-mpc-land.com
 collab-sign-8e36fa762841.herokuapp.com
 collab-sol-land.com
 collab-xlm-land.com
-collab.fork-land.com
-collab.land-verifys.com
