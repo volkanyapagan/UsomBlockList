@@ -21136,6 +21136,7 @@ dijitalmobil-ziraatbireysel.sbs
 dijitalmobil-ziraatbireyselgiris.com
 dijitalmobil-ziraatbireyselgiris.vip
 dijitalmobil-ziraatbireyselweb.com
+dijitalmobil-ziraatbireyselweb.sbs
 dijitalmobil-ziraatgiris.com
 dijitalmobil-ziraatkampanya.com
 dijitalmobil-ziraatkampanyagiris.com
@@ -22728,6 +22729,7 @@ dlscord.org
 dlscordcom.top
 dlscvt-scvrt.com
 dlsjhqxlrt.duckdns.org
+dlt-r-ng-kry.my-homeip.de
 dlt34.site
 dlt34.space
 dlt34tennessee.space
@@ -99996,5 +99998,3 @@ hizmetlergiris-turkiyegovtr.com
 hizmetlergirisgovtr.tk
 hizmetlergirisi-eturkiyegovtr.com
 hizmetlergirisi-turkeygovtr.com
-hizmetlergirisi-turkiyegovtr.com
-hizmetlergirisin-turkiyegovtr.com
