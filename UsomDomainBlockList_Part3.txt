@@ -38493,6 +38493,7 @@ kellas5432x.dns.navy
 kellas547475x.dns.navy
 kellas56665x.dns.navy
 kellas5745x.dns.navy
+kellas6002x.dns.navy
 kellas71x.dns.navy
 kellas754x.dns.navy
 kellas81x.dns.navy
@@ -99997,4 +99998,3 @@ paribu5yilozelhediyeleriniz.com
 paribu5yilozelhediyeniz.com
 paribu5yilozelripplehediyeleri.com
 paribu5yilozelshibahediye.com
-paribu5yilshibahediyenial.com
