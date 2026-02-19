@@ -1,3 +1,10 @@
+paribu.kampanyagirisi.com
+paribu.kampanyakontrolu.com
+paribu.kampanyakonttrol.com
+paribu.kampanyalar-kampanyalistesi.com
+paribu.kampanyalarmerkezi.com
+paribu.kampanyalarsorgulama2022.com
+paribu.kampanyalistesi-kampanyalar.com
 paribu.kampanyalistesi.com
 paribu.kampanyalistesi2022.com
 paribu.kampanyamerkezi2022.com
@@ -84409,6 +84416,7 @@ turkiye.gov-onay-belge-siralamasi.site
 turkiye.gov-tr.info
 turkiye.gov-tr.ml
 turkiye.gov-tr.org
+turkiye.gov.myriambras.fr
 turkiye.gov.tr.basvurunda.77-83-201-134.plesk.page
 turkiye.gov.tr.devlet-govtr-forum.tk
 turkiye.gov.tr.e-i-hizmetleri.de
@@ -99990,11 +99998,3 @@ vjbmu.icu
 vjcmvz.cn
 vjd267ar.duckdns.org
 vjddg.icu
-vjevec.quest
-vjffjvl.com
-vjg2nlpr.duckdns.org
-vjgfczvjgc.duckdns.org
-vjhauacchxkf.fun
-vjhelena.duckdns.org
-vjhgfjyf.zapto.org
-vjipi7em.duckdns.org
