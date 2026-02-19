@@ -1,3 +1,4 @@
+paribu.ist
 paribu.kampanya-bulten.com
 paribu.kampanya-yenikampanyalar.com
 paribu.kampanyacheck.com
@@ -41533,6 +41534,7 @@ servicelinkup.ddns.net
 servicelitige-ppl.ddns.net
 servicelitige-shop.ddns.net
 servicelivraison.ddns.net
+servicelog-information.com
 servicemailamazon.hopto.org
 servicemanapi.com
 servicemap.tbccint.com
@@ -99996,5 +99998,3 @@ vizzgec.sg-host.com
 vizzzgec.sg-host.com
 vj2pka.duckdns.org
 vja00te.cn
-vjaaz.duckdns.org
-vjasq2wt6.duckdns.org
