@@ -1,3 +1,8 @@
+paribu.kampanya-bulten.com
+paribu.kampanya-yenikampanyalar.com
+paribu.kampanyacheck.com
+paribu.kampanyaduyurusu.com
+paribu.kampanyafirsati.com
 paribu.kampanyagirisi.com
 paribu.kampanyakontrolu.com
 paribu.kampanyakonttrol.com
@@ -99993,8 +99998,3 @@ vj2pka.duckdns.org
 vja00te.cn
 vjaaz.duckdns.org
 vjasq2wt6.duckdns.org
-vjaxhpbji.biz
-vjbmu.icu
-vjcmvz.cn
-vjd267ar.duckdns.org
-vjddg.icu
