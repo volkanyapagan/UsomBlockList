@@ -2153,6 +2153,7 @@
 10101019991.cloud
 101010202022.cloud
 1010102200.cloud
+101010233123.duckdns.org
 101010922-12-2.cloud
 101011aktuelim.com
 1010192922123.cloud
@@ -5084,6 +5085,7 @@
 16-tons.ru
 16.hopto.org
 1601iy6.duckdns.org
+1602.webredirect.org
 1604.ddns.net
 160429748283.xyz
 1612579504.universalimage.org
@@ -42981,6 +42983,7 @@ altiaysonra-denizde.online
 alticaret.com.tr
 alticgo.com
 altimata.org
+altimdamercsds.org
 altin-degeri.online
 altin-formu.onrender.com
 altin-kampanyasi.gq
@@ -44773,6 +44776,7 @@ anindaassurplusal.shop
 anindabakiyeyukle.com
 anindabasvurdenizfirsatekranin.xyz
 anindabasvurdenizfirsatekraninfast.xyz
+anindabasvurkeridi.com
 anindabasvuru.cfd
 anindabasvuru.com
 anindabasvuru.mefound.com
@@ -99994,7 +99998,3 @@ colasco.click
 colasprint.com
 colbasaibliny.ru
 colbaservices.ml
-colbrte.top
-colc.acalaman.com
-cold-neon-springfield-asset.trycloudflare.com
-cold-veirfyguard-froms.cf
