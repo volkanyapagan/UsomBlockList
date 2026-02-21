@@ -2060,6 +2060,7 @@
 101-online-akutelmayis.com
 101-online-alisveris-bugune-ozel-firsatlar-internete-ozel.com
 101-online-alisveris-bugune-ozel-firsatlar-mobilde.com
+101-online-mobil-kampanya-tr.mooo.com
 101-online-mobile-ozel.online-sepet-tr.com
 101-online-ozel.ooguy.com
 101-online-sadece-bugune-ozel-firsatlar-mobilde-tr.mooo.com
@@ -99997,4 +99998,3 @@ cokhitangiabao.vn
 cokhizliydimartikyoruldum.online
 cokirekabetsevmez.net
 cokityisdwes.wtf
-cokiyi.firsatrentkiralamaarac.com.tr

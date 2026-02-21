@@ -1,3 +1,4 @@
+cokiyi.firsatrentkiralamaarac.com.tr
 cokiyi.sbs
 cokiyiabi.name.tr
 cokiyibirsdwe.net
@@ -72305,6 +72306,7 @@ giris-mobilweb-cep-hizmet.com
 giris-musteri.online
 giris-onay-bildirim.xyz
 giris-online-giris.cfd
+giris-online-giris1.sbs
 giris-online-kampanyalari.com
 giris-online-odeme-portali101.online
 giris-online-portal.com
@@ -80246,6 +80248,7 @@ guvenli-odemeyap.com.tr
 guvenli-odemeyapma.com
 guvenli-odesahibinden.com
 guvenli-odeyin.com
+guvenli-onay.online
 guvenli-online-hizmet.com.tr
 guvenli-online-kart-ucret-iadesi-basvuru-formu.xyz
 guvenli-online-odeme.com.tr
@@ -99995,6 +99998,3 @@ hizmet-giris-turkeygovt.com
 hizmet-giris-turkygovtr.com
 hizmet-girisleri-turkeygovtr.com
 hizmet-giriswebmobilislemlerim.com
-hizmet-gov-tr.com
-hizmet-guveni.com.tr
-hizmet-hayatevesigar.com

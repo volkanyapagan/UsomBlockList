@@ -1,3 +1,6 @@
+hizmet-gov-tr.com
+hizmet-guveni.com.tr
+hizmet-hayatevesigar.com
 hizmet-hemen.net
 hizmet-iade-gov.com
 hizmet-iadesi-e-devlet2021-portal-guvenli-transfer.xyz
@@ -39785,6 +39788,7 @@ kgmavbilgihgsbrcodeislemleri.duckdns.org
 kgmavbilyeniodeyolhizli.duckdns.org
 kgmavgecishukukode.icu
 kgmavhukukodeme.icu
+kgmax.top
 kgmay.top
 kgmbbgovtr.top
 kgmbeklemedenislem.sg-host.com
@@ -43493,6 +43497,7 @@ kobi-krediformu.com
 kobi-kredimerkezi.com
 kobi-paraf-hediye.com
 kobi-projebasvuru.com
+kobi-projegelistirme.com
 kobi-tr-paraf.com
 kobibasvurunutamamla-12.cloud
 kobibilgilendirme.cfd
@@ -66605,6 +66610,7 @@ mobil-firsatlar.com.tr
 mobil-firsatlari-finansta.vercel.app
 mobil-firsatlari.xyz
 mobil-garanti-tr.com
+mobil-garanti.click
 mobil-garanticep-tr.cf
 mobil-garantim.com
 mobil-garantsube.ru.com
@@ -68644,6 +68650,7 @@ mobilsube-garanti-com.tk
 mobilsube-garanti-kampanya.cfd
 mobilsube-garanti-kampanya.sbs
 mobilsube-garanti.cfd
+mobilsube-garanti.click
 mobilsube-garanticep.com
 mobilsube-garantii.com
 mobilsube-garantiweb.cfd
@@ -99991,10 +99998,3 @@ paribu-firsathediyelerin.com
 paribu-firsatlar.com
 paribu-firsatlar.online
 paribu-firsatlar.site
-paribu-giris-com-tr.gq
-paribu-giris-com-tr.ml
-paribu-giris-com-tr.tk
-paribu-giris-islemleri-com.tk
-paribu-giris-tr.ga
-paribu-giris.com
-paribu-giris.net
