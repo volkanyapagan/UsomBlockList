@@ -1,3 +1,5 @@
+cokiyi.sbs
+cokiyiabi.name.tr
 cokiyibirsdwe.net
 cokiyiyim.cfd
 cokkolaydi.cfd
@@ -65243,6 +65245,7 @@ garanti-online-tr.com
 garanti-online.cf
 garanti-online.cfd
 garanti-online.click
+garanti-online.sbs
 garanti-online.site
 garanti-online2019.com
 garanti-onlinebasvuru.site
@@ -99995,6 +99998,3 @@ hizmet-giriswebmobilislemlerim.com
 hizmet-gov-tr.com
 hizmet-guveni.com.tr
 hizmet-hayatevesigar.com
-hizmet-hemen.net
-hizmet-iade-gov.com
-hizmet-iadesi-e-devlet2021-portal-guvenli-transfer.xyz
