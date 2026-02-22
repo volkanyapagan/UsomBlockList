@@ -91550,6 +91550,7 @@ hemen-onay.online
 hemen-onay.shop
 hemen-onay.xyz
 hemen-onaylanmis.com
+hemen-onaylanmis.sbs
 hemen-onaylansin.com
 hemen-otokirala.rest
 hemen-otokirala.shop
@@ -99997,4 +99998,3 @@ hizmet-app.com
 hizmet-app.net
 hizmet-application.net
 hizmet-basvurusutr.com
-hizmet-bimcell.com
