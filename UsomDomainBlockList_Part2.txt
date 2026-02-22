@@ -65562,6 +65562,7 @@ garantibank.ip-ddns.com
 garantibank.linkpc.net
 garantibank.net
 garantibank.online
+garantibank.org
 garantibank.vercel.app
 garantibank.yurdicikargo.com.tr
 garantibank2021mobiliade.com
@@ -74433,6 +74434,7 @@ gnceliznice.com
 gncelkamtak2420kw.shop
 gncelmrkethper.cfd
 gncelmrketinizcrraforsa.cfd
+gncelsanamrketiniz.cfd
 gncelsnalmrketiniz.cfd
 gncelyklemex.net
 gnchaberbilgileri.com
@@ -99996,5 +99998,3 @@ hizmet-cimergovtr.com
 hizmet-da.de
 hizmet-de-burda.de
 hizmet-destekler-panel.tk
-hizmet-devam-halkimiz-yolunda.online
-hizmet-e-tsk.com
