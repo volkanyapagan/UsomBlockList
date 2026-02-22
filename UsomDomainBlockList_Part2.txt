@@ -1,3 +1,4 @@
+cokgezenti.name.tr
 cokgucluyuz.cfd
 cokgucluyuz.sbs
 cokguzel-firsat-1o1-kampanya.com
@@ -91549,6 +91550,7 @@ hemen-onay.icu
 hemen-onay.online
 hemen-onay.shop
 hemen-onay.xyz
+hemen-onaylanmis.cfd
 hemen-onaylanmis.com
 hemen-onaylanmis.sbs
 hemen-onaylansin.com
@@ -99996,5 +99998,3 @@ hizmet-alimin.net
 hizmet-alisveris.com.tr
 hizmet-app.com
 hizmet-app.net
-hizmet-application.net
-hizmet-basvurusutr.com
