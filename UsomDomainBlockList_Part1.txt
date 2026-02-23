@@ -217,6 +217,8 @@
 010101032kk33.cloud
 0101012031010.duckdns.org
 0101012323.cloud
+01010235554l.duckdns.org
+01010245554l.duckdns.org
 010109434-111.duckdns.org
 0101650301-123.cloud
 0101sv.ddns.net
@@ -1929,6 +1931,7 @@
 101-bugun-firsatkapinda.com
 101-bugun.shop-mobil-tr.com
 101-bugune-ozel-mobil-tr.online-shop-tr.com
+101-bugune-ozel-ramazan-indirimleri-tr.mooo.com
 101-cadir26temmuz.com
 101-cepte.com.tr
 101-cesmesubemiz.com
@@ -59527,6 +59530,7 @@ basvuru-formum.com
 basvuru-forumu-gov-tr.com
 basvuru-garanti-bbva.com.tr
 basvuru-genelge.tk
+basvuru-gir-iss.sbs
 basvuru-gir.xyz
 basvuru-girisekrani.cfd
 basvuru-girisi.cf
@@ -99994,7 +99998,3 @@ cointrazer.com
 coinundertaking.shop
 coinundertaking.top
 coinvbaserwqyxa.duckdns.org
-coinvsextensin.webflow.io
-coinwatch.duckdns.org
-coinworld.pw
-coinxefsstensiond.webflow.io
