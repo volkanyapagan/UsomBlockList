@@ -41184,6 +41184,7 @@ ekonomiraporu.online
 ekonomisahnesi.info
 ekonomisahnesi.online
 ekonomisahnesi.org
+ekonomisevi.info
 ekonomisinyeni.online
 ekonomisinyolu.online
 ekonomisonra.info
@@ -78928,6 +78929,7 @@ guncelkampanyasorgula.com
 guncelkamusal00sikayetler.tk
 guncelkamusallsikayetivar.cf
 guncelkartaidatodemesi.vercel.app
+guncelkaynak.org
 guncelkepim.net
 guncelkonutbasvurulari.cloud
 guncelkonutbasvurusu.cloud
@@ -99996,5 +99998,3 @@ hizlivergiodeme.ml
 hizlivergiodeme.net
 hizlivergioduyom.ml
 hizliversiparislerinde.cloud
-hizlivetukenmedenalmalisiniz.online
-hizlivetukenmedenalmalisiniz.xyz
