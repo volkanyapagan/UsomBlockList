@@ -70,6 +70,7 @@
 00001111.ddns.net
 00002009.zapto.org
 000022111022222.cloud
+0000404041lk4.duckdns.org
 00004040440.duckdns.org
 000051139707.ddns.net
 000051139708.ddns.net
@@ -91333,6 +91334,7 @@ carfourrrsa.best
 carfourrse.com
 carfoursa.site
 carfoursa10koli.com
+carfoursrmddn.online
 carfoussa.shop
 carfoussa.xyz
 carfrdasirada.cfd
@@ -99996,5 +99998,3 @@ coindeskbtc.com
 coindmarket.com
 coinfinancier.shop
 coinfirsat.tk
-coinfirsatbilgi.com
-coinfirsatlari.tk
