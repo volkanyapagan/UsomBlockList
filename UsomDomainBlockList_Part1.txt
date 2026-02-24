@@ -59670,6 +59670,7 @@ basvuru-onlines.cfd
 basvuru-onlinne.sbs
 basvuru-osym.com
 basvuru-osym.online
+basvuru-ox.cfd
 basvuru-ozel-aidat-geri-iade.com
 basvuru-paariibuhediyeteknolojisi-com.tk
 basvuru-paribuhediye1teknolojisi-com.tk
@@ -99997,4 +99998,3 @@ coindependence.shop
 coindeskbtc.com
 coindmarket.com
 coinfinancier.shop
-coinfirsat.tk
