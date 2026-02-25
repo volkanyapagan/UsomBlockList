@@ -2189,6 +2189,7 @@
 101202303404505.info
 101202303404505.site
 1014903274.corolain.ru
+1014952.duckdns.org
 1015664156.corolain.ru
 10156749948413.cloud
 1016143934.corolain.ru
@@ -14729,6 +14730,7 @@
 513xvi5z3mlyu9is.com
 51433245.life
 514552145225.cloud
+5147524598584638415615416.duckdns.org
 51514344.duckdns.org
 5151501011.duckdns.org
 51516161.com
@@ -99996,5 +99998,3 @@ coincommunity.top
 coindeck.onmypc.org
 coindependence.shop
 coindeskbtc.com
-coindmarket.com
-coinfinancier.shop
