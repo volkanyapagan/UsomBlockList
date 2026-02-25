@@ -13127,6 +13127,7 @@
 423894723897423.xyz
 4239248492430532.duckdns.org
 423949234932423423.click
+42434611909.duckdns.org
 4244413213.cloud
 424443451255.cloud
 42444446547.cloud
@@ -99997,4 +99998,3 @@ coincommunity.shop
 coincommunity.top
 coindeck.onmypc.org
 coindependence.shop
-coindeskbtc.com
