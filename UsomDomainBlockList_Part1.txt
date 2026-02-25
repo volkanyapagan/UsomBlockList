@@ -9574,6 +9574,7 @@
 2601285.cloud
 260175701.cloud
 2601760774.cloud
+2601856601.cloud
 260356c64c0291ff08c79092f7318ae3.store
 26072675.cloud
 26072676.cloud
@@ -40549,6 +40550,7 @@ aldin-aldin-ekim.xyz
 aldin-aldin-ekstra.com
 aldin-aldin-ekstra.com.tr
 aldin-aldin-ekstra.xyz
+aldin-aldin-firsat.net
 aldin-aldin-firsatlar.cfd
 aldin-aldin-firsatlari.sa.com
 aldin-aldin-firsatlarimiz-kampanyalar.com
@@ -99996,5 +99998,3 @@ coinbase.gifts
 coinbase.passkeysetup.com
 coinbase.promo
 coinbase.talenthiringtool.com
-coinbase2020.pro
-coinbase5000.com
