@@ -21270,6 +21270,7 @@ dijitalislemler-ziraatkampanyaweb.site
 dijitalislemler-ziraatkampanyawebgiris.sbs
 dijitalislemler-ziraatonay.sbs
 dijitalislemler-ziraatwebmobil.com
+dijitalislemler-ziraatwebmobil.sbs
 dijitalislemler.xyz
 dijitalislemlergiris-denizacik.com
 dijitalislemlergirisin-denizacik.com
@@ -21367,6 +21368,7 @@ dijitalkredi-ziraatbireysel.com
 dijitalkredi-ziraatbireysel.sbs
 dijitalkredi-ziraatbireysel.website
 dijitalkredi-ziraatbireyselinternet.sbs
+dijitalkredi-ziraatbireyselmobil.sbs
 dijitalkredi-ziraatkampanya.com
 dijitalkredi-ziraatkampanyawebgiris.sbs
 dijitalkredi-ziraatmobilbireysel.sbs
@@ -77127,6 +77129,7 @@ greekess.com
 greekpool.com
 green-card.com.tr
 green-day.ru
+green-pigeon-917274.hostingersite.com
 green-teatr.ru
 green-toad-119616.hostingersite.com
 green-tops.com
@@ -77630,6 +77633,7 @@ grntkmpnya27319.site
 grntkmpnyaacklsbsvru.info
 grntkmpnyaacklsbsvru.live
 grntkmpnyaacklsbsvru.pro
+grntkmprs.com
 grntkrdm.shop
 grntkrdm.site
 grntkrdmbsvr.site
@@ -99994,7 +99998,3 @@ hizlisistem24.arabamuayenesi.xyz
 hizlisistem24.com
 hizlisisteminiz.blogspot.com
 hizlisistemligecisleri.sg-host.com
-hizlisistemyukleme.sg-host.com
-hizlisistemyuklemeler.sg-host.com
-hizlisitanbulcusndus.store
-hizlislem-musterigovtr.com
