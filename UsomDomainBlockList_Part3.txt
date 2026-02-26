@@ -11257,6 +11257,7 @@ iletisim-sorgulama-aktarma.sbs
 iletisim-sorgulama-ve-aktarim.cfd
 iletisim-sorgulama-yonlendirme.one
 iletisim-trhazineiadeniz96.com
+iletisim-tutarogren-donusum.sbs
 iletisim-uygulamasi-gov-tr.club
 iletisim-ve-aktarim-ekrani.online
 iletisim20gbmobil.com
@@ -13740,6 +13741,7 @@ indirimfisatlarindanfayadalanmayankalmasin.online
 indirimfisatlarindanfayadalanmayankalmasin.xyz
 indirimfrstlarindayz.click
 indirimgecesia101.shop
+indirimgeldikampanya101.com
 indirimgezegeni.com.tr
 indirimgnleri.cfd
 indirimgnleri.com
@@ -47772,6 +47774,7 @@ kurdumjuzdani.com
 kurdumsalhizmet.cfd
 kurdyolu2.net
 kureker23451kk5433.duckdns.org
+kureker41645345.duckdns.org
 kureseicq1.com
 kureseicq2.com
 kureseicq3.com
@@ -99995,6 +99998,3 @@ paramguvendesahibindencom.tk
 paramguvendesahibindende.com
 paramguvendesahibindenget.co.vu
 paramguvendesahibindenget.com
-paramguvendesahibindenget.ml
-paramguvendesahibindenkurumsal.tk
-paramguvendesahibindenn.cf
