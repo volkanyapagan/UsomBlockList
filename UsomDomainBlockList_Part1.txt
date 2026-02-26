@@ -3315,6 +3315,7 @@
 1101354247.dfgqdsd.ru
 1101635489023-53738291111.online
 1101635489023-53738292222.online
+1101indirimleri.com
 1102312001201.duckdns.org
 1103166639.corolain.ru
 110320041103200411032004.cloud
@@ -16580,6 +16581,7 @@
 65c99716.sibforms.com
 65cyf630.duckdns.org
 65falfj.duckdns.org
+65ff54kerr232.duckdns.org
 65i82e.duckdns.org
 65izz7re.duckdns.org
 65r8esi.duckdns.org
@@ -59567,6 +59569,7 @@ basvuru-cimergovtr.com
 basvuru-cimeronline2019.com
 basvuru-cimervatandas2019.com
 basvuru-click.net
+basvuru-com-u.cfd
 basvuru-com-x.cfd
 basvuru-cvn.cfd
 basvuru-de-stek-tr.com
@@ -64289,6 +64292,7 @@ belgimislem.xyz
 belgimislemlerin.xyz
 belgimkurumsal.com
 belgimkurumsal.net
+belgimonay.com
 belgimonayin.xyz
 belgium-myservice.ddns.net
 belgom.duckdns.org
@@ -99994,7 +99998,3 @@ coinaiboundary.top
 coinaichannel.top
 coinaicommunicate.top
 coinaieducate.top
-coinaienclosure.top
-coinaifence.top
-coinaifinancier.top
-coinaiframework.top
