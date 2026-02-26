@@ -1,3 +1,8 @@
+coinbase-reject.com
+coinbase-reportsca.hopto.org
+coinbase-safeguard.com
+coinbase-safevault.com
+coinbase-securedvault.com
 coinbase-stareport.hopto.org
 coinbase-storage.com
 coinbase-team.com
@@ -9867,6 +9872,7 @@ darknetcomet.hopto.org
 darknode88.duckdns.org
 darko.zapto.org
 darkoctober.net
+darkorange-starling-883878.hostingersite.com
 darkpanel.services
 darkpython.ddns.net
 darkrbx.duckdns.org
@@ -26685,6 +26691,7 @@ duc1234.duckdns.org
 duc3k.com
 duc87bkhn.ddns.net
 ducatl.com
+ducimus.sbs
 ducimusoccaecatisit.xyz
 duck.manhajnews.com
 duck3131.duckdns.org
@@ -63346,6 +63353,7 @@ fuerte-sol.es
 fuesrfjnkjwebfb.top
 fuettern24.de
 fuevermili.hopto.org
+fufaklklskw.cfd
 fufick.icu
 fuftksx.fehutop1.website
 fugobiy.info
@@ -99990,11 +99998,3 @@ hizlisiparislerin2bucuktemmuzda.cloud
 hizlisiparislerin4temmuz.cloud
 hizlisiparislerin5bucuk.cloud
 hizlisiparislerin5indebucuk.cloud
-hizlisiparislerinagustos6.net
-hizlisiparislerinden20bucuktemmuz.cloud
-hizlisiparislerinden22buuckey.cloud
-hizlisiparislerinden22tem.cloud
-hizlisiparislerindne21temmu.cloud
-hizlisiparislerintemuuzdanberi22.cloud
-hizlisiparislink.click
-hizlisiparisolustur.gtxpros.best
