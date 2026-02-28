@@ -1,3 +1,7 @@
+paramguvende.app
+paramguvende.cf
+paramguvende.click
+paramguvende.dev
 paramguvende.e-hizmetler-param.com.tr
 paramguvende.epizy.com
 paramguvende.gq
@@ -60194,6 +60198,7 @@ sube-aidatiadehalk.com
 sube-aidattiadeler.com
 sube-akbank.site
 sube-akbankasi.com
+sube-akbnk.click
 sube-akkkkbbaannkkk.com.tr
 sube-albaraka-tr.com
 sube-albarakakampanyalari.cf
@@ -67516,6 +67521,7 @@ tcljwq.com
 tclliqrlqrmerpj.su
 tcmahkeme.org
 tcmali.org
+tcmaliidari.org
 tcmalisorgu.org
 tcmaliye.net
 tcmaliyebakanligi.org
@@ -67611,6 +67617,7 @@ tcsorgu.online
 tcsorgu.xyz
 tcsorgum.online
 tcsorgumali.com
+tcsorgumaliye.com
 tcsosyaldestek.blogspot.com
 tcsosyaldestek.ml
 tcsosyaldestekpaketi.com
@@ -99991,10 +99998,3 @@ verifysecurechase.ddns.net
 verifysecureonline.ddns.net
 verifysegregation.top
 verifyseoagency.com
-verifysign.ru
-verifysubsaccount.duckdns.org
-verifysupport.hopto.org
-verifyto.hopto.org
-verifyusaa03.ddns.net
-verifyusaa07.ddns.net
-verifyusbankonline.ddns.net
