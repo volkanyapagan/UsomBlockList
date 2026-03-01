@@ -1,3 +1,4 @@
+codinggenius.lat
 codingoffensive.duckdns.org
 codingwithdanish.com
 codon.vn
@@ -99997,4 +99998,3 @@ hizlimobil.ml
 hizlimobil.tk
 hizlimobilbasvuru.mefound.com
 hizlimobilegiris.cfd
-hizlimobilegirisim.cfd
