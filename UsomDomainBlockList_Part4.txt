@@ -1,3 +1,12 @@
+paramguvencede.gq
+paramguvencede.ml
+paramguvencede.tk
+paramguvencedeget.ml
+paramguvencedeget.tk
+paramguvencedesahibiden.cf
+paramguvencedesahibiden.tk
+paramguvencedesahibinden.cf
+paramguvencedesahibinden.cs
 paramguvencedesahibinden.gq
 paramguvencedesahibinden.ml
 paramguvencedesahibindenn.cf
@@ -17226,6 +17235,7 @@ q38k93.duckdns.org
 q3d8gbm7i.duckdns.org
 q3ea64.cn
 q3js9w56s.duckdns.org
+q3n8k2v6a7x9f4hmbs.sbs
 q3txpx.duckdns.org
 q417v5.duckdns.org
 q41mf4u.duckdns.org
@@ -94452,6 +94462,7 @@ v941ymt.duckdns.org
 v95fmt.duckdns.org
 v97uilu.cn
 v984h14.com
+v990011222012.online
 v99ay4wuo.ru
 v99glw3c.duckdns.org
 v9e060.duckdns.org
@@ -99987,14 +99998,3 @@ verifyglac1erbank.hopto.org
 verifyglac1erbnk09.hopto.org
 verifyglac1erbnk20.zapto.org
 verifyglac1erbnk30.hopto.org
-verifyglac1eruser30.hopto.org
-verifyglacerbamk.ddns.net
-verifyglacierbamk.hopto.org
-verifyglacierhttp.ddns.net
-verifyguarding.com.tr
-verifyguest-booking.com
-verifyguest-cardhotel.com
-verifyguest-via-booking.com
-verifyguest00247-booking.com
-verifyguest0041-booking.com
-verifyguest0071-booking.com
