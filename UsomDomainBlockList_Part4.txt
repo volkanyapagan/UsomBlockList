@@ -1,3 +1,6 @@
+paramguvende-get-secure.ml
+paramguvende-get.com
+paramguvende-get.com.tr
 paramguvende-get.online
 paramguvende-get.shop
 paramguvende-getilan.com
@@ -99995,6 +99998,3 @@ verifyguest315788-booking.com
 verifyguest321-booking.com
 verifyguest3451-booking.com
 verifyguest3768-booking.com
-verifyguest4113-agoda.com
-verifyguest4121-booking.com
-verifyguest4148-booking.com
