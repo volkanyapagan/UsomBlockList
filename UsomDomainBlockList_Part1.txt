@@ -8517,6 +8517,7 @@
 2101849487575758848484105.duckdns.org
 210482145303.duckdns.org
 210500556667018677678678674948757.duckdns.org
+2105499995521001.cloud
 2105816593.cloud
 2107164454.corolain.ru
 21072206.ru
@@ -15046,6 +15047,7 @@
 542152150254.shop
 54231285121453.xyz
 5425d354245254s57712.work.gd
+54315341553443.com
 54329593521.shop
 543334734333.com
 54342342342.duckdns.org
@@ -53612,6 +53614,7 @@ avisotokiralla.tk
 avisotokoc.com
 avisotolistesi.site
 avisotomobilkiralama724.com
+avisozlesmepolicem.com
 avispaketleme.com
 avisprime.com.tr
 avisproileotokiralama.online
@@ -99995,6 +99998,3 @@ codeyonetimsystem.cf
 codezero700.ddns.net
 codezonelab.com
 codhaefef21-vv1p.duckdns.org
-codhasop-new-x37.duckdns.org
-codhasop-new-x42.duckdns.org
-codicil.vcdfcx.net
