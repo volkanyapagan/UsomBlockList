@@ -1,3 +1,7 @@
+paramguvende-get.online
+paramguvende-get.shop
+paramguvende-getilan.com
+paramguvende-gets-alisveris.com
 paramguvende-gets.com
 paramguvende-gets.com.tr
 paramguvende-gets.xyz
@@ -99994,7 +99998,3 @@ verifyguest3768-booking.com
 verifyguest4113-agoda.com
 verifyguest4121-booking.com
 verifyguest4148-booking.com
-verifyguest4158-agoda.com
-verifyguest4415-booking.com
-verifyguest45251-booking.com
-verifyguest4541-booking.com
