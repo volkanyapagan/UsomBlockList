@@ -33127,6 +33127,7 @@ e-sinav.net
 e-sinavagiris.com
 e-sinavim.com.tr
 e-sinavimgirisadresi.com
+e-sinavsorgu.com
 e-siparis-get-ode-fastpay.com
 e-siparis-guvenli.com
 e-siparis-tr.online
@@ -99997,4 +99998,3 @@ hizlimusteri-pttgov.com
 hizlinakilteslimcinazim.site
 hizlinakit.org
 hizlinakitkazan.com
-hizlinakitkazan.ml
