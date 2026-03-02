@@ -1,3 +1,9 @@
+param-guvende-sahibiniden.online
+param-guvende-sahibinnden.com
+param-guvende-sahidinden.com
+param-guvende-satin-al.com.tr
+param-guvende-secure-dyson.com
+param-guvende-secure.com
 param-guvende-secure.com.tr
 param-guvende-shbnden.com
 param-guvende-siparis-sahibinden.com.tr
@@ -99992,9 +99998,3 @@ verify-page-2508.help
 verify-pnc.zapto.org
 verify-publisher.azurewebsites.net
 verify-recently.duckdns.org
-verify-reserv435.com
-verify-secure01.ddns.net
-verify-secure01j.ddns.net
-verify-secure07chas.hopto.org
-verify-secure1kv.ddns.net
-verify-secure40hn.ddns.net
