@@ -12318,6 +12318,8 @@ img-picture-instagran.my.id
 img-sekerbank.mncdn.com
 img.elliotterusties.com
 img.microtoo.info
+img.spoolsv.cc
+img.spoolsv.net
 img.tipinfolist.site
 img.wisepops.co
 img21275.weddingbandsoft.com
@@ -31640,6 +31642,7 @@ k7uoc7.duckdns.org
 k7wp1r10e.duckdns.org
 k7zek9ofe.duckdns.org
 k81hqa8mv.duckdns.org
+k83asdasdasdahsdhahsdh24asda.click
 k83byq4c906mohxeizf.duckdns.org
 k85alg067nkk78.store
 k85fwri2ktobotw85vghglw.ddns.net
@@ -99995,6 +99998,3 @@ param.guvendealim.ru.com
 param.guvendealtr.com
 param.guvendesatin-al.com
 param.guvendetr.online
-param.guvenle-al.com.tr
-param.guvenleal-tr.ru.com
-param.guvenlialtr.com

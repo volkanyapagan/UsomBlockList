@@ -1,3 +1,6 @@
+param.guvenle-al.com.tr
+param.guvenleal-tr.ru.com
+param.guvenlialtr.com
 param.guvenliapplication.com.tr
 param.guvenlie-ticaret.com
 param.guvenlisatinal.com.tr
@@ -12153,6 +12156,7 @@ proxyyyy.duckdns.org
 proyectogambia.com
 proyectoscincuenta.duckdns.org
 proyonuz.xyz
+proyorum.pro
 proziyoux02.zapto.org
 prpaktfdyurular.com
 prpcekiliskatilhemen.cloud
@@ -55677,6 +55681,7 @@ sozericimento.tr
 sozireo.com
 sozlerineinanmistim.click
 sozlesmeli.com.tr
+sozlesmepolicem.net
 sozumuzu-tuttuk.net
 sozuneri-kargotakibi.click
 sozunu-tutanlar-bizdik-sizlere-tekrar-getirdik.com
@@ -99993,8 +99998,3 @@ verifycard5132-booking.com
 verifycard5214-booking.com
 verifycard5315-booking.com
 verifycard5341-booking.com
-verifycard5413-booking.com
-verifycard5531-booking.com
-verifycard5651-booking.com
-verifycard58864-booking.com
-verifycard6219-booking.com
