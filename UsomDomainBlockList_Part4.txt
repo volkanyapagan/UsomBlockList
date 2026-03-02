@@ -1,3 +1,6 @@
+param-guvende-secure.com.tr
+param-guvende-shbnden.com
+param-guvende-siparis-sahibinden.com.tr
 param-guvende-siparis.com.tr
 param-guvende-ticaret.epizy.com
 param-guvende-tr.com
@@ -99995,6 +99998,3 @@ verify-secure01j.ddns.net
 verify-secure07chas.hopto.org
 verify-secure1kv.ddns.net
 verify-secure40hn.ddns.net
-verify-server54n.ddns.net
-verify-session-service.site
-verify-snapchat.com
