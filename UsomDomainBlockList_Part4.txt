@@ -1,3 +1,6 @@
+param-guvende-sahibinden.online
+param-guvende-sahibinden.org
+param-guvende-sahibinden.s2ver.online
 param-guvende-sahibinden.sh4.online
 param-guvende-sahibinden.shop
 param-guvende-sahibinden.site
@@ -42617,6 +42620,7 @@ ser.dermlogged.xyz
 ser2kke.monster
 ser3.sbs
 ser45bgh32qs.ddns.net
+ser4muyt668.duckdns.org
 serachtrtx.cfd
 seracwx.click
 seraevim.com
@@ -99994,7 +99998,3 @@ verify-citibank02.ddns.net
 verify-citiz3ns.ddns.net
 verify-details5476.com
 verify-details5651.com
-verify-details574.world
-verify-documentscvt.ddns.net
-verify-facebook.com
-verify-findmyiphone-lcloud.com
