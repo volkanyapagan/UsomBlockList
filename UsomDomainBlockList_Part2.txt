@@ -1,3 +1,4 @@
+codesrobot.cfd
 codetoki.site
 codevexillium.org
 codevisualstudio.org
@@ -6399,6 +6400,7 @@ crlslost.ddns.net
 crm-domain.net
 crm.bestintownpro.com
 crm.jskymedia.com
+crm.razatelefonia.pro
 crm.shaayanpharma.com
 crm0o2a.duckdns.org
 crmdesk.org
@@ -26295,6 +26297,7 @@ drk-frsksksmfpwqeasda.xyz
 drk12.duckdns.org
 drkampanyahaberi.com
 drkantecatapatt-6d6918ae531b.herokuapp.com
+drkantecatapulttt-0ce6a51b0124.herokuapp.com
 drkantehoplatir-acdc82b4fa63.herokuapp.com
 drkantepatlatirrrr-33917301e520.herokuapp.com
 drkantesizibacakomuzayapar-c97a37f14b33.herokuapp.com
@@ -49359,6 +49362,7 @@ euyap.org
 euyapcezasorgulama.org
 euyapdosyalarim.org
 euyapkarar.org
+euyapkontrol.org
 euyapsorgu.org
 euygulama2.com
 euygulama6.com
@@ -99994,7 +99998,3 @@ hizlikredibasvurusisteminiz.site
 hizlikrediislemleri.click
 hizlikredikartisorgu.com
 hizlikredikullan.com
-hizlikredim.com.tr
-hizlikredimerkezi.com.tr
-hizliksasdfontorcun.net
-hizlikullan.app
