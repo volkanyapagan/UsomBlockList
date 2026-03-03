@@ -1,3 +1,11 @@
+param-guvende-alisveris-tr.online
+param-guvende-alisveris.online
+param-guvende-bireysel-odeme.com.tr
+param-guvende-bireysel.com
+param-guvende-dolap.com
+param-guvende-get.cf
+param-guvende-get.com
+param-guvende-get.ml
 param-guvende-get.ru.com
 param-guvende-get.tk
 param-guvende-get.xyz
@@ -52366,6 +52374,7 @@ sok-katalog.cfd
 sok-klima-ozel.com.tr
 sok-klimanoktan.com.tr
 sok-klimaozel.com.tr
+sok-maket34-indiri2mleri-aadddd00.cfd
 sok-market-alburada.cfd
 sok-market-aninda.cfd
 sok-market-anindagel.cfd
@@ -60432,6 +60441,7 @@ subat-firsatlari-kacirma.com
 subat-firsatlari-yakala.com.tr
 subat-firsatlari-yoket.com.tr
 subat-firsatlari.com
+subat-firsatlari2-burada-com1aabbd.cfd
 subat-firsatlarin-burada101.shop
 subat-giris-basvuru.ip-ddns.com
 subat-giris-yap-kampanya.ip-ddns.com
@@ -99988,13 +99998,3 @@ verifieer-nu.com
 verifier-3b10db.webflow.io
 verifieredaccounts.hopto.org
 verifikasi-2fa-auth.duckdns.org
-verifikasi-online.com
-verifikasionline.com
-verifikation-bundesbank.com
-verifikations.ru
-verifisafe0001.duckdns.org
-verifisonetesg.ddns.net
-verifitcationsss-acyuagxivcjkzxv.duckdns.org
-verifiy-help-lnstagram.tk
-verifiy.info
-verifiyconfirmhelp.com
