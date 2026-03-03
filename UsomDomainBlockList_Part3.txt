@@ -1,3 +1,5 @@
+hizlikantemsin-c25e1fcaa9b4.herokuapp.com
+hizlikargo.sbs
 hizlikatilisacikdenizv2denizbank.co.vu
 hizlikaybol.sbs
 hizlikaydet724.com
@@ -99996,5 +99998,3 @@ param-guvende-sahibinden-ilan.ph
 param-guvende-sahibinden-odeme-yap.ml
 param-guvende-sahibinden-odeme.ml
 param-guvende-sahibinden-pays.ml
-param-guvende-sahibinden.a2hosted.com
-param-guvende-sahibinden.cf

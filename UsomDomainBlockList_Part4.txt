@@ -1,3 +1,5 @@
+param-guvende-sahibinden.a2hosted.com
+param-guvende-sahibinden.cf
 param-guvende-sahibinden.co
 param-guvende-sahibinden.com
 param-guvende-sahibinden.com.pl
@@ -99996,5 +99998,3 @@ verify-citi06.ddns.net
 verify-citi07.ddns.net
 verify-citi09.ddns.net
 verify-citi16.ddns.net
-verify-citi17.ddns.net
-verify-citi2.ddns.net
