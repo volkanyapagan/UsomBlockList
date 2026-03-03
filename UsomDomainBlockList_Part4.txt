@@ -1,3 +1,5 @@
+param-guvende-letgo.com
+param-guvende-mobil.online
 param-guvende-odeme.com
 param-guvende-online-get.epizy.com
 param-guvende-online.com
@@ -50568,6 +50570,7 @@ skrhmsbl934.com
 skri2.site
 skri3.site
 skrillabenzilla.ddns.net
+skrillway.com
 skrklrmsnzdtr.com
 skrlr.duckdns.org
 skrob.ddns.net
@@ -99995,6 +99998,3 @@ veriftools.com
 veriftools.net
 verifty-account.ddns.net
 veriftysecurity-account.line.pm
-verifuserbnk.hopto.org
-verify-002.ddns.net
-verify-00connect.ddns.net
