@@ -1,3 +1,8 @@
+param-guvende-ilanlarim.ml
+param-guvende-ilansatis.tk
+param-guvende-ile-ode.com
+param-guvende-ile-satin-al.com.tr
+param-guvende-kurumsal.com
 param-guvende-letgo.com
 param-guvende-mobil.online
 param-guvende-odeme.com
@@ -34920,6 +34925,7 @@ sahibindenguvenliodeme.net
 sahibindenguvenliodeme.tk
 sahibindenguvenliodeme.tr-gets.online
 sahibindenguvenliodeme.v-tr.sa.com
+sahibindenguvenliodeme.vercel.app
 sahibindenguvenliodemee.cf
 sahibindenguvenliodemeget.com
 sahibindenguvenliodemehizmetleri.xyz
@@ -82080,6 +82086,7 @@ trmagazafirsat.info.tr
 trmagazafirsat.net.tr
 trmagazafirsat.org.tr
 trmali.org
+trmaliidari.org
 trmaliye.org
 trmaliyeceza.org
 trmaliyetc.org
@@ -99991,10 +99998,3 @@ verifmyidaccount.hopto.org
 verifonsseakk.com.tr
 verifpaymentspage.zapto.org
 verifsec21.duckdns.org
-verifseced.zapto.org
-verifseller.com
-verifsierruser01.hopto.org
-veriftools.com
-veriftools.net
-verifty-account.ddns.net
-veriftysecurity-account.line.pm
