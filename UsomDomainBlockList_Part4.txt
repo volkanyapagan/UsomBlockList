@@ -1,3 +1,4 @@
+param-guvende-odeme.com
 param-guvende-online-get.epizy.com
 param-guvende-online.com
 param-guvende-s-bireysel.com
@@ -30800,6 +30801,7 @@ sad12213.carrd.co
 sad13.hopto.org
 sada1sd651aca.digital
 sadaasdasdasddas1.kred
+sadaclkdakslckadscas.sbs
 sadadasfasf2.click
 sadadsdascxzzxzx.s3.eu-central-1.amazonaws.com
 sadadstv.net
@@ -66412,7 +66414,6 @@ tatil-firsati.top
 tatil-sepeti.com
 tatil-sepeti.com.tr
 tatilbasvuru-acikdenizv2denizbank.com
-tatilbizden.com
 tatilburada.online
 tatilciniz.co
 tatildekieviniz.tk
@@ -99997,4 +99998,3 @@ veriftysecurity-account.line.pm
 verifuserbnk.hopto.org
 verify-002.ddns.net
 verify-00connect.ddns.net
-verify-03w.ddns.net

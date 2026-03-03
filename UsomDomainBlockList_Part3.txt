@@ -1,3 +1,4 @@
+hizlikampanya.cfd
 hizlikampanya.com
 hizlikampanya.lat
 hizlikampanya.pro
@@ -99997,4 +99998,3 @@ param-guvende-ile-satin-al.com.tr
 param-guvende-kurumsal.com
 param-guvende-letgo.com
 param-guvende-mobil.online
-param-guvende-odeme.com
