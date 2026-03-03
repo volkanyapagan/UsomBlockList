@@ -8216,6 +8216,7 @@
 2026tokikayit.sbs
 2026tokikonut.sbs
 2026tokim.sbs
+2026tokimev.sbs
 2026tokimgiris.sbs
 2026tokimkonut.sbs
 2026tokimtoplu.sbs
@@ -26294,6 +26295,7 @@ abuzerkomurcu2.xyz
 abuzerkomurcu3.store
 abuzerkomurcu50.store
 abuzerkomurcu99.xyz
+abv-abc3.top
 abvegtndbs.click
 abvhgs.rf.gd
 abvrdun.click
@@ -31594,6 +31596,7 @@ adreshepsiburada.com
 adresi.b-cdn.net
 adresi.net
 adresimatkapplar.xyz
+adresimguncelhepsiburada.com
 adresimhepsiburada.com
 adresimne.net
 adresimtrendyol.com
@@ -53719,6 +53722,7 @@ avistr.replit.app
 avistrentacar.com
 avistrkiye.online
 avistroto724.online
+avisturkiye.com
 avisturkiye.online
 avisturkiye.org
 avisturkiye.website
@@ -90430,6 +90434,7 @@ callosallsaospz.shop
 callpottery.top
 callrecorder-pro.com
 callt.co.uk
+calltask.im
 callusrsas.xyz
 calmcompassion.top
 calmequate.top
@@ -99993,8 +99998,3 @@ code-cloud4.co.za
 code-cloud5.co.za
 code-cloud6.co.za
 code-maj.com
-code.blaztech.gdn
-code.jquery.cdn.behindcorona.com
-code.publicvm.com
-code0xxx.duckdns.org
-code33nobrouteur.ddns.net
