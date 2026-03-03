@@ -71197,6 +71197,7 @@ get-ilan--sahibindensatis-com.tk
 get-ilan-bireysel.com
 get-ilan-bireysel.com.tr
 get-ilan-guvenli-odeme-sahibinden.com
+get-ilan-onay.online
 get-ilan-satinal.com.tr
 get-ilan-satisi.com
 get-ilan.com
@@ -80482,6 +80483,7 @@ guvendesatinal.com.tr
 guvendesatinaltr.com
 guvendesatinaltr.online
 guvendesepetalisverisi.com
+guvendesepetim.online
 guvendesepetim.shop
 guvendesigorta.com.tr
 guvendesigortam.com.tr
@@ -93514,6 +93516,7 @@ hepsiburada.cam
 hepsiburada.cekilis.fun
 hepsiburada.click
 hepsiburada.directory
+hepsiburada.e-guvenli-alisveris-sistemi.com
 hepsiburada.fit
 hepsiburada.golf
 hepsiburada.guru
@@ -99995,6 +99998,3 @@ hizlikampanyasi.pw
 hizlikantemsi-8f6890bc61a1.herokuapp.com
 hizlikantemsin-c25e1fcaa9b4.herokuapp.com
 hizlikargo.sbs
-hizlikatilisacikdenizv2denizbank.co.vu
-hizlikaybol.sbs
-hizlikaydet724.com

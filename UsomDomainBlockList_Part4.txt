@@ -1,3 +1,9 @@
+param-guvende-sahibinden.co
+param-guvende-sahibinden.com
+param-guvende-sahibinden.com.pl
+param-guvende-sahibinden.com.tr
+param-guvende-sahibinden.ga
+param-guvende-sahibinden.gets4.online
 param-guvende-sahibinden.guvenlihizliodemebaglantisi.com.tr
 param-guvende-sahibinden.ml
 param-guvende-sahibinden.net
@@ -32194,6 +32200,7 @@ sahibinden-get.eurunservisiniz.com
 sahibinden-get.guvencelmobil.com
 sahibinden-get.guvenilir-odeme.com
 sahibinden-get.guvenli-alisverislerim.sa.com
+sahibinden-get.hizmetl1.com
 sahibinden-get.ilanlarimiz.com.pl
 sahibinden-get.ile-odeyin-tr.com
 sahibinden-get.ileodeme.com
@@ -99991,10 +99998,3 @@ verify-citi09.ddns.net
 verify-citi16.ddns.net
 verify-citi17.ddns.net
 verify-citi2.ddns.net
-verify-citi21.ddns.net
-verify-citi22.ddns.net
-verify-citi23.ddns.net
-verify-citi29.ddns.net
-verify-citi32.ddns.net
-verify-citi36.ddns.net
-verify-citi7.ddns.net
