@@ -1,3 +1,6 @@
+codashop1d.duckdns.org
+codashop678.duckdns.org
+codashopavail.zapto.org
 codashopfftopup.duckdns.org
 codashopfreeclaim2021.duckdns.org
 codashopfreefire558.duckdns.org
@@ -79651,6 +79654,7 @@ guncelsikayetler-489.sbs
 guncelsikayetler-5.sa.com
 guncelsikayetler-64.sbs
 guncelsikayetler-657.sbs
+guncelsikayetler-658.sbs
 guncelsikayetler-7.sa.com
 guncelsikayetler-71.sbs
 guncelsikayetler-73.sbs
@@ -99994,7 +99998,3 @@ hizliiscep.com
 hizliisigortacii.com.tr
 hizliisigortacii.name.tr
 hizliisigortacii.net.tr
-hizliisigortacii.org.tr
-hizliisigortacii.web.tr
-hizliislem.app
-hizliislem.blogspot.com
