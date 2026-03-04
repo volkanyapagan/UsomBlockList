@@ -79632,6 +79632,7 @@ guncelsikayetin-1.sbs
 guncelsikayetin-12.sbs
 guncelsikayetin-16.sbs
 guncelsikayetin-17.sbs
+guncelsikayetin-18.sbs
 guncelsikayetin-19.sbs
 guncelsikayetin-26.sbs
 guncelsikayetin-27.sbs
@@ -99997,4 +99998,3 @@ hizliiatmmtv.tk
 hizliibasvuru.ml
 hizliicaagecerim.sg-host.com
 hizliicinbilgiler.com
-hizliihallyardim.gq
