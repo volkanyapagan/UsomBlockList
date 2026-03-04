@@ -73401,6 +73401,7 @@ bireysel-pafix.com
 bireysel-param-guvende.com
 bireysel-paramget-odeme.com
 bireysel-paramguvende-alisveris.com
+bireysel-password.my-homeip.net
 bireysel-payfi.com
 bireysel-payfiix.com
 bireysel-payfiix.xyz
@@ -99997,4 +99998,3 @@ coda-craven.org
 coda-shopgratis7.duckdns.org
 codaashop-com.duckdns.org
 codadim.net
-codafilesharer512.zapto.org
