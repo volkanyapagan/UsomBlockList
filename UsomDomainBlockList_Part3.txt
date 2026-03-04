@@ -35974,6 +35974,7 @@ kapida-partner.sbs
 kapida-q7m9r2xk.sbs
 kapida-qz8w4m19.sbs
 kapida-reklam-urun.com.tr
+kapida-relata.bond
 kapida-sanal-alisveris-market.xyz
 kapida-sepet.com.tr
 kapida-sepeti.com.tr
@@ -99997,4 +99998,3 @@ parafkazan.com
 parafkazandiriyor.com
 parafla.club
 paraflaguzelgunler.com
-paraflahadiyeler.com
