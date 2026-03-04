@@ -1,3 +1,4 @@
+parahoyestsidio.duckdns.org
 paraiadetalebi.a2hosted.com
 paraibuapp.club
 parainceleme.org
@@ -13888,6 +13889,7 @@ ptt.mobilservisi-6.com
 ptt.mobilservisi-8.com
 ptt.mobilservisleri.com
 ptt.mobilservisleri.online
+ptt.mobilservsim.com
 ptt.pay-spo-us.cfd
 ptt.postahanedir.com
 ptt.pttankarasubesi.com
@@ -99996,5 +99998,3 @@ verification-life-h0me.rest
 verification-login.com
 verification-mobile.icu
 verification-mobile.site
-verification-mobile.website
-verification-paypal-info.com
