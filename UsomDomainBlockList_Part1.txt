@@ -83080,6 +83080,7 @@ bots.configbinbots.info
 bots.gxz.me
 botsc.autoupdate.xyz
 botscriptshop.com
+botshield.vu
 botslabturkiye.com
 botslabturkiye.online
 botsunuz.cfd
@@ -99997,4 +99998,3 @@ cocllsm.com
 coco.miniast.com
 coco.wikaba.com
 cocoam.co.kr
-cocobooter.com
