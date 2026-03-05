@@ -1,3 +1,4 @@
+cocktailprecedent.top
 cocllsm.com
 coco.miniast.com
 coco.wikaba.com
@@ -23735,6 +23736,7 @@ dnshsdfskjasdns1423.com
 dnsinass.hopto.org
 dnsmicrosoftds-data.com
 dnsmicrosoftds-data.org
+dnsmnlk23.blogspot.com
 dnsmnlkhzmtlrwitech.site
 dnsnkahsa-mladklasa-nmamska.cyou
 dnsnkahsa-mladklasa-nmamska.icu
@@ -49673,6 +49675,8 @@ evbasvuru.online
 evbasvuru.xyz
 evbasvuru1.duckdns.org
 evbasvuru2.duckdns.org
+evbasvuru3.duckdns.org
+evbasvuru4.duckdns.org
 evbasvurugovtr.cyou
 evbasvurugovtr.sbs
 evbasvurukurra.com
@@ -99994,7 +99998,3 @@ hizlihaber.club
 hizlihaber.online
 hizlihaber.today
 hizlihaber.website
-hizlihaber.xyz
-hizlihaberler.app
-hizlihalksigortta.b-cdn.net
-hizliharikaguveniliralisveris.online
