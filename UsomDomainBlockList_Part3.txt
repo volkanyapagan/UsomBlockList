@@ -1,3 +1,4 @@
+hizligiris-teb.com
 hizligiris-turkeygovtr.com
 hizligiris-yapikredi.com
 hizligiris-yapikredii.com
@@ -36099,6 +36100,7 @@ kapida-aktuel.name.tr
 kapida-aldin.com.tr
 kapida-astryn.cfd
 kapida-bindly.bond
+kapida-bondify.bond
 kapida-byrm-eksstraa.com
 kapida-ca3bn4-inds3ml4r.cfd
 kapida-closeby.sbs
@@ -46049,6 +46051,7 @@ kosgebbasvurusu.click
 kosgebbasvurusuu.click
 kosgebbasvuruu.online
 kosgebbilgi.duckdns.org
+kosgebdestegi.click
 kosgebdestek.duckdns.org
 kosgebdestek.online
 kosgebdestekbasvuru.com
@@ -99995,6 +99998,3 @@ papsqwepms.in
 paptlogu5nm6nb4223.duckdns.org
 papuayenigne.xyz
 papy.host
-papyal.ddns.net
-papyrefb2tdk6czd.onion.link
-paqara.com
