@@ -1,3 +1,4 @@
+hizligiris-halkbank.com
 hizligiris-teb.com
 hizligiris-turkeygovtr.com
 hizligiris-yapikredi.com
@@ -99997,4 +99998,3 @@ papristraus.com
 papsqwepms.in
 paptlogu5nm6nb4223.duckdns.org
 papuayenigne.xyz
-papy.host
