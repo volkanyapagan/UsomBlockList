@@ -1,3 +1,4 @@
+paparasiteleri.com
 paparaskt.com
 paparasube.com
 paparatop.com
@@ -11203,6 +11204,7 @@ privatunis.cfd
 privchat-6cc58-default-rtdb.firebaseio.com
 prive-entry-web.myonlineportal.ch
 prive-g-r-n-l.my-homeip.de
+prive-sho-g-r-n.myonlineportal.ch
 privetdelight.duckdns.org
 privetshell.ddns.net
 privetuser992.hopto.org
@@ -99996,5 +99998,3 @@ vergileodemeye.net
 vergiler.cc
 vergilerevraklarsaksak.com
 vergilergezdimabii.com
-vergilerguvende.net
-vergileri.net
