@@ -22063,6 +22063,7 @@ a-101-app.online
 a-101-app.shop
 a-101-aylikkampanyalar.com.tr
 a-101-aylikkampanyalar.xyz
+a-101-bugune-ozel-cepte.ozel-sponsor.com
 a-101-c-om-t-r.sbs
 a-101-cepte-market-kampanya.online
 a-101-cepte-market.com
@@ -47492,6 +47493,7 @@ aqoset.ru
 aqpqmuksadbgrer.ru
 aqqkooskwa.org
 aqqrshqnqn.com
+aqqtrmobilledigitallerekllarn.space
 aqrhmb5.duckdns.org
 aqrsrpntai.ckdoorcomp.ru
 aqsa41fq.duckdns.org
@@ -99996,5 +99998,3 @@ cnnturk-hepimiz-bir-olduk-esnaf-paketi-basvuru-tk.ml
 cnnturk-hepimiz-bir-olduk-esnaf-paketi-basvuru.tk
 cnnturk-hepimiz-bir-olduk-esnaf-paketi-basvurunuz.tk
 cnnturk3.site
-cnnturk5.site
-cnnturkbasvuru.com
