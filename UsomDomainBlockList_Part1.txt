@@ -1946,6 +1946,7 @@
 101-bugun-firsatkapinda.com
 101-bugun.shop-mobil-tr.com
 101-bugune-ozel-mobil-tr.online-shop-tr.com
+101-bugune-ozel-ramazan-firsatlari-tr.mooo.com
 101-bugune-ozel-ramazan-indirimleri-tr.mooo.com
 101-cadir26temmuz.com
 101-cepte.com.tr
@@ -53589,6 +53590,7 @@ aviscarrent.bireysel-kiralama.xyz
 aviscarrent.com.tr
 aviscarrent.kiralamaonlinee.com.tr
 aviscarskiralama.com
+avischauffeur.optilian.net
 aviscomtr.com
 avisde.com.tr
 avisdekampanya.com
@@ -61553,6 +61555,7 @@ basvuruugrnnkampanyaaa.pro
 basvuruugrntttkmonya.art
 basvuruugrntttkmonya.info
 basvuruugrntttkmpnnya.art
+basvuruugrntttkmpnnya.info
 basvuruugrntttkmpnnya.pro
 basvuruugrntttkmpnnya.xyz
 basvuruuilktokevim.art
@@ -99995,6 +99998,3 @@ cnnturk-haberleri-p-a-n-d-e-m-i-destek.cf
 cnnturk-haberleri-p-a-n-d-e-m-i-destek.ml
 cnnturk-habermerkezi.org
 cnnturk-habermerkezi.site
-cnnturk-hepimiz-bir-olduk-esnaf-paketi-basvuru-tk.ml
-cnnturk-hepimiz-bir-olduk-esnaf-paketi-basvuru.tk
-cnnturk-hepimiz-bir-olduk-esnaf-paketi-basvurunuz.tk
