@@ -1981,6 +1981,7 @@
 101-de-ozel-firsatlar-bugune-ozel-alisveris-tr.com
 101-de-ozel-firsatlar-bugune-ozel-online-indirimler-tr.mooo.com
 101-de-ozel-mobil.cep-shop-sponsor.com
+101-de-ramazana-ozel-sepet-indirimleri.mooo.com
 101-de-tr-bugune-ozel.cep-shop-sponsor.com
 101-den-firsatlariniz-kacmasin.sbs
 101-efsane.shop
@@ -54029,6 +54030,7 @@ avsonline.com.tr
 avsonlinee.com.tr
 avsonlinee.xyz
 avsonlinefilom.me
+avsotomobilkiralama.com
 avsrent.com.tr
 avsrentacar.com.tr
 avsrentacar.genel-merkez.com.tr
@@ -99996,5 +99998,3 @@ cnnturk-haberin-merkezi.org
 cnnturk-haberinmerkezi.net
 cnnturk-haberleri-p-a-n-d-e-m-i-destek.cf
 cnnturk-haberleri-p-a-n-d-e-m-i-destek.ml
-cnnturk-habermerkezi.org
-cnnturk-habermerkezi.site
