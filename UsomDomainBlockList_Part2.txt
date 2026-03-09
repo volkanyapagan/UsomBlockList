@@ -80026,6 +80026,7 @@ guncelsikaytlervar-10.sbs
 guncelsikaytlervar-11.sbs
 guncelsikaytlervar-12.sbs
 guncelsikaytlervar-17.sbs
+guncelsikaytlervar-18.sbs
 guncelsikaytlervar-19.sbs
 guncelsikaytlervar-27.sbs
 guncelsikaytlervar-28.sbs
@@ -99997,4 +99998,3 @@ hizligecismerkezindesin.blogspot.com
 hizligecismsl1odeyn.blogspot.com
 hizligecismtvindirimlernikacirma.blogspot.com
 hizligecisode.info
-hizligecisodeme.info
