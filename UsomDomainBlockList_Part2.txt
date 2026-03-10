@@ -1,3 +1,6 @@
+cnn-turk-web-aidate-basvur.net
+cnn-turk-web-giris.net
+cnn-turk.my-homeip.net
 cnn.gr.com
 cnn24-7.online
 cnncell.com
@@ -12464,6 +12467,7 @@ denetimakobasvuruservices.com
 denetimerkkezi.com
 denetimmerkezi.tk
 denetimservisleri-tr.ga
+denetimsorgu.org
 denetleme-grs-hzt.online
 denetleme-iadeformu-edevlet.com
 denetlemebasvur.online
@@ -58568,6 +58572,7 @@ firsatburada-aldin-aldin.com.tr
 firsatburada.cfd
 firsatburada.digital
 firsatburada.online-sahane.com.tr
+firsatburada.top
 firsatburada.xyz
 firsatburadaanindakredi.site
 firsatburadabasvur.com
@@ -62147,6 +62152,7 @@ form253.xyz
 form2page.duckdns.org
 formaicafeng123.ddns.net
 formajans.xyz
+formal-thereafter-requiring-connectors.trycloudflare.com
 formal.drfqopmnlight.com
 formal.nmyfun.com
 formal.terdpo.com
@@ -99992,9 +99998,3 @@ hizligecerlimobilkampanyafirsati.online
 hizligecguvenl.org
 hizligechgs.com
 hizligechgyukle.com
-hizligecidimhgs.com
-hizligeciisode.xyz
-hizligecirmehgs.com
-hizligecis-devletodemeler.gq
-hizligecis-devletyukleme.gq
-hizligecis-hizligecissistemi.ga
