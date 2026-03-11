@@ -1,3 +1,5 @@
+panel.goldenglobalbank.credit
+panel.goldenglobalbank.xyz
 panel.ile-alisverisim.com
 panel.infolanmam.com
 panel.joepanel.pro
@@ -4937,6 +4939,7 @@ payplverification.duckdns.org
 paypol3.hopto.org
 payppall-confrimation-account-limit.com
 paypsecure.hopto.org
+payqislemmerkezi.com
 payrolappaeent.top
 payroll.mywire.org
 payrrool.com
@@ -99995,6 +99998,3 @@ venturecoconut.top
 venturemeets.com
 venturemusic-data.com
 venturesabanci.com
-venturesindia.co.in
-venturessabanci.com
-venturs.digital

@@ -37538,6 +37538,7 @@ karemsub.duckdns.org
 karenaloursan.sbs
 karenandkarren.com
 karenlergeldi.cfd
+karenpara.click
 karens-dapper-site-ea9b50.webflow.io
 karenweingard.com
 karetnasa.com
@@ -61850,6 +61851,7 @@ masakcezatr.org
 masakdava.net
 masakdavamtr.org
 masakdenetim.com
+masakdenetim.org
 masakdosya.net
 masakdosyagovtr.org
 masakdosyasorgu.com
@@ -99996,5 +99998,3 @@ panel.alwayspower.site
 panel.darkcomet.space
 panel.goldenglobal.credit
 panel.goldenglobal.in
-panel.goldenglobalbank.credit
-panel.goldenglobalbank.xyz
