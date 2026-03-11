@@ -1,3 +1,7 @@
+panel.alwayspower.site
+panel.darkcomet.space
+panel.goldenglobal.credit
+panel.goldenglobal.in
 panel.goldenglobalbank.credit
 panel.goldenglobalbank.xyz
 panel.ile-alisverisim.com
@@ -7697,6 +7701,7 @@ pkrdela.com
 pks65u.duckdns.org
 pkserverkeyfisi.xyz
 pkslabc.cn
+pkslacmynlraintbrdyz.mooo.com
 pksthkldssds.com
 pkt-i.blogspot.com
 pkt-ykle-noktasi.blogspot.com
@@ -9042,6 +9047,7 @@ pooooofggggwwweeeq11111123.sbs
 poopulotis.ddns.net
 pooq45.duckdns.org
 poor-place-kitchen-advertise.trycloudflare.com
+poor-swing-county-von.trycloudflare.com
 poor9873.xyz
 poorcetnmjfc.online
 pooreveningfuseor.pw
@@ -19391,6 +19397,7 @@ qnb-online-kredihizmetler.duckdns.org
 qnb-online.online
 qnb-onlinepuan.com
 qnb-parapuan-mobil.com
+qnb-promosyon-katilimbasvurusu.duckdns.org
 qnb-promosyon.duckdns.org
 qnb-promosyonhizmetlerim.duckdns.org
 qnb-qatar.com
@@ -33132,6 +33139,7 @@ sahibinden-get.odeme-ilanlarim.sa.com
 sahibinden-get.online-odemeler.sa.com
 sahibinden-get.online-odemelerim.sa.com
 sahibinden-get.online-tr.sa.com
+sahibinden-get.payqislemmerkezi.com
 sahibinden-get.r-bireyselservis.com
 sahibinden-get.r-bireyselservisler.com
 sahibinden-get.r-onaylihizmetin.com
@@ -99990,11 +99998,3 @@ ventraxel.com
 ventriculitidae.com
 ventriloquistic.com
 ventronics.co.za
-ventroxibnk.com
-venturadis.info
-venturalin.digital
-ventureaffiliation.top
-venturecoconut.top
-venturemeets.com
-venturemusic-data.com
-venturesabanci.com
