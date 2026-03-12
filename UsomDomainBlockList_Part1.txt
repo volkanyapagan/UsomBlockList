@@ -40798,6 +40798,7 @@ aldin-aldin-market-shop-pazari-tr.online
 aldin-aldin-market.com.tr
 aldin-aldin-market.online
 aldin-aldin-marketi-bugune-ozel-tr.online
+aldin-aldin-mart.net
 aldin-aldin-mayis.com.tr
 aldin-aldin-mayis.online
 aldin-aldin-ocak.com.tr
@@ -99997,4 +99998,3 @@ cnfh.mobi
 cnfirmcmmnityxlyuo91jsx13.duckdns.org
 cnfmtnaccnt9.duckdns.org
 cnfmtnbsns.duckdns.org
-cnfrm-booking.com
