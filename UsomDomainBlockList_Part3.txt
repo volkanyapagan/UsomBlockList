@@ -41352,6 +41352,7 @@ kgm-trgov.sbs
 kgm-trm.cfd
 kgm-vvc.top
 kgm-yukle.com
+kgm-yukle.net
 kgm-yukle.org
 kgm-yuklee.com
 kgm-yuklee.org
@@ -99997,4 +99998,3 @@ pandemiyardimbasvur.com
 pandemiyardimbasvuru.live
 pandemiyardimdesteklemeleri.com
 pandemiyardimedestek.rf.gd
-pandemiyardimformudoldur3501tl.xyz
