@@ -41947,6 +41947,7 @@ alisveris-hemen-kapinda.com
 alisveris-hizli.com.tr
 alisveris-hizmet.com.tr
 alisveris-hizmeti.net
+alisveris-hizmeti.online
 alisveris-ilan-hizmet.com
 alisveris-ilan-pay.com
 alisveris-ilanal.com.tr
@@ -47556,6 +47557,7 @@ aquaplasmin.freemyip.com
 aquapro.co
 aquaserver.duckdns.org
 aquasisdidim.com
+aquasisdidimdeluxe.com
 aquasnapz.com
 aquatic-organisms.info
 aquavista.org.nz
@@ -99996,5 +99998,3 @@ cnfsxtgje.com
 cngov.online
 cngresearch.com
 cngsby.cfd
-cngsby.sbs
-cnhaber.com
