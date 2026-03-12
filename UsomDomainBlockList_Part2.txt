@@ -1,3 +1,6 @@
+cnfrmacntbsns.duckdns.org
+cnfrmcntaccnt.duckdns.org
+cnfrmtionbsns-100250501.duckdns.org
 cnfrmtionbsns-1002976.duckdns.org
 cnfrmtionbsns-100298.duckdns.org
 cnfrmtionbsns-10029875.duckdns.org
@@ -99995,6 +99998,3 @@ hizlidakik.com
 hizlidakikalar.site
 hizlidanislem.sg-host.com
 hizlidanislemler.sg-host.com
-hizlidanislemler1.sg-host.com
-hizlidanyonlendirburadan.top
-hizlidanyonlendirme.com
