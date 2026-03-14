@@ -22849,6 +22849,7 @@ istanbul-kartt-dolum.net
 istanbul-kartt.net
 istanbul-kolayca-yukle.online
 istanbul-lkart.blogspot.com
+istanbul-lojistik.shop
 istanbul-neco.net
 istanbul-onlineislem.com
 istanbul-onlinekartyuklemeleri.com
@@ -99997,4 +99998,3 @@ pandemihizmetim.fit
 pandemihizmetim2021.fit
 pandemiidesek.rf.gd
 pandemiidestegi.com
-pandemiidestek.com
