@@ -1,3 +1,4 @@
+pandemiidestegi.com
 pandemiidestek.com
 pandemiidestekk12.com
 pandemiidestekk14.com
@@ -15392,6 +15393,7 @@ pttavm.sepet-onay.com.tr
 pttavm.sepet-satinal.com
 pttavm.sepetfirsati.com.tr
 pttavm.sepetim-get-odeme.com
+pttavm.sepetim-guvenli-14278.com
 pttavm.sepetim-onayli-137426.com
 pttavm.sepetim-onayli-207426.com
 pttavm.sepetim-onayli-227426.com
@@ -99996,5 +99998,3 @@ vdsfsh.icu
 vdsl1n0.duckdns.org
 vdsm.xyz
 vdsneadirdenelerdir.blogspot.com
-vdssdvmvsdmn.net
-vdt11.duckdns.org
