@@ -1,3 +1,4 @@
+cmz12.ddns.net
 cmza13ff.duckdns.org
 cmzeph0.duckdns.org
 cmzhjmdzte.duckdns.org
@@ -80903,6 +80904,7 @@ guven-de-get.shop
 guven-de.online
 guven-den.com
 guven-kask-sigorta.blogspot.com
+guven-li-g-r-n-l.myonlineportal.ch
 guven-sigorta.net
 guven-ticaret.shop
 guven-yukleme.22web.org
@@ -99996,5 +99998,3 @@ hizlibenz-034140ccd19c.herokuapp.com
 hizlibildirimler.com
 hizlibilet.online
 hizlibilgialmak.com
-hizlibilgiislem.com
-hizlibilgiislemleri.com
