@@ -83795,6 +83795,7 @@ haber350.online
 haber350.site
 haber350.website
 haber360.site
+haber360tc2016.cfd
 haber360tr.cfd
 haber360tr.com
 haber365.club
@@ -99997,4 +99998,3 @@ hizlialdiyeeylulayiindirimi.com.tr
 hizlialdiyeeylulayiindirimi.online
 hizlialdiyeeylulayiindirimi.xyz
 hizlialdiyeeylulayiindirimleri.online
-hizlialdiyeeylulayiindirimleri.xyz
