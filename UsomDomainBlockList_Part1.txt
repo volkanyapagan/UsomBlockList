@@ -18072,6 +18072,7 @@
 756-ads-info.xyz
 756434322346567897845.online
 756484158315.com
+756564453234.online
 75735.club
 75745212.site
 75748777777.xyz
@@ -51255,6 +51256,7 @@ aslantibe.site
 aslanunlumamulleri.com
 aslanyarim.com
 aslanyazar.xyz
+aslanyidigo.duckdns.org
 aslavazgecme.duckdns.org
 aslavcldvt-vdvt.com
 aslbpxjjt.duckdns.org
@@ -62471,6 +62473,7 @@ bayram-destk-pakt.net
 bayram-destk-pakt.org
 bayram-geldi-limitler-geldi.com
 bayram-geldi-nese-geldi-bizler-mutluyuz.com
+bayram-gratis.7s.com.tr
 bayram-ikramiyesi-alma-islemi.org
 bayram-ikramiyesi-kampanya-hemen-al.com
 bayram-ikramiyesi-tr.ml
@@ -99995,6 +99998,3 @@ cmerkezbankasi.com
 cmevents.live
 cmevents.pro
 cmex.zapto.org
-cmfarm.ddns.net
-cmflhfcbsnaeqdj.su
-cmfot.ml
