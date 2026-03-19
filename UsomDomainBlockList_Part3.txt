@@ -1,3 +1,7 @@
+hizli.sigortamnetdenb.com.tr
+hizli.sigortamnete.com.tr
+hizli.sigortamnetfea.com.tr
+hizli.sigortamnetfeeb.com.tr
 hizli.sigortamnetfefc.com.tr
 hizli.sigortamnetkora.com.tr
 hizli.sigortamnettima.site
@@ -1994,6 +1998,7 @@ hizmetlerziraat.duckdns.org
 hizmetlerziraatim.duckdns.org
 hizmetliguvenli-onlineodesiparis.com
 hizmetlistem.net
+hizmetllservislerin.com
 hizmetlm.site
 hizmetmerkezi.77-83-201-133.plesk.page
 hizmetmerkezi.org.tr
@@ -23395,6 +23400,7 @@ istanbulhepimizin.com
 istanbulhepimizin.net
 istanbulhepsi.shop
 istanbulheryerde.myshopify.com
+istanbulhicguzeldegil.com
 istanbulhizliat.shop
 istanbulhizliyiz.me
 istanbulhizmet.com
@@ -99992,9 +99998,3 @@ pandemi-d-estek-sosyal.com
 pandemi-ddestek.com
 pandemi-des-tek-destek.com
 pandemi-destegi-al.tk
-pandemi-destegi-basvurusu.biz
-pandemi-destegi-eylulayinaozel.com
-pandemi-destegi-eylulayinaozell.com
-pandemi-destegi-gov.com
-pandemi-destegi-gov.org
-pandemi-destegi-sizlerle.site
