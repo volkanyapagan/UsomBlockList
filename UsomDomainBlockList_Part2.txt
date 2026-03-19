@@ -17417,6 +17417,7 @@ denizsenlefirsatda.online
 denizshoem.cio-cdn.net
 denizsizinle.com
 denizsizinlegununde.com
+denizsizlerle.duckdns.org
 denizskredilimiti.net
 denizsnntste.xyz
 denizson100yil.online
@@ -99997,4 +99998,3 @@ hizli.sigortamnetcdbf.com.tr
 hizli.sigortamnetdea.site
 hizli.sigortamnetdeb.site
 hizli.sigortamnetdec.site
-hizli.sigortamnetdeg.com.tr

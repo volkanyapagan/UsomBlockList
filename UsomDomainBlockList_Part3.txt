@@ -1,3 +1,4 @@
+hizli.sigortamnetdeg.com.tr
 hizli.sigortamnetdenb.com.tr
 hizli.sigortamnete.com.tr
 hizli.sigortamnetfea.com.tr
@@ -99997,4 +99998,3 @@ pandemi-covid191.com
 pandemi-d-estek-sosyal.com
 pandemi-ddestek.com
 pandemi-des-tek-destek.com
-pandemi-destegi-al.tk
