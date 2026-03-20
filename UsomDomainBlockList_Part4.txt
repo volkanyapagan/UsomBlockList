@@ -1,3 +1,7 @@
+pancarfilo.com.tr
+panci.site
+panci.store
+panconstrain.top
 pancreatoid.com
 pand-em-id-est-ek.com
 pand-emi-destek.com
@@ -70428,6 +70432,7 @@ teb-basvuruiphone.net
 teb-basvurular2026.duckdns.org
 teb-basvurusu.com
 teb-basvurutr.com
+teb-bayramaozel.my-homeip.net
 teb-bayramfirsatlari.com
 teb-bireysel-islemler.com
 teb-bireysel-kampanya.gt.tc
@@ -99993,8 +99998,3 @@ vatandas-devlet-kapisi-giri-n-244.b-cdn.net
 vatandas-dosyasorgu.b-cdn.net
 vatandas-e-devletgiriskapisiigov-tr-portal.com
 vatandas-ebasvuru.com
-vatandas-ebasvuruyap.com
-vatandas-ebilgilendirme-aidatiade-basvurulari.com
-vatandas-edevlet.com
-vatandas-edevletgiiskapisicomtr-portal.com
-vatandas-edevletgiriskapisicomtr-portal.com
