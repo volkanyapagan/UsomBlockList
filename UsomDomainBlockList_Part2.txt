@@ -1,3 +1,4 @@
+clutch-ppc.com
 clutch-work.com
 clutchkeen.top
 clutchparalyze.top
@@ -32192,6 +32193,7 @@ e-giris-devlet-eportal-webtr.com
 e-giris-dogrulamam.net
 e-giris-kaidat.site
 e-giris-kartaidat.site
+e-giris-konut.sbs
 e-giris-kredi-kart-iade-aidat-sismeleriniz-g-o-v-tr.com
 e-giris-kredi-kart-iade-aidat-sismeleriniz-g-o-v-trt.com
 e-giris-kredim.blogspot.com
@@ -32200,6 +32202,7 @@ e-giris-onlinehizmet-portal.tk
 e-giris-onlinemobildevlettenislemlerim-portal.com
 e-giris-panel.online
 e-giris-resmi.site
+e-giris-toki.sbs
 e-giris-turkiye-kapii.mobi
 e-giris-turkiyegovtr.com
 e-giris-turkiyem.com
@@ -99995,6 +99998,3 @@ hizli-sorgu212-c1c4f5214661.herokuapp.com
 hizli-sorgulama-ve-aktarma-islemi.store
 hizli-subat-basvuru-1.ip-ddns.com
 hizli-sube-girislerimle.xyz
-hizli-subebasvuru.com
-hizli-subevibiworldislemleri.com
-hizli-super-deniz.ip-ddns.com
