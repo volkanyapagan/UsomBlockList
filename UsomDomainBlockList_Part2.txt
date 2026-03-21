@@ -1,3 +1,4 @@
+clutch-car.com
 clutch-data.com
 clutch-pcp.com
 clutch-ppc.com
@@ -33109,6 +33110,7 @@ e-konutbasvuruekran.sbs
 e-konutbasvurularim.com
 e-konutislemleri.com
 e-konutprojesi.com
+e-kosgebbasvuru.digital
 e-krdverbasvur.net
 e-kredi-aidat-iadelerinizalin.net
 e-kredi-aidati-adeleriniz.net
@@ -99996,5 +99998,3 @@ hizli-sigortam.net
 hizli-siparis-olusr-101.online
 hizli-siparis-olusr-101.xyz
 hizli-siparis-olustur-101-kampanya.online
-hizli-siparis-olustur-a101.online
-hizli-siparis-olustur-online101.com
