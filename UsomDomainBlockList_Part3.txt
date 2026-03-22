@@ -1,3 +1,5 @@
+hizli-onay.click
+hizli-onay.sbs
 hizli-online-aktarim-islemi.store
 hizli-online-aktarma-ekrani.site
 hizli-online-aktarma-sistemi.site
@@ -99996,5 +99998,3 @@ palasanan.net
 palasanen.net
 palasasan.net
 palasedelareforma.com
-palashpharrna.co.in
-palasnasen.net
