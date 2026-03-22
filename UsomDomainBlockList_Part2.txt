@@ -34051,6 +34051,7 @@ e-sube-ozel-yilsonu-kampanyasi.online
 e-sube-portaldevlet-girisin.com
 e-sube-portaldevletgirisi.wine
 e-sube-qnbfinansbank.com
+e-sube-teb-cepteteb-parola.my-homeip.de
 e-sube-teb-cepteteb-parola.my-homeip.net
 e-sube-tebliyiz.com
 e-sube-vakifbank.com
@@ -99997,4 +99998,3 @@ hizli-onay.cfd
 hizli-onay.click
 hizli-onay.sbs
 hizli-online-aktarim-islemi.store
-hizli-online-aktarma-ekrani.site
