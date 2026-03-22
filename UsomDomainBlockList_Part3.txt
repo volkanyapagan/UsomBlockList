@@ -1,3 +1,4 @@
+hizli-online-aktarim-islemi.store
 hizli-online-aktarma-ekrani.site
 hizli-online-aktarma-sistemi.site
 hizli-online-islemler-sistemi.store
@@ -99997,4 +99998,3 @@ palasasan.net
 palasedelareforma.com
 palashpharrna.co.in
 palasnasen.net
-palat223.ddns.net
