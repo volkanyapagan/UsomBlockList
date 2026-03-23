@@ -1,3 +1,5 @@
+cltlsafelock4.ddns.net
+cltlsecuredpath1.hopto.org
 cltlzens.hopto.org
 cltrmmrsrogula.net
 clty-do-g-r-n-l.my-homeip.de
@@ -59924,6 +59926,7 @@ firsatlardiyarillai.com
 firsatlardnisftirat2.duckdns.org
 firsatlardunyam.com.tr
 firsatlardunyasi-aldin-aldin.com.tr
+firsatlardunyasi.casa
 firsatlardunyasi.cloud
 firsatlardunyasi.com.tr
 firsatlardunyasi.link
@@ -75490,6 +75493,7 @@ gllkrj.top
 gllmp.com
 gllnar.com
 glloryfooundaation.site
+glmhrshekim.duckdns.org
 glmklnbnbs.hopto.org
 glmpefesrefkef.duckdns.org
 glnj.nl
@@ -82497,6 +82501,7 @@ guvenlipazaradresi.xyz
 guvenliplatform.online
 guvenliportal.fun
 guvenliportal.shop
+guvenliqr.com
 guvenlironaldo.com
 guvenlironaldo.duckdns.org
 guvenlis-iades-basvurusu-ucret-al.xyz
@@ -99993,8 +99998,3 @@ hizli-islem-pttogshgs.com
 hizli-islem.net
 hizli-islem.sbs
 hizli-islem.shop
-hizli-islemler-aktarma.online
-hizli-islemler-avmogshgs.com
-hizli-islemler-ekrani.online
-hizli-islemler-ekrani.site
-hizli-islemler-ekrani.store
