@@ -1,3 +1,4 @@
+paket-yukle-bim.net
 paket-yukle.net
 paket-yuklerdik.weebly.com
 paket.ink
@@ -95950,6 +95951,7 @@ uyapbilgilendirme.com.tr
 uyapbilgilendirme.org
 uyapbilgisistem.com
 uyapbim.net
+uyapborcsorgulama.org
 uyapceza-uzlasma.com
 uyapceza.com
 uyapceza.org
@@ -99996,5 +99998,3 @@ valefrih.shop
 valekiralamaavis.xyz
 valenco.sbs
 valencrestora.top
-valensildia.net
-valentakkx.store
