@@ -1,3 +1,6 @@
+cloudtesting.ddns.net
+cloudtesting1.ddns.net
+cloudtesting2.ddns.net
 cloudtimesync.com
 cloudupdate.co.za
 cloudupdates.co.za
@@ -99995,6 +99998,3 @@ hizli-basvur-kredi3.ip-ddns.com
 hizli-basvur-kredi4.ip-ddns.com
 hizli-basvur-subat-2.ip-ddns.com
 hizli-basvur.cfd
-hizli-basvur.sbs
-hizli-basvurdu.ip-ddns.com
-hizli-basvurmobildeniz.com
