@@ -18903,6 +18903,7 @@
 7pwhw4q0u0cb7fa.ddns.net
 7pyu42i.duckdns.org
 7q2k8y.duckdns.org
+7q2xk9m4fbb8zzna.cfd
 7q35.vh04ft4.com
 7q3e4i.duckdns.org
 7q50sf9.duckdns.org
@@ -49346,6 +49347,7 @@ arastek.online
 arastir.sbs
 arasua.click
 arateklifalsiqorta.com.tr
+aratmans.sbs
 aratsss.com
 arauas.com
 araucahkbm.live
@@ -56434,6 +56436,7 @@ b3ssm0t4.xyz
 b3trcxss-yedixst.com
 b3vw326.duckdns.org
 b3x8k6q2m9f4n7hvat.sbs
+b3x8m2k9q6f4n7vzat.cfd
 b3ypa2ss1.codns.com
 b4-amazon.work
 b40p8.sfx4.com
@@ -99995,6 +99998,3 @@ cloudnewsdaily.sa.com
 cloudnewsveirfly.com
 cloudocs.space
 cloudon1.com
-cloudon1.net
-cloudpillar.store
-cloudpkm.com
