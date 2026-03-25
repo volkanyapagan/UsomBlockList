@@ -1,3 +1,5 @@
+clouds.rf.gd
+cloudsave.duckdns.org
 cloudsbox.net
 cloudsecure.space
 cloudserve.online
@@ -21935,6 +21937,7 @@ dijitalacikv2denizyatirimi.co.vu
 dijitaladres-denizacik.com
 dijitalak-juzzdanislem.mom
 dijitalalan.sbs
+dijitalaninda.sbs
 dijitalaninda.store
 dijitalasistaninbu.com
 dijitalbank-acikdenizmobil.com
@@ -22937,6 +22940,7 @@ dimascu.duckdns.org
 dimasds.ddns.net
 dimash-concert.com
 dimash-ticket.ru
+dimclub.com.br
 dimcocktail.top
 dimcservation.top
 dimdams.ddns.net
@@ -65319,6 +65323,7 @@ g-digitallbonusmenu.online
 g-digitallbonusmenulari.online
 g-digitallinbonusmenulari.online
 g-dijitallbonusmenu.online
+g-dijitalreklamgirismenusutr.space
 g-e-t-paramguvende.tk
 g-e-t-sahibinden-get-guvenli-ode.tech
 g-ecislerin-hgs.defol.app
@@ -99993,8 +99998,3 @@ hizli-alim-servisi.online
 hizli-alim.com.tr
 hizli-alim.online
 hizli-alisveris-bayram-aozel.com
-hizli-alisveris-bayram-aozel.online
-hizli-alisveris-bayram-aozel.xyz
-hizli-alisveris-bayram.com
-hizli-alisveris-bayram.online
-hizli-alisveris-bayram.xyz

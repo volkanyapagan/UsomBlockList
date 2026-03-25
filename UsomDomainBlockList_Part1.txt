@@ -8201,6 +8201,7 @@
 2025yildizlarinda.xyz
 2025yilikampanyasizlere.com
 2026-basvurum.sbs
+2026-giris.sbs
 2026-hep-beraber-sahlaniyoruz-sayesinde.sbs
 2026-ocakayi-sorgusu.sbs
 2026-yanizda-olacak.sbs
@@ -64841,6 +64842,7 @@ belgimonay.sbs
 belgimonayi.com
 belgimonayin.sbs
 belgimonayin.xyz
+belgimonayincan.sbs
 belgimonayis.net
 belgimportal.com
 belgimpratik.com
@@ -99996,5 +99998,3 @@ cloudpkm.com
 cloudplead.top
 cloudrash.top
 cloudrootstorage.com
-clouds.rf.gd
-cloudsave.duckdns.org
