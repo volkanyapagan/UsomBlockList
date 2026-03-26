@@ -22282,6 +22282,7 @@ a-101aldinaldin.shop
 a-101aldinaldingdf.com
 a-101birfirsatlari.me
 a-101c-o-mt-r.cyou
+a-101c0lmtd.cyou
 a-101c0lmtl.cyou
 a-101c0m.cyou
 a-101c0mtl.cfd
@@ -58121,6 +58122,9 @@ baninventory.top
 banis.hopto.org
 banisdor.top
 banislem.com
+banisori.xyz
+banisorid.xyz
+banisorixa.xyz
 banjalucke-ljepotice.ru
 banjo.la
 bank-account.live
@@ -66271,6 +66275,7 @@ bgncshksl.duckdns.org
 bgndolnfsrtlarn.sbs
 bgne-dgrktmk.com
 bgnfrsataylarimiz.cfd
+bgnglivir.cfd
 bgnl-ng-smd.shop
 bgnlerdeszlerlefrstlr.com
 bgnlerdsbyzlerdbyk.shop
@@ -94772,6 +94777,7 @@ cep-teteb.net
 cep-teteb.online
 cep-teziraat.com
 cep-tr-giris-mobil-subem.ml
+cep-tr-mobilde-online-sepet.cfd
 cep-tr-mobilde-online-sepet.sbs
 cep-ttsiparis.com
 cep-turkiye-bireysel-mobil-giris-kapisi.ml
@@ -99992,9 +99998,3 @@ cloudguardins.ru.com
 cloudguardveirfy.com
 cloudharambe.xyz
 cloudharbor-app239.vercel.app
-cloudharbor-ext664.vercel.app
-cloudhostdesign.com
-cloudhub.co.ls
-cloudimages.net
-cloudimg.my
-cloudinewsystem.com
