@@ -19953,6 +19953,7 @@
 8bk4q4xm5.duckdns.org
 8boomandool.com
 8bpcoin.com
+8bqk2x9m7f4zzhna.cfd
 8bstc7eur.duckdns.org
 8bt4jwhx1.duckdns.org
 8buocze.xdk8ax.cn
@@ -21933,6 +21934,7 @@ Sahibinden.elektronik-al.online
 Sahibinden.elektronik-servisin.online
 Sahibinden.secureapplication.com.tr
 Sahibinden.sepetimiz-tr.online
+Samsungtulet65inc165ekrantelevizyonpttavm.com
 Sanalcilar.org
 Sbilgihukukborchgsosrgu.duckdns.org
 Scopps.ddnsgeek.com
@@ -99996,5 +99998,3 @@ cloudmonitor.ccg13.slc.coinbase-com.info
 cloudnaver.com
 cloudnestde.com.de
 cloudnewsdaily.sa.com
-cloudnewsveirfly.com
-cloudocs.space

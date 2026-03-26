@@ -1,3 +1,6 @@
+hizli-aktarim-yap-e-transfer.store
+hizli-aktarim-yapma-ekrani.store
+hizli-aktarma-e-ekran.website
 hizli-aktarma-ekrani-online.store
 hizli-aktarma-ekrani.fun
 hizli-aktarma-ekrani.online
@@ -99995,6 +99998,3 @@ pairbuboxairdropalma.com
 pairbuboxairdropservice.com
 pairbuboxonline.com
 pairbuboxservice.com
-pairbuboxwalletairdrop.com
-pairbuboxwalletairdropp.com
-pairbuboxwllet.com
