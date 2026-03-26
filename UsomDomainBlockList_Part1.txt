@@ -62427,6 +62427,7 @@ baykar.icu
 baykar.lol
 baykar.ltd
 baykar.run
+baykar.shop
 baykar.site
 baykar.ticktokers.com
 baykar.top
@@ -99997,4 +99998,3 @@ cloudkdzym.lat
 cloudlane.host
 cloudlare-lndex.com
 cloudlflares.com
-cloudlive.pub
