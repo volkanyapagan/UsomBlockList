@@ -57590,6 +57590,7 @@ bakiy-eiadefirsatibnncda.net
 bakiy-eiadefirsatibnncede.net
 bakiye-----hgs-----ptt------com.net
 bakiye-dolum.istanbul
+bakiye-yukkleme-merkezi-hgs.duckdns.org
 bakiye-yukle.com
 bakiye-yukleme.com.tr
 bakiye-yuklemesi.ml
@@ -99997,4 +99998,3 @@ cloudboats.vip
 cloudbrocloud.com
 cloudcanvas.homes
 cloudcare.duckdns.org
-cloudcat.ddns.net

@@ -1,3 +1,8 @@
+page556000.shop
+page585166.shop
+page587358.shop
+page593686.shop
+page593797.shop
 page603201.shop
 page610303.shop
 page612015.shop
@@ -34980,6 +34985,7 @@ sahibinden-getilan.t-ilanislem.online
 sahibinden-getilan.t-ilanlar.online
 sahibinden-getilan.tr-alisverisler.com.tr
 sahibinden-getilan.tr-hizmet.online
+sahibinden-getilan.tr-islemler-param-guvende.online
 sahibinden-getilan.ty-hizmet.online
 sahibinden-getilanlar.com.tr
 sahibinden-getle-guvende.com
@@ -54534,6 +54540,7 @@ snkzbryrgldkbd.bond
 snkzlerdasndsa.shop
 snkzlerdensenk.org
 snkzordanlrdasns.bond
+snkzvrdkbrdkbrmdks.shop
 snkzvrolrazdasdas.club
 snlardanbrdansnkz.shop
 snldbrdnaldsndalbnc.mooo.com
@@ -57438,6 +57445,7 @@ sorguiv3.online
 sorguiv4.online
 sorgukampanyalar.com
 sorgukampanyalar2022.com
+sorgukontrol.org
 sorgul-s.com
 sorgul-tr.com
 sorgul.app
@@ -80865,6 +80873,7 @@ tr-iscep.ml
 tr-islem-secure.online
 tr-islem.online
 tr-islemler-govtr.org
+tr-islemler-param-guvende.online
 tr-islemler.com
 tr-islemlerim-guvende.com.tr
 tr-itirazdestek.ml
@@ -99989,12 +99998,3 @@ vakifnisansonfirsati.click
 vakifnoelsansi.tk
 vakifocakhediyeleri.com
 vakifocakhediyeleri.ml
-vakifocakkampanya.xyz
-vakifocakkampnya.xyz
-vakifocaktaguzel.ml
-vakifonay-cjythp.top
-vakifonay-quajlhe.top
-vakifonaylikrediv3.co.vu
-vakifonline-giris.com
-vakifonline.cf
-vakifonline.duckdns.org
