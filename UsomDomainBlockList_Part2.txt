@@ -1,3 +1,4 @@
+cloudaskingquestions.eastus.cloudapp.azure.com.net
 cloudaskquestionanswers.azurewebsites.net
 cloudaskquestionanswers.azurewebsites.net.net
 cloudaskquestionanswers.com
@@ -20784,6 +20785,7 @@ dfuklwsxdymvruwxgplvdyqazxnyibfrplqxc7g82sfbukjxwry.glitch.me
 dfuso.zapto.org
 dfuykhndfkhjdfnkdfhbdfkjhdbhkf.com
 dfvb56524123v.duckdns.org
+dfvdvdvbgnacsd.sbs
 dfvgkjsjkda.net
 dfvkhtpi.info
 dfvmn.cc
@@ -99996,5 +99998,3 @@ hit-1488.com
 hit-mee.com
 hit-now.net
 hit-pk.org
-hit-senders.cn
-hit.asmung.net
