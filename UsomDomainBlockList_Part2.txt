@@ -1,3 +1,5 @@
+cloudflare.site
+cloudflare.solutions
 cloudflareaddons.com
 cloudflarecdn.com
 cloudflorepageglobalcatilim.online
@@ -84394,6 +84396,7 @@ haberiye.online
 haberiye.site
 haberiye.website
 haberiz.shop
+haberizle.online
 haberizlek.com
 haberizlesene.site
 haberkampanyasi.com
@@ -99995,6 +99998,3 @@ hizirsiqorta.com.tr
 hizirsiqorta.xyz
 hizirvakfi.site
 hizisatinalhmn.xyz
-hiziyla-alim.com
-hiziyla-tedarik.com
-hiziyla-ticaret.com
