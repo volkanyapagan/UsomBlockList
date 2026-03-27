@@ -60157,6 +60157,7 @@ basvuru-garanti-bbva.com.tr
 basvuru-genelge.tk
 basvuru-gir-iss.sbs
 basvuru-gir.xyz
+basvuru-giris.sbs
 basvuru-girisekrani.cfd
 basvuru-girisi.cf
 basvuru-globalfirsatkampanyasinihemenyakala.com
@@ -60232,10 +60233,12 @@ basvuru-katilim-form.epizy.com
 basvuru-katilim.one
 basvuru-katilim.site
 basvuru-kayitlarim-gov-tr.com
+basvuru-kontrol.sbs
 basvuru-kredilerim-bbvadan.net
 basvuru-kredilerim-weboonay.net
 basvuru-kurum.online
 basvuru-merkezi.org
+basvuru-merkezi.sbs
 basvuru-merkezi.xyz
 basvuru-merkezitr.com
 basvuru-mobildenizbireysel.com
@@ -60316,6 +60319,7 @@ basvuru-sorgulasonuc.com
 basvuru-sosyal-proje.com
 basvuru-sosyaldestek.com
 basvuru-subat-giris.ip-ddns.com
+basvuru-talep.sbs
 basvuru-talepadresi.com
 basvuru-tamamla-com-tr.cfd
 basvuru-tamamla-com-tr.shop
@@ -65524,6 +65528,7 @@ berrokaslan.com
 berrtur.site
 berryallergic.top
 berryantagonism.top
+berrybundle.gifts
 berryhypocritical.top
 berrymealsonwheels.com
 berrywholesome.top
@@ -99993,8 +99998,3 @@ cloudfiles.club
 cloudflare-analyse.com
 cloudflare-analyse.xyz
 cloudflare-api.com
-cloudflare-okta.com
-cloudflare-sendgrid.com
-cloudflare-statics.com
-cloudflare.news
-cloudflare.report
