@@ -16693,6 +16693,7 @@
 65543896546378568765.cloud
 655486589615315156615.site
 655555655656565565.duckdns.org
+65576421334121.online
 655969276.dfgqdsd.ru
 6561.hopto.org
 656212528-88587.shop
@@ -51817,6 +51818,7 @@ asusiran.com
 asusman98.ddns.net
 asusnotebooks.shop
 asustechnicalservice.com
+asutelbizim.com
 asuurmatkaapsssindrime.xyz
 asvarvakfi.org
 asvaserle.net
@@ -57592,6 +57594,7 @@ bakiye-----hgs-----ptt------com.net
 bakiye-dolum.istanbul
 bakiye-yukkleme-merkezi-hgs.duckdns.org
 bakiye-yukle.com
+bakiye-yukleme-merkezi-hgs-otoyol.duckdns.org
 bakiye-yukleme.com.tr
 bakiye-yuklemesi.ml
 bakiye-yuklemesi.tk
@@ -99995,6 +99998,3 @@ cloudat.ddns.net
 cloudbasvurunutamamla.cloud
 cloudbluefox.com
 cloudboats.vip
-cloudbrocloud.com
-cloudcanvas.homes
-cloudcare.duckdns.org
