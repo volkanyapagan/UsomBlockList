@@ -1,3 +1,11 @@
+cloudaskquestionanswers.azurewebsites.net
+cloudaskquestionanswers.azurewebsites.net.net
+cloudaskquestionanswers.com
+cloudaskquestionanswers.com.net
+cloudaskquestioning.eastus.cloudapp.azure.com
+cloudaskquestioning.eastus.cloudapp.azure.com.net
+cloudat.ddns.net
+cloudbasvurunutamamla.cloud
 cloudbluefox.com
 cloudboats.vip
 cloudbrocloud.com
@@ -99990,11 +99998,3 @@ hit-now.net
 hit-pk.org
 hit-senders.cn
 hit.asmung.net
-hit7247120572dea24.bxss.me
-hit8497279300be327.bxss.me
-hit8791010942157ca.bxss.me
-hitachiforesterzaxis5g.duckdns.org
-hitarumorata1.ddns.net
-hitbtc.press
-hitconcede.top
-hitec-sa.com
