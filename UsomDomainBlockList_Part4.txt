@@ -1,3 +1,5 @@
+page.user-support-business.cfd
+page.web.account.verify.auth.limited.retrojamop.com
 page000214.shop
 page0077.wixsite.com
 page024974.shop
@@ -51421,6 +51423,7 @@ sinirsizinternetkampanya.org
 sinirsizlartr.org
 sinirsizoxdeme.com.tr
 sinirsizoyuncular.pw
+sinirsizparamethod.xyz
 sinirsizstoklarinyeri.cyou
 sinirsizyazayiindirimler.online
 sinirsizyazayiindirimler.xyz
@@ -99995,6 +99998,3 @@ vakifloan.com
 vakifloans.com
 vakiflq010.tk
 vakiflsa010.tk
-vakiflva010.tk
-vakifmaas250.ml
-vakifmaas3020.ml
