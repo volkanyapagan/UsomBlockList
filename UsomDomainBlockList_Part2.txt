@@ -1,3 +1,4 @@
+cloudaskingquestions.eastus.cloudapp.azure.com
 cloudaskingquestions.eastus.cloudapp.azure.com.net
 cloudaskquestionanswers.azurewebsites.net
 cloudaskquestionanswers.azurewebsites.net.net
@@ -80884,6 +80885,7 @@ guncelsikayetler-33.sbs
 guncelsikayetler-34.sbs
 guncelsikayetler-489.sbs
 guncelsikayetler-5.sa.com
+guncelsikayetler-62.sbs
 guncelsikayetler-64.sbs
 guncelsikayetler-657.sbs
 guncelsikayetler-658.sbs
@@ -99996,5 +99998,3 @@ historydismiss.com
 historydress.xyz
 historygenerous.top
 historyuniform.com
-hisuqey.com
-hit-1488.com

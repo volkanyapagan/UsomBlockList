@@ -42182,6 +42182,7 @@ alisveris.world
 alisveris101.com
 alisveris101indirimleri.com.tr
 alisveris101onlinehizmet.com
+alisveris101yap.biz
 alisveris1erimizbizimleberaber.online
 alisverisa1o1.net
 alisverisadres.com
@@ -99997,4 +99998,3 @@ cloudarea-klant.ddns.net
 cloudaskingquestioning.azurewebsites.net
 cloudaskingquestioning.azurewebsites.net.net
 cloudaskingquestions.azurewebsites.net.net
-cloudaskingquestions.eastus.cloudapp.azure.com
