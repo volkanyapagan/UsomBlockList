@@ -1,3 +1,17 @@
+pagamentoaruba-it.hopto.org
+pagammentohosting.hopto.org
+page-account-restricted68540.web.app
+page-approved-reservation.click
+page-arrilvalcheckin-194024.com
+page-authservice8.hopto.org
+page-confirm-reserve.com
+page-credit-req.com
+page-info-confirm.com
+page-landmyweb-tr-in.sa.com
+page-mywebtr.info
+page-pend-reserve.com
+page-pending-reserve.com
+page-rec0very6652100.duckdns.org
 page-standars-confrim.duckdns.org
 page-twin-17.preview.emergentagent.com
 page-wait-reserve.com
@@ -22305,6 +22319,7 @@ qnbpromosyonburda.cfd
 qnbpromosyonburda.click
 qnbpromosyonburda.club
 qnbpromosyonburda.cyou
+qnbpromosyonburda.sbs
 qnbpromosyonislemleri.xyz
 qnbpromosyonn.vercel.app
 qnbpromosyonnm.vercel.app
@@ -36168,6 +36183,7 @@ sahibinden.alisveris-aktif-sepetim.com.tr
 sahibinden.alisveris-get-pay.com
 sahibinden.alisveris-hizmeti.online
 sahibinden.alisveris-ilan-pay.com
+sahibinden.alisveris-ilan.online
 sahibinden.alisveris-ilanlar.com.tr
 sahibinden.alisveris-ilanlarim.com
 sahibinden.alisveris-ilanode.com.tr
@@ -39508,6 +39524,7 @@ sanaozelkampanyalar.duckdns.org
 sanaozelkampanyalkar.click
 sanaozelkmpnyaaa.info
 sanaozelkmpnyaaa.live
+sanaozelkmpnyaaa.pro
 sanaozell-getsahibinden-magazamm.com
 sanaozelmigros.com
 sanaozelprmsnyyynnnnkmpnya.info
@@ -45115,6 +45132,7 @@ sepetbi.com
 sepetburada.com.tr
 sepetdemons24v.vip
 sepete-ekle-hizlifirsat.shop
+sepete-ekle-mobilde-store-tr.cfd
 sepete-ekle-mobilde-store-tr.sbs
 sepete-takimi-tr.buzz
 sepete-takimlar-tr.buzz
@@ -71506,6 +71524,7 @@ teb-onlinecep-bireysel-tr.com
 teb-onlineceptekampanyam.duckdns.org
 teb-onlinesubesi-cepte-tr.com
 teb-platimum.com
+teb-promosyon.my-homeip.net
 teb-promosyondanfayda.life
 teb-son-basvurutr.com
 teb-sonfirsatlar-tr.com
@@ -80211,6 +80230,7 @@ tr-alimlar.net
 tr-alimonayla.net
 tr-alis.com
 tr-alisveris-odeme.online
+tr-alisveris-param-guvende.online
 tr-alisveris.com
 tr-alisveris.net
 tr-alisveris.online
@@ -81148,6 +81168,7 @@ tr-mobil-vakifonline.ml
 tr-mobil-ziraat-dijital.tk
 tr-mobil-ziraat-online.tk
 tr-mobil-ziraatbank.com
+tr-mobilde-online-sepet.cfd
 tr-mobilde-online-sepet.sbs
 tr-mobile-cepte-iade-e-devlet-aidat-aktarim-merkezi.com
 tr-mobile-edevlet-iadeformu-gov-tr.net
@@ -81284,6 +81305,7 @@ tr-paraf-halkbank.com
 tr-parafhalkbireyselsubesi.com
 tr-param-guvende-alisveris.online
 tr-param-guvende-islemler.online
+tr-param-guvende-siparis.online
 tr-paramguvende-sahibinden.com
 tr-paramguvende.org
 tr-paramguvendesahibinden.cf
@@ -99976,25 +99998,3 @@ vakifle2290.tk
 vakifle7290.tk
 vakifled1110.tk
 vakifled1210.tk
-vakifled1410.tk
-vakifled1910.tk
-vakifled1970.tk
-vakifled1980.tk
-vakifleman.cf
-vakifleman.ga
-vakifleman.ml
-vakifleman.tk
-vakiflet290.tk
-vakiflikredilerfirsati.com
-vakiflilar.com
-vakiflilardunyasi.com
-vakiflimit.net
-vakiflimitdenkrdi.xyz
-vakiflimitekimeozel.xyz
-vakiflimitekimozel.xyz
-vakiflimitonline.xyz
-vakiflimityenikredi.xyz
-vakiflmobilsubem.tk
-vakiflna010.tk
-vakiflna140.tk
-vakiflna146.tk
