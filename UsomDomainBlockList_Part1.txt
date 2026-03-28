@@ -22185,6 +22185,7 @@ a-101-comtr.sbs
 a-101-de-bugune-ozel.online-sponsor-web-tr.com
 a-101-de-sadece-bugune-ozel-tr.ozel-online-cepte-tr.site
 a-101-eklstra.cfd
+a-101-extra-internete-ozel-indirim.internete-ozel-mobil-store-tr.site
 a-101-extra-internete-ozel-indirimler.online-mobil-sponsor.lat
 a-101-eylulfirsatlari.online
 a-101-firsat.shop
@@ -41048,6 +41049,7 @@ aldinaldin-com.sbs
 aldinaldin-firsat1o1.com.tr
 aldinaldin-firsatlarburada.com.tr
 aldinaldin-kampanya.com.tr
+aldinaldin-mart.net
 aldinaldin-online-haftaninfirsatlari.com
 aldinaldin-sonfirsatlar.online
 aldinaldin-sonhafta-firsatlari.com
@@ -99996,5 +99998,3 @@ cloud1dv.com
 cloud1one.comsonyeo19.com
 cloud341.click
 clouda.ghokswa.com
-cloudali.duckdns.org
-cloudarea-klant.ddns.net

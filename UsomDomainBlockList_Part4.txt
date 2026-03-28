@@ -1,3 +1,6 @@
+page1209.help
+page1209.shop
+page1309.shop
 page143210.shop
 page149233.shop
 page1609.rest
@@ -99995,6 +99998,3 @@ vakifmobilbayram.ml
 vakifmobilbayramim.ml
 vakifmobilbildirimin.cf
 vakifmobilbildirimleri-tr.com
-vakifmobilden.co.vu
-vakifmobildeniade.com
-vakifmobildijital.ml
