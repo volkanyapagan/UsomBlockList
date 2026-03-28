@@ -42116,6 +42116,7 @@ alisveris-hizmeti.net
 alisveris-hizmeti.online
 alisveris-ilan-hizmet.com
 alisveris-ilan-pay.com
+alisveris-ilan-tr.online
 alisveris-ilanal.com.tr
 alisveris-ilanim-671822.com
 alisveris-ilanim-671824.com
@@ -87974,6 +87975,7 @@ burdanaltelefonunumutluol.cfd
 burdanaltelefonunumutluol.sbs
 burdanbizimle.com.tr
 burdanbizimleyz.com.tr
+burdandestekal.com
 burdandevam.net
 burdandevamke.xyz
 burdaneleroluyor.xyz
@@ -99996,5 +99998,3 @@ cloud.msapp.workers.dev
 cloud.myrnicrosoft.com
 cloud.nathompsstra.com
 cloud.newsofnp.com
-cloud.qunetcentre.org
-cloud.sophos.one
