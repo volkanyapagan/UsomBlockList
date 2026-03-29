@@ -59952,6 +59952,7 @@ magazan-cepte.com.tr
 magazan-cepte.info.tr
 magazan-cepte.net.tr
 magazan-cepte.org.tr
+magazan-link.com
 magazaniza.com
 magazanoktan.com
 magazaonline.com.tr
@@ -99997,4 +99998,3 @@ padla666.zapto.org
 padonendavour.top
 padpasser-by.top
 padpremium.top
-padregloncke.top
