@@ -8664,6 +8664,7 @@
 2154103321.cloud
 2155455552545215.cloud
 215641-008.com
+2159175145.cloud
 215e892944d4.com
 216-9-224-134.plesk.page
 2161262754754325.buzz
@@ -41007,6 +41008,7 @@ aldin-aldinn.com.tr
 aldin-aldinn.net
 aldin-aldins.com.tr
 aldin-cay-firsatlari.net
+aldin-cay-paketi.com
 aldin-cepte.com.tr
 aldin-ekstra.biz.tr
 aldin-ekstra.info.tr
@@ -41681,6 +41683,7 @@ alessioborzuola.com
 alestacan.duckdns.org
 aleter.ae
 aletsetlerindef.com
+alettakimlariyapimarkethirdavat.sbs
 aleum11.hopto.org
 aleviturkler.com
 alevsdvdsglk-bs.net
@@ -42887,6 +42890,7 @@ almahasouq.com
 almahy.ae
 almakicinsonfirsat.icu
 almalehonest44.xyz
+almalialsivrs.biz
 almalifescience.com
 almalisiniade.com.tr
 almalisiniade.online
@@ -49396,6 +49400,7 @@ arastir.sbs
 arasua.click
 arateklifalsiqorta.com.tr
 aratmans.sbs
+aratmansza.sbs
 aratsss.com
 arauas.com
 araucahkbm.live
@@ -95509,6 +95514,7 @@ ceptekiaidat.com
 ceptekifirsatimsokta.shop
 ceptekimagazamsokta.shop
 ceptekimobilfirsatlarineylulayinda.click
+ceptekisalt-spnsor-tr.site
 ceptekrc.com.tr
 ceptekrc.net.tr
 ceptekrc.org.tr
@@ -99992,9 +99998,3 @@ cloud-server-updater25.co.za
 cloud-server-updater26.co.za
 cloud-server-updater27.co.za
 cloud-server-updater28.co.za
-cloud-server-updater3.co.za
-cloud-server-updater4.co.za
-cloud-server-updater5.co.za
-cloud-server-updater6.co.za
-cloud-server-updater7.co.za
-cloud-server-updater8.co.za
