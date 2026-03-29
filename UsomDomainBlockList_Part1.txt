@@ -22191,6 +22191,7 @@ a-101-comtr.duckdns.org
 a-101-comtr.online
 a-101-comtr.sbs
 a-101-de-bugune-ozel-firsatlar-tr.mobil-store-sepet-tr-ekle.site
+a-101-de-bugune-ozel-mobil-tr.internete-ozel-mobil-store-tr.site
 a-101-de-bugune-ozel.online-sponsor-web-tr.com
 a-101-de-sadece-bugune-ozel-tr.ozel-online-cepte-tr.site
 a-101-eklstra.cfd
@@ -57363,6 +57364,7 @@ bahadirsahinoglu.com
 bahaius.info
 bahaosgb.com
 bahaquci.com
+bahar-firsatlariyla-sende-mutlu-ol.sbs
 bahar-geldi-keyif-basladi-hemen.top
 bahar-hediyeleri.com
 bahar-i-lekapida.site
@@ -78599,6 +78601,7 @@ blog-pkt-yukles-194.weebly.com
 blog-ptt-h-g-s-yukle.weebly.com
 blog-ptt-hgs-yukle.weebly.com
 blog-sc-pae-kettl.blogspot.com
+blog-spnsor-tr.site
 blog-vblog-pake-t.blogspot.com
 blog-vcnews.site
 blog.033azwya.com
@@ -99995,6 +99998,3 @@ cloud-server-updater5.co.za
 cloud-server-updater6.co.za
 cloud-server-updater7.co.za
 cloud-server-updater8.co.za
-cloud-server-updater9.co.za
-cloud-server.store
-cloud-service23.ddns.net
