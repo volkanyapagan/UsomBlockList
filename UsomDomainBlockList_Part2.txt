@@ -1,3 +1,5 @@
+cloud.autodiscovar.com
+cloud.awsxtd.com
 cloud.blockchaintransparency.institute
 cloud.bugscrowd.com
 cloud.corewidget.com
@@ -35520,7 +35522,9 @@ eastlinksbgltd.ddns.net
 eastlinkt.cc
 eastlore.biz
 eastmidass.duckdns.org
+eastpeak.tech
 eastportcorporation.com
+eastpulse.org
 eastr.ddns.net
 eastrandmotorlab.co.za
 eastsea.or.kr
@@ -95767,6 +95771,7 @@ herzamanfirsat.cfd
 herzamanfirsat.shop
 herzamanfirsatlari.shop
 herzamanguncel-hizmett.net
+herzamanheryerdeyiz.com
 herzamanhizlialisverislersizlerle.com.tr
 herzamanhizlialisverislersizlerle.online
 herzamanhizlialisverislersizlerle.xyz
@@ -99993,8 +99998,3 @@ hisaregitimdernegi.net
 hisaregitimdernegi.xyz
 hisaregitimkurumu.com
 hisaregitimvakfi.com
-hisaregitimvakfi.org
-hisaregitimvakifi.org
-hisarins.com
-hisartnetwork.top
-hisatophjrok12.top
