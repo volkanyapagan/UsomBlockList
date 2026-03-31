@@ -1,3 +1,9 @@
+p-t-talisveris-store1.cfd
+p-t-tindirimlimarket.cfd
+p-t-tmarket.cfd
+p-t-tmarketbahar.cfd
+p-t-tmarketfirsati.cfd
+p-t-tmarketkampanyasi.cfd
 p-to-dateunvei.top
 p-ts-a-v-m724.shop
 p-ts-a-v-mptm.shop
@@ -99992,9 +99998,3 @@ vakifdannereyegeldik.ga
 vakifdannereyegeldik.gq
 vakifdannereyegeldik.ml
 vakifdannereyegeldik.tk
-vakifdanozelfirsat.tk
-vakifdanpandemi.ml
-vakifdanpandemide.ml
-vakifdanpandemiden.ml
-vakifdanpandemim.ml
-vakifdansizlere.co.vu
