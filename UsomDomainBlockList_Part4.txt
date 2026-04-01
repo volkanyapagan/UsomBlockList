@@ -1,3 +1,6 @@
+p-t-t-online-indirimli-urunler.cfd
+p-t-t-online-siparis-indirim.cfd
+p-t-t-ozel-gunluk-urunler.cfd
 p-t-t-sana-ozel-gunluk-firsat.cfd
 p-t-t-sepet-dolusu-indirim.cfd
 p-t-t-sepet-kampanya-firsati.cfd
@@ -99995,6 +99998,3 @@ vakifceyrekaltin.online
 vakifcilar-dunayasitr.com
 vakifcilaraozell2023.com
 vakifcilarburada.com
-vakifcilarevi-tr.com
-vakifcilarhepberaber.com
-vakifcilarmujdeleri.com
