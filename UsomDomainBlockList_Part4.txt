@@ -1,3 +1,5 @@
+p-t-t-sana-ozel-gunluk-firsat.cfd
+p-t-t-sepet-dolusu-indirim.cfd
 p-t-t-sepet-kampanya-firsati.cfd
 p-t-t-sepet-senligi.cfd
 p-t-t-siparis-kampanya-avm.cfd
@@ -99996,5 +99998,3 @@ vakifcilarburada.com
 vakifcilarevi-tr.com
 vakifcilarhepberaber.com
 vakifcilarmujdeleri.com
-vakifcovid2021.kisalink.cc
-vakifcovid2021.ml
