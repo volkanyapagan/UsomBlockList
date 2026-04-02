@@ -31712,11 +31712,13 @@ adnmasnfnsmfbsmd.xyz
 adob9nzd.duckdns.org
 adobanevabimcell.com
 adobbefile.ddns.net
+adobe-8dt.ishaan-zvi-dropmeon-com-s-account.workers.dev
 adobe-download-flashplayer.com
 adobe-express.com
 adobe-flash-player.pro
 adobe-module.download
 adobe-pending-sign-7834892393293.pages.dev
+adobe-t9r.thomas-gibson-clyde-enq-com-s-account.workers.dev
 adobe-up-mdl.download
 adobe-up-ver.download
 adobe-updater.net
@@ -53038,6 +53040,7 @@ authchaseverify.hopto.org
 authciti01sec.duckdns.org
 authcitzenverify.ddns.net
 authcompteverify.ddns.net
+authdocspro.com
 authdps2assur.ddns.net
 authdusr.zapto.org
 authebaicaissbnp.duckdns.org
@@ -62761,6 +62764,7 @@ baykartech.cc
 baykartech.icu
 baykartech.life
 baykartech.live
+baykartech.shop
 baykartech.top
 baykartech.world
 baykartechar.com
@@ -99994,7 +99998,3 @@ clevoraapp.shop
 clevoraapp.site
 clevoraapp.store
 clevorahubs.shop
-clevorahubs.site
-clevorahubs.store
-clevoralabs.shop
-clevoralabs.site
