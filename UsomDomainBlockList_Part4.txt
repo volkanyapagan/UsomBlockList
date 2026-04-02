@@ -1,3 +1,7 @@
+ownercheck.online
+ownerflap.top
+ownerhierarchy.top
+owneringuzelpaneli.com
 ownerliner.top
 ownerpro.byethost16.com
 owners-insertion-rentals-pursuit.trycloudflare.com
@@ -10360,6 +10364,7 @@ piramityatirim.com
 piramityatirimonline.com
 pirana-tech.com
 piranhayetkilibayi.site
+piranhtech.online
 piranltech.com
 piranno12.site
 piranteach.online
@@ -10367,6 +10372,7 @@ pirantecch.com
 pirantech.net
 pirantech.org
 piranteclh.com
+piranteclh.org
 pirantlech.com
 pirasokureta.top
 pirata-88.zapto.org
@@ -65006,6 +65012,7 @@ subbva.shop
 subbzero15.duckdns.org
 subcarinate.com
 subcnected.duckdns.org
+subcompensative-tuyet-scapiform.ngrok-free.dev
 subcore.sbs
 subd.a0001.net
 subd.html-5.me
@@ -99991,10 +99998,3 @@ vakif-katilim-basvuruu-tr.com
 vakif-katilim-cekilis.org
 vakif-katilim-digitale-talep-destek-tk.xyz
 vakif-katilim-digitale-talep-destek-tr.xyz
-vakif-katilim-digitale-talep-destek-tt.xyz
-vakif-katilim-digitale-talep-form-tl.xyz
-vakif-katilim-digitale-talep-form-tr.xyz
-vakif-katilim-digitale-talep-tt.xyz
-vakif-katilim-giris.xyz
-vakif-katilim-guvenli-portal.xyz
-vakif-katilim-hizmeti.ml
