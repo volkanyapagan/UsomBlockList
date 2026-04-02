@@ -22334,6 +22334,7 @@ a-101c0lmtd.cyou
 a-101c0lmtl.cyou
 a-101c0m.cyou
 a-101c0mtl.cfd
+a-101c0mtor.lol
 a-101c0myr.cyou
 a-101cl0mlt.cyou
 a-101co-mtr.cfd
@@ -24111,6 +24112,7 @@ a101firsatyolculugu.com
 a101firsatzamani.online
 a101firstlarkcmzkampmynasi.mooo.com
 a101firxsatlarburda.com
+a101firxsatxlarburda.com
 a101frager.com
 a101fragercomeback.com
 a101fragersabah.com
@@ -24236,6 +24238,7 @@ a101indiriim.com
 a101indiriimgunleri.com
 a101indiriimvakti.com
 a101indirim.com
+a101indirim.duckdns.org
 a101indirim.gen.in
 a101indirim.gt.tc
 a101indirim.lisanshesap.me
@@ -41513,6 +41516,7 @@ aldinnnnaldinnnnnkamcmmzkflgkrmfmkc.tech
 aldinnnnnnklckfmflrsstmrssss.duckdns.org
 aldinonlinealdin.site
 aldinozelsel.blogspot.com
+aldinpaketlicayi.com
 aldinpazartesialdintestere.xyz
 aldinperakendelerialdin.com
 aldinramazankampanya.com
@@ -61104,6 +61108,7 @@ basvuruislemleri.net
 basvuruislemleri.sbs
 basvuruislemleri.today
 basvuruislemlerigratis.net
+basvuruislemlerin.sbs
 basvuruislemleriniz.com
 basvuruist.sbs
 basvuruistanbul.com
@@ -64406,6 +64411,7 @@ bdkymj.top
 bdkymz.top
 bdkzwhs.com
 bdl55polisi155.online
+bdl55polisil155.online
 bdlpxhzgulq.top
 bdluwdzorn.duckdns.org
 bdlwi4s.duckdns.org
@@ -99992,9 +99998,3 @@ cleverstack-app998.vercel.app
 cleverstack-ext301.vercel.app
 clevertrade.top
 cleverwedge.cn
-clevora.shop
-clevora.site
-clevoraapp.shop
-clevoraapp.site
-clevoraapp.store
-clevorahubs.shop
