@@ -73049,6 +73049,7 @@ geri-aktarmalar-islemler-sorgu1.icu
 geri-aktarmalar-islemler-sorgu2.cyou
 geri-aktarmalar-islemler-sorgu2.icu
 geri-aktarmalar-sorgu.cyou
+geri-dnk-islemleriniz.click
 geri-dondu-gibi.sbs
 geri-ehalkiadeodemeleri.com.tr
 geri-gelmez.kolay-ca-kapinda-aarass-hizzmetleri.com
@@ -99997,4 +99998,3 @@ hgsveznecimalani.org
 hgsveznecisi.xyz
 hgsveznehgs.xyz
 hgsveznehizmetleri.tk
-hgsveznelerimnoktam.net
