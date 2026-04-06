@@ -4741,6 +4741,7 @@
 1472589662.xyz
 147260-coinbase.com
 14752563253asd.com
+14755866522sdd.com
 14765-coinbase.com
 147751434565132.com
 14781875871.site
@@ -20762,6 +20763,7 @@
 937a4d252b00a6039dd39b583229af22.net
 937edv.duckdns.org
 937u077200947j3766254.linkpc.net
+9382829273.duckdns.org
 9393901--2993882772.online
 93939039.com
 93999564654.cloud
@@ -44756,6 +44758,7 @@ anadolusigortacilik.com
 anadolusigortam.com
 anadolusigortam.online
 anadolusigota.b-cdn.net
+anadolusmart.com
 anadolusosyal.online
 anadolusosyal1.online
 anadolusosyal2.online
@@ -46704,6 +46707,7 @@ api.dr0pb0xapi.com
 api.drfqopmnlight.com
 api.drive-release.cloud
 api.drivercams.cloud
+api.duemineral.uk
 api.eatrgrise.com
 api.eazymount.com
 api.emazemedia.com
@@ -53060,6 +53064,7 @@ auth-trzor-io-cdn.webflow.io
 auth-u67iyzhtgs.zapto.org
 auth-updater45.info
 auth.bitdefenderupdate.com
+auth.duemineral.uk
 auth.economy-gov-il.com
 auth.hopto.org
 auth.newtrendmicro.com
@@ -96959,6 +96964,7 @@ cgf.facturastbs.shop
 cgf.midasx.site
 cgfsbcxhmcxpxxe.cn
 cgg57n.lqonx.ru
+cghdfg.vbchkioi.su
 cghizliaidataktar-merkeznoktasi.com
 cghlc.duckdns.org
 cgi-resolve-account.com
@@ -99992,9 +99998,3 @@ cleanislem.22web.org
 cleankiralikarac.online
 cleanmagoza.com
 cleanmasters.store
-cleanmilitia.top
-cleanmymac.pro
-cleanmymacos.org
-cleanotomobilkirala.online
-cleanpatron.top
-cleanplatefit.com
