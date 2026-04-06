@@ -72448,6 +72448,7 @@ gelir-fokus.online
 gelir-idaresi-gov-tr.com
 gelir-kapsami.online
 gelir-motori.online
+gelir-plani.com
 gelir-platform.online
 gelir-rehberi.online
 gelir-rotasi.online
@@ -99997,4 +99998,3 @@ hgstlyukle3499.com
 hgstlyukle9950.com
 hgstlyukleme-yeri.org
 hgstlyukleme.com
-hgstlyuklemeeee.tk
