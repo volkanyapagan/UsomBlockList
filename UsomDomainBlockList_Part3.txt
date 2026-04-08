@@ -1,3 +1,6 @@
+hgssitesi.online
+hgssitesi.org
+hgssiz.sg-host.com
 hgssize.sg-host.com
 hgssk.live
 hgsskleme.net
@@ -61609,6 +61612,7 @@ magazan-cepte.info.tr
 magazan-cepte.net.tr
 magazan-cepte.org.tr
 magazan-link.com
+magazan-siparis.com
 magazaniza.com
 magazanoktan.com
 magazaonline.com.tr
@@ -99994,7 +99998,3 @@ otoyol-gecisihlal-sorgulama.org
 otoyol-gecisim.xyz
 otoyol-gecisimiz.xyz
 otoyol-guvenli.xyz
-otoyol-ihlal-sorgu.online
-otoyol-kopru.cf
-otoyol-kopru.xyz
-otoyol-koprusu.cf

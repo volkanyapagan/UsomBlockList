@@ -1,3 +1,7 @@
+otoyol-ihlal-sorgu.online
+otoyol-kopru.cf
+otoyol-kopru.xyz
+otoyol-koprusu.cf
 otoyol-koprusu.xyz
 otoyol-kpru.cf
 otoyol-odemesi.ml
@@ -47326,6 +47330,7 @@ sepetim-guvenli.com
 sepetim-ilan.com
 sepetim-ilanda.com
 sepetim-ilanimda.com
+sepetim-ilanlarim.com
 sepetim-ilanli.com.tr
 sepetim-kapimda.com
 sepetim-odeme.com
@@ -99993,8 +99998,3 @@ v2denizbanki.com
 v2denizbanksubecim.tk
 v2denizbanksubecom.cf
 v2denizbanksubecom.ga
-v2denizbanksubecom.gq
-v2denizbanksubecom.ml
-v2denizbanksubecom.tk
-v2denizbireyselcom.tk
-v2denizdijitalgiris.tk
