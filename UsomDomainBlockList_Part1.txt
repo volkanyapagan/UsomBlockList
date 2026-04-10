@@ -19330,6 +19330,7 @@
 81238.netlify.app
 8123wsheurope.access.ly
 8124565987.duckdns.org
+81247124.duckdns.org
 81266162.com
 81273618284781.xyz
 812gasstation.ddns.net
@@ -99997,4 +99998,3 @@ clasic-devletdestekleri.com
 clasicoglobalbasvursorgula.com
 clasicoremo.zapto.org
 class-devletdestekleri.com
-class-muscle.com
