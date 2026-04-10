@@ -29,6 +29,7 @@
 00-00-00-00.cfd
 00-1321729461.cos.ap-guangzhou.myqcloud.com
 00-hgs.glitch.me
+00-uludag-edu-tr.weebly.com
 000-0-000.pages.dev
 000-authent-777-serv-000.pages.dev
 0000.hopto.org
@@ -19637,6 +19638,7 @@
 862413415907186120.duckdns.org
 862413415907186130.duckdns.org
 862413415907186140.duckdns.org
+8624701.cloud
 8624u075.duckdns.org
 8627388758923.com
 8629r.eauth3.com
@@ -41322,6 +41324,7 @@ aldinaldinfirsatlari.online
 aldinaldinfirsatlari.shop
 aldinaldinfirsatlari.site
 aldinaldinfirsatlari.store
+aldinaldinfirsatlari.vercel.app
 aldinaldinfirsatlari.xyz
 aldinaldinfirsatlari30mayis.com
 aldinaldinfirsatlarialdinaldin.online
@@ -41551,6 +41554,7 @@ aldinguvenle.online
 aldinhaftaninbasini.com
 aldinibunu.click
 aldinina1o1.net
+aldinisanpaketcay.net
 aldinizaldiniz.shop
 aldinizbunu.click
 aldinizkampanya.org
@@ -79225,6 +79229,7 @@ bluefashion.xyz
 bluefish.work
 bluefloridahealth.com
 bluefor.com
+bluegraintours.com
 bluehawkbeats.com
 bluehorizon.sbs
 bluehost23.ddns.net
@@ -84798,6 +84803,7 @@ brenlo.site
 brenloapp.site
 brenlohq.shop
 brennaro.site
+brenqulo.live
 brenthil.qpon
 brentlanmaskovkdnmsad.cfd
 brentovaris.com
@@ -92708,6 +92714,7 @@ cardverify9735-booking.com
 cardverify9764-booking.com
 cardverify99271-booking.com
 cardzstorezone.com
+carebntr-shop.club
 carebytesolutions.azurewebsites.net
 careeffoursa.com
 careefour.sa.com
@@ -95382,6 +95389,7 @@ cep-mobil-girisvakif-bank.ml
 cep-mobil-granti.com
 cep-mobil-teb-bireysel.my-homeip.net
 cep-mobil.sbs
+cep-mobilden.my-homeip.net
 cep-online-giris-kapisi.ml
 cep-online-giris-kapisi.tk
 cep-online-giris-subem.tk
@@ -99990,11 +99998,3 @@ classifiedlavish.top
 classifiedmandatory.top
 classifieds.workers.dev
 classifyvenue.top
-classislem.22web.org
-classkernel.com
-classmateappease.top
-classmateboot.site
-classmatenonetheless.top
-classmatesocket.top
-classmock.top
-classmunch.com
