@@ -35662,6 +35662,7 @@ e-tuvturkdijitalkesim.digital
 e-tuvturkileyasam.digital
 e-tuvturkk.digital
 e-tuvturkkbayisii.digital
+e-tuvturkkkefsanee.digital
 e-tuvturkmekanikleri.digital
 e-tuvturkmerkezgi.digital
 e-tuvturkmerkezitamir.digital
@@ -99997,4 +99998,3 @@ hgspttavmcom.blogspot.com
 hgspttavmcomm.blogspot.com
 hgspttavmcomtrnet-org.blogspot.com
 hgspttavmgecilersinizbizimle.blogspot.com
-hgspttavmgngralli.org
