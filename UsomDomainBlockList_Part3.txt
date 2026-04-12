@@ -40083,6 +40083,7 @@ karacan.sbs
 karacanisan-kampanya.com.tr
 karacanisan.cfd
 karacanisanbasi.cfd
+karacanisanilk.cfd
 karacannelergunu.com
 karacaocaksonu.com
 karacaocakta.com
@@ -99997,4 +99998,3 @@ otocars-kiralikoto-com.ga
 otocars-kiralikoto-com.gq
 otocars-kiralikoto-com.ml
 otocars-kiralikoto-com.tk
-otocars-kiralikoto-net.cf
