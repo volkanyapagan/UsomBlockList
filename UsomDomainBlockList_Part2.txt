@@ -1,3 +1,4 @@
+claritynitrogen.top
 clarityreferendum.top
 claritystagnation.top
 clarkicees.top
@@ -33635,6 +33636,7 @@ e-guvenli-odeme.online
 e-guvenli-odeme.sa.com
 e-guvenli-odemeler.online
 e-guvenli-online-satici.com
+e-guvenli-online-satis.com
 e-guvenli-online-satisi.com
 e-guvenli-satici-online.com
 e-guvenli-satis.online
@@ -99718,6 +99720,7 @@ hgsodemlrinizindrm.net
 hgsodemx.net
 hgsodemx2.com
 hgsodenmelerv1.net
+hgsodeptt.com
 hgsodese.net
 hgsodeyukle.sg-host.com
 hgsodlerx3d.com
@@ -99995,6 +99998,3 @@ hgspttavm-ramazan.com
 hgspttavm-sa.sa.com
 hgspttavm-tr.blogspot.com
 hgspttavm-yukleme-merkezi1nolu.xyz
-hgspttavm.co
-hgspttavm.co.vu
-hgspttavm.life
