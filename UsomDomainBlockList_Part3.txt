@@ -1,3 +1,7 @@
+hgspttavm-odeme-org.blogspot.com
+hgspttavm-odeme-tr.blogspot.com
+hgspttavm-org-com.blogspot.com
+hgspttavm-org-net.blogspot.com
 hgspttavm-org.blogspot.com
 hgspttavm-orgtr.blogspot.com
 hgspttavm-ramazan.com
@@ -99994,7 +99998,3 @@ otocars-kirala.gq
 otocars-kirala.ml
 otocars-kirala.tk
 otocars-kiralama-com.cf
-otocars-kiralama-com.ga
-otocars-kiralama-com.gq
-otocars-kiralama-com.ml
-otocars-kiralama-com.tk
