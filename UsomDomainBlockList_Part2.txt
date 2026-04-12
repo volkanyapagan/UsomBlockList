@@ -67880,6 +67880,7 @@ garanti-aidatiadeleri.tk
 garanti-aidatlar-iade.mooo.com
 garanti-aktif.vercel.app
 garanti-anketidoldur.com
+garanti-b-b-v-a.my-homeip.de
 garanti-baharsenligi.com
 garanti-bank-aidatiade-tr.com
 garanti-bank-bireysel.ws
@@ -69950,6 +69951,7 @@ garantilebasvurum.vercel.app
 garantilebasvurusundasin.vercel.app
 garantilerdenrioderler.duckdns.org
 garantilerdesketst.duckdns.org
+garantili-b-b-v-a.my-homeip.de
 garantili-basvrular.vercel.app
 garantili-basvurgir.duckdns.org
 garantili-hediyem.com
@@ -99996,5 +99998,3 @@ hgspttavm--com--tr.blogspot.com
 hgspttavm--com-tr-net.blogspot.com
 hgspttavm--org-tr.blogspot.com
 hgspttavm-com--tr.blogspot.com
-hgspttavm-dolum.com
-hgspttavm-gov-tr.blogspot.com
