@@ -1,3 +1,6 @@
+oto.rentport-kirala.site
+oto.rentport-kirala.world
+oto.rentport-kiralama.monster
 oto.renturo-kiralama.icu
 otoadresinde.online
 otoaksesuartoptan.online
@@ -99995,6 +99998,3 @@ uygunfiyatlikiralama.site
 uygunfiyatllialisveris.com
 uygunfiyattan.com.tr
 uygunfiyattan.xyz
-uygunfiyattanhemenfaydallan.com
-uygungetlilget-kampanya.com.tr
-uygungetlilget-kampanya.xyz

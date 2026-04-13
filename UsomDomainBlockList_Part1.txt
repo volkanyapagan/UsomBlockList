@@ -95886,6 +95886,7 @@ cepte-ekstra.info.tr
 cepte-ekstra.net.tr
 cepte-ekstra.org.tr
 cepte-esube.my-homeip.net
+cepte-extra-mobilde-tr.click
 cepte-eylulsok.com.tr
 cepte-familia.com.tr
 cepte-familia.info.tr
@@ -99997,4 +99998,3 @@ claimucfee.hopto.org
 claimunclaimed.org
 claimyourbluesign2025.netlify.app
 claimyourprize10.com
-clairemauer.com
