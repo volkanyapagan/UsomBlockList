@@ -55889,6 +55889,7 @@ b-always-free.org
 b-asvurudeste-khizmet.com
 b-b-v-a-firsatlari.my-homeip.com
 b-b-v-a-kampanya.my-homeip.com
+b-b-v-a-online.click
 b-b-v-a.online
 b-b-v-a.shop
 b-b-vtr-ekran-web.za.com
@@ -74492,6 +74493,7 @@ bireysel-tanim.org
 bireysel-tanim.xyz
 bireysel-tanimlama.xyz
 bireysel-te-b-subesi.com
+bireysel-teb-kampanyam.my-homeip.net
 bireysel-teb-subesi-onlinetr.com
 bireysel-teb-tr.com
 bireysel-teb.my-homeip.net
@@ -99996,5 +99998,3 @@ ckwnzpj.com
 ckws.info
 ckwyipxj.com
 ckysp.top
-ckz-krasnodar.com
-cl-fitness.com
