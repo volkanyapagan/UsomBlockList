@@ -6052,6 +6052,7 @@
 19856552280.online
 19856552282.online
 19865616111.cloud
+1986891896.duckdns.org
 1988.hopto.org
 198j50tmm.duckdns.org
 19912206.xyz
@@ -61897,6 +61898,7 @@ basvurun-iqnbfinans.com
 basvurun-mobildenizsupriz.com
 basvurun-mobildenizsupriz.online
 basvurun-odeme.online
+basvurun-online.cfd
 basvurun-online.com.tr
 basvurun-online.sbs
 basvurun-online.xyz
@@ -99996,5 +99998,3 @@ ckwi.cyou
 ckwi.icu
 ckwi.qpon
 ckwl.pw
-ckwnzpj.com
-ckws.info

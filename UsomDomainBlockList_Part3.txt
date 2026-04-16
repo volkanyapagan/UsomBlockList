@@ -1,3 +1,6 @@
+hgsonline-odeme.ml
+hgsonline-odeme.tk
+hgsonline-odemesayfasi.cf
 hgsonline-odemesayfasi.ga
 hgsonline-odemesayfasi.gq
 hgsonline-odemesayfasi.ml
@@ -24120,6 +24123,7 @@ iscnbmbell.net
 iscp-kampnya.com.tr
 iscp-kmpnya.com
 iscpdjital.click
+iscpdjital.sbs
 iscple.cfd
 iscprhbr.cfd
 iscredi.com.tr
@@ -87783,6 +87787,7 @@ nsnayindakampnyabasladi.cfd
 nsnayindakampnyabasladi.shop
 nsnayindakamyasigeldi.shop
 nsnayiozel.blogspot.com
+nsnayiozeldeyiz.blogspot.com
 nsndacrfshmnbrda.com
 nsndamutfagnzda.cfd
 nsnfrsssttlribrayagldi.com
@@ -99993,8 +99998,3 @@ osoeqwtqnb.duckdns.org
 osoofogddssdf.blogspot.com
 osostata.com
 ospasatvoel.net
-osplj.com
-osppsvc.com
-ospreyturkiye.com.tr
-osprsmep.tech
-osqllaslfll.shop
