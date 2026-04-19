@@ -44781,6 +44781,7 @@ kgm.gzdmxw.help
 kgm.hcbxkx.homes
 kgm.hmksym.homes
 kgm.iifkvg.buzz
+kgm.ijugyf.buzz
 kgm.jalpey.homes
 kgm.jbbang.com
 kgm.mdjxja.help
@@ -99997,4 +99998,3 @@ ortaksayfam.com
 ortakservis.yenibayiservisi.biz
 ortakservispro.xyz
 ortaksigrtamnet.b-cdn.net
-ortaksistem.com
