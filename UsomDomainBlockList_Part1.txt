@@ -3730,6 +3730,7 @@
 12155451555999896.xyz
 12155451555999899.xyz
 121637121.duckdns.org
+1218913778.duckdns.org
 121991dec.ddns.net
 121milkyway.xyz
 1221.site
@@ -4199,6 +4200,7 @@
 13267-coinbase.com
 1327.pro
 132ekxttrr-amrktstindnrmllrinde.xyz
+132xkacskldc213x12.cfd
 133-tre.info
 1332345com.com
 1336.ddns.net
@@ -50798,6 +50800,7 @@ arz99w.duckdns.org
 arzantara.com
 arzizd0ok.duckdns.org
 arzqyn.com
+arzumbaharindirimi.com.tr
 arzumceyiz.com
 arzumokka.online
 arzyowvcay.duckdns.org
@@ -52455,6 +52458,7 @@ atb-lit.com
 atb5ubzc.duckdns.org
 atba3li.com
 atbankgold.com
+atbedk.click
 atbicofr.com
 atbkonline.com
 atbmpgatbsoct.duckdns.org
@@ -99994,7 +99998,3 @@ cizgi360-otokiralama.gq
 cizgi360-otokiralama.ml
 cizgi360arackiralama.shop
 cizgi360kiralama-com.cf
-cizgi360kiralama-com.ga
-cizgi360kiralama-com.gq
-cizgi360kiralama-com.ml
-cizgi360kiralama-com.tk
