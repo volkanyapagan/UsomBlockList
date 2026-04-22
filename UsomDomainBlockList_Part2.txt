@@ -1,3 +1,5 @@
+cizgi.name.tr
+cizgi360-arackirala.bar
 cizgi360-arackirala.rest
 cizgi360-arackirala.shop
 cizgi360-arackiralama.bar
@@ -93522,6 +93524,7 @@ hazinemaliye.org
 hazinemaliyeceza.org
 hazinemaliyeeiade1.com
 hazinemaliyeodeme.com
+hazinemaliyetc.com
 hazinemaliyetc.net
 hazinemaliyetc.org
 hazinemaliyetr.com
@@ -99995,6 +99998,3 @@ hgslerdeyzoduyoruz.click
 hgslerodemelerr.com
 hgslescek.net
 hgslfkjshlfs.org
-hgsli-yim.com
-hgsli-yiz.com
-hgsli.sg-host.com
