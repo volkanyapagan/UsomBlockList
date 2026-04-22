@@ -3730,6 +3730,7 @@
 12155451555999896.xyz
 12155451555999899.xyz
 121637121.duckdns.org
+121690.duckdns.org
 1218913778.duckdns.org
 121991dec.ddns.net
 121firsatlar2313.com
@@ -20742,6 +20743,7 @@
 915txrdh.duckdns.org
 915zob.duckdns.org
 9166.site
+9171268.duckdns.org
 91723-gemini.com
 91732486.com
 91752-coinbase.com
@@ -86194,6 +86196,10 @@ bsvrmrkzniknttkii.sbs
 bsvrmrkzniknttkkii.sbs
 bsvrn-ak-yeniyil.xyz
 bsvrnoktasihzlihemnbasvr.com
+bsvrprmsynnnkmpnyaaa.art
+bsvrprmsynnnkmpnyaaa.info
+bsvrprmsynnnkmpnyaaa.live
+bsvrprmsynnnkmpnyaaa.pro
 bsvrpromsynnkampanya.info
 bsvrpromsynnkampanya.pro
 bsvrqrpgsm.bogaccicekcilik.com.tr
@@ -99992,9 +99998,3 @@ ciyejmogsxnefypiwpew.com
 ciyi1tm.duckdns.org
 cizgi.name.tr
 cizgi360-arackirala.bar
-cizgi360-arackirala.rest
-cizgi360-arackirala.shop
-cizgi360-arackiralama.bar
-cizgi360-arackiralama.rest
-cizgi360-arackiralama.shop
-cizgi360-com.cf
