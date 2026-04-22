@@ -1,3 +1,4 @@
+hgsmarket.plakasorgu.online
 hgsmarket.plakasorgum.online
 hgsmarket.vizyonmarketi.online
 hgsmarketi.com
@@ -54568,6 +54569,7 @@ l52uws.duckdns.org
 l55polis155polisi.online
 l55polisitr155tr.online
 l55polistr.online
+l55tr-polis.shop
 l55tr-polistr.online
 l55trpolisii.shop
 l570m1qef.duckdns.org
@@ -64566,6 +64568,7 @@ maliyemasakgovtr.org
 maliyemhukuk.com
 maliyeodeme.com
 maliyeportal.com
+maliyeportal.net
 maliyeportaldosya.com
 maliyeportaluyap.com
 maliyerandevu.com
@@ -99995,6 +99998,3 @@ org.fatality.forex
 org.misecure.com
 org.redirect-302.com
 org.steermanst.xyz
-org8352info093.ddns.net
-orga-portal.com
-orgadswords.sbs
