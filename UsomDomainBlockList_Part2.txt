@@ -60197,6 +60197,7 @@ finanssal.com
 finanssal.pages.dev
 finanssalmerkez.com
 finanssalplan.com
+finanssalrehber.com
 finanssalyorum.com
 finanssbank.com
 finanssektoru.info
@@ -99997,4 +99998,3 @@ hgsicraservisi.com
 hgsicraservisi.info
 hgsicraservisleri.com
 hgsiftaradogru.com
-hgsiftarryeln-ptt.com
