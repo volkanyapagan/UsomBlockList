@@ -5800,6 +5800,7 @@
 192032390139.gleeze.com
 19213491564.cloud
 1921680100.ddns.net
+1922331123.click
 1923-istanbul-12.xyz
 1923236846.dfgqdsd.ru
 1923den.com
@@ -19805,6 +19806,7 @@
 872i3gav7.duckdns.org
 87312-coinbase.com
 8731293129521.cloud
+873218331.click
 873333com.com
 8736353546808.duckdns.org
 87423768798.online
@@ -61600,6 +61602,7 @@ basvurukurumsalweb.icu
 basvurukurumsalyonetim.icu
 basvurukuveytonlinesube.connectdijital.com.tr
 basvurukuveytonlinesubemmm.connectdijital.com.tr
+basvurukvytaleplerimiz.duckdns.org
 basvurukvytgiris.com
 basvurula.sbs
 basvurulan.sbs
@@ -99995,6 +99998,3 @@ citykamplyon.world
 citymyworkday.com
 cityofangelsmagazine.com
 cityofberkeley.support
-cityofchicago-gov.org
-cityofuganda.ug
-cityplaymc.es
