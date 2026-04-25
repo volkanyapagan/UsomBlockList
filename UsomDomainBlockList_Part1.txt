@@ -230,6 +230,7 @@
 010109434-111.duckdns.org
 01014522566dsas.com
 0101650301-123.cloud
+0101basvrularmerkezi0102.com
 0101ksmvlsk2140.com
 0101sv.ddns.net
 0102020022-222.cloud
@@ -99997,4 +99998,3 @@ cityofchicago-gov.org
 cityofuganda.ug
 cityplaymc.es
 citypluck.top
-cityprod.dotcms.io
