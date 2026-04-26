@@ -20578,6 +20578,7 @@ pttavm.tedarigin-guvenlisi.com
 pttavm.tedarikler-guvenli.com
 pttavm.tr-ilanlarla.com
 pttavm.trilanlar.org
+pttavm.urun-get-odeme.com
 pttavm.urun-ilanim.shop
 pttavm.urun-sepetim1.com
 pttavm.urun-sepetim3.com
@@ -94119,6 +94120,7 @@ turkiyebddkiademerkezigovtr.com
 turkiyebddkiadesi.com
 turkiyebddkmerkezigovtr.com
 turkiyebdkbasvuru.online
+turkiyebilgialani.com
 turkiyebimcell.com
 turkiyebimcelldolum.com
 turkiyebimcellhizmet.com
@@ -99942,6 +99944,7 @@ urun-dolap.com.tr
 urun-dyson.com.tr
 urun-firsat-ilan.com
 urun-firsat-ilanlar.com
+urun-get-odeme.com
 urun-get.com.tr
 urun-guvenli-al.com
 urun-guvenli-alim.com
@@ -99995,6 +99998,3 @@ urun25431.site
 urunal.fun
 urunal.gq
 urunalim.com
-urunalisveris.com
-urunalisverisi.com
-urunalisverisiniz.com
