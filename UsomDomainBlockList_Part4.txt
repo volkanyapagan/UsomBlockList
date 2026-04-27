@@ -1,3 +1,8 @@
+optima-se.ddns.net
+optimac-hr.com
+optimalad.net
+optimalauctioneer.top
+optimaldoctrine.top
 optimalfuse.top
 optimalpathcenter.com
 optimalpetition.top
@@ -61835,6 +61840,7 @@ sorgulamahizmetleri.online
 sorgulamaisbankasi.com
 sorgulamaislemleri.net
 sorgulamaislemlerifast.duckdns.org
+sorgulamaislemleriniz.duckdns.org
 sorgulamaislemlerinizfast.duckdns.org
 sorgulamak.site
 sorgulamala.com
@@ -99992,9 +99998,3 @@ urun-sepetim4.com
 urun-sepette.com
 urun-siparisler.com.tr
 urun-siparislerim.com
-urun-siparislerim.com.tr
-urun-tr.com
-urun-tr.net
-urun-vitrin.com
-urun.m-ilanlar.com.tr
-urun.online
