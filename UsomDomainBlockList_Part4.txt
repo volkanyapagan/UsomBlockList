@@ -13084,6 +13084,7 @@ placeupd-id49313.world
 placeupdein.com
 placeupdein.world
 plactech.quest
+pladorexuni.gifts
 plaerib.org
 plagnol-charpentier.fr
 plaguehunter.org
@@ -99997,4 +99998,3 @@ urun-sepet.com
 urun-sepetim4.com
 urun-sepette.com
 urun-siparisler.com.tr
-urun-siparislerim.com
