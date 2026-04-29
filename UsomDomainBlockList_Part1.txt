@@ -44978,6 +44978,7 @@ anadolubankasi.com
 anadolubankmobil.com
 anadolubanks.com
 anadolubasaksigorta.com
+anadolubilgibulten.com
 anadolubimcell.com
 anadolubridge.com
 anadolubursum.com
@@ -54272,6 +54273,7 @@ avis-odeme.com.tr
 avis-onliine.com
 avis-online-kira-lama.com
 avis-online-kirala.info
+avis-online-kiralama00.duckdns.org
 avis-online-sube.com
 avis-online-tr.com
 avis-online-turkiye.com
@@ -54825,6 +54827,7 @@ avsfilo.onlinekirala.autos
 avsfilokiralama.com
 avsfilokurumsal.online
 avsfilorent.net
+avsfilosu.com
 avsglobalkiralama.xyz
 avsiad.com
 avsistemler-webtr.com
@@ -99995,6 +99998,3 @@ citizensbank0nline.ddns.net
 citizensbank50.ddns.net
 citizensbankauth05.zapto.org
 citizensbankkkja.hopto.org
-citizensbankkonline.ddns.net
-citizensbankloginenable.duckdns.org
-citizensbanko5.ddns.net
