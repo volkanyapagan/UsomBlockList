@@ -9145,6 +9145,7 @@
 2343.hopto.org
 234321001.cloud
 2343212312321.cloud
+2343214.click
 2343242341.cloud
 2343242342342.com
 23432423432.cloud
@@ -84295,6 +84296,7 @@ bosnam.com
 bosphorgaz.com
 bosphorugaz.world
 bosphorusbreeze.online
+bosphoruscore.com
 bosphorusflow.com
 bosphorusgaztr.com
 bosphoruspoint.com
@@ -99996,5 +99998,3 @@ citimobile-secured.ddns.net
 citimobile1.ddns.net
 citimobilesecure.ddns.net
 citionlinew.ddns.net
-citipreventserv.zapto.org
-citiredirectonline.ddns.net
