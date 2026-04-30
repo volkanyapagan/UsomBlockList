@@ -1,3 +1,5 @@
+citibankstatementaccount.duckdns.org
+citibankverifyo.duckdns.org
 citibconnect.tk
 citibhelpv.hopto.org
 citibn.ddns.net
@@ -53327,6 +53329,7 @@ evilsecure9.wordpress.com
 evilsinstituted.ru
 evilteam.ddnsgeek.com
 evim-konutlari.xyz
+evim-mobil.com
 evim.b-cdn.net
 evimaltus.com
 evimbasvur.online
@@ -85265,6 +85268,7 @@ guvenlisorguislemlerim.com
 guvenlisorgulama.com
 guvenlisorgusistemi.com
 guvenlitakipciburada.shop
+guvenliteslim.online
 guvenliticaret-anindateslimat.com
 guvenliticaret-prmguvende.com
 guvenliticaret-prmguvende.shop
@@ -99994,7 +99998,3 @@ hgsburadan.site
 hgsburdangec.is-best.net
 hgsbusiness.com
 hgsbvrcodmekaraylkgmwb.duckdns.org
-hgscabest2.blogspot.com
-hgscalisma.blogspot.com
-hgscanifg.net
-hgscanliyukle.xyz
