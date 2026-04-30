@@ -86308,6 +86308,7 @@ tr-sahibindenparamguvende.tk
 tr-sahibindenparamguvendecheck.tk
 tr-sahibindenparamguvendee.tk
 tr-sahibndenparamguvende.tk
+tr-salomonturkiye.com
 tr-sarar.com
 tr-satis-ilanim.com.tr
 tr-satis-ilanlar.com.tr
@@ -99997,4 +99998,3 @@ uploadsfre.com
 uploadsuppression.top
 uploadtree.com
 uploadxjet.com
-upluadjet.site
