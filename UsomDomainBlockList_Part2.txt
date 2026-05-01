@@ -1,3 +1,5 @@
+citi-authuser04.hopto.org
+citi-bankingonline.com
 citi-hk.online-web-login-mobile.com
 citi-mobile156.ddns.net
 citi-online.hk-login.com
@@ -86962,6 +86964,7 @@ haberguns.online
 haberguns.website
 haberguru.co
 haberguru.net
+haberhizliweb.com
 haberhome.club
 haberhome.online
 haberi.my-homeip.com
@@ -99995,6 +99998,3 @@ hgsbenimle.com
 hgsbenimle.net
 hgsbenm.com
 hgsbildirim.info
-hgsbiletinebakiyeyukle.com
-hgsbiletinebakyeyukle.com
-hgsbilgi.info

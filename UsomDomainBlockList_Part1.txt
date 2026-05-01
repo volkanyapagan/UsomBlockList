@@ -23712,6 +23712,7 @@ a101.bayramindirimleri.com.tr
 a101.bayramindirimleri743.com
 a101.bayramkampanycnxd.com
 a101.bayramuygun.com
+a101.bdyoutube.com
 a101.beautiful-ramanujan.109-199-104-26.plesk.page
 a101.bio
 a101.birrovesa.com
@@ -87110,6 +87111,7 @@ bu-cagri-sizle-bizle-cogalacak-keyifler.com
 bu-cll.com
 bu-coskularda.net
 bu-cuma-a-101-de-aldin-aldin.sa.com
+bu-cumasizdeyiz.org
 bu-da-oyunun-bir-parcasi-alsanda-kurtulsan.xyz
 bu-davet-sizle-gore-sezon-sonunda.com
 bu-durum-sezonun-bitisini-etkilemez-al.com
@@ -99996,5 +99998,3 @@ citeration.top
 citi-06support.ddns.net
 citi-authentication.ddns.net
 citi-authorize.ddns.net
-citi-authuser04.hopto.org
-citi-bankingonline.com
