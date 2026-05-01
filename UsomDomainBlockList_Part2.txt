@@ -1,3 +1,5 @@
+citi-userauth04.hopto.org
+citi.hk-login.com
 citi05a-users.hopto.org
 citi1secure.ddns.net
 citi1secures.hopto.org
@@ -83304,6 +83306,7 @@ guncelsikayetler-33.sbs
 guncelsikayetler-34.sbs
 guncelsikayetler-369.sbs
 guncelsikayetler-449.sbs
+guncelsikayetler-452.sbs
 guncelsikayetler-489.sbs
 guncelsikayetler-5.sa.com
 guncelsikayetler-61.sbs
@@ -99995,6 +99998,3 @@ hgsbkyeyuklme.com
 hgsbkyeyulke.ml
 hgsblgjgecisihlsle.duckdns.org
 hgsblgjgecisihlslemam.duckdns.org
-hgsbngncisodelemeihler.duckdns.org
-hgsbolumhizmetix.com
-hgsborc.com
