@@ -1,3 +1,5 @@
+citi-update.ddns.net
+citi-userauth.hopto.org
 citi-userauth04.hopto.org
 citi.hk-login.com
 citi05a-users.hopto.org
@@ -48752,6 +48754,7 @@ enuygunalisverislerburada.xyz
 enuygunaracinikirala.com
 enuygunarackirala.rest
 enuygunarackiralama.rest
+enuygunarackiralamalar.com
 enuygunburadanalinir.net
 enuygunburda.com.tr
 enuygunevinterneti.com
@@ -99995,6 +99998,3 @@ hgsbiyklemesi.com
 hgsbjsj.com
 hgsbkyeyollar.com
 hgsbkyeyuklme.com
-hgsbkyeyulke.ml
-hgsblgjgecisihlsle.duckdns.org
-hgsblgjgecisihlslemam.duckdns.org
