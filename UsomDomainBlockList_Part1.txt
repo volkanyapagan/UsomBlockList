@@ -22438,6 +22438,7 @@ a-101-de-bugune-ozel-mobil-tr.internete-ozel-mobil-store-tr.site
 a-101-de-bugune-ozel.online-sponsor-web-tr.com
 a-101-de-extra-bugune-ozel-sepette-firsat-tr.shop
 a-101-de-extra-sadece-bugune-ozel-firsat.onlinecep-tr.site
+a-101-de-extra-sadece-bugune-ozel-mobilde-tr.bireysel-shop-tr.sbs
 a-101-de-sadece-bugune-ozel-tr.online-shop-cepte-tr.site
 a-101-de-sadece-bugune-ozel-tr.online-shop-tr.site
 a-101-de-sadece-bugune-ozel-tr.ozel-online-cepte-tr.site
@@ -99997,4 +99998,3 @@ citi-authentication.ddns.net
 citi-authorize.ddns.net
 citi-authuser04.hopto.org
 citi-bankingonline.com
-citi-hk.online-web-login-mobile.com
