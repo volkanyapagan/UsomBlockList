@@ -1,3 +1,6 @@
+citi1secure.ddns.net
+citi1secures.hopto.org
+citi2-authorized.ddns.net
 citi3ens.zapto.org
 citi78-auth.ddns.net
 citiaccess-secured.ddns.net
@@ -99995,6 +99998,3 @@ hgsbngncisodelemeihler.duckdns.org
 hgsbolumhizmetix.com
 hgsborc.com
 hgsborcbildirirs.duckdns.org
-hgsborcccodeme.com
-hgsborcicraodeme.duckdns.org
-hgsborcidareicragecisiei.duckdns.org
