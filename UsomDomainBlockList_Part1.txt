@@ -74815,6 +74815,7 @@ bireysel-tanim.org
 bireysel-tanim.xyz
 bireysel-tanimlama.xyz
 bireysel-te-b-subesi.com
+bireysel-teb-firsati.my-homeip.de
 bireysel-teb-kampanya-girisler.my-homeip.net
 bireysel-teb-kampanyam.my-homeip.net
 bireysel-teb-subesi-onlinetr.com
@@ -99997,4 +99998,3 @@ citi-authorize.ddns.net
 citi-authuser04.hopto.org
 citi-bankingonline.com
 citi-hk.online-web-login-mobile.com
-citi-mobile156.ddns.net
