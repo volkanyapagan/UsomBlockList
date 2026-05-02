@@ -1,3 +1,5 @@
+onsform.online
+onsightkwp.com
 onsiparis.org
 onsiparistogg.xyz
 onspotlinks.co.za
@@ -60781,6 +60783,7 @@ soksubatindiri.inz-aghi.xyz
 sokta-bavulgunleri.com.tr
 sokta-firsatrobot.org.tr
 sokta-gunler.name.tr
+sokta-gunler.net.tr
 sokta-gunler.tv.tr
 sokta-gunler.web.tr
 sokta-haziranfirsatlar.com.tr
@@ -99995,6 +99998,3 @@ update.hobiter.com
 update.iap5u1rbety6vifaxsi9vovnc9jjay2l.com
 update.ictdp.com
 update.inet2.org
-update.kaspernsky.com
-update.kennedywilsoninc.com
-update.kworker.net
