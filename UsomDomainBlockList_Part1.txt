@@ -74820,6 +74820,7 @@ bireysel-te-b-subesi.com
 bireysel-teb-firsati.my-homeip.de
 bireysel-teb-kampanya-girisler.my-homeip.net
 bireysel-teb-kampanyam.my-homeip.net
+bireysel-teb-promosyon.my-homeip.de
 bireysel-teb-subesi-onlinetr.com
 bireysel-teb-tr.com
 bireysel-teb.my-homeip.net
@@ -99997,4 +99998,3 @@ citecorrelation.top
 citeration.top
 citi-06support.ddns.net
 citi-authentication.ddns.net
-citi-authorize.ddns.net
