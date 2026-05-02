@@ -1,3 +1,10 @@
+onrise.store
+onrqzmeka.com
+onrunningturkiyetr.com
+onsatis.org
+onsatisbasvur.com
+onsec1.ddns.net
+onsedon.ddns.net
 onsekiz.b-cdn.net
 onsekizeylullde.uk
 onsekizinci.tk
@@ -99991,10 +99998,3 @@ update.bainv.net
 update.cbu.net
 update.centosupdates.com
 update.certexvpn.com
-update.chromeconnect.digital
-update.cloudjscdn.com
-update.coinmarketsap.com
-update.convstats.com
-update.ddns.ms
-update.delldrivers.in
-update.devicebug.com
