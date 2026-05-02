@@ -22440,6 +22440,7 @@ a-101-de-bugune-ozel.online-sponsor-web-tr.com
 a-101-de-extra-bugune-ozel-sepette-firsat-tr.shop
 a-101-de-extra-sadece-bugune-ozel-firsat.onlinecep-tr.site
 a-101-de-extra-sadece-bugune-ozel-mobilde-tr.bireysel-shop-tr.sbs
+a-101-de-extra-sadece-bugune-ozel-sepette-tr.bireysel-shop-tr.online
 a-101-de-sadece-bugune-ozel-tr.online-shop-cepte-tr.site
 a-101-de-sadece-bugune-ozel-tr.online-shop-tr.site
 a-101-de-sadece-bugune-ozel-tr.ozel-online-cepte-tr.site
@@ -74741,6 +74742,7 @@ bireysel-payfix.site
 bireysel-payfix.vercel.app
 bireysel-payfixi.com
 bireysel-pfix.com
+bireysel-promosion-firsatlar.my-homeip.de
 bireysel-ptt.com
 bireysel-pttavm.com
 bireysel-pttavm.com.tr
@@ -99996,5 +99998,3 @@ citationsherbe.at
 citationstationery.top
 citbk1.ddns.net
 citcmon.zapto.org
-citecorrelation.top
-citeration.top
