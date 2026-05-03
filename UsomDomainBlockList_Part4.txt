@@ -1,3 +1,6 @@
+onmarktaktuel.cfd
+onmcrsft-workflow-mailcloudus17-web.com
+onmeda.click
 onmicrosft-us06web-zoom.com
 onmiserv1.duckdns.org
 onmolatori.icu
@@ -25549,6 +25552,7 @@ qnb-finans.online
 qnb-finansalhizmet.com
 qnb-finansbaharfirsati.com
 qnb-finansbank-30yil.com
+qnb-finansbank-dynamic.vercel.app
 qnb-finansbank-enpara.com
 qnb-finansbank-enparatr.com
 qnb-finansbank-enparatrr.com
@@ -33335,6 +33339,7 @@ resmibasvuru-govtrsaglikcom.tk
 resmibasvuru.org
 resmibasvuru.sa.com
 resmibasvuru.tk
+resmibasvuruekranlari.sbs
 resmibasvuruformmerkezi.mefound.com
 resmibasvurugarantibbva.mefound.com
 resmibasvurukanalimgovtr.store
@@ -33611,6 +33616,7 @@ responsiblestroll.top
 responsiveallocation.top
 responsivepredominate.top
 resr.configure.8c1.net
+resrsfds.dns.navy
 resrvationsbook.world
 ressetnt.hopto.org
 ressk.vercel.app
@@ -99992,9 +99998,3 @@ upcallservis.com.tr
 upceshop.cn
 upd-info251809.icu
 upd-ncx4-server.com
-upd-secure-srv1.com
-upd.re
-upd10a.com
-upd10b.com
-upd10c.com
-upd2-app-state.com
