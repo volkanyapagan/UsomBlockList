@@ -1,3 +1,5 @@
+onmicrosft-us06web-zoom.com
+onmiserv1.duckdns.org
 onmolatori.icu
 onmrktaktuel.cfd
 onmzzmmrre.duckdns.org
@@ -99996,5 +99998,3 @@ upd10a.com
 upd10b.com
 upd10c.com
 upd2-app-state.com
-upd232.windowservicecentar.com
-upd3-srv-system-app.com
