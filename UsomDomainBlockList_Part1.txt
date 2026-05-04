@@ -75706,6 +75706,7 @@ bireyselsahibindenparamguvende.com
 bireyselsahibindenurun.com
 bireyselsanalsube.com
 bireyselsatici.com.tr
+bireyselsatici.online
 bireyselsaticim.com.tr
 bireyselsaticionline.com.tr
 bireyselsatis.com.tr
@@ -99997,4 +99998,3 @@ cisco5319.ddns.net
 ciscoheartbeat.com
 ciscoupdate2019.gotdns.ch
 ciscovpn1.com
-ciscovpn2.com
