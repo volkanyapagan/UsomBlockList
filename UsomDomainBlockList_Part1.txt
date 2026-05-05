@@ -14975,6 +14975,7 @@
 50g.vf32.xyz
 50gb-kampanyasi-turkcell.com
 50gb-kampanyasi-turkcell.net
+50gbfirsat.b-cdn.net
 50gbfirsat.online
 50gbkazan.online
 50gf8dbxj.duckdns.org
@@ -64043,6 +64044,7 @@ bbaptl-3e6932925674.herokuapp.com
 bbaptl1-ee5aae1d5f8e.herokuapp.com
 bbaptl122-22f327531af7.herokuapp.com
 bbaptl1222-1dd3ca35093d.herokuapp.com
+bbasvru-yyap.cfd
 bbasvuru-giristr.com
 bbasvurularfinansmerkezi.vercel.app
 bbasvuruloginsrvciesbv-a.com
@@ -99996,5 +99998,3 @@ cimeraidatonlineiade.b-cdn.net
 cimeraidatonlineiaden.b-cdn.net
 cimeraidatt.cf
 cimeraktariadeni.b-cdn.net
-cimerbaskanligigovtr.com
-cimerbaskanlikyardim.epizy.com
