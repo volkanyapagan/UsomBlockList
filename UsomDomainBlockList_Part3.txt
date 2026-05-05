@@ -1,3 +1,8 @@
+hgs-ptt-avm-odeme-gov-trr.blogspot.com
+hgs-ptt-avm-odeme-gov.blogspot.com
+hgs-ptt-avm-odeme-net.blogspot.com
+hgs-ptt-avm-odeme-org.blogspot.com
+hgs-ptt-avm-odemegov.blogspot.com
 hgs-ptt-avm-tr-gov.blogspot.com
 hgs-ptt-avm-tr-net.blogspot.com
 hgs-ptt-avm-tr.blogspot.com
@@ -37429,6 +37434,7 @@ kacmayacakalisverislerisnadresi.com.tr
 kacmayacakalisverislerisnadresi.online
 kacmayacakalisverislerisnadresi.xyz
 kacmayanbblva.ddns-ip.net
+kacmayanblva.linkpc.net
 kacmayanfirsat.com.tr
 kacmayanfirsat.online
 kacmayanfirsat.xyz
@@ -99992,9 +99998,3 @@ onlinesube-enpara.com
 onlinesube-finans.com
 onlinesube-garant.lat
 onlinesube-garant.ru.com
-onlinesube-garant.sa.com
-onlinesube-garant.za.com
-onlinesube-garanti.cfd
-onlinesube-garanti.click
-onlinesube-garanti.com
-onlinesube-garanti.sbs
