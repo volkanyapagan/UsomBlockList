@@ -1,3 +1,10 @@
+hgs-now.com
+hgs-o.com
+hgs-obs.net
+hgs-ode-3d.xyz
+hgs-ode.com
+hgs-odee-3d.xyz
+hgs-odeme-ankara.xyz
 hgs-odeme-hizmetii.xyz
 hgs-odeme-istanbul.xyz
 hgs-odeme-izmir.xyz
@@ -37524,6 +37531,7 @@ kacmayacakalisverislerisnadresi.online
 kacmayacakalisverislerisnadresi.xyz
 kacmayanbblva.ddns-ip.net
 kacmayanbl.vercel.app
+kacmayanblb-9h3e.vercel.app
 kacmayanblva.linkpc.net
 kacmayanfirsat.com.tr
 kacmayanfirsat.online
@@ -99990,11 +99998,3 @@ onlinesenesonu-bireyselkampanya-basvur.ml
 onlinesenesonu-bireyselkampanya-basvur.yeniyilsuprizkampanya-ozel.tk
 onlinesepet.info.tr
 onlinesepet.online
-onlinesepet.sbs
-onlinesepetdevam.com
-onlinesepetim.com.tr
-onlinesepetin.com.tr
-onlinesepetine.com.tr
-onlinesepetlerburada.site
-onlinesepette.com.tr
-onlineservice-home.icu

@@ -22482,6 +22482,7 @@ a-101-extra-online-bugune-ozel-tr.online-cepte-sponsor-tr.site
 a-101-extra-online-sadece-bugune-ozel-tr.onlinecep-tr.site
 a-101-extra-sadece-bugune-ozel-mobil.extra-online-mobilde-tr.sbs
 a-101-extra-sadece-online-mobile-ozel-tr.online-shop-bireysel-tr.online
+a-101-extra-sadece-online-ozel-tr.online-shop-bireysel-tr.sbs
 a-101-eylulfirsatlari.online
 a-101-firsat.shop
 a-101-firsatlar.online
@@ -47147,6 +47148,7 @@ api.querycore.com
 api.querysocial.net
 api.quickcamfix.online
 api.qusadqueszh.com
+api.ra-backup.com
 api.raisetgb.com
 api.realproheros.com
 api.release-drivers.online
@@ -60707,6 +60709,7 @@ basvursena.online
 basvursende.fun
 basvursende.lotusbungalov.com
 basvursende.online
+basvursendem.sbs
 basvursenden.sbs
 basvursfirsati.com
 basvurshn.com.tr
@@ -97148,6 +97151,7 @@ ceptektebwebgiris.com
 ceptelefon-elektronik-paramguvende-pro-sahibinden.com
 ceptelefonu-elektronik-paramguvende-pro-sahibinden.com
 ceptelefonundanmarketkontrolsistemi.cfd
+ceptelinks-tr-mobil-tr.online
 ceptelirayukle.com
 ceptem-tebinfirsatlari.com
 ceptemagaza.biz.tr
@@ -99994,7 +99998,3 @@ cimer.co.vu
 cimer.com.pe
 cimer.dev
 cimer.net
-cimer.nomee6.xyz
-cimer.ovh
-cimer.shop
-cimer20-gbyuklemenoktasi.com
