@@ -1,3 +1,10 @@
+hgs-epttavm-bakiyesi.ml
+hgs-epttavm-bakiyesi1.ml
+hgs-epttavm-bakiyesi2.ml
+hgs-epttavm-bakiyesi3.ml
+hgs-epttavm-bakiyesi4.ml
+hgs-epttavm-bakiyesi5.ml
+hgs-epttavm-yukleme.com
 hgs-epttavm.com
 hgs-epttavm.ml
 hgs-epttavm.net
@@ -5736,6 +5743,7 @@ hizmetiniz-online.com
 hizmetinizburda.com
 hizmetinizin.com.tr
 hizmetinkalitesi-atolyesi.shop
+hizmetinkalitesi-burada.shop
 hizmetinkalitesi-dunyasi.shop
 hizmetinkalitesi-eksperi.shop
 hizmetinkalitesi-farki.shop
@@ -24962,6 +24970,7 @@ isbankasii.com
 isbankasii.online
 isbankasii.xyz
 isbankasiitr.com
+isbankasikampanya.duckdns.org
 isbankasikampanyabasvuru.com
 isbankasikampanyagirisi.com
 isbankasikampanyakatilimi.com
@@ -86017,6 +86026,7 @@ netiletisim.org
 netint.digital
 netinternets-my.cloud
 netisube-qnbfinansbank.com
+netkamrfanparaya.2mydns.net
 netkayitresmigiristok-i-govtr.com
 netkirlama.site
 netklop.life
@@ -96135,6 +96145,7 @@ onaylisiparis.com.tr
 onaylisistemselekranlar.sbs
 onaylitekliflerim.com
 onayliurun.name.tr
+onaylnnan-girisvehizmetislemleri.sbs
 onaymerkezi-destek.ml
 onaymerkezi.xyz
 onaymerkezicetelemteb.net
@@ -99987,14 +99998,3 @@ onlineozelindirimnm.xyz
 onlineozelkacmazfirsatlar.shop
 onlineozelkampanya.biz.tr
 onlineozelkampanya.com
-onlineozelkampanya.info.tr
-onlineozelkampanya.org
-onlineozelkampanya.org.tr
-onlineozelkampanyali.com
-onlineozelkanpanya-101.com.tr
-onlineozelpuanlatr.cf
-onlineozelpuanlatr.gq
-onlineozelsel.blogspot.com
-onlineozelsepet.shop
-onlineozelsinirlikampanyalar.com
-onlineozelsiparis.online
