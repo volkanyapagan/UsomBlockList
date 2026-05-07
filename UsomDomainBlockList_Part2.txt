@@ -1,3 +1,7 @@
+cimer-interaktif.com
+cimer-kartaidat.com
+cimer-kartaidatmasraf.com
+cimer-kartiadeaidat.com
 cimer-kartiadesi.com
 cimer-katkipayiodemeleri.com
 cimer-kredikartonlinegeriodemegovtr.com
@@ -76525,7 +76529,6 @@ gib-vezne.online
 gib.detaylar.site
 gib.intvrg.org
 gib.islem.io
-gib.maliportal.tr
 gibagatungung.hopto.org
 gibbasvrekran.com
 gibbasvuru.com
@@ -91455,6 +91458,7 @@ halkmobil-halkbank.com
 halkmobil-hediye.com
 halkmobil.club
 halkmobil.com
+halkmobil.duckdns.org
 halkmobil.ml
 halkmobilbaharda.cf
 halkmobilbaharda.gq
@@ -99994,7 +99998,3 @@ hgs-epttavm.xyz
 hgs-epttavmislemleri.com
 hgs-epttavnn.ml
 hgs-epttawm.ml
-hgs-epttawnn.ml
-hgs-eptttaavm.com
-hgs-eweb.xyz
-hgs-f.com
