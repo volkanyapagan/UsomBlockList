@@ -2556,6 +2556,7 @@
 101indirimciniz.site
 101indirimciniz.store
 101indirimegeldik.com.tr
+101indirimfirsati.site
 101indirimfirsatlar.duckdns.org
 101indirimfirsatlarim.xyz
 101indirimgunc.com
@@ -99997,4 +99998,3 @@ cimer-destekhattimiz.com
 cimer-destekpaketi2021.com
 cimer-e-iade-sistemlerimizgovrtr.com
 cimer-e-iade-sistemlerimizgovstr.com
-cimer-e-iade-sistemlerimizgovtr.com
