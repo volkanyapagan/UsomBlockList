@@ -10184,6 +10184,7 @@
 293712.website
 2937927737.cloud
 2938.ddns.net
+29382822001.duckdns.org
 293842.site
 293cyz.duckdns.org
 294145276.corolain.ru
@@ -52629,6 +52630,7 @@ at7fao8y7.duckdns.org
 at89qr.duckdns.org
 at96689.xyz
 at9rin.duckdns.org
+ata-news.com
 ataba.click
 atabeymeneksehaliyikama.com.tr
 atacama69.ddns.net
@@ -86479,6 +86481,7 @@ bsa.untukhgs.com
 bsa8blh8.duckdns.org
 bsacierwh.com
 bsafhb.zapto.org
+bsagadasakjsdf12bek.cfd
 bsamqe.duckdns.org
 bsasssssvrufirrsatlarrri.xyz
 bsayfasi.net
@@ -99995,6 +99998,3 @@ cimer-bireyselbasvuru.org
 cimer-bireyselbasvurusu.com
 cimer-bireyselbasvurusu.org
 cimer-com-mx.cimer.do
-cimer-cumbsktr.com
-cimer-destek-hatti.com
-cimer-destekbasvuru.com
