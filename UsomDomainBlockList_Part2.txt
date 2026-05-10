@@ -1,3 +1,5 @@
+cimer-bilgilendirme.com
+cimer-bireyselbasvuru.com
 cimer-bireyselbasvuru.org
 cimer-bireyselbasvurusu.com
 cimer-bireyselbasvurusu.org
@@ -24196,6 +24198,7 @@ dijital-ziraatwebgiris.sbs
 dijital-ziraatwebhizli.sbs
 dijital-ziraatwebmobil.com
 dijital-zirkampanya.com
+dijital-zirkampanyalar.com
 dijital-zirmobil.com
 dijital.detaylari.site
 dijital.emlakasdqwe.com
@@ -63541,6 +63544,7 @@ firsatt-basvurumobildeniz.com
 firsatt-indrrimller.com
 firsatt-urunleri-katalogu.com
 firsatta-bugunekimfirsatlaribugun.tech
+firsatta-geckalma.com.tr
 firsatta.sbs
 firsattaa.com
 firsattabugunkampanyasibance.tech
@@ -99994,7 +99998,3 @@ hgs-bakiye-yuklemee.ml
 hgs-bakiye-yuklemee.tk
 hgs-bakiye-yuklemeyap2022.tk
 hgs-bakiye-yuklemeyaphemen.tk
-hgs-bakiye-yuklemeyaptrgiris.tk
-hgs-bakiye-yuklemyap.tk
-hgs-bakiye.com
-hgs-bakiye.heylink.fyi
