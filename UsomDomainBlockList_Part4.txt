@@ -1,3 +1,5 @@
+onlineindirimlerimburada.vercel.app
+onlineindirimlersadeceonlineozel.online
 onlineindirimlikampanyalarimburada.online
 onlineindirimliurumler.com.tr
 onlineindirimliurunlerde.net.tr
@@ -1989,6 +1991,7 @@ openstructure.site
 openstructure.store
 opentechcorp.net
 opentop.store
+openturk.company
 openunit.shop
 openversion.shop
 openversion.site
@@ -22669,6 +22672,8 @@ pttavm-kgshgs-gov-tr.blogspot.com
 pttavm-kilometre-ogren.web.app
 pttavm-kilometre-raporu.web.app
 pttavm-km-bilgi.web.app
+pttavm-km-dokumu.firebaseapp.com
+pttavm-km-dokumu.web.app
 pttavm-kurumsal.com
 pttavm-mobil.com
 pttavm-mobile.com
@@ -98582,7 +98587,6 @@ turktuvracmuyne.net
 turkuaidsippt.info
 turkuazbujiteri.xyz
 turkuazhaber.shop
-turkuazkredi.com
 turkuazvillam.com
 turkulturuniverse.online
 turkumyukleme.live
@@ -99994,7 +99998,3 @@ twwdc8h.duckdns.org
 twwhvw.ujuandjule.ru
 twwilitwnw.duckdns.org
 twwpxostrr.nconventio.ru
-twwxwmlcru.com
-twxa33wx.click
-twxdfoyul.com
-twxdg.com
