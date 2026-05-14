@@ -21366,6 +21366,7 @@
 99900000003.cloud
 99900000004.cloud
 999000000056.cloud
+999000044444.duckdns.org
 99900995591259.duckdns.org
 999080321besttest971-service10020125999080321.ru
 999080321clubtest561-service10020125999080321.ru
@@ -22524,6 +22525,7 @@ a-101-extra-bugune-ozel-siparis-tr.onlinecep-tr.site
 a-101-extra-bugune-ozel-tr.online-shop-mobil-tr.site
 a-101-extra-internete-ozel-indirim.internete-ozel-mobil-store-tr.site
 a-101-extra-internete-ozel-indirimler.online-mobil-sponsor.lat
+a-101-extra-mobile-ozel-bugun-sepette-tr.online-bireysel-mobil-tr.site
 a-101-extra-online-bugune-ozel-tr.online-cepte-sponsor-tr.site
 a-101-extra-online-sadece-bugune-ozel-tr.onlinecep-tr.site
 a-101-extra-sadece-bugune-ozel-mobil.extra-online-mobilde-tr.sbs
@@ -64661,6 +64663,7 @@ bbvaonline.org
 bbvaonline.xyz
 bbvaonlineargentina.ml
 bbvaonlinebamking-ar.org
+bbvaonlinefirsatlar.duckdns.org
 bbvaonlinegaranti.com
 bbvaonlinegarantili.com
 bbvaonlinegarantili.vg
@@ -64903,6 +64906,7 @@ bczkghjj.duckdns.org
 bd-cll.com
 bd-dkaidatason.com
 bd-dkdaaidatson.com
+bd-l55polisi.online
 bd0n59.cn
 bd155polisi.online
 bd17bxc09.duckdns.org
@@ -81098,6 +81102,7 @@ bmjyyuhuey.duckdns.org
 bmjzdgcell.net
 bmjzxhsovwhtqcqpvxxcmzk.com
 bmkapnayazamanicll.com
+bmkbasvur.com
 bmkewsx.net
 bmkjhceel67.com
 bmkldxswqd.net
@@ -94467,6 +94472,7 @@ carrefoursamarket.online
 carrefoursamarketzinciri.com
 carrefoursamobil.com
 carrefoursanalomo.cfd
+carrefoursanelazimsa.com
 carrefoursas.com
 carrefoursasonbaharindirimleri.xyz
 carrefoursatr.b-cdn.net
@@ -99992,9 +99998,3 @@ ciitiizeenbank.duckdns.org
 ciitinsss.hopto.org
 ciitzenobs9.duckdns.org
 cijqpnlqwe.duckdns.org
-cikbasvuru-agustosdenizdehayat.com
-cikdeniz-ocak-firsat.buzz
-cikdenizbankasyvvyi.217-195-202-19.plesk.page
-cikdenizv2denizbankyenimza.co.vu
-cikes22.ddns.net
-cikincikingelin.cfd
