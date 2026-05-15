@@ -84702,6 +84702,7 @@ gundembolgesi.cfd
 gundemburada.name.tr
 gundemden.site
 gundemguncelhaber.com
+gundemguncelplatform.com
 gundemhaber.org
 gundemhaber.site
 gundemhaber1.site
@@ -88760,6 +88761,7 @@ hadoopspark.ddns.net
 hadramout21.com
 hadrianresorts.com
 hadrion.shop
+hadrion.site
 hadrion.store
 hadsaldkaflkadmf.live
 hadsizkucik.cyou
@@ -99996,5 +99998,3 @@ hftsolnu101brdacomcomcom.com
 hftsolnu101brdacoscom.com
 hftz-pzrm-frstm.com
 hfuawsrb.com
-hfuqi.com
-hfuteducn.wordpress.com
