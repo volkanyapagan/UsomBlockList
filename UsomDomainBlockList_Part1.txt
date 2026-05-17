@@ -60871,6 +60871,7 @@ basvursayfasidirectgiris.click
 basvursbr.online
 basvursena.com.tr
 basvursena.online
+basvursend.sbs
 basvursende.fun
 basvursende.lotusbungalov.com
 basvursende.online
@@ -99997,4 +99998,3 @@ cifcihascnamns.net
 cifcilerlebura.duckdns.org
 cifcilider.online
 cifcimdendestegim.online
-cifcimedestem.duckdns.org
