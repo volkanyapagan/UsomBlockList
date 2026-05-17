@@ -15540,6 +15540,7 @@
 55555000000010101.cloud
 555553263.cloud
 555555511111111.duckdns.org
+55555551200055555005.gleeze.com
 555564654.cloud
 5555hgs55yukleme555.blogspot.com
 5556215250215.duckdns.org
@@ -65770,6 +65771,7 @@ bedavapanel.com
 bedavapanel.org
 bedavapanel.site
 bedavasorgu.com
+bedavasorgu.org
 bedavasorgula.com
 bedavasorgupaneli.online
 bedavasorgupaneli.site
@@ -66276,6 +66278,7 @@ below.web1337.net
 belowcustody.top
 belowtireddutchcopy.com
 belpost-by.lol
+belsis.online
 belsis.site
 beltclog.top
 beltglacier.top
@@ -73615,6 +73618,7 @@ binance-verifica.com
 binance-verification.com
 binance-verification.live
 binance-web.net
+binance-web30.shop
 binance.az
 binance.betrui.site
 binance.bnncglobal.com
@@ -99994,7 +99998,3 @@ cifcilerlebura.duckdns.org
 cifcilider.online
 cifcimdendestegim.online
 cifcimedestem.duckdns.org
-cifcimizbura.duckdns.org
-cifelausrucvjrhjq.net
-cifsigorta.net
-cift-mrtgagn-t.my-homeip.net
