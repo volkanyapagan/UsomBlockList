@@ -1,3 +1,4 @@
+hesapalin.com
 hesapalinsiz.cfd
 hesapalmayadevam.cfd
 hesapaltin-denizbank.com
@@ -77945,6 +77946,7 @@ mobilservisler-25.sbs
 mobilservisler-26.sbs
 mobilservisler-28.sbs
 mobilservisler-29.sbs
+mobilservisler-3.sbs
 mobilservisler.com
 mobilservisler.online
 mobilservisler.xyz
@@ -99996,5 +99998,3 @@ onlinebncabasvurusu.com
 onlinebncabasvurutr.com
 onlinebncagirislertr.com
 onlinebncaktiftr.com
-onlinebncaresmigiris.com
-onlinebncaseduyurutr.com

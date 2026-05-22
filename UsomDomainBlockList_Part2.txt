@@ -85716,6 +85716,7 @@ guvendesiparis.online
 guvendeticaret-tr.com
 guvendeticaret.online
 guvendeticaretlerim.online
+guvendeticaretlerim.site
 guvendetr.co
 guvendetr.com
 guvendetr.net
@@ -99997,4 +99998,3 @@ hesap-tr-online.today
 hesap-yukselt.net
 hesap.bn05122024tr.com
 hesap.cf
-hesapalin.com
