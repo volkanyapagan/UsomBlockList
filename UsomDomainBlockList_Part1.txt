@@ -23392,6 +23392,7 @@ a101-com.sa.com
 a101-com.sadecefirsatlar.com
 a101-com.se
 a101-com.store
+a101-com.tr.webliosy.online
 a101-com.web-ozel.online
 a101-com.yilsonukampanya.online
 a101-comtr.kampanyalarbuguneozel.online
@@ -91945,6 +91946,7 @@ byrmlr-1hzirans1.com
 byrmmda-birlikteyiz-heran-variz.com
 byrmmda-birlikteyiz-heran-variz.pro
 byrmmdda-birlikteyiz-heran-variz.online
+byrmozel.blogspot.com
 byrmsonlrigldisizlre.com
 byrmsonucihazi.site
 byrmsonustand.site
@@ -99996,5 +99998,3 @@ chyprediction.com
 chyvumbnl.com
 ci-meraidad.com
 ci-mermer.com
-ci-yuklemesi.22web.org
-ci01secured.ddns.net

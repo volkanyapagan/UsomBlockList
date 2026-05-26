@@ -1,3 +1,5 @@
+ci-yuklemesi.22web.org
+ci01secured.ddns.net
 ci1tiein1sec-auth.duckdns.org
 ci26ffr4.duckdns.org
 ci2aaux.duckdns.org
@@ -29746,6 +29748,7 @@ drainer38.ddns.net
 drainstar.duckdns.org
 drake-z.online
 drake3838.zapto.org
+drakebro.duckdns.org
 drakensang.hopto.org
 drakezed.online
 drakezed2.online
@@ -88500,6 +88503,7 @@ haber7408.shop
 haber7472.shop
 haber7495.shop
 haber752.shop
+haber78456.shop
 haber7gazetesi.com
 haber900.club
 haber900.online
@@ -88653,6 +88657,7 @@ haberinfo.xyz
 haberiniz-olsun.club
 haberiniz-olsun.life
 haberinkaynagi145.shop
+haberinkaynagindan.shop
 haberinmerkezi-tr.blogspot.com
 haberinnoktasi.shop
 haberinolsolar.site
@@ -99993,8 +99998,3 @@ herseykapimda.online
 herseymikirmizi.site
 herseyolsadwe.net
 herseypaylstkcagzel.online
-herseyperakendeteklialim.com
-herseys23.site
-herseyseninicindeniz2023.com
-herseyseyelmklllldnn.duckdns.org
-herseysizeozelfirsatarabasi.space
