@@ -5164,6 +5164,7 @@
 159-100-18-81.plesk.page
 159-223-106-226.plesk.page
 159-223-217-94.plesk.page
+159-karayol.com
 159-windtre.info
 159753456.duckdns.org
 159821.cloud
@@ -65562,6 +65563,7 @@ bdgtkiralama.com.tr
 bdgtkiralama.space
 bdgzmw.top
 bdhcp.coinbase-com.info
+bdhekjs9.blogspot.com
 bdhgmq.top
 bdhhmm.top
 bdhismindset.top
@@ -89116,6 +89118,7 @@ buldurdum.club
 buldurdum.online
 buldurdum.site
 buldurdum.website
+bulduretede.lat
 bule.my-board.org
 bulgariaexcuse.com
 bulgariatripholidays.com
@@ -99995,6 +99998,3 @@ chuscarros.zapto.org
 chutech.works
 chutiyahaitu.duckdns.org
 chv2fo36.duckdns.org
-chvgia.duckdns.org
-chvkamjw.com
-chvsvr.short.gy
