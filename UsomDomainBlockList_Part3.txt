@@ -28950,6 +28950,7 @@ istanbulk.art
 istanbulk.digital
 istanbulkaarrt.net
 istanbulkadar.shop
+istanbulkadars.shop
 istanbulkadarsanhemengel.shop
 istanbulkafrt.net
 istanbulkahveci.myshopify.com
@@ -99997,4 +99998,3 @@ online04a.hopto.org
 online05securexxx.hopto.org
 online06becu.hopto.org
 online06secure.hopto.org
-online07prepaid.hopto.org
