@@ -1,3 +1,5 @@
+hero01.press
+herocdn.online
 herodukins.hopto.org
 herofamily.zapto.org
 herofm2.hopto.org
@@ -99996,5 +99998,3 @@ online1-yapiceponline.vercel.app
 online101.online
 online101bayramfirsat.vercel.app
 online101eozelll.com
-online101firsatlari.com
-online101hizmetleri.com.tr
